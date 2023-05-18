@@ -1,0 +1,68 @@
+{
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": true,
+    "word-count": true,
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "open-with-default-app": true,
+    "page-preview": true,
+    "file-recovery": true
+  },
+  "isSidebarCollapsed": true,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "alwaysUpdateLinks": true,
+  "autoPairBrackets": true,
+  "promptDelete": false,
+  "workspaceLayout": {
+    "id": "2f13d1f1328b02c3",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "c9e9d5cdf5308b16",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "defaultViewMode": "source",
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "communityPluginSortOrder": "download",
+  "attachmentFolderPath": "./Snipaste",
+  "communityThemeSortOrder": "download",
+  "legacyEditor": false,
+  "readableLineLength": false,
+  "fileSortOrder": "alphabetical"
+}

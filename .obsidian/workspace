@@ -1,0 +1,164 @@
+{
+  "main": {
+    "id": "d574f48e9c26e876",
+    "type": "split",
+    "children": [
+      {
+        "id": "d447e7c184a9784f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "15. 云原生/Go/Golang 面试题.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9109525faff37552",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0dc2db21f59bd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697acbfa6887713c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5794a320267150b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#在此提供了注册规则集的下载地址，但仍希望您去官方下载，因为它有可能会失效",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ecba1e7f0e057ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "15. 云原生/Go/Golang 面试题.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "710019ca732354d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "cb1c40a2ff7ebe6f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "33627034220094ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0414b6ad7cdcf1c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289.5
+  },
+  "right": {
+    "id": "fcdcb99473c1ab05",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca89295287bea3d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3159b705608e7467",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "8134269058847f40",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2b9c231daa0e26f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "15. 云原生/Go/Golang 面试题.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 294.67974853515625
+  },
+  "active": "d447e7c184a9784f",
+  "lastOpenFiles": [
+    "1. 简历/面经收集.md",
+    "1. 简历/三年后的自己要是什么样的呢？.md",
+    "1. 简历/自我介绍.md",
+    "1. 简历/Golang 面试资料搜集.md",
+    "11. Hacker Tools/snort/snort3.md",
+    "2. 课程笔记/编码理论/作业.md",
+    "2. 课程笔记/编码理论/课堂笔记.md",
+    "17. 项目/ATT&CK/文档总结/01 网络环境搭建.md",
+    "10. 网络安全/调研/IDS.md",
+    "8. 文献阅读/每日阅读/2022.10.13 ——.md"
+  ]
+}

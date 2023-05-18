@@ -1,0 +1,6 @@
+- [Get Started - Quickstart Guide (dgraph.io)](https://dgraph.io/docs/get-started/)
+- [Tutorials - Get Started with Dgraph series](https://dgraph.io/docs/tutorials/)
+- [A Tour of Dgraph](https://dgraph.io/tour/)
+- [(612) Dgraph Labs - YouTube](https://www.youtube.com/channel/UCghE41LR8nkKFlR3IFTRO4w/featured)
+- [Get started with Dgraph](https://dgraph.io/docs/)——Doc
+- [Clients - Clients (dgraph.io)](https://dgraph.io/docs/clients/)——GoClient

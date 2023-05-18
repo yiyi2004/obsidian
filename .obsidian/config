@@ -1,0 +1,47 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "theme": "moonstone",
+  "workspaceLayout": {
+    "id": "ff9b85743622429b",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "602401efc2afffdb",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "复试/操作系统.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "foldHeading": true,
+  "showLineNumber": true,
+  "foldIndent": false,
+  "alwaysUpdateLinks": false,
+  "autoPairBrackets": true,
+  "lastOpenFiles": [
+    "复试/操作系统.md"
+  ]
+}

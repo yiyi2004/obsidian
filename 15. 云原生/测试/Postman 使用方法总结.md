@@ -1,0 +1,3 @@
+- 测试一整套工具
+- postman + newman + jenkins + git 持续测试
+- 目前只需要指导一些基础的操作

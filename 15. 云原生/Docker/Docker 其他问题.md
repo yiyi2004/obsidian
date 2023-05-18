@@ -1,0 +1,2 @@
+ - netsh winsocks refresh
+

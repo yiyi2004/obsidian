@@ -1,0 +1,295 @@
+{
+  "main": {
+    "id": "d574f48e9c26e876",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0c47016215dcb0b",
+        "type": "tabs",
+        "dimension": 34.214285714285715,
+        "children": [
+          {
+            "id": "05fb8b552c230830",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "工具/obsidian workflow.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.114357869717,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 0.496991755180866,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000004,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a8f3d00113a24342",
+        "type": "tabs",
+        "dimension": 65.78571428571428,
+        "children": [
+          {
+            "id": "c8b671df15830ee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工具/obsidian workflow.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9109525faff37552",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0dc2db21f59bd0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "697acbfa6887713c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5794a320267150b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#在此提供了注册规则集的下载地址，但仍希望您去官方下载，因为它有可能会失效",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5ecba1e7f0e057ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工具/obsidian workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "710019ca732354d5",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "33627034220094ce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "0414b6ad7cdcf1c0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "76bb340ba2b85061",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "f4c5ec5b38e0acd0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 348.01103591918945,
+    "collapsed": true
+  },
+  "right": {
+    "id": "fcdcb99473c1ab05",
+    "type": "split",
+    "children": [
+      {
+        "id": "a179f5a3e4feae61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "811215e87ba12079",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "工具/obsidian workflow.md"
+              }
+            }
+          },
+          {
+            "id": "24ec5dd69d73c45a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "5cf2fdffe7792622",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "工具/obsidian workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6e89884ae49250e2",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 308.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "workbench-obsidian:Workbench": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "workspaces:管理工作区布局": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+    }
+  },
+  "active": "c8b671df15830ee7",
+  "lastOpenFiles": [
+    "工具/Snipaste/Pasted image 20230518161747.png",
+    "Website",
+    "Weekly Note/docker.md",
+    "10. Cyber Security/CTF/【资源收集】.md",
+    "Day Planners/Day Planner-20230518.md",
+    "工具/obsidian workflow.md",
+    "复试/Test.md",
+    "7. 人工智能/PyTorch/7. Github 项目.md",
+    "25. 八股文%2F资料收集.md",
+    "25. 八股文/资料收集.md",
+    "15. 云原生/Database/Mongo/MongoDB 基础教程.md",
+    "PAT/算法笔记/4. 入门篇(2)——算法初步.md",
+    "生成木马反弹shell（Windows）.assets.md",
+    "未命名.canvas",
+    "Workbench.md",
+    "8. 文献阅读/深度学习/Attack Detection/CNN-BiLSTM/Code.md",
+    "Weekly Note",
+    "2023-W20.md",
+    "7. 人工智能/PyTorch/4. Dataset.md",
+    "17. 项目/deeplocker/存在问题.md",
+    "7. 人工智能/PyTorch/Optim/优化算法综合.md",
+    "7. 人工智能/PyTorch/Neural Network/ResNet.md",
+    "写论文/未命名看板.md",
+    "写论文/0. 毕业设计.md",
+    "Snipaste/Pasted image 20230518145702.png",
+    "Snipaste",
+    "21.md",
+    "tmp.md",
+    "暂时笔记.md",
+    "未命名 1.canvas",
+    "未命名.md",
+    "17. 项目/deeplocker/backend.md",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230514093317.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230512085026.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230511153458.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230511152802.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230511152752.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230511152654.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230511151925.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230511151916.png",
+    "17. 项目/honeypot/Snipaste/Pasted image 20230510145646.png",
+    "17. 项目/honeypot/Snipaste",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "25. 八股文",
+    "9. 源码阅读/reverseSSH",
+    "17. 项目/honeypot",
+    "24. Excalidraw"
+  ]
+}

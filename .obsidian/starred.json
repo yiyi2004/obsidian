@@ -1,0 +1,34 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "每日一遍",
+      "path": "日记/每日一遍.md"
+    },
+    {
+      "type": "file",
+      "title": "毕业设计",
+      "path": "写论文/0. 毕业设计.md"
+    },
+    {
+      "type": "file",
+      "title": "Day Planner-20220419",
+      "path": "Day Planners/Day Planner-20220419.md"
+    },
+    {
+      "type": "file",
+      "title": "毕业论文(完整版)",
+      "path": "写论文/毕业论文(完整版).md"
+    },
+    {
+      "type": "file",
+      "title": "ResNet",
+      "path": "7. 人工智能/PyTorch/Neural Network/ResNet.md"
+    },
+    {
+      "type": "file",
+      "title": "优化算法综合",
+      "path": "7. 人工智能/PyTorch/Optim/优化算法综合.md"
+    }
+  ]
+}

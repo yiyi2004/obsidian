@@ -1,0 +1,19 @@
+- begin to use kali
+- computer network
+- programming
+	- python
+- learmomg to scan amd gather information
+	- nmap
+	- unicorn scan
+	- whios and other tools
+- understand server and client side attack
+- hacking tools
+	- metasploit
+	- jack the ripper
+	- beef
+	- burp suite
+	- nmap
+	- wire shark packet sniffer
+	- sqlmap
+
+- you need to get a kali to become a hacker.

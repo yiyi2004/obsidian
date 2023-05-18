@@ -4,8 +4,8 @@
 - [x] Tasks #tasks ✅ 2023-05-18
 - [x] config your own obsidian 🔽 🛫 2023-05-18 📅 2023-05-18 ✅ 2023-05-18
 - [x] Config Tasks #task ✅ 2023-05-18
-- [ ] hypothesis new bee
-- [ ] Write Ideas and tags #write and so on new bee 
+- [x] hypothesis new bee ✅ 2023-05-18
+- [x] Write Ideas and tags #write and so on new bee ✅ 2023-05-18
 
 网上浏览的东西，你可以集中的展现出来
 

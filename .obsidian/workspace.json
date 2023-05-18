@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "test.md",
+                "file": "工具/obsidian workflow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -62,22 +62,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "149da92f71ac4544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "工具/obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test.md"
+                "file": "工具/obsidian workflow.md"
               }
             }
           },
@@ -213,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test.md",
+                "file": "工具/obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,10 +241,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "149da92f71ac4544",
+  "active": "c8b671df15830ee7",
   "lastOpenFiles": [
-    "15. 云原生/Go/标准库的使用/fmt.md",
     "test.md",
+    "15. 云原生/Go/标准库的使用/fmt.md",
     "工具/obsidian workflow.md",
     "Weekly Note/docker.md",
     "Templates/QuickAdd",

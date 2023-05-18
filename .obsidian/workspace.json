@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "附件文件夹/Pasted image 20220228114934.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,19 +40,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "4bee102747d41cfc",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "附件文件夹/Pasted image 20220228114934.png"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件文件夹/Pasted image 20220228114934.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "附件文件夹/Pasted image 20220228114934.png"
-              }
+              "state": {}
             }
           },
           {
@@ -189,7 +174,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "附件文件夹/Pasted image 20220228114934.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,17 +215,21 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "dc4aaf14a5d1b330",
   "lastOpenFiles": [
-    "附件文件夹/Pasted image 20220228114751.png",
-    "附件文件夹/Pasted image 20220228111227.png",
-    "附件文件夹/Pasted image 20220228103827.png",
-    "附件文件夹/Pasted image 20220228102540.png",
-    "附件文件夹/Pasted image 20201004233208.png",
-    "附件文件夹/Pasted image 20220317221607.png",
-    "附件文件夹/Pasted image 20220317221610.png",
-    "附件文件夹/Pasted image 20220228115043.png",
-    "附件文件夹/Pasted image 20220228104511.png",
+    "Snipaste/Pasted image 20230518145702.png",
+    "Algorithm/PAT/算法笔记/4. 入门篇(2)——算法初步.md",
+    "Algorithm/PAT/算法笔记/5. 入门篇(3)——数学问题.md",
+    "Algorithm/附件文件夹/Pasted image 20201004233208.png",
+    "Algorithm/附件文件夹/Pasted image 20220228114934.png",
+    "Algorithm/附件文件夹/Pasted image 20220228114751.png",
+    "Algorithm/附件文件夹/Pasted image 20220228111227.png",
+    "Algorithm/附件文件夹/Pasted image 20220228103827.png",
+    "Algorithm/附件文件夹/Pasted image 20220228102540.png",
+    "Algorithm/附件文件夹/Pasted image 20220317221607.png",
+    "Algorithm/附件文件夹/Pasted image 20220317221610.png",
+    "Algorithm/附件文件夹/Pasted image 20220228115043.png",
+    "Algorithm/附件文件夹/Pasted image 20220228104511.png",
     "24. Excalidraw/test.excalidraw.md",
     "Excalidraw/Drawing 2022-10-01 16.11.20.excalidraw.md",
     "Excalidraw/Drawing 2023-05-10 15.06.15.excalidraw.md",
@@ -257,8 +245,6 @@
     "Tools/obsidian workflow.md",
     "Tools/Anaconda.md",
     "Tools/endnote.md",
-    "Tools/Snipaste/Pasted image 20230518171658.png",
-    "Tools/Snipaste/Pasted image 20230518171651.png",
     "Day Planners/Day Planner-20230518.md",
     "Tasks",
     "Day Planners/Day Planner-20220418.md",
@@ -275,8 +261,6 @@
     "Second Interview/Test.md",
     "AI/PyTorch/7. Github 项目.md",
     "25. 八股文%2F资料收集.md",
-    "Eight-part essay/资料收集.md",
-    "Cloud Native/Database/Mongo/MongoDB 基础教程.md",
     "未命名.canvas",
     "Weekly Note",
     "Snipaste",

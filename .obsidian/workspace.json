@@ -14,7 +14,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "工具/obsidian workflow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -37,7 +36,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.0000000000000004,
+                  "scale": 1.4019828977761015,
                   "close": true
                 }
               }
@@ -54,13 +53,8 @@
             "id": "c8b671df15830ee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/obsidian workflow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -107,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.01103591918945,
-    "collapsed": true
+    "width": 348.01103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -181,9 +173,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "工具/obsidian workflow.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,7 +190,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,14 +230,18 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c8b671df15830ee7",
+  "active": "05fb8b552c230830",
   "lastOpenFiles": [
+    "Templates/QuickAdd",
+    "Templates/QucikAdd.md",
+    "Q 未命名 uickAdd",
+    "工具/obsidian workflow.md",
+    "Templates",
     "工具/Snipaste/Pasted image 20230518161747.png",
     "Website",
     "Weekly Note/docker.md",
     "10. Cyber Security/CTF/【资源收集】.md",
     "Day Planners/Day Planner-20230518.md",
-    "工具/obsidian workflow.md",
     "复试/Test.md",
     "7. 人工智能/PyTorch/7. Github 项目.md",
     "25. 八股文%2F资料收集.md",
@@ -274,7 +267,6 @@
     "暂时笔记.md",
     "未命名 1.canvas",
     "未命名.md",
-    "17. 项目/deeplocker/backend.md",
     "17. 项目/honeypot/Snipaste/Pasted image 20230514093317.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230512085026.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230511153458.png",
@@ -283,13 +275,10 @@
     "17. 项目/honeypot/Snipaste/Pasted image 20230511152654.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230511151925.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230511151916.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230510145646.png",
     "17. 项目/honeypot/Snipaste",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "25. 八股文",
-    "9. 源码阅读/reverseSSH",
-    "17. 项目/honeypot",
-    "24. Excalidraw"
+    "9. 源码阅读/reverseSSH"
   ]
 }

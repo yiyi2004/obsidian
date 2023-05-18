@@ -14,7 +14,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "工具/obsidian workflow.md",
+                "file": "Tools/obsidian workflow.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -37,7 +37,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1.4019828977761015,
+                  "scale": 0.5087618855792589,
                   "close": true
                 }
               }
@@ -51,19 +51,33 @@
         "dimension": 65.78571428571428,
         "children": [
           {
-            "id": "c8b671df15830ee7",
+            "id": "62d67a8d02068924",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/obsidian workflow.md",
+                "file": "Tasks/Daily.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b126d7386ed9b12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools/obsidian workflow.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/obsidian workflow.md",
+                "file": "Tools/obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工具/obsidian workflow.md"
+                "file": "Tools/obsidian workflow.md"
               }
             }
           },
@@ -199,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/obsidian workflow.md",
+                "file": "Tools/obsidian workflow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,20 +255,28 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "c8b671df15830ee7",
+  "active": "1b126d7386ed9b12",
   "lastOpenFiles": [
+    "Tasks/Daily.md",
+    "Tools/Anaconda.md",
+    "Tools/obsidian workflow.md",
+    "Tools/endnote.md",
+    "Tools/Snipaste/Pasted image 20230518171658.png",
+    "Tools/Snipaste/Pasted image 20230518171651.png",
+    "Day Planners/Day Planner-20230518.md",
+    "Tasks",
+    "Day Planners/Day Planner-20220418.md",
+    "1. 简历/面经收集.md",
     "test.md",
     "15. 云原生/Go/标准库的使用/fmt.md",
-    "工具/obsidian workflow.md",
     "Weekly Note/docker.md",
     "Templates/QuickAdd",
     "Templates/QucikAdd.md",
     "Q 未命名 uickAdd",
     "Templates",
-    "工具/Snipaste/Pasted image 20230518161747.png",
+    "Tools/Snipaste/Pasted image 20230518161747.png",
     "Website",
     "10. Cyber Security/CTF/【资源收集】.md",
-    "Day Planners/Day Planner-20230518.md",
     "复试/Test.md",
     "7. 人工智能/PyTorch/7. Github 项目.md",
     "25. 八股文%2F资料收集.md",
@@ -271,13 +293,8 @@
     "17. 项目/deeplocker/存在问题.md",
     "7. 人工智能/PyTorch/Optim/优化算法综合.md",
     "7. 人工智能/PyTorch/Neural Network/ResNet.md",
-    "写论文/未命名看板.md",
-    "写论文/0. 毕业设计.md",
     "Snipaste/Pasted image 20230518145702.png",
     "Snipaste",
-    "21.md",
-    "tmp.md",
-    "暂时笔记.md",
     "未命名 1.canvas",
     "17. 项目/honeypot/Snipaste/Pasted image 20230514093317.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230512085026.png",
@@ -285,11 +302,8 @@
     "17. 项目/honeypot/Snipaste/Pasted image 20230511152802.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230511152752.png",
     "17. 项目/honeypot/Snipaste/Pasted image 20230511152654.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230511151925.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230511151916.png",
     "17. 项目/honeypot/Snipaste",
     "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
-    "25. 八股文"
+    "Excalidraw/Scripts"
   ]
 }

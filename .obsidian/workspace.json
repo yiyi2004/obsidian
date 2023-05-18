@@ -6,7 +6,6 @@
       {
         "id": "fe4ed2bad4afa536",
         "type": "tabs",
-        "dimension": 33.714285714285715,
         "children": [
           {
             "id": "dc4aaf14a5d1b330",
@@ -14,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "附件文件夹/Pasted image 20220228114934.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -36,28 +36,24 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.18462326225858122,
                   "close": false
                 }
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "a8f3d00113a24342",
-        "type": "tabs",
-        "dimension": 66.28571428571428,
-        "children": [
+          },
           {
-            "id": "62d67a8d02068924",
+            "id": "4bee102747d41cfc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "image",
+              "state": {
+                "file": "附件文件夹/Pasted image 20220228114934.png"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "附件文件夹/Pasted image 20220228114934.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "附件文件夹/Pasted image 20220228114934.png"
+              }
             }
           },
           {
@@ -190,6 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "附件文件夹/Pasted image 20220228114934.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,13 +231,30 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc4aaf14a5d1b330",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
-    "Website/5 Python Automation Scripts I Use Every Day.md",
-    "Tasks/Daily.md",
-    "Tools/obsidian workflow.md",
+    "附件文件夹/Pasted image 20220228114751.png",
+    "附件文件夹/Pasted image 20220228111227.png",
+    "附件文件夹/Pasted image 20220228103827.png",
+    "附件文件夹/Pasted image 20220228102540.png",
+    "附件文件夹/Pasted image 20201004233208.png",
+    "附件文件夹/Pasted image 20220317221607.png",
+    "附件文件夹/Pasted image 20220317221610.png",
+    "附件文件夹/Pasted image 20220228115043.png",
+    "附件文件夹/Pasted image 20220228104511.png",
+    "24. Excalidraw/test.excalidraw.md",
+    "Excalidraw/Drawing 2022-10-01 16.11.20.excalidraw.md",
+    "Excalidraw/Drawing 2023-05-10 15.06.15.excalidraw.md",
+    "Excalidraw/Drawing 2023-04-08 10.42.38.excalidraw.md",
+    "Tasks/每日任务.md",
+    "Daily",
+    "Tasks/信息收集.md",
+    "Website/github.com/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
+    "Website/github.com",
     "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
     "Website/thegrayarea.tech",
+    "Website/5 Python Automation Scripts I Use Every Day.md",
+    "Tools/obsidian workflow.md",
     "Tools/Anaconda.md",
     "Tools/endnote.md",
     "Tools/Snipaste/Pasted image 20230518171658.png",
@@ -245,41 +262,24 @@
     "Day Planners/Day Planner-20230518.md",
     "Tasks",
     "Day Planners/Day Planner-20220418.md",
-    "1. 简历/面经收集.md",
+    "Resume/面经收集.md",
     "test.md",
-    "15. 云原生/Go/标准库的使用/fmt.md",
+    "Cloud Native/Go/标准库的使用/fmt.md",
     "Weekly Note/docker.md",
     "Templates/QuickAdd",
     "Templates/QucikAdd.md",
     "Q 未命名 uickAdd",
     "Templates",
-    "Tools/Snipaste/Pasted image 20230518161747.png",
     "Website",
-    "10. Cyber Security/CTF/【资源收集】.md",
-    "复试/Test.md",
-    "7. 人工智能/PyTorch/7. Github 项目.md",
+    "Cyber Security/CTF/【资源收集】.md",
+    "Second Interview/Test.md",
+    "AI/PyTorch/7. Github 项目.md",
     "25. 八股文%2F资料收集.md",
-    "25. 八股文/资料收集.md",
-    "15. 云原生/Database/Mongo/MongoDB 基础教程.md",
-    "PAT/算法笔记/4. 入门篇(2)——算法初步.md",
-    "生成木马反弹shell（Windows）.assets.md",
+    "Eight-part essay/资料收集.md",
+    "Cloud Native/Database/Mongo/MongoDB 基础教程.md",
     "未命名.canvas",
-    "Workbench.md",
-    "8. 文献阅读/深度学习/Attack Detection/CNN-BiLSTM/Code.md",
     "Weekly Note",
-    "2023-W20.md",
-    "7. 人工智能/PyTorch/4. Dataset.md",
-    "17. 项目/deeplocker/存在问题.md",
-    "Snipaste/Pasted image 20230518145702.png",
     "Snipaste",
-    "未命名 1.canvas",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230514093317.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230512085026.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230511153458.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230511152802.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230511152752.png",
-    "17. 项目/honeypot/Snipaste/Pasted image 20230511152654.png",
-    "17. 项目/honeypot/Snipaste",
-    "Excalidraw/Scripts/Downloaded"
+    "未命名 1.canvas"
   ]
 }

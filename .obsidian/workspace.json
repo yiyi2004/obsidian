@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Tasks/信息收集.md",
+                "file": "Project/deeplocker/mtcnn 开发.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "01e8e955d6c76519",
+            "id": "20fea4b088512a9a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/信息收集.md",
+                "file": "Project/deeplocker/mtcnn 开发.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/信息收集.md",
+                "file": "Project/deeplocker/mtcnn 开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,26 +131,10 @@
             }
           },
           {
-            "id": "0414b6ad7cdcf1c0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "76bb340ba2b85061",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "f4c5ec5b38e0acd0",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
               "state": {}
             }
           }
@@ -158,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.01103591918945,
-    "collapsed": true
+    "width": 348.01103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -175,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/信息收集.md"
+                "file": "Project/deeplocker/mtcnn 开发.md"
               }
             }
           },
@@ -193,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/信息收集.md",
+                "file": "Project/deeplocker/mtcnn 开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,21 +219,36 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "01e8e955d6c76519",
+  "active": "20fea4b088512a9a",
   "lastOpenFiles": [
+    "Cyber Security/免杀/GO 免杀/3. Go 免杀技巧.md",
+    "Project/deeplocker/mtcnn 开发.md",
+    "Cyber Security/免杀/GO 免杀/2. 反沙盒检测.md",
+    "Cyber Security/研一课程/预习内容.md",
+    "Cyber Security/Red Team/MSF+CS/01 Msf发展史/文档/MSF发展史.md",
+    "Algorithm/PAT/算法笔记/5. 入门篇(3)——数学问题.md",
+    "Algorithm/PAT/算法笔记/4. 入门篇(2)——算法初步.md",
+    "Algorithm/Leetcode/规划.md",
+    "Archived/Second Interview/数据库.md",
+    "Archived/Second Interview/计算机网络.md",
+    "Archived/Second Interview/操作系统.md",
+    "Archived/Second Interview/房间号.md",
+    "Cyber Security/CTF/CTF安全竞赛入门.md",
+    "Website/github.com/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
+    "Notebook/数据标注.md",
+    "Archived",
+    "新建文件夹",
+    "Notebook/知识总结.md",
+    "Notebook/爬虫/Python.md",
+    "Tasks/信息收集.md",
     "Tasks/每日任务.md",
-    "Second Interview/计算机网络.md",
-    "Second Interview/复试总体准备.md",
-    "Second Interview/房间号.md",
-    "Second Interview/操作系统.md",
-    "Email/数据集.md",
+    "Archived/Second Interview/复试总体准备.md",
+    "Eassay/Email/数据集.md",
     "Documents/ATTCK/Suricata 原理.md",
     "Documents/ATTCK/HIDS 原理.md",
     "Documents/ATTCK/威胁检测原理.md",
     "Documents/ATTCK/威胁检测实现.md",
     "Snipaste/Pasted image 20230518145702.png",
-    "Algorithm/PAT/算法笔记/4. 入门篇(2)——算法初步.md",
-    "Algorithm/PAT/算法笔记/5. 入门篇(3)——数学问题.md",
     "Algorithm/附件文件夹/Pasted image 20201004233208.png",
     "Algorithm/附件文件夹/Pasted image 20220228114934.png",
     "Algorithm/附件文件夹/Pasted image 20220228114751.png",
@@ -261,30 +259,15 @@
     "Algorithm/附件文件夹/Pasted image 20220317221610.png",
     "Algorithm/附件文件夹/Pasted image 20220228115043.png",
     "24. Excalidraw/test.excalidraw.md",
-    "Excalidraw/Drawing 2022-10-01 16.11.20.excalidraw.md",
-    "Excalidraw/Drawing 2023-05-10 15.06.15.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-08 10.42.38.excalidraw.md",
     "Daily",
-    "Tasks/信息收集.md",
-    "Website/github.com/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
     "Website/github.com",
-    "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
     "Website/thegrayarea.tech",
-    "Website/5 Python Automation Scripts I Use Every Day.md",
-    "Tools/obsidian workflow.md",
-    "Tools/Anaconda.md",
-    "Tools/endnote.md",
-    "Day Planners/Day Planner-20230518.md",
     "Tasks",
-    "Day Planners/Day Planner-20220418.md",
-    "Resume/面经收集.md",
     "Templates/QuickAdd",
     "Q 未命名 uickAdd",
     "Templates",
     "Website",
     "未命名.canvas",
-    "Weekly Note",
-    "Snipaste",
     "未命名 1.canvas"
   ]
 }

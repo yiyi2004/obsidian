@@ -19,3 +19,4 @@ url: 'https://github.com/smol-ai/developer'
 - [ ] smol developer #github
 
 
+dawdasdawdsadsadwd

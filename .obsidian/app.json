@@ -64,5 +64,7 @@
   "communityThemeSortOrder": "download",
   "legacyEditor": false,
   "readableLineLength": false,
-  "fileSortOrder": "alphabetical"
+  "fileSortOrder": "alphabetical",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative"
 }

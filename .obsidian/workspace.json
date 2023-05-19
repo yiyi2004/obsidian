@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AI/PyTorch/Neural Network/ResNet.md",
+                "file": "Cloud Native/Go/标准库的使用/filepath.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,14 +48,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/PyTorch/Neural Network/ResNet.md",
+                "file": "Cloud Native/Go/标准库的使用/filepath.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/PyTorch/Neural Network/ResNet.md",
+                "file": "Cloud Native/Go/标准库的使用/filepath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/PyTorch/Neural Network/ResNet.md"
+                "file": "Cloud Native/Go/标准库的使用/filepath.md"
               }
             }
           },
@@ -175,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/PyTorch/Neural Network/ResNet.md",
+                "file": "Cloud Native/Go/标准库的使用/filepath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,8 +218,10 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc4aaf14a5d1b330",
+  "active": "ec68bfc12f6228bb",
   "lastOpenFiles": [
+    "AI/PyTorch/Neural Network/ResNet.md",
+    "Cloud Native/Go/标准库的使用/filepath.md",
     "AI/Arcface/arcface.md",
     "AI/Arcface/deepface.md",
     "AI/Arcface/mtcnn.md",
@@ -249,8 +252,6 @@
     "Archived",
     "新建文件夹",
     "Notebook/知识总结.md",
-    "Notebook/爬虫/Python.md",
-    "Tasks/信息收集.md",
     "Snipaste/Pasted image 20230518145702.png",
     "Algorithm/附件文件夹/Pasted image 20201004233208.png",
     "Algorithm/附件文件夹/Pasted image 20220228114934.png",

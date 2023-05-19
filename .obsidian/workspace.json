@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Project/deeplocker/mtcnn 开发.md",
+                "file": "Python/Repository/tqdm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/deeplocker/mtcnn 开发.md",
+                "file": "Python/Repository/tqdm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/deeplocker/mtcnn 开发.md",
+                "file": "Python/Repository/tqdm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/deeplocker/mtcnn 开发.md"
+                "file": "Python/Repository/tqdm.md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/deeplocker/mtcnn 开发.md",
+                "file": "Python/Repository/tqdm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,10 +219,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "20fea4b088512a9a",
+  "active": "24ec5dd69d73c45a",
   "lastOpenFiles": [
-    "Cyber Security/免杀/GO 免杀/3. Go 免杀技巧.md",
+    "Cloud Native/Go/Go embed.md",
+    "Python/Repository/tqdm.md",
+    "Python/Repository",
+    "Python",
     "Project/deeplocker/mtcnn 开发.md",
+    "Cyber Security/免杀/GO 免杀/3. Go 免杀技巧.md",
     "Cyber Security/免杀/GO 免杀/2. 反沙盒检测.md",
     "Cyber Security/研一课程/预习内容.md",
     "Cyber Security/Red Team/MSF+CS/01 Msf发展史/文档/MSF发展史.md",
@@ -247,7 +251,6 @@
     "Documents/ATTCK/Suricata 原理.md",
     "Documents/ATTCK/HIDS 原理.md",
     "Documents/ATTCK/威胁检测原理.md",
-    "Documents/ATTCK/威胁检测实现.md",
     "Snipaste/Pasted image 20230518145702.png",
     "Algorithm/附件文件夹/Pasted image 20201004233208.png",
     "Algorithm/附件文件夹/Pasted image 20220228114934.png",
@@ -258,15 +261,12 @@
     "Algorithm/附件文件夹/Pasted image 20220317221607.png",
     "Algorithm/附件文件夹/Pasted image 20220317221610.png",
     "Algorithm/附件文件夹/Pasted image 20220228115043.png",
-    "24. Excalidraw/test.excalidraw.md",
     "Daily",
     "Website/github.com",
     "Website/thegrayarea.tech",
     "Tasks",
     "Templates/QuickAdd",
     "Q 未命名 uickAdd",
-    "Templates",
-    "Website",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

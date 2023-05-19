@@ -119,8 +119,8 @@ option B 是通过试出来的。
 添加一层全裂阶层，这样可以载入所有的参数。好棒哦。
 
 联系方式
-![[Pasted image 20220507220238.png]]
 
+![[Pasted image 20220507220238.png]]
 
 # Reference
 - [ResNet网络结构，BN以及迁移学习详解](https://www.bilibili.com/video/BV1T7411T7wa?spm_id_from=333.337.search-card.all.click)

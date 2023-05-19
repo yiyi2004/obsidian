@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Python/Repository/tqdm.md",
+                "file": "AI/PyTorch/Neural Network/ResNet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -36,27 +36,26 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.18462326225858122,
+                  "scale": 0.7132754626224442,
                   "close": false
                 }
               }
             }
           },
           {
-            "id": "20fea4b088512a9a",
+            "id": "ec68bfc12f6228bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/Repository/tqdm.md",
+                "file": "AI/PyTorch/Neural Network/ResNet.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Repository/tqdm.md",
+                "file": "AI/PyTorch/Neural Network/ResNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Repository/tqdm.md"
+                "file": "AI/PyTorch/Neural Network/ResNet.md"
               }
             }
           },
@@ -176,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Repository/tqdm.md",
+                "file": "AI/PyTorch/Neural Network/ResNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +217,18 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "24ec5dd69d73c45a",
+  "active": "dc4aaf14a5d1b330",
   "lastOpenFiles": [
-    "Cloud Native/Go/Go embed.md",
+    "AI/Arcface/arcface.md",
+    "AI/Arcface/deepface.md",
+    "AI/Arcface/mtcnn.md",
+    "Cloud Native/Database/Dgraph/Reference.md",
+    "AI/Tensorflow/tensorflow 概述.md",
+    "AI/Arcface",
+    "AI/Tensorflow/课程概述.md",
+    "AI/Tensorflow/未命名",
     "Python/Repository/tqdm.md",
+    "Cloud Native/Go/Go embed.md",
     "Python/Repository",
     "Python",
     "Project/deeplocker/mtcnn 开发.md",
@@ -245,12 +251,6 @@
     "Notebook/知识总结.md",
     "Notebook/爬虫/Python.md",
     "Tasks/信息收集.md",
-    "Tasks/每日任务.md",
-    "Archived/Second Interview/复试总体准备.md",
-    "Eassay/Email/数据集.md",
-    "Documents/ATTCK/Suricata 原理.md",
-    "Documents/ATTCK/HIDS 原理.md",
-    "Documents/ATTCK/威胁检测原理.md",
     "Snipaste/Pasted image 20230518145702.png",
     "Algorithm/附件文件夹/Pasted image 20201004233208.png",
     "Algorithm/附件文件夹/Pasted image 20220228114934.png",
@@ -265,8 +265,6 @@
     "Website/github.com",
     "Website/thegrayarea.tech",
     "Tasks",
-    "Templates/QuickAdd",
-    "Q 未命名 uickAdd",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

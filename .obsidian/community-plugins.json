@@ -20,5 +20,6 @@
   "obsidian-reminder-plugin",
   "quickadd",
   "obsidian-hypothesis-plugin",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-linter"
 ]

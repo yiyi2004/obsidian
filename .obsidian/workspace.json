@@ -13,7 +13,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -41,22 +40,8 @@
                 }
               }
             }
-          },
-          {
-            "id": "ec68bfc12f6228bb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,53 +199,54 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ec68bfc12f6228bb",
+  "active": "dc4aaf14a5d1b330",
   "lastOpenFiles": [
-    "Cloud Native/Go/标准库的使用/filepath.md",
+    "Paper/images/fb8878d62d6c4d5f081c12cf99f604375dc3e1c6906cbd8b6c430b20d53f1c3a.png",
+    "Paper/images/e18c5e55dc75a71cda76d08df13fb1c06c7eeb73e401ccbb0f793dfe5bc75e52.png",
+    "Paper/images/cc7796a334c5ffa7387e720f044b6e0abf57b767dafe0805961beb4c89469c25.png",
+    "Paper/images/cc7677ea17c91fd2d7d0a53c344f84bb3c526a539c713cb13258285e3d56e9d2.png",
+    "Paper/images/ba88042161a9a8e4b4ed8d276e9ae5d1d9811026e8020de54d422c9b6afdd16f.png",
+    "Paper/images/7b60b746392090f5017b73ae158eeabf488d0a8427da2fafe826a93c580366af.png",
+    "Paper/images/738172072f032bbaba3b9a8f184cfbcec48efd1c768e04e2f7c74eb12c34b329.png",
+    "Paper/images/6b01e1b73c857a07f3c96deec06d519379bf226709f65287b856129639725019.png",
+    "Paper/images/6833fafe5b18fd11811506b64063d30ef35e9ed2ec6f110f320eaaf46c5d4284.png",
+    "Paper/images/08d00bd7e80e3534d9583f92e3ae436c90f5056ef379788e38f7bd23c2881a8c.png",
+    "Paper/images",
+    "Paper/images/48f6d2117661a3c0bcec75d76885e67381ca8b9a1a7b7e2e85a2d7c7e1222a83.png",
+    "Paper/Paper/防御欺骗/README.md",
+    "Paper/Paper/防御欺骗/面向网络欺骗防御的攻击诱捕技术研究_高雅卓.pdf",
+    "Paper/Paper/防御欺骗/面向智能渗透攻击的欺骗防御方法_陈晋音.pdf",
+    "Paper/Paper/防御欺骗/基于强化学习的网络欺骗防御动态部署研究_邵晓.pdf",
+    "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
+    "Paper/Paper/Deeplearning/README.md",
+    "Paper/Paper/Honeypots/Using rootkits hiding techniques to conceal honeypot functionality.pdf",
+    "Paper/Paper/Honeypots/Using Deep Learning to Generate Relational HoneyData.pdf",
+    "Paper/Paper/Honeypots/README.md",
+    "Paper/Paper/Deeplearning/CNN+BiLSTM.pdf",
+    "Paper/Paper/Honeypots/images",
+    "Paper/Paper/Honeypots/How to Mock a Bear Honeypot, Honeynet, Honeywall & Honeytoken.pdf",
+    "Paper/Paper/APT/README.md",
+    "Paper/Paper/Cloud/README.md",
+    "Paper/防御欺骗/README.md",
+    "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
+    "Paper/顶刊和会议/网络安全.md",
+    "Paper/GVB.md",
+    "Paper/DANN.md",
+    "Paper/Deeplearning/README.md",
+    "Paper/Dataset/APT.md",
+    "Paper/APT/README.md",
     "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111150130846.png",
+    "Paper/Honeypots/README.md",
+    "Paper/Cloud/README.md",
+    "Website/blog.csdn.net/睿智的目标检测13——Keras搭建mtcnn人脸检测平台_keras mtcnn_Bubbliiiing的博客-CSDN博客.md",
+    "Cloud Native/Go/标准库的使用/filepath.md",
     "虚拟化技术.assets/image-20220110155353456.png.md",
-    "虚拟化技术.assets",
     "Cloud Native/Database/数据库综述(MySQL).md",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/vmware_workstation_install_option.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155640584.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155615710.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155549589.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155445712.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155423525.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155402773.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111155338372.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets/image-20220111154718283.png",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.assets",
-    "Cloud Native/Course/05. 虚拟化技术配套资料",
-    "Cloud Native/Database/Snipaste",
     "Be Yourself/0. 项目行为习惯分析.md",
-    "Cloud Native/Course",
     "AI/PyTorch/Neural Network/ResNet.md",
     "AI/Arcface/arcface.md",
     "AI/Arcface/deepface.md",
     "AI/Arcface/mtcnn.md",
-    "Cloud Native/Database/Dgraph/Reference.md",
-    "AI/Tensorflow/tensorflow 概述.md",
-    "AI/Arcface",
-    "AI/Tensorflow/课程概述.md",
-    "AI/Tensorflow/未命名",
-    "Python/Repository/tqdm.md",
-    "Cloud Native/Go/Go embed.md",
-    "Python/Repository",
-    "Python",
-    "Project/deeplocker/mtcnn 开发.md",
-    "Cyber Security/免杀/GO 免杀/3. Go 免杀技巧.md",
-    "Cyber Security/免杀/GO 免杀/2. 反沙盒检测.md",
-    "Cyber Security/研一课程/预习内容.md",
-    "Cyber Security/Red Team/MSF+CS/01 Msf发展史/文档/MSF发展史.md",
-    "Algorithm/PAT/算法笔记/5. 入门篇(3)——数学问题.md",
-    "Algorithm/PAT/算法笔记/4. 入门篇(2)——算法初步.md",
-    "Algorithm/Leetcode/规划.md",
-    "Archived/Second Interview/数据库.md",
-    "Archived/Second Interview/计算机网络.md",
-    "Archived/Second Interview/操作系统.md",
-    "Archived",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

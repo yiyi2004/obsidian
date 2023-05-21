@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.51103591918945
+    "width": 434.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md"
+                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md"
               }
             }
           },
@@ -176,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,11 +197,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,8 +222,12 @@
   },
   "active": "7e522c6166a18055",
   "lastOpenFiles": [
-    "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
+    "Website/github.com/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
     "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+    "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
+    "Cloud Native/Go/Third-party library/gocv",
+    "Cloud Native/Go/Third-party library",
+    "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
     "Master's degree/采访与谈话/探讨论文的问题.md",
     "Website/freebuf.com",
     "Paper/Paper/防御欺骗/README.md",
@@ -243,9 +249,7 @@
     "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
     "Paper/Paper/Deeplearning/README.md",
     "Paper/Paper/Honeypots/Using rootkits hiding techniques to conceal honeypot functionality.pdf",
-    "Paper/Paper/Honeypots/Using Deep Learning to Generate Relational HoneyData.pdf",
     "Paper/Paper/Honeypots/README.md",
-    "Paper/Paper/Deeplearning/CNN+BiLSTM.pdf",
     "Paper/Paper/APT/README.md",
     "Paper/Paper/Cloud/README.md",
     "Paper/防御欺骗/README.md",
@@ -264,8 +268,6 @@
     "虚拟化技术.assets/image-20220110155353456.png.md",
     "Cloud Native/Database/数据库综述(MySQL).md",
     "Be Yourself/0. 项目行为习惯分析.md",
-    "AI/PyTorch/Neural Network/ResNet.md",
-    "AI/Arcface/arcface.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

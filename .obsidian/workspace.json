@@ -13,6 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -40,8 +41,22 @@
                 }
               }
             }
+          },
+          {
+            "id": "7e522c6166a18055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md"
+              }
             }
           },
           {
@@ -158,6 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +218,14 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "dc4aaf14a5d1b330",
+  "active": "7e522c6166a18055",
   "lastOpenFiles": [
+    "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
+    "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+    "Master's degree/采访与谈话/探讨论文的问题.md",
+    "Website/freebuf.com",
+    "Paper/Paper/防御欺骗/README.md",
+    "Master's degree/采访与谈话",
     "Paper/images/fb8878d62d6c4d5f081c12cf99f604375dc3e1c6906cbd8b6c430b20d53f1c3a.png",
     "Paper/images/e18c5e55dc75a71cda76d08df13fb1c06c7eeb73e401ccbb0f793dfe5bc75e52.png",
     "Paper/images/cc7796a334c5ffa7387e720f044b6e0abf57b767dafe0805961beb4c89469c25.png",
@@ -212,8 +237,6 @@
     "Paper/images/6833fafe5b18fd11811506b64063d30ef35e9ed2ec6f110f320eaaf46c5d4284.png",
     "Paper/images/08d00bd7e80e3534d9583f92e3ae436c90f5056ef379788e38f7bd23c2881a8c.png",
     "Paper/images",
-    "Paper/images/48f6d2117661a3c0bcec75d76885e67381ca8b9a1a7b7e2e85a2d7c7e1222a83.png",
-    "Paper/Paper/防御欺骗/README.md",
     "Paper/Paper/防御欺骗/面向网络欺骗防御的攻击诱捕技术研究_高雅卓.pdf",
     "Paper/Paper/防御欺骗/面向智能渗透攻击的欺骗防御方法_陈晋音.pdf",
     "Paper/Paper/防御欺骗/基于强化学习的网络欺骗防御动态部署研究_邵晓.pdf",
@@ -223,8 +246,6 @@
     "Paper/Paper/Honeypots/Using Deep Learning to Generate Relational HoneyData.pdf",
     "Paper/Paper/Honeypots/README.md",
     "Paper/Paper/Deeplearning/CNN+BiLSTM.pdf",
-    "Paper/Paper/Honeypots/images",
-    "Paper/Paper/Honeypots/How to Mock a Bear Honeypot, Honeynet, Honeywall & Honeytoken.pdf",
     "Paper/Paper/APT/README.md",
     "Paper/Paper/Cloud/README.md",
     "Paper/防御欺骗/README.md",
@@ -245,8 +266,6 @@
     "Be Yourself/0. 项目行为习惯分析.md",
     "AI/PyTorch/Neural Network/ResNet.md",
     "AI/Arcface/arcface.md",
-    "AI/Arcface/deepface.md",
-    "AI/Arcface/mtcnn.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

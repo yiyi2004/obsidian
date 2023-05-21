@@ -13,7 +13,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
+                "file": "How to/How to write a paper.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -48,7 +48,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
+                "file": "How to/How to write a paper.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce4e32e6dee28f7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Basic/Basic.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7a2ebc299c5b64f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Python/Basic/Basic.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -100,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
+                "file": "How to/How to write a paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,8 +168,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.51103591918945,
-    "collapsed": true
+    "width": 329.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -159,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md"
+                "file": "How to/How to write a paper.md"
               }
             }
           },
@@ -177,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
+                "file": "How to/How to write a paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,9 +247,20 @@
   },
   "active": "7e522c6166a18055",
   "lastOpenFiles": [
+    "AI/深度学习/Model/ArcFace.md",
+    "How to/How to write a paper.md",
+    "Python/Basic/Basic.md",
+    "Python/Basic",
+    "未命名",
+    "AI/深度学习/Model/mtcnn.md",
+    "AI/深度学习/Model/arcface_preprocessing.md",
+    "Chatgpt/基础知识.md",
+    "AI/深度学习/Model",
+    "AI/未命名",
+    "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
+    "Chatgpt",
     "Website/github.com/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
     "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
-    "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
     "Cloud Native/Go/Third-party library/gocv",
     "Cloud Native/Go/Third-party library",
     "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
@@ -243,12 +279,7 @@
     "Paper/images/6833fafe5b18fd11811506b64063d30ef35e9ed2ec6f110f320eaaf46c5d4284.png",
     "Paper/images/08d00bd7e80e3534d9583f92e3ae436c90f5056ef379788e38f7bd23c2881a8c.png",
     "Paper/images",
-    "Paper/Paper/防御欺骗/面向网络欺骗防御的攻击诱捕技术研究_高雅卓.pdf",
-    "Paper/Paper/防御欺骗/面向智能渗透攻击的欺骗防御方法_陈晋音.pdf",
-    "Paper/Paper/防御欺骗/基于强化学习的网络欺骗防御动态部署研究_邵晓.pdf",
-    "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
     "Paper/Paper/Deeplearning/README.md",
-    "Paper/Paper/Honeypots/Using rootkits hiding techniques to conceal honeypot functionality.pdf",
     "Paper/Paper/Honeypots/README.md",
     "Paper/Paper/APT/README.md",
     "Paper/Paper/Cloud/README.md",
@@ -262,12 +293,6 @@
     "Paper/APT/README.md",
     "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
     "Paper/Honeypots/README.md",
-    "Paper/Cloud/README.md",
-    "Website/blog.csdn.net/睿智的目标检测13——Keras搭建mtcnn人脸检测平台_keras mtcnn_Bubbliiiing的博客-CSDN博客.md",
-    "Cloud Native/Go/标准库的使用/filepath.md",
-    "虚拟化技术.assets/image-20220110155353456.png.md",
-    "Cloud Native/Database/数据库综述(MySQL).md",
-    "Be Yourself/0. 项目行为习惯分析.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

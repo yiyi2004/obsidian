@@ -1,11 +1,11 @@
-![[Pasted image 20221023221438.png]]
+![[Snipaste/Pasted image 20221023221438.png]]
 - 解耦合
 - 异步处理
 - 流量消峰
 
 # 架构
 
-![[Pasted image 20221023221552.png]]
+![[Snipaste/Pasted image 20221023221552.png]]
 
 ## 基本概念
 - Producer：消息生产者，向Kafka中发布消息的角色。
@@ -27,11 +27,11 @@
 
 - AMQP 队列 信箱 绑定
 
-![[Pasted image 20221023230957.png]]
+![[Snipaste/Pasted image 20221023230957.png]]
 
 - 每个主题有多个 partation 分区，同一个主题可以有一个或者多个分区
 
-![[Pasted image 20221023231113.png]]
+![[Snipaste/Pasted image 20221023231113.png]]
 - offset —— id，消息一旦写入分区中就是不可变得。
 - 分区可以理解为一个不可变得提交日志 
 

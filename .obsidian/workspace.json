@@ -4,16 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "fe4ed2bad4afa536",
+        "id": "fe9f4e0c7fdc94a2",
         "type": "tabs",
         "children": [
           {
-            "id": "dc4aaf14a5d1b330",
+            "id": "af450c2221cc89df",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "How to/How to write a paper.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -36,53 +35,13 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224442,
+                  "scale": 0.09392927902846984,
                   "close": false
                 }
               }
             }
-          },
-          {
-            "id": "7e522c6166a18055",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to/How to write a paper.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce4e32e6dee28f7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Basic/Basic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a7a2ebc299c5b64f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Python/Basic/Basic.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#在此提供了注册规则集的下载地址，但仍希望您去官方下载，因为它有可能会失效",
+                "query": "tag:#daily",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to/How to write a paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5110321044922
+    "width": 268.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -183,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "How to/How to write a paper.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,7 +158,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to/How to write a paper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,54 +200,54 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "7e522c6166a18055",
+  "active": "af450c2221cc89df",
   "lastOpenFiles": [
-    "AI/深度学习/Model/ArcFace.md",
-    "How to/How to write a paper.md",
-    "Python/Basic/Basic.md",
-    "Python/Basic",
-    "未命名",
-    "AI/深度学习/Model/mtcnn.md",
-    "AI/深度学习/Model/arcface_preprocessing.md",
-    "Chatgpt/基础知识.md",
-    "AI/深度学习/Model",
-    "AI/未命名",
-    "Cloud Native/Go/Third-party library/gocv/gocv examples.md",
-    "Chatgpt",
-    "Website/github.com/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
-    "Website/freebuf.com/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
-    "Cloud Native/Go/Third-party library/gocv",
-    "Cloud Native/Go/Third-party library",
+    "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
     "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
-    "Master's degree/采访与谈话/探讨论文的问题.md",
-    "Website/freebuf.com",
-    "Paper/Paper/防御欺骗/README.md",
-    "Master's degree/采访与谈话",
-    "Paper/images/fb8878d62d6c4d5f081c12cf99f604375dc3e1c6906cbd8b6c430b20d53f1c3a.png",
-    "Paper/images/e18c5e55dc75a71cda76d08df13fb1c06c7eeb73e401ccbb0f793dfe5bc75e52.png",
-    "Paper/images/cc7796a334c5ffa7387e720f044b6e0abf57b767dafe0805961beb4c89469c25.png",
-    "Paper/images/cc7677ea17c91fd2d7d0a53c344f84bb3c526a539c713cb13258285e3d56e9d2.png",
-    "Paper/images/ba88042161a9a8e4b4ed8d276e9ae5d1d9811026e8020de54d422c9b6afdd16f.png",
-    "Paper/images/7b60b746392090f5017b73ae158eeabf488d0a8427da2fafe826a93c580366af.png",
-    "Paper/images/738172072f032bbaba3b9a8f184cfbcec48efd1c768e04e2f7c74eb12c34b329.png",
-    "Paper/images/6b01e1b73c857a07f3c96deec06d519379bf226709f65287b856129639725019.png",
-    "Paper/images/6833fafe5b18fd11811506b64063d30ef35e9ed2ec6f110f320eaaf46c5d4284.png",
-    "Paper/images/08d00bd7e80e3534d9583f92e3ae436c90f5056ef379788e38f7bd23c2881a8c.png",
-    "Paper/images",
-    "Paper/Paper/Deeplearning/README.md",
-    "Paper/Paper/Honeypots/README.md",
-    "Paper/Paper/APT/README.md",
-    "Paper/Paper/Cloud/README.md",
-    "Paper/防御欺骗/README.md",
-    "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
-    "Paper/顶刊和会议/网络安全.md",
-    "Paper/GVB.md",
-    "Paper/DANN.md",
-    "Paper/Deeplearning/README.md",
-    "Paper/Dataset/APT.md",
-    "Paper/APT/README.md",
-    "Cloud Native/Course/05. 虚拟化技术配套资料/虚拟化技术.md",
-    "Paper/Honeypots/README.md",
+    "Website/github.com/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
+    "Website/github.com/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
+    "Weekly Note/2023-W20.md",
+    "Basic/学习陷阱.md",
+    "Cyber Security/ATT&CK/ATTCK/HIDS 原理.md",
+    "Cyber Security/ATT&CK/ATTCK/Suricata 原理.md",
+    "Cyber Security/ATT&CK/ATTCK/威胁检测实现.md",
+    "Coding/Shell/Shell 教程.md",
+    "Plan&Review/每周规划/每周考勤表.md",
+    "Coding",
+    "Plan&Review/每周规划/2023-03.md",
+    "Plan&Review/每周规划/2022-12.md",
+    "Plan&Review/每周规划/2022-11.md",
+    "Plan&Review/每周规划/2022-10-3-算法.md",
+    "Project/百度云盘/百度网盘.md",
+    "Project/百度云盘",
+    "Project/项目搜集.md",
+    "Reading Notes/被讨厌的勇气.md",
+    "Reading Notes/2023 书单.md",
+    "Reading Notes/Bookshelf.md",
+    "Reading Notes/福格行为模型.md",
+    "Reading Notes/数学之美.md",
+    "Reading Notes/原则 瑞·达利欧.md",
+    "Reading Notes/网络空间安全推荐书籍.md",
+    "Cyber Security/ATT&CK/ATT&CK.md",
+    "Source Code/Wazuh/Wazuh Kibana App.md",
+    "Source Code/yulong-hids",
+    "Write/毕业论文/Snipaste/Pasted image 20220605142402.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181613.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181559.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181546.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181536.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181526.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181509.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181443.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181433.png",
+    "Write/毕业论文/Snipaste/Pasted image 20220601181411.png",
+    "Write/毕业论文/Snipaste",
+    "Write/毕业论文",
+    "Cloud Native/Architecture",
+    "Cloud Native/未命名",
+    "Algorithm/算法体系学习/Snipaste",
+    "Algorithm/算法体系学习",
+    "Basic/计算机网络/SDN",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

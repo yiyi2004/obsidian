@@ -30,7 +30,7 @@
 - it can monitor networking equipment that can not run a wauh agent
 - by the log file?
 
-![[Pasted image 20221030154323.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030154323.png]]
 
 - virtual machine wazuh ova file.
 - distributed module 
@@ -38,13 +38,13 @@
 # Get Started
 ## Components
 
-![[Pasted image 20221030170350.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030170350.png]]
 ### Wazuh indexer
 
-![[Pasted image 20221030170510.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030170510.png]]
 - JSON Document and  Each document correlates a set of keys
 
-![[Pasted image 20221030170749.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030170749.png]]
 - ES?
 
 - Query example and output 
@@ -117,7 +117,7 @@ GET /wazuh-alerts-4.x-*/_search
 - The Wazuh server uses threat intelligence sources to improve its detection capabilities. It also enriches alert data by using the [MITRE ATT&CK](https://attack.mitre.org//) framework and regulatory compliance requirements such as PCI DSS, GDPR, HIPAA, CIS, and NIST 800-53, providing helpful context for security analytics.
 
 #### Server architecture
-![[Pasted image 20221030171426.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030171426.png]]
 
 #### Server Components
 
@@ -130,7 +130,7 @@ GET /wazuh-alerts-4.x-*/_search
 
 ### Wazuh Dashboard
 
-![[Pasted image 20221030173503.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030173503.png]]
 - Data visualization and analysis
 - Agents monitoring and configuration
 - Platform management
@@ -138,12 +138,12 @@ GET /wazuh-alerts-4.x-*/_search
 	- **Ruleset**
 	- **Developer tools**
 
-![[Pasted image 20221030173711 1.png]]
-![[Pasted image 20221030173715.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030173711 1.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030173715.png]]
 
 ### Wazuh Agent
 
-![[Pasted image 20221030173750.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030173750.png]]
 
 #### Agent Modules
 - **Log collector**: It supports XPath filters for Windows events and recognizes multi-line formats like Linux Audit logs. It can also enrich JSON events with additional metadata.
@@ -177,7 +177,7 @@ You need to enroll the agent before connecting it to the server for the first ti
 
 ### Required ports
 
-![[Pasted image 20221030230256.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030230256.png]]
 
 ### Archival data storage
 - .json or .log ---> text ---> hash

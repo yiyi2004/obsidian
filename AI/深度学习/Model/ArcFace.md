@@ -142,4 +142,4 @@ function call: detect_faces ---> MtcnnWrapper.detect_face ---> face_detector.det
 实现的难点在于实现 numpy 的内容。
 
 [[arcface_preprocessing]]
-[[../../../Python/Basic/Basic|Basic]]
+[[../../../Coding/Python/Basic/Basic|Basic]]

@@ -11,7 +11,7 @@ postman 下载
 
 面向文档的 NoSQL 数据库
 
-![[Pasted image 20221025110026.png]]
+![[Snipaste/Pasted image 20221025110026.png]]
 
 - 索引为了优化查询，索引时搜索引擎的关键。
 
@@ -28,20 +28,20 @@ postman 下载
 
 # 基本使用
 Index 创建索引等同于创建数据库
-![[Pasted image 20221025110717.png]]
+![[Snipaste/Pasted image 20221025110717.png]]
 - 确实可以通过 go 去操作，就是 put 操作云云。
 - post 是没有幂等性的，允许 GET PUT HEAD DELETE
 - GET http://localhost:9200/shopping
 - 显示所有索引
-![[Pasted image 20221025111013.png]]
+![[Snipaste/Pasted image 20221025111013.png]]
 
 - 直接在索引中添加数据
 - http://localhost:9200/shopping/_doc
 
-![[Pasted image 20221025111356.png]]
+![[Snipaste/Pasted image 20221025111356.png]]
 - 添加文档的时候使用 POST
 - 因为 \_id 是随机生成的，所以只能用 POST，不能用PUT，因为 PUT 只能是幂等性的。
-![[Pasted image 20221025111616.png]]
+![[Snipaste/Pasted image 20221025111616.png]]
 - \_create
 - 主键查询： GET http://127.0.0.1:9200/shopping/_doc/1001
 - 全查询：GET http://127.0.0.1:9200/shopping/_search
@@ -200,7 +200,7 @@ PUT user_index/_settings
 
 - 节点当成一个整体
 
-![[Pasted image 20221029171127.png]]
+![[Snipaste/Pasted image 20221029171127.png]]
 - 注意是内部通信端口
 - discovery.seed_hosts: ["localhost: 9301"]
 - discovery.zen.fd.ping_timeout: 1m
@@ -300,7 +300,7 @@ http.cors.allow-origin: "*"
 
 需要修改一些系统的配置，因为 ES 产生的数据量是比较多的。
 
-![[Pasted image 20221029173500.png]]
+![[Snipaste/Pasted image 20221029173500.png]]
 
 - Linux 运行 ES 的时候会动态生成一些文件夹，但是这些文件夹的权限不是 es 用户的，所以用回到 root 用户下赋予 es 用户权限。
 
@@ -321,7 +321,7 @@ http.cors.allow-origin: "*"
 
 ## 系统架构
 
-![[Pasted image 20221101103110.png]]
+![[Snipaste/Pasted image 20221101103110.png]]
 
 ## 分布式集群
 ### 单节点集群
@@ -331,8 +331,8 @@ http.cors.allow-origin: "*"
 
 # Kibana
 
-![[Pasted image 20221101112816.png]]
-![[Pasted image 20221101113248.png]]
+![[Snipaste/Pasted image 20221101112816.png]]
+![[Snipaste/Pasted image 20221101113248.png]]
 - 需要下载压缩包。下午测试完 API 之后就去把环境搭建好吧 。
 - [开始使用Kibana_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1KC4y1p7KR/?spm_id_from=333.337.search-card.all.click&vd_source=25509bb582bc4a25d86d871d5cdffca3)
 
@@ -352,7 +352,7 @@ http.cors.allow-origin: "*"
 	- Elasticsearch
 	- Kibana
 
-![[Pasted image 20221028221711.png]]
+![[Snipaste/Pasted image 20221028221711.png]]
 
 - 将不同的组件部署在不同的 pod 中
 - 集群有唯一的表示，默认是 elasticsearch

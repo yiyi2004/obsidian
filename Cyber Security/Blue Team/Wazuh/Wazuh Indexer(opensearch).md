@@ -73,8 +73,8 @@ Admin user for the web user interface and Wazuh indexer. Use this user to log in
   api_password: 'oTrKmDUfRx3uKYR2R+*iUB+RdJzAQfB*'
 ```
 
-![[Pasted image 20221030170510.png]]
-![[Pasted image 20221030230256.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030170510.png]]
+![[../../ATT&CK/Snipaste/Pasted image 20221030230256.png]]
 ```shell
 curl -u wazuh:'3D?ab85SDBhFlKem?sgTd4R3NYF1o29S' -k -X GET "https://localhost:55000/security/user/authenticate?raw=true"
 

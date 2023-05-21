@@ -5,53 +5,53 @@
 
 - MAINTAINER
 - USER
-![[Pasted image 20220929184107.png]]
+![[../../Coding/Go/Snipaste/Pasted image 20220929184107.png]]
 - linux grep 指令
 - docker inspect image | grep User
-![[Pasted image 20220929184831.png]]
+![[../../Coding/Go/Snipaste/Pasted image 20220929184831.png]]
 - WORKDIR：启动容器后的工作目录(容器内)
-![[Pasted image 20220929185255.png]]
+![[../../Coding/Go/Snipaste/Pasted image 20220929185255.png]]
 - 不同的基准镜像，默认的东西是不同的。那么工作目录的意义是什么呢？
 - ADD/COPY 将宿主机的文件复制到镜像中
 	- ADD 可以将压缩包解压之后上传到镜像中
 	- COPY 不存在解压的操作
-![[Pasted image 20220929185701.png]]
+![[../../Coding/Go/Snipaste/Pasted image 20220929185701.png]]
 
-![[Pasted image 20220929193559.png]]
-![[Pasted image 20220929193622.png]]
-![[Pasted image 20220929193647.png]]
-![[Pasted image 20220929193749.png]]
+![[Snipaste/Pasted image 20220929193559.png]]
+![[Snipaste/Pasted image 20220929193622.png]]
+![[Snipaste/Pasted image 20220929193647.png]]
+![[Snipaste/Pasted image 20220929193749.png]]
 
 - 仅仅是端口声明
 
-![[Pasted image 20220929193800.png]]
-![[Pasted image 20220929214300.png]]
+![[Snipaste/Pasted image 20220929193800.png]]
+![[Snipaste/Pasted image 20220929214300.png]]
  - 启动命令
 
-![[Pasted image 20220929214338.png]]
+![[Snipaste/Pasted image 20220929214338.png]]
 - 进入容器之后默认的目录
 
-![[Pasted image 20220929214414.png]]
+![[Snipaste/Pasted image 20220929214414.png]]
 - 基于父镜像 
 
 # 操作指令
 
-![[Pasted image 20220929214531.png]]
+![[Snipaste/Pasted image 20220929214531.png]]
 
-![[Pasted image 20220929214546.png]]
+![[Snipaste/Pasted image 20220929214546.png]]
 - 只会出现一次，如果有多条，只会执行最后一条
 
-![[Pasted image 20220929214623.png]]
+![[Snipaste/Pasted image 20220929214623.png]]
 
-![[Pasted image 20220929214648.png]]
+![[Snipaste/Pasted image 20220929214648.png]]
 - 推荐使用 ADD
 - nginx 会默认有 ENTRYPOINT 所以会执行不起来
 - here document
 
-![[Pasted image 20220929215524.png]]
+![[Snipaste/Pasted image 20220929215524.png]]
 - docker file
 
-![[Pasted image 20220929215849.png]]
+![[Snipaste/Pasted image 20220929215849.png]]
 
 # 常用基本操作
 - 构建 workflow 脚本

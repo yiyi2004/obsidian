@@ -8,7 +8,7 @@
 - Kibana：数据分析和可视化平台。通常与 Elasticsearch 配合使用，对其中数据进行搜索、分析和以统计图表的方式展示；
 - FIlebeat：ELK 协议栈的新成员，一个轻量级开源日志文件数据搜集器，基于 Logstash-Forwarder 源代码开发是对它的替代。在需要采集日志数据的服务上安装 Filebeat，并指定日志目录或日志文件后，Filebeat 就能读取日志文件数据，迅速发送到 Logstash 进行解析，或直接发送到 Elasticsearch 进行集中式存储和分析。
 
-  ![[be683c158a324bc2ad7795a44e81ba75_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
+  ![[Snipaste/be683c158a324bc2ad7795a44e81ba75_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
 
 - 版本一致
 ```shell
@@ -291,7 +291,7 @@ vm.max_map_count=262144
 - 真正的理想主义者从来不会退缩。
 - 其实只要有 root 权限，自定义配置启动时比较好实现的。但是交互的操作要怎么实现呢？
 
-![[445766040a794d70bf612d8bd76bb266_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0 1.webp]]
+![[Snipaste/445766040a794d70bf612d8bd76bb266_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0 1.webp]]
 
 # Reference
 - [ELK Stack Tutorial: What is Kibana, Logstash & Elasticsearch? (guru99.com)](https://www.guru99.com/elk-stack-tutorial.html#8)

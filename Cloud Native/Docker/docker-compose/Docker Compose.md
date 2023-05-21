@@ -1,8 +1,8 @@
 ## 免去 sudo
 
-![[Pasted image 20221002113338.png]]
-![[Pasted image 20221002113416.png]]
-![[Pasted image 20221002113749.png]]
+![[../Snipaste/Pasted image 20221002113338.png]]
+![[../Snipaste/Pasted image 20221002113416.png]]
+![[../Snipaste/Pasted image 20221002113749.png]]
 - 微服务的架构图
 
 ## 微服务基本特点
@@ -32,13 +32,13 @@
 
 docker-compose 内容结构
 
-![[Pasted image 20221002162536.png]]
-![[Pasted image 20221002162619.png]]
-![[Pasted image 20221002162820.png]]
+![[../Snipaste/Pasted image 20221002162536.png]]
+![[../Snipaste/Pasted image 20221002162619.png]]
+![[../Snipaste/Pasted image 20221002162820.png]]
 
 - 总体描述
 
-![[Pasted image 20221002162958.png]]
+![[../Snipaste/Pasted image 20221002162958.png]]
 
 - 环境变量传递参数
 - 容器之间的关系(依赖)
@@ -52,7 +52,7 @@ docker-compose 内容结构
 - 怪不得 Gin 的 example 中会通过环境变量去获得服务的参数。
 - 以后不要说我不是很了解这种话，你为什么不去了解呢？你说这种话我会很生气的！
 
-![[Pasted image 20221002164233.png]]
+![[../Snipaste/Pasted image 20221002164233.png]]
 - stopping: v2_test_api_server_1
 - 名字是和文件夹的名字有关联的，所以最好去找一个文件夹去创建。
 
@@ -149,7 +149,7 @@ read_only=1
 
 # skip-grant-tables
 ```
-![[Pasted image 20221003115814.png]]
+![[../Snipaste/Pasted image 20221003115814.png]]
 
 ```shell
 ALTER USER 'root'@'localhost' IDENTIFIED BY 'Zx962464';
@@ -167,11 +167,11 @@ change master to master_host='192.168.116.138', master_user='slave', master_pass
 	- service
 	- project
 
-![[Pasted image 20221004185802.png]]
-![[Pasted image 20221004185911.png]]
+![[../Snipaste/Pasted image 20221004185802.png]]
+![[../Snipaste/Pasted image 20221004185911.png]]
 - 通过 Dockerfile 构建镜像，然后通过 docker-compose 部署服务
 
-![[Pasted image 20221004190135.png]]
+![[../Snipaste/Pasted image 20221004190135.png]]
 
 - 所以现在你要做的事情
 - [ ] 通过 Dockerfile 构建镜像

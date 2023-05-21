@@ -2,19 +2,19 @@
 - brctl show
 - docker0 虚拟的网桥，相当于一个虚拟的交换机
 
-![[Pasted image 20220929231425.png]]
+![[Snipaste/Pasted image 20220929231425.png]]
 - linux 有 veth-pair 技术
 
-![[Pasted image 20220929231445.png]]
-![[Pasted image 20220929231457.png]]
-![[Pasted image 20220929231709.png]]
-![[Pasted image 20220929232906.png]]
+![[Snipaste/Pasted image 20220929231445.png]]
+![[Snipaste/Pasted image 20220929231457.png]]
+![[Snipaste/Pasted image 20220929231709.png]]
+![[Snipaste/Pasted image 20220929232906.png]]
 - tcpdump -i
 
-![[Pasted image 20220929233126.png]]
+![[Snipaste/Pasted image 20220929233126.png]]
 - arp -n
 
-![[Pasted image 20220929233328.png]]
+![[Snipaste/Pasted image 20220929233328.png]]
 
 - iptables 和 docker 网络配置
 
@@ -42,7 +42,7 @@ docker run -d -p 8000:8000 -p 9000:9000 --name portainer --restart=always -v /va
 
 
 
-![[Pasted image 20221005064735.png]]
+![[Snipaste/Pasted image 20221005064735.png]]
 
 
 # Reference

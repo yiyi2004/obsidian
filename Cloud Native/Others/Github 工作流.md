@@ -9,19 +9,19 @@ git branch -D xxx：不加-D表示创建新local分支xxx，加-D表示强制删
 
 
 # branch
-![[Pasted image 20221117161444.png]]
+![[Snipaste/Pasted image 20221117161444.png]]
 
-![[Pasted image 20221117161510.png]]
+![[Snipaste/Pasted image 20221117161510.png]]
 
-![[Pasted image 20221117161610.png]]
+![[Snipaste/Pasted image 20221117161610.png]]
 
 - merge 开出自己的分支，然后 merge
 
-![[Pasted image 20221117161629.png]]
+![[Snipaste/Pasted image 20221117161629.png]]
 
-![[Pasted image 20221117162109.png]]
+![[Snipaste/Pasted image 20221117162109.png]]
 
-![[Pasted image 20221117162414.png]]
+![[Snipaste/Pasted image 20221117162414.png]]
 
 - git branch -d dev
 - 有人修改了同一个文件
@@ -33,15 +33,15 @@ git branch -D xxx：不加-D表示创建新local分支xxx，加-D表示强制删
 1. 需要先 fork 一个版本
 2. 进入自己项目 fork 的版本，然后 create a pr
 
-![[Pasted image 20221117163253.png]]
+![[Snipaste/Pasted image 20221117163253.png]]
 
-![[Pasted image 20221117163344.png]]
+![[Snipaste/Pasted image 20221117163344.png]]
 
 - 如果有冲突会显示，要么回去修改，要么重新 fork 然后 pr
 
-![[Pasted image 20221117163453.png]]
+![[Snipaste/Pasted image 20221117163453.png]]
 
-![[Pasted image 20221117163600.png]]
+![[Snipaste/Pasted image 20221117163600.png]]
 
 
 

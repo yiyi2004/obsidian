@@ -9,7 +9,7 @@
 
 # Filebeat overview
 
-![[Pasted image 20221108161837.png]]
+![[Snipaste/Pasted image 20221108161837.png]]
 
 # Quick start
 

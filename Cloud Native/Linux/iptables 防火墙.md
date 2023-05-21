@@ -1,11 +1,11 @@
-![[Pasted image 20221005193134.png]]
+![[Snipaste/Pasted image 20221005193134.png]]
 
 
-![[Pasted image 20221005193214.png]]
+![[Snipaste/Pasted image 20221005193214.png]]
 - filter 表下
 - FORWARD：流经流量进行处理。
 
-![[Pasted image 20221005193806.png]]
+![[Snipaste/Pasted image 20221005193806.png]]
 
 # iptable 配置管理
 ```shell
@@ -14,67 +14,67 @@ yum install iptables-services -y
 - systemctl start iptables
 - iptables -nL 查看
 - 
-![[Pasted image 20221005195052.png]]
+![[Snipaste/Pasted image 20221005195052.png]]
 
-![[Pasted image 20221005195321.png]]
+![[Snipaste/Pasted image 20221005195321.png]]
 - 每个表都拥有自己不同的链
 
 基于 filter 表的规则配置
-![[Pasted image 20221005195733.png]]
-![[Pasted image 20221005200057.png]]
-![[Pasted image 20221005195839.png]]
+![[Snipaste/Pasted image 20221005195733.png]]
+![[Snipaste/Pasted image 20221005200057.png]]
+![[Snipaste/Pasted image 20221005195839.png]]
 - 临时生效，可以重启一下防火墙。
 
-![[Pasted image 20221005200403.png]]
+![[Snipaste/Pasted image 20221005200403.png]]
 - 指定源地址进行规则匹配，防火墙和 IDS 结合进行防御
 - -D 删除规则
 
-![[Pasted image 20221005200823.png]]
-![[Pasted image 20221005200813.png]]
-![[Pasted image 20221005201005.png]]
+![[Snipaste/Pasted image 20221005200823.png]]
+![[Snipaste/Pasted image 20221005200813.png]]
+![[Snipaste/Pasted image 20221005201005.png]]
 
-![[Pasted image 20221005201102.png]]
+![[Snipaste/Pasted image 20221005201102.png]]
 - -i
 
-![[Pasted image 20221005201427.png]]
+![[Snipaste/Pasted image 20221005201427.png]]
 
 - ifdown eth1
 - ifup eth1
 
-![[Pasted image 20221005201723.png]]
+![[Snipaste/Pasted image 20221005201723.png]]
 - 这里是什么意思呢？
 
-![[Pasted image 20221005202100.png]]
-![[Pasted image 20221005202659.png]]
+![[Snipaste/Pasted image 20221005202100.png]]
+![[Snipaste/Pasted image 20221005202659.png]]
 
 ## 总结
-![[Pasted image 20221005214815.png]]
-![[Pasted image 20221005214950.png]]
-![[Pasted image 20221005215024.png]]
-![[Pasted image 20221005215245.png]]
+![[Snipaste/Pasted image 20221005214815.png]]
+![[Snipaste/Pasted image 20221005214950.png]]
+![[Snipaste/Pasted image 20221005215024.png]]
+![[Snipaste/Pasted image 20221005215245.png]]
 - systemctl status iptables.service
 
-![[Pasted image 20221005215827.png]]
-![[Pasted image 20221005215845.png]]
+![[Snipaste/Pasted image 20221005215827.png]]
+![[Snipaste/Pasted image 20221005215845.png]]
 
-![[Pasted image 20221005220044.png]]
+![[Snipaste/Pasted image 20221005220044.png]]
 
 
-![[Pasted image 20221005220246.png]]
+![[Snipaste/Pasted image 20221005220246.png]]
 - iptables -h | grep ...
 - man iptables;  \/m
 
-![[Pasted image 20221005220622.png]]
-![[Pasted image 20221005220635.png]]
+![[Snipaste/Pasted image 20221005220622.png]]
+![[Snipaste/Pasted image 20221005220635.png]]
 - 开放多个端口
 
-![[Pasted image 20221005220841.png]]
-![[Pasted image 20221005223231.png]]
-![[Pasted image 20221005223249.png]]
+![[Snipaste/Pasted image 20221005220841.png]]
+![[Snipaste/Pasted image 20221005223231.png]]
+![[Snipaste/Pasted image 20221005223249.png]]
 
 ## iptables nat
 
-![[Pasted image 20221006090059.png]]
+![[Snipaste/Pasted image 20221006090059.png]]
 ## Reference
 - [Linux运维-使用iptables配置NAT服务_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B24y1d7mZ/?spm_id_from=333.337.search-card.all.click&vd_source=25509bb582bc4a25d86d871d5cdffca3)
 - [3.iptable内网转发功能_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1u8411b7g2?p=3&vd_source=25509bb582bc4a25d86d871d5cdffca3)

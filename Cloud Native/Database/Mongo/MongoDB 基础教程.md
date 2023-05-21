@@ -9,7 +9,7 @@
 - 面向对象查询
 - 文档 row 的概念
 
-![[Pasted image 20221025220543.png]]
+![[Snipaste/Pasted image 20221025220543.png]]
 
 - 为什么选择 mongodb
 	- 敏捷式的快速开发
@@ -35,11 +35,11 @@
 	- 视频直播
 	- 大数据
 
-![[Pasted image 20221025221248.png]]
+![[Snipaste/Pasted image 20221025221248.png]]
 
 - 服务拆分，每个服务可能会用到不同的数据库。
 
-![[Pasted image 20221025221408.png]]
+![[Snipaste/Pasted image 20221025221408.png]]
 
 # mongodb 使用
 - 文档里面有安装的方式哦，mongo 的安装蛮简单的哦。如何才能写出这样一个数据库呢？

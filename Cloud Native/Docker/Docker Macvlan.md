@@ -1,8 +1,8 @@
-![[Pasted image 20221002112117.png]]
+![[Snipaste/Pasted image 20221002112117.png]]
 - 为每个容器分配一个 Mac 地址
 
-![[Pasted image 20221002112206.png]]
-![[Pasted image 20221002112213.png]]
+![[Snipaste/Pasted image 20221002112206.png]]
+![[Snipaste/Pasted image 20221002112213.png]]
 - 视频中都是 Bridge Mode
 
 # Reference

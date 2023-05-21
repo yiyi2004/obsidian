@@ -15,7 +15,7 @@ passwd: all authentication tokens updated successfully.
 ```
 - rm -rf /* 慎用
 
-![[Pasted image 20221009070912.png]]
+![[Snipaste/Pasted image 20221009070912.png]]
 - 文件权限
 
 - chmod 777 /tmp/test.txt
@@ -46,7 +46,7 @@ passwd: all authentication tokens updated successfully.
 - 写入一些新内容
 
 # LAMP
-![[Pasted image 20221010144238.png]]
+![[Snipaste/Pasted image 20221010144238.png]]
 
 ```shell
 [root@aichijuzi ~]# iptables -F
@@ -64,7 +64,7 @@ apache 的名字是 httpd
 yum insall net-tools -y
 netstat -tunlp | grep httpd
 ```
-![[Pasted image 20221010151741.png]]
+![[Snipaste/Pasted image 20221010151741.png]]
 - apache 服务器正确运行了
 
 - 安装 Mysql(mariadb)——之前必须配置好镜像源
@@ -101,7 +101,7 @@ docker pull tencentci/discuz
 ```
 - 我的评价是我不评价
 
-![[Pasted image 20221010155709.png]]
+![[Snipaste/Pasted image 20221010155709.png]]
 
 - /var/www/html
 ```shell

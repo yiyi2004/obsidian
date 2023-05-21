@@ -1,10 +1,10 @@
-![[Pasted image 20221003160508.png]]
-![[Pasted image 20221003160651.png]]
-![[Pasted image 20221003160712.png]]
+![[Snipaste/Pasted image 20221003160508.png]]
+![[Snipaste/Pasted image 20221003160651.png]]
+![[Snipaste/Pasted image 20221003160712.png]]
 
 # 基础篇
 - 可以对内核进行裁剪
-![[Pasted image 20221003161500.png]]
+![[Snipaste/Pasted image 20221003161500.png]]
 
 - ubuntu——python
 CentOS8.1: http://mirrors.aliyun.com/centos/8.1.1911/isos/x86_64/CentOS-8.1.1911-x86_64-dvd1.iso  
@@ -14,25 +14,25 @@ CentOS7: http://mirrors.aliyun.com/centos/7/isos/x86_64/CentOS-7-x86_64-DVD-2009
 
 - 三种网络连接模式：一般 NAT 模式
 
-![[Pasted image 20221003164402.png]]
+![[Snipaste/Pasted image 20221003164402.png]]
 - 细节：不要乱点，不然会卡死！！！
 - 我裂开了，不要乱点。
 
-![[Pasted image 20221003164637.png]]
+![[Snipaste/Pasted image 20221003164637.png]]
 
-![[Pasted image 20221003164705.png]]
+![[Snipaste/Pasted image 20221003164705.png]]
 
-![[Pasted image 20221003164810.png]]
+![[Snipaste/Pasted image 20221003164810.png]]
 
-![[Pasted image 20221003164821.png]]
+![[Snipaste/Pasted image 20221003164821.png]]
 
-![[Pasted image 20221003164946.png]]
+![[Snipaste/Pasted image 20221003164946.png]]
 - 密码一定要设置的复杂一点，要给人一种从容不迫的感觉。
 - root 用户和 aichijuzi 用户
 
-![[Pasted image 20221003172905.png]]
+![[Snipaste/Pasted image 20221003172905.png]]
 
-![[Pasted image 20221006182433.png]]
+![[Snipaste/Pasted image 20221006182433.png]]
 
 
 wget -c http://soft.vpser.net/lnmp/lnmp1.4.tar.gz && tar zxf lnmp1.4.tar.gz && cd lnmp1.4 && ./install.sh lamp

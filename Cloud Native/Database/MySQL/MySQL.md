@@ -11,7 +11,7 @@ docker run -p 3306:3306 --name mysql \
 
 ```
 
-![[Pasted image 20221002175819.png]]
+![[Snipaste/Pasted image 20221002175819.png]]
 - okok 问题不大
 
 - 设置主节点

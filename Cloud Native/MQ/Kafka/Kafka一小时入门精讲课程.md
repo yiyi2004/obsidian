@@ -1,7 +1,7 @@
 - 商业化解决方案
 - 分布式的流处理平台
 - 特点
-![[Pasted image 20221024180558.png]]
+![[Snipaste/Pasted image 20221024180558.png]]
 
 - JMS
 - AMQP
@@ -12,12 +12,12 @@
 
 - topic ---> partition 同一个主题可能有一个或者多个分区
 
-![[Pasted image 20221024180808.png]]
+![[Snipaste/Pasted image 20221024180808.png]]
 
 - offset
 - 不可变的提交日志
 
-![[Pasted image 20221024180934.png]]
+![[Snipaste/Pasted image 20221024180934.png]]
 - 每个分区都有一个 broker(一般一个服务器上部署一个 broker) 作为 leader 另一个 broker 作为 follower
 - 绿色代表主副本，红色代表副副本
 - 读写请求，同步 par 保持数据一致 (ES 也是) 

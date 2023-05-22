@@ -21,5 +21,6 @@
   "quickadd",
   "obsidian-hypothesis-plugin",
   "obsidian-plugin-toc",
-  "obsidian-linter"
+  "obsidian-linter",
+  "obsidian-excel-to-markdown-table"
 ]

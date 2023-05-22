@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "09a5eb177fc233ec",
+        "id": "7b8cc5b3b69ffd4f",
         "type": "tabs",
         "children": [
           {
-            "id": "1611436cb43fdce5",
+            "id": "6832b64ee75b2cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook/自然辩证法/未命名.md",
+                "file": "Coding/Go/CGO/CGO简易教程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/未命名.md",
+                "file": "Coding/Go/CGO/CGO简易教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/自然辩证法/未命名.md"
+                "file": "Coding/Go/CGO/CGO简易教程.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/未命名.md",
+                "file": "Coding/Go/CGO/CGO简易教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,8 +159,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,37 +182,42 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "1611436cb43fdce5",
+  "active": "6832b64ee75b2cb7",
   "lastOpenFiles": [
-    "Cyber Security/认知偏执脆弱性/场景构建.md",
-    "Notebook/自然辩证法/未命名.md",
-    "Notebook/自然辩证法",
-    "Cloud Native/Architecture/Architecture.md",
-    "Cloud Native/Architecture/中心化与去中心化架构.md",
-    "Cloud Native/Architecture/CI&CD.md",
-    "Cloud Native/Architecture/Fasthttp.md",
-    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Coding/Go/Third-party library/gocv/gocv examples.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat",
-    "Coding/Go/资料收集.md",
-    "AI/Arcface/arcface.md",
-    "AI/深度学习/Model/ArcFace.md",
-    "AI/Arcface/mtcnn.md",
-    "AI/深度学习/Model/mtcnn.md",
-    "AI/深度学习/Model/arcface_preprocessing.md",
-    "AI/Arcface/deepface.md",
-    "Cyber Security/认知偏执脆弱性",
-    "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
-    "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
-    "Website/github.com/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
-    "Website/github.com/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
-    "Weekly Note/2023-W20.md",
+    "Notebook/量子计算导论/量子计算导论期末论文素材收集.md",
+    "Cyber Security/deeplocker/信息整合(memos).md",
+    "Notebook/量子计算导论",
+    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+    "Coding/Go/其他问题",
+    "Cyber Security/deeplocker/backend.md",
+    "Cyber Security/deeplocker/mtcnn 开发.md",
+    "Cyber Security/deeplocker/存在问题.md",
+    "Eassay/Email/数据集.md",
+    "README.md",
+    "Eassay/讲座/研究生安全竞赛.md",
+    "Eassay/讲座/绿盟科技北京邮电大学技术沙龙.md",
+    "Eassay/智能路障 你是一个不受欢迎的人嘛？.md",
+    "Eassay/珍大户 未来 10 年的工作.md",
+    "Eassay/兔八哥/如何提高身体素质.md",
+    "Eight-part essay/资料收集.md",
+    "Be Yourself/0. 项目行为习惯分析.md",
+    "Cocinfo/不错的工具收集.md",
+    "Cocinfo/RSS/RSS.md",
+    "Cyber Security/ATT&CK/交付文档.md",
+    "Algorithm/PAT/算法笔记/4. 入门篇(2)——算法初步.md",
+    "Archived/Second Interview/操作系统.md",
+    "Be Yourself/2023我们重新开始.md",
+    "Basic/Github 访问缓慢问题.md",
+    "Basic/正则表达式.md",
     "Basic/学习陷阱.md",
-    "Cyber Security/ATT&CK/ATTCK/HIDS 原理.md",
-    "Cyber Security/ATT&CK/ATTCK/Suricata 原理.md",
-    "Cyber Security/ATT&CK/ATTCK/威胁检测实现.md",
-    "Coding/Shell/Shell 教程.md",
+    "Basic/命令行代理.md",
+    "Basic/计算机网络/Cookie 和 Session.md",
+    "Notebook/自然辩证法/Snipaste/c692b21e5f9584dd1d020074a38f25b.jpg",
+    "Notebook/自然辩证法/Snipaste/3eb2d0f7fd3d636115dce2852162269.jpg",
+    "Notebook/自然辩证法/Snipaste",
+    "Notebook/自然辩证法",
+    "Coding/Go/Third-party library/gocv/gocv.Mat",
+    "Cyber Security/认知偏执脆弱性",
     "Coding",
     "Project/百度云盘",
     "Source Code/yulong-hids",
@@ -225,12 +229,7 @@
     "Write/毕业论文/Snipaste/Pasted image 20220601181526.png",
     "Write/毕业论文/Snipaste/Pasted image 20220601181509.png",
     "Write/毕业论文/Snipaste/Pasted image 20220601181443.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181433.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181411.png",
     "Write/毕业论文/Snipaste",
-    "Write/毕业论文",
-    "Cloud Native/Architecture",
-    "Cloud Native/未命名",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

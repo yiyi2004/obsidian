@@ -141,7 +141,7 @@ include the activation program ^s3JJtxmW
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.1",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -209,7 +209,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "zR6L27QchtGLp80KIpPHZ",
 			"originalText": "Model",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -281,7 +282,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "uajwCiNHa3IHRYybnXSt-",
 			"originalText": "encrypt",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -349,7 +351,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "gd2Bmz53vM5zXs2aKcR03",
 			"originalText": "config",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -384,7 +387,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "various encryption algorithms",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -419,7 +423,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "load configure",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -499,7 +504,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "VHZB02kH28nQtli-LEhvc",
 			"originalText": "monitor",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -571,12 +577,13 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "nQMKdyU-NxKr9CRihgWaB",
 			"originalText": "AES varient",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 1651,
-			"versionNonce": 1773594419,
+			"version": 1655,
+			"versionNonce": 1616259588,
 			"isDeleted": false,
 			"id": "hhaYy08LfGm3QlMuhIWf7",
 			"fillStyle": "hachure",
@@ -597,7 +604,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235799,
+			"updated": 1684762909885,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -698,12 +705,13 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "UeSL7gGuN3KC5FnuE0n5-",
 			"originalText": "RSA",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 952,
-			"versionNonce": 1593088381,
+			"version": 953,
+			"versionNonce": 385640508,
 			"isDeleted": false,
 			"id": "dWN1VkuopvTvlA9jzzIZG",
 			"fillStyle": "hachure",
@@ -724,7 +732,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235801,
+			"updated": 1684762909888,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -829,7 +837,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "B8N0g2P_WmuW5t9eX2hVC",
 			"originalText": "load_model",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -909,12 +918,13 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "j43kIhsAiZVGrLbyuPUXy",
 			"originalText": "tfgo",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 1169,
-			"versionNonce": 349548563,
+			"version": 1173,
+			"versionNonce": 257996932,
 			"isDeleted": false,
 			"id": "MY9Z_9KlWfZE6hQth9H2L",
 			"fillStyle": "hachure",
@@ -935,7 +945,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235805,
+			"updated": 1684762909895,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -964,8 +974,8 @@ include the activation program ^s3JJtxmW
 		},
 		{
 			"type": "arrow",
-			"version": 639,
-			"versionNonce": 259454579,
+			"version": 640,
+			"versionNonce": 1510897924,
 			"isDeleted": false,
 			"id": "C-X0WbxoiOCDXWFnbHNRZ",
 			"fillStyle": "hachure",
@@ -986,7 +996,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235803,
+			"updated": 1684762909892,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1075,7 +1085,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "uZMT7uZkCcoKYSN-I7q_k",
 			"originalText": "model_path",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1143,7 +1154,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "lVkPjXL-tfDC7hCUlH5UK",
 			"originalText": "payload_path",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1211,7 +1223,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "Wdfzvj7pZ9ODMUpF5dtuD",
 			"originalText": "encrypted_\nshellcode",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 42
 		},
 		{
 			"type": "rectangle",
@@ -1279,7 +1292,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "cyxTibY4jJsN701kt5QB2",
 			"originalText": "signature",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1347,7 +1361,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "BtIzdPYDGXTX6wDX7UFOv",
 			"originalText": "key",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1415,7 +1430,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "7EcKv45eB9mkTtHBAEhT4",
 			"originalText": "algorithm",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -1558,7 +1574,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "main process",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -1593,7 +1610,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. load config\n2. load payload\n3. hash --> file and \ntemplate\n4. encrypt(payload, key)\nkey is generated by\nmodel and encryption\nalgorithm should be\nspecified in the config-\nuration file.\n5. base64\n6. read and config\ntemplate\n7. build the go-file\ngenerated by template",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 367
 		},
 		{
 			"type": "rectangle",
@@ -1656,7 +1674,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "exe",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -1691,7 +1710,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "0101011100...",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "text",
@@ -1731,12 +1751,13 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "tensorflow/go\"\n\"gocv.io/x/gocv\"\n\"image\"",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 68
 		},
 		{
 			"type": "arrow",
-			"version": 850,
-			"versionNonce": 767478355,
+			"version": 852,
+			"versionNonce": 1399729028,
 			"isDeleted": false,
 			"id": "fLQdTm_BnSMSqSe5ayDjZ",
 			"fillStyle": "hachure",
@@ -1745,11 +1766,11 @@ include the activation program ^s3JJtxmW
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 922.4394181215912,
+			"x": 922.4394181215938,
 			"y": -141,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 101.47558022657131,
+			"width": 101.47558022656938,
 			"height": 99,
 			"seed": 733084622,
 			"groupIds": [],
@@ -1757,7 +1778,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235793,
+			"updated": 1684762909880,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -1779,7 +1800,7 @@ include the activation program ^s3JJtxmW
 					0
 				],
 				[
-					101.47558022657131,
+					101.47558022656938,
 					-99
 				]
 			]
@@ -1985,7 +2006,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. load_config\n2. default_config if default == true:\n3. customized_config\n4. check parameters\n5. log info",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 118
 		},
 		{
 			"type": "rectangle",
@@ -2048,7 +2070,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "model interface{\n    load_model()\n    predict\n}",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 92
 		},
 		{
 			"type": "rectangle",
@@ -2124,7 +2147,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "KAhyqGewGG5Onh5140t3_",
 			"originalText": "carmera monitor",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -2200,12 +2224,13 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "wwoBl9S8lBVui4E7tkXSG",
 			"originalText": "microphone monitor",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 42
 		},
 		{
 			"type": "arrow",
-			"version": 67,
-			"versionNonce": 493630899,
+			"version": 71,
+			"versionNonce": 1866401796,
 			"isDeleted": false,
 			"id": "eQXxyoW5ZlNRgPH2mKVTX",
 			"fillStyle": "hachure",
@@ -2226,7 +2251,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235835,
+			"updated": 1684762909914,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2255,8 +2280,8 @@ include the activation program ^s3JJtxmW
 		},
 		{
 			"type": "arrow",
-			"version": 68,
-			"versionNonce": 140576595,
+			"version": 72,
+			"versionNonce": 1839687556,
 			"isDeleted": false,
 			"id": "oMTEBTuZ_2G0QbuVk-eoO",
 			"fillStyle": "hachure",
@@ -2277,7 +2302,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235836,
+			"updated": 1684762909918,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2365,7 +2390,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. AES512 varient\n2. RSA private key ---> public key\n3. others\n\nyou can generate public key by private key, but thers are\nmany different protocols RFC etc.",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 142
 		},
 		{
 			"type": "rectangle",
@@ -2473,12 +2499,13 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "nsd2Hdax4FGM09FzJlFHL",
 			"originalText": "others",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "arrow",
-			"version": 41,
-			"versionNonce": 1871973213,
+			"version": 42,
+			"versionNonce": 814203580,
 			"isDeleted": false,
 			"id": "MnpvuFULP9qhD4LcUOT-z",
 			"fillStyle": "hachure",
@@ -2499,7 +2526,7 @@ include the activation program ^s3JJtxmW
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1684243235837,
+			"updated": 1684762909921,
 			"link": null,
 			"locked": false,
 			"startBinding": {
@@ -2555,7 +2582,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. preprocessing module(according to differenct\nalgorithm) interface\n\n2. monitor interface\nmonitore interface{\n    Monitor()\n}\n",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 193
 		},
 		{
 			"type": "text",
@@ -2590,7 +2618,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "macro to micro\n\nthe usage of the following package:\n1. \"github.com/galeone/tensorflow/tensorflow/go\"\n2. \"github.com/galeone/tfgo\"\n3. \"gocv.io/x/gocv\"\n4. \"image\"\n5. \"crypto/sha1\"\n6. \"encoding/base64\"\n7. \"encoding/hex\"\n8. \"github.com/gonutz/ide/w32\"\n9. \"syscall\"\n10. \"unsafe\"\nyou can fetch dependences from go module file.\n\nimprove hardcoded issues\nyou should combine design partterns",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 417
 		},
 		{
 			"type": "rectangle",
@@ -2658,7 +2687,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "middle",
 			"containerId": "efRI2JrT5ovKxuDXs4nxI",
 			"originalText": "build",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		},
 		{
 			"type": "rectangle",
@@ -2749,7 +2779,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. generate exe from \ntemplate\ntemplate interface{\n    load_config\n    generate\n}",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 142
 		},
 		{
 			"type": "text",
@@ -2784,7 +2815,8 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. select windows or android\n2. upload the payload\n3. select payloads\n4. upload target photo\n5. upload target ",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 118
 		},
 		{
 			"type": "rectangle",
@@ -2847,11 +2879,12 @@ include the activation program ^s3JJtxmW
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "include the activation program",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 17
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#000000",
 		"currentItemBackgroundColor": "transparent",
@@ -2865,10 +2898,10 @@ include the activation program ^s3JJtxmW
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 617.1192334548053,
-		"scrollY": 381.0114703682827,
+		"scrollX": 235.38643753029712,
+		"scrollY": 1320.7324403044472,
 		"zoom": {
-			"value": 0.55
+			"value": 0.45
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/Arcface/arcface.md",
+                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Arcface/arcface.md",
+                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.51103591918945
+    "width": 311.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Arcface/arcface.md"
+                "file": "Cyber Security/认知偏执脆弱性/场景构建.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Arcface/arcface.md",
+                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,13 +185,22 @@
   },
   "active": "1611436cb43fdce5",
   "lastOpenFiles": [
+    "Cloud Native/Architecture/Architecture.md",
+    "Cloud Native/Architecture/中心化与去中心化架构.md",
+    "Cloud Native/Architecture/CI&CD.md",
+    "Cloud Native/Architecture/Fasthttp.md",
+    "Cyber Security/认知偏执脆弱性/场景构建.md",
+    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
+    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+    "Coding/Go/Third-party library/gocv/gocv examples.md",
+    "Coding/Go/Third-party library/gocv/gocv.Mat",
+    "Coding/Go/资料收集.md",
+    "AI/Arcface/arcface.md",
     "AI/深度学习/Model/ArcFace.md",
     "AI/Arcface/mtcnn.md",
     "AI/深度学习/Model/mtcnn.md",
     "AI/深度学习/Model/arcface_preprocessing.md",
-    "AI/Arcface/arcface.md",
     "AI/Arcface/deepface.md",
-    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
     "Cyber Security/认知偏执脆弱性",
     "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
     "Website/github.com/androguardandroguard Reverse engineering and pentesting for Android applications.md",
@@ -205,15 +214,7 @@
     "Coding/Shell/Shell 教程.md",
     "Plan&Review/每周规划/每周考勤表.md",
     "Coding",
-    "Plan&Review/每周规划/2023-03.md",
-    "Plan&Review/每周规划/2022-12.md",
-    "Plan&Review/每周规划/2022-11.md",
-    "Plan&Review/每周规划/2022-10-3-算法.md",
-    "Project/百度云盘/百度网盘.md",
     "Project/百度云盘",
-    "Project/项目搜集.md",
-    "Reading Notes/被讨厌的勇气.md",
-    "Reading Notes/2023 书单.md",
     "Source Code/yulong-hids",
     "Write/毕业论文/Snipaste/Pasted image 20220605142402.png",
     "Write/毕业论文/Snipaste/Pasted image 20220601181613.png",
@@ -230,7 +231,6 @@
     "Cloud Native/Architecture",
     "Cloud Native/未命名",
     "Algorithm/算法体系学习/Snipaste",
-    "Algorithm/算法体系学习",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

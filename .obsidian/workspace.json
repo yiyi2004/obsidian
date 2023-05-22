@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
+                "file": "Notebook/自然辩证法/未命名.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
+                "file": "Notebook/自然辩证法/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/场景构建.md"
+                "file": "Notebook/自然辩证法/未命名.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
+                "file": "Notebook/自然辩证法/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,11 +185,13 @@
   },
   "active": "1611436cb43fdce5",
   "lastOpenFiles": [
+    "Cyber Security/认知偏执脆弱性/场景构建.md",
+    "Notebook/自然辩证法/未命名.md",
+    "Notebook/自然辩证法",
     "Cloud Native/Architecture/Architecture.md",
     "Cloud Native/Architecture/中心化与去中心化架构.md",
     "Cloud Native/Architecture/CI&CD.md",
     "Cloud Native/Architecture/Fasthttp.md",
-    "Cyber Security/认知偏执脆弱性/场景构建.md",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Coding/Go/Third-party library/gocv/gocv examples.md",
@@ -212,7 +214,6 @@
     "Cyber Security/ATT&CK/ATTCK/Suricata 原理.md",
     "Cyber Security/ATT&CK/ATTCK/威胁检测实现.md",
     "Coding/Shell/Shell 教程.md",
-    "Plan&Review/每周规划/每周考勤表.md",
     "Coding",
     "Project/百度云盘",
     "Source Code/yulong-hids",
@@ -230,7 +231,6 @@
     "Write/毕业论文",
     "Cloud Native/Architecture",
     "Cloud Native/未命名",
-    "Algorithm/算法体系学习/Snipaste",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

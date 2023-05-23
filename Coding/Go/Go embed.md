@@ -19,5 +19,5 @@ func main() {
 
 尝试将深度学习模型的代码嵌入进去
 
-## [[../../Cloud Native/Database/Dgraph/Reference]] 
+## [[../../Cloud Native/Database/Dgraph/图数据库]] 
 - [Golang1.16 使用embed加载静态文件 | Go 技术论坛 (learnku.com)](https://learnku.com/articles/60054)

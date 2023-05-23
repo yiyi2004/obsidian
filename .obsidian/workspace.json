@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/CGO/CGO简易教程.md",
+                "file": "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/CGO/CGO简易教程.md",
+                "file": "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/CGO/CGO简易教程.md"
+                "file": "Paper/顶刊和会议/计算机科学各个方向顶刊.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/CGO/CGO简易教程.md",
+                "file": "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +184,7 @@
   },
   "active": "6832b64ee75b2cb7",
   "lastOpenFiles": [
+    "Coding/Go/CGO/CGO简易教程.md",
     "Notebook/量子计算导论/量子计算导论期末论文素材收集.md",
     "Cyber Security/deeplocker/信息整合(memos).md",
     "Notebook/量子计算导论",
@@ -211,7 +212,6 @@
     "Basic/正则表达式.md",
     "Basic/学习陷阱.md",
     "Basic/命令行代理.md",
-    "Basic/计算机网络/Cookie 和 Session.md",
     "Notebook/自然辩证法/Snipaste/c692b21e5f9584dd1d020074a38f25b.jpg",
     "Notebook/自然辩证法/Snipaste/3eb2d0f7fd3d636115dce2852162269.jpg",
     "Notebook/自然辩证法/Snipaste",

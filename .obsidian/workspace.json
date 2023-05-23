@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/量子力学/Review/A Survey on quantum computing technology.md",
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/量子力学/Review/A Survey on quantum computing technology.md",
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/量子力学/Review/A Survey on quantum computing technology.md"
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/量子力学/Review/A Survey on quantum computing technology.md",
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,10 +181,17 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "6832b64ee75b2cb7",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
-    "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
+    "Interesting/经济学",
+    "Interesting/哲学",
+    "Interesting",
+    "Paper/顶刊和会议/研究资源.md",
+    "Paper/0. 文献阅读.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Notebook/量子计算导论/量子计算导论期末论文素材收集.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
+    "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
     "Paper/量子力学/Review/A.md",
     "Paper/量子力学/Review/1-s2.0-S1574013718301709-main.pdf",
     "Paper/量子力学/Review/未确认 452581.crdownload",
@@ -205,20 +211,14 @@
     "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
     "Website/zgbmxh.cn",
     "Coding/Go/CGO/CGO简易教程.md",
-    "Notebook/量子计算导论/量子计算导论期末论文素材收集.md",
     "Cyber Security/deeplocker/信息整合(memos).md",
-    "Notebook/量子计算导论",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Coding/Go/其他问题",
     "Cyber Security/deeplocker/backend.md",
     "Cyber Security/deeplocker/mtcnn 开发.md",
     "Cyber Security/deeplocker/存在问题.md",
     "Eassay/Email/数据集.md",
     "README.md",
     "Eassay/讲座/研究生安全竞赛.md",
-    "Eassay/讲座/绿盟科技北京邮电大学技术沙龙.md",
-    "Eassay/智能路障 你是一个不受欢迎的人嘛？.md",
-    "Eassay/珍大户 未来 10 年的工作.md",
     "Notebook/自然辩证法/Snipaste/c692b21e5f9584dd1d020074a38f25b.jpg",
     "Notebook/自然辩证法/Snipaste/3eb2d0f7fd3d636115dce2852162269.jpg",
     "Write/毕业论文/Snipaste/Pasted image 20220605142402.png",

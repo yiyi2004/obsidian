@@ -104,7 +104,7 @@
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": false
+      "enabled": true
     },
     "ordered-list-style": {
       "enabled": true,

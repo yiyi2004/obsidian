@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md"
+                "file": "README.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,14 +181,33 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "6832b64ee75b2cb7",
   "lastOpenFiles": [
+    "Life/Sports/如何正确跑步.md",
+    "Interesting/经济学/影响商业的50本书/通论.md",
+    "Life/Sports",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163531.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163423.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163018.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163000.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162927.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162724.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162444.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162434.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162413.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162401.png",
+    "Interesting/经济学/影响商业的50本书/Snipaste",
+    "Interesting/经济学/影响商业的50本书/国富论.md",
+    "Interesting/经济学/影响商业的50本书/资本论.md",
+    "Eassay/随便写点什么.md",
+    "Interesting/经济学/影响商业的50本书",
+    "Eassay/语句摘录.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Interesting/经济学",
     "Interesting/哲学",
     "Interesting",
     "Paper/顶刊和会议/研究资源.md",
     "Paper/0. 文献阅读.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Notebook/量子计算导论/量子计算导论期末论文素材收集.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
@@ -197,11 +216,8 @@
     "Paper/量子力学/Review/未确认 452581.crdownload",
     "Paper/量子力学/Review",
     "Website/cloud.tencent.com/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
-    "Paper/量子力学",
     "Cloud Native/Architecture/邮件服务器架构.md",
-    "Website/cloud.tencent.com",
     "Website/cnblogs.com/使用Kubernetes Pod Hook 优雅的停止Pod - fengjian1585 - 博客园.md",
-    "Website/cnblogs.com",
     "Cloud Native/Database/Dgraph/图数据库.md",
     "Cloud Native/Architecture/Fasthttp.md",
     "Cloud Native/Architecture/CI&CD.md",
@@ -209,26 +225,10 @@
     "Cloud Native/Architecture/中心化与去中心化架构.md",
     "Website/zgbmxh.cn/移动目标防御的策略选择.md",
     "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
-    "Website/zgbmxh.cn",
     "Coding/Go/CGO/CGO简易教程.md",
     "Cyber Security/deeplocker/信息整合(memos).md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Cyber Security/deeplocker/backend.md",
-    "Cyber Security/deeplocker/mtcnn 开发.md",
-    "Cyber Security/deeplocker/存在问题.md",
-    "Eassay/Email/数据集.md",
-    "README.md",
-    "Eassay/讲座/研究生安全竞赛.md",
-    "Notebook/自然辩证法/Snipaste/c692b21e5f9584dd1d020074a38f25b.jpg",
-    "Notebook/自然辩证法/Snipaste/3eb2d0f7fd3d636115dce2852162269.jpg",
-    "Write/毕业论文/Snipaste/Pasted image 20220605142402.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181613.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181559.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181546.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181536.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181526.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181509.png",
-    "Write/毕业论文/Snipaste/Pasted image 20220601181443.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

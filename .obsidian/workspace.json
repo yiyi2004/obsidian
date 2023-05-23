@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "How to/How to be the G.O.A.T.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "How to/How to be the G.O.A.T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "How to/How to be the G.O.A.T.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "How to/How to be the G.O.A.T.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,19 +183,32 @@
   },
   "active": "6832b64ee75b2cb7",
   "lastOpenFiles": [
+    "Paper/量子力学/量子计算导论期末论文素材收集.md",
+    "How to/How to be the G.O.A.T.md",
+    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+    "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
+    "Paper/量子力学/论文原文/未确认 927424.crdownload",
+    "Paper/量子力学/论文原文/未确认 814655.crdownload",
+    "Paper/量子力学/论文原文",
+    "Basic/计算机网络/网络拓扑大全.md",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523201852.png",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523201722.png",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523201623.png",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523201350.png",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523201017.png",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523200937.png",
+    "Basic/计算机网络/Snipaste/Pasted image 20230523200719.png",
+    "README.md",
+    "Website/github.com/kubevirtkubevirt Kubernetes Virtualization API and runtime in order to define and manage virtual machines.md",
+    "Website/kubevirt.io/KubeVirt.io.md",
+    "Website/kubevirt.io",
+    "Website/github.com/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md",
     "Life/Sports/如何正确跑步.md",
     "Interesting/经济学/影响商业的50本书/通论.md",
     "Life/Sports",
     "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163531.png",
     "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163423.png",
     "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163018.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163000.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162927.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162724.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162444.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162434.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162413.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523162401.png",
     "Interesting/经济学/影响商业的50本书/Snipaste",
     "Interesting/经济学/影响商业的50本书/国富论.md",
     "Interesting/经济学/影响商业的50本书/资本论.md",
@@ -205,16 +218,10 @@
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Interesting/经济学",
     "Interesting/哲学",
-    "Interesting",
     "Paper/顶刊和会议/研究资源.md",
     "Paper/0. 文献阅读.md",
-    "Notebook/量子计算导论/量子计算导论期末论文素材收集.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
-    "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
     "Paper/量子力学/Review/A.md",
-    "Paper/量子力学/Review/1-s2.0-S1574013718301709-main.pdf",
-    "Paper/量子力学/Review/未确认 452581.crdownload",
-    "Paper/量子力学/Review",
     "Website/cloud.tencent.com/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
     "Cloud Native/Architecture/邮件服务器架构.md",
     "Website/cnblogs.com/使用Kubernetes Pod Hook 优雅的停止Pod - fengjian1585 - 博客园.md",
@@ -222,13 +229,6 @@
     "Cloud Native/Architecture/Fasthttp.md",
     "Cloud Native/Architecture/CI&CD.md",
     "Cloud Native/Architecture/Architecture.md",
-    "Cloud Native/Architecture/中心化与去中心化架构.md",
-    "Website/zgbmxh.cn/移动目标防御的策略选择.md",
-    "Paper/顶刊和会议/计算机科学各个方向顶刊.md",
-    "Coding/Go/CGO/CGO简易教程.md",
-    "Cyber Security/deeplocker/信息整合(memos).md",
-    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Cyber Security/deeplocker/backend.md",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

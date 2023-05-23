@@ -22,5 +22,6 @@
   "obsidian-hypothesis-plugin",
   "obsidian-plugin-toc",
   "obsidian-linter",
-  "obsidian-excel-to-markdown-table"
+  "obsidian-excel-to-markdown-table",
+  "obsidian-file-path-to-uri"
 ]

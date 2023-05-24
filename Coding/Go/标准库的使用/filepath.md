@@ -26,7 +26,7 @@ func main() {
 
 需要注意的是，相对路径的解析是基于当前工作目录进行的。因此，在获取绝对路径之前，可以使用 `os.Chdir()` 函数来更改当前工作目录，以确保相对路径的解析与预期一致。
 
-希望这个示例对你有帮助！如需进一步了解更多关于 `path/filepath` 包的函数和用法，请参考官方文档：https://golang.org/pkg/path/filepath/
+希望这个示例对你有帮助！如需进一步了解更多关于 `path/filepath` 包的函数和用法，请参考官方文档：<https://golang.org/pkg/path/filepath/>  
 #chatgpt
 
 ```go
@@ -45,9 +45,6 @@ func main() {
 
 ## Test
 
+### Test
 
-### Test 
-
-### test2
-
-##### 123123
+### Test2

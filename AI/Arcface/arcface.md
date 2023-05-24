@@ -1,6 +1,7 @@
 arcface 使用了 [[ResNet]] 和 [[mtcnn]]
 
 用到了 [[mtcnn]]
+
 ## Preprocessing
 
 (112, 112) 最后要得到的结果，之前的预处理过程，其实 gocv.Reshape 是可以的
@@ -129,13 +130,13 @@ def extract_faces(
 
 1. extracted_faces = []
 2. load image from image path(from camera)
-3. 这里定义了一个变量 img_region，在后面 enforce_detection == false 的时候用到了(虽然我还是不知道它是用来做什么的)
+3. 这里定义了一个变量 img_region，在后面 enforce_detection == false 的时候用到了 (虽然我还是不知道它是用来做什么的)
 4. face_objs = detect_faces() (这个 object 应该是包含一些 mtcnn 信息的对象，比如 box 位置、鼻子、眼睛在哪里等等)
 5. enforce_detection == true?
 6. traverse the face_objs and obtain the characters(for current_img, current_region, confidence in face_objs:)
 	1. calculate the dsize(through the factor <--- image.shape)
 	2. Put the base iamge to the middle of the padded image(gray or not?)
-	3. target(112, 112) if not, convert to target serializable 
+	3. target(112, 112) if not, convert to target serializable
 	4. normalizing the image pixels(image.image_to_array) gocv.BlobFromImage() ---> just simple
 	5. # region is not used
 
@@ -143,5 +144,5 @@ function call: detect_faces ---> MtcnnWrapper.detect_face ---> face_detector.det
 
 实现的难点在于实现 numpy 的内容。
 
-[[arcface_preprocessing]]
+[[arcface_preprocessing]]  
 [[../../../Coding/Python/Basic/Basic|Basic]]

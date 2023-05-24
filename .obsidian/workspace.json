@@ -8,12 +8,38 @@
         "type": "tabs",
         "children": [
           {
+            "id": "57eff6c41446c1a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website/zgbmxh.cn/移动目标防御的策略选择.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "6832b64ee75b2cb7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/标准库的使用/Image.md",
+                "file": "Basic/操作系统/Solaris.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "49af6fe738927e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/基础知识/溢出攻击.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/标准库的使用/Image.md",
+                "file": "Website/zgbmxh.cn/移动目标防御的策略选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/标准库的使用/Image.md"
+                "file": "Website/zgbmxh.cn/移动目标防御的策略选择.md"
               }
             }
           },
@@ -140,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/标准库的使用/Image.md",
+                "file": "Website/zgbmxh.cn/移动目标防御的策略选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,34 +207,39 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "6832b64ee75b2cb7",
+  "active": "57eff6c41446c1a4",
   "lastOpenFiles": [
-    "Coding/Go/基础知识/Go 打包.md",
-    "Coding/Go/标准库的使用/Image.md",
-    "Coding/Go/基础知识/go module.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Coding/Go/并发编程/并发编程.md",
-    "Coding/Go/并发编程/CSP 模型.md",
-    "Coding/Go/标准库的使用/buffer.md",
-    "Coding/Go/标准库的使用/标准库深入学习.md",
-    "Eight-part essay/资料收集.md",
-    "English Learning/英语阅读与写作.md",
-    "English Learning/小组作业脚本.md",
-    "English Learning/小组作业.md",
-    "Frontend/Vue/Vue Tutorial.md",
-    "Frontend/Vue/40+ Vue3 实用工具分享  技术胖整理.md",
-    "Frontend/Tools/WebStorm.md",
-    "Frontend/Node/问题解决.md",
-    "Frontend/ES6/ES6 规范.md",
-    "Frontend/ES6/解构变量.md",
-    "Frontend/Design/Tools.md",
-    "Frontend/Design/Design Resps!.md",
-    "Frontend/codepen/Glassmorphism Creative Cloud App Redesign.md",
-    "Group Meeting/杂活/找毕业设计.md",
-    "Hacker Tools/工具合集.md",
-    "Hacker Tools/Burp Suite.md",
-    "Hacker Tools/tcpdump 使用指南.md",
-    "Hacker Tools/sqlmap.md",
+    "Website/cloud.tencent.com/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
+    "Website/blog.csdn.net/睿智的目标检测13——Keras搭建mtcnn人脸检测平台_keras mtcnn_Bubbliiiing的博客-CSDN博客.md",
+    "Website/360.net/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
+    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
+    "Basic/操作系统/Solaris.md",
+    "Cyber Security/基础知识/溢出攻击.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Basic/操作系统",
+    "Website/360.net",
+    "Cyber Security/APT/APT Report/APT Report.md",
+    "Cyber Security/APT/APT Report",
+    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
+    "Cyber Security/认知偏执脆弱性/流程图的优化.md",
+    "Cyber Security/认知偏执脆弱性/脚本.md",
+    "Cyber Security/认知偏执脆弱性/架构图.md",
+    "Cyber Security/认知偏执脆弱性/场景构建.md",
+    "Basic/计算机网络/网络拓扑大全.md",
+    "Cyber Security/网络安全学习路线.md",
+    "Cyber Security/信息搜集.md",
+    "Cyber Security/名词解释.md",
+    "Cyber Security/deeplocker/mtcnn 开发.md",
+    "Cyber Security/调研/IDS.md",
+    "Cyber Security/调研/Sandbox.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "AI/Arcface/arcface.md",
+    "Coding/Go/标准库的使用/filepath.md",
+    "Cloud Native/Architecture/邮件服务器架构.md",
+    "Cloud Native/Architecture/Architecture.md",
+    "Cloud Native/Architecture/CI&CD.md",
+    "Coding/Go/数据分析",
+    "Coding/Go/造轮子",
     "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
     "Paper/量子力学/论文原文/未确认 927424.crdownload",
     "Paper/量子力学/论文原文/未确认 814655.crdownload",
@@ -221,14 +252,9 @@
     "Basic/计算机网络/Snipaste/Pasted image 20230523200937.png",
     "Basic/计算机网络/Snipaste/Pasted image 20230523200719.png",
     "Website/kubevirt.io",
-    "Life/Sports",
     "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163531.png",
     "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163423.png",
     "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163018.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste",
-    "Interesting/经济学/影响商业的50本书",
-    "Interesting/经济学",
-    "Interesting/哲学",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

@@ -6,6 +6,7 @@
       {
         "id": "7b8cc5b3b69ffd4f",
         "type": "tabs",
+        "dimension": 31.831480397893504,
         "children": [
           {
             "id": "49af6fe738927e9e",
@@ -13,7 +14,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
+                "file": "Basic/计算机网络/网络拓扑大全.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7db8996753c49f05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/基础知识/黑客如何攻击并接管你的路由器.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,6 +35,47 @@
             }
           }
         ]
+      },
+      {
+        "id": "84d9a8ec65f74586",
+        "type": "tabs",
+        "dimension": 68.16851960210649,
+        "children": [
+          {
+            "id": "724e4b191cbcad49",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "bf7224f5440b11b7",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md"
+              }
+            }
+          },
+          {
+            "id": "1ec33d42dab4678e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 311.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -122,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md"
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
               }
             }
           },
@@ -140,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,17 +238,27 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "1ec33d42dab4678e",
   "lastOpenFiles": [
+    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Basic/计算机网络/网络拓扑大全.md",
+    "Cyber Security/基础知识/黑客如何攻击并接管你的路由器.md",
+    "How to/How to draw a diagram.md",
+    "How to/How to write a paper.md",
+    "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
     "Website/cnblogs.com/使用Kubernetes Pod Hook 优雅的停止Pod - fengjian1585 - 博客园.md",
     "Website/blog.csdn.net/睿智的目标检测13——Keras搭建mtcnn人脸检测平台_keras mtcnn_Bubbliiiing的博客-CSDN博客.md",
+    "Cyber Security/基础知识/溢出攻击.md",
+    "Cyber Security/认知偏执脆弱性/未命名.md",
+    "Cyber Security/ATT&CK/ATTCK/Suricata 原理.md",
+    "How to/未命名",
     "Website/secrss.com",
     "Website/360.net",
-    "Cyber Security/基础知识/溢出攻击.md",
     "Website/secrss.com/美国NSA入侵西北工业大学流程图梳理和分析.md",
     "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
     "Website/360.net/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
     "Website/zgbmxh.cn/移动目标防御的策略选择.md",
     "Basic/操作系统/Solaris.md",
@@ -203,22 +270,12 @@
     "Cyber Security/认知偏执脆弱性/脚本.md",
     "Cyber Security/认知偏执脆弱性/架构图.md",
     "Cyber Security/认知偏执脆弱性/场景构建.md",
-    "Basic/计算机网络/网络拓扑大全.md",
     "Cyber Security/网络安全学习路线.md",
-    "Cyber Security/信息搜集.md",
-    "Cyber Security/名词解释.md",
-    "Cyber Security/deeplocker/mtcnn 开发.md",
-    "Cyber Security/调研/IDS.md",
-    "Cyber Security/调研/Sandbox.md",
-    "Cyber Security/调研/Deeplocker.md",
-    "AI/Arcface/arcface.md",
-    "Coding/Go/标准库的使用/filepath.md",
     "Coding/Go/数据分析",
     "Coding/Go/造轮子",
     "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
     "Paper/量子力学/论文原文/未确认 927424.crdownload",
     "Paper/量子力学/论文原文/未确认 814655.crdownload",
-    "Paper/量子力学/论文原文",
     "Basic/计算机网络/Snipaste/Pasted image 20230523201852.png",
     "Basic/计算机网络/Snipaste/Pasted image 20230523201722.png",
     "Basic/计算机网络/Snipaste/Pasted image 20230523201623.png",

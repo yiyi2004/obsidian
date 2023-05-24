@@ -4,78 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7b8cc5b3b69ffd4f",
+        "id": "06dcc3ab75b77a77",
         "type": "tabs",
-        "dimension": 31.831480397893504,
         "children": [
           {
-            "id": "49af6fe738927e9e",
+            "id": "5a85e6bd4ef1ec25",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/计算机网络/网络拓扑大全.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7db8996753c49f05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/基础知识/黑客如何攻击并接管你的路由器.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
-      },
-      {
-        "id": "84d9a8ec65f74586",
-        "type": "tabs",
-        "dimension": 68.16851960210649,
-        "children": [
-          {
-            "id": "724e4b191cbcad49",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "bf7224f5440b11b7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md"
-              }
-            }
-          },
-          {
-            "id": "1ec33d42dab4678e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945,
-    "collapsed": true
+    "width": 311.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -177,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
-              }
+              "state": {}
             }
           },
           {
@@ -196,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,13 +173,13 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "1ec33d42dab4678e",
+  "active": "5a85e6bd4ef1ec25",
   "lastOpenFiles": [
+    "Cyber Security/基础知识/黑客如何攻击并接管你的路由器.md",
+    "Basic/计算机网络/网络拓扑大全.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
-    "Basic/计算机网络/网络拓扑大全.md",
-    "Cyber Security/基础知识/黑客如何攻击并接管你的路由器.md",
     "How to/How to draw a diagram.md",
     "How to/How to write a paper.md",
     "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",

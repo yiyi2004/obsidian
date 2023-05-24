@@ -16,3 +16,7 @@ RSS（Really Simple Syndication）是一种用于在网站之间传递和共享�
 需要注意的是，尽管 RSS 在过去是非常流行和广泛使用的，但随着社交媒体和其他新闻订阅方式的兴起，它的使用已经有所减少。然而，仍然有许多网站和工具支持 RSS，使用户可以方便地获取他们感兴趣的内容更新。
 
 简单来说就是解析相互之间约定的协议。
+
+## RSS Reader
+
+- [yang991178/fluent-reader](https://github.com/yang991178/fluent-reader)

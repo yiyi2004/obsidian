@@ -2,12 +2,12 @@
 - cs 制作钓鱼页面
 - 后渗透：
 
-![[Pasted image 20221128215752.png]]
+![[Snipaste/Pasted image 20221128215752.png]]
 
 - 内网进行扫描，进行横向移动。
 - 原生只能对
 
-![[Pasted image 20221128215918.png]]
+![[Snipaste/Pasted image 20221128215918.png]]
 
 - msf 对内网进行渗透
 

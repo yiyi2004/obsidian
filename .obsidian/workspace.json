@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "06dcc3ab75b77a77",
+        "id": "1314efc5208a5ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "5a85e6bd4ef1ec25",
+            "id": "ea5e1bb989ae98a0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -59,6 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md"
+              }
             }
           },
           {
@@ -132,10 +140,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "collapseAll": false,
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
@@ -154,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,44 +181,45 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "5a85e6bd4ef1ec25",
+  "active": "ea5e1bb989ae98a0",
   "lastOpenFiles": [
-    "Cyber Security/基础知识/黑客如何攻击并接管你的路由器.md",
-    "Basic/计算机网络/网络拓扑大全.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
-    "How to/How to draw a diagram.md",
-    "How to/How to write a paper.md",
-    "Website/thegrayarea.tech/5 Python Automation Scripts I Use Every Day.md",
-    "Website/cnblogs.com/使用Kubernetes Pod Hook 优雅的停止Pod - fengjian1585 - 博客园.md",
-    "Website/blog.csdn.net/睿智的目标检测13——Keras搭建mtcnn人脸检测平台_keras mtcnn_Bubbliiiing的博客-CSDN博客.md",
-    "Cyber Security/基础知识/溢出攻击.md",
-    "Cyber Security/认知偏执脆弱性/未命名.md",
-    "Cyber Security/ATT&CK/ATTCK/Suricata 原理.md",
-    "How to/未命名",
-    "Website/secrss.com",
-    "Website/360.net",
-    "Website/secrss.com/美国NSA入侵西北工业大学流程图梳理和分析.md",
-    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
-    "Website/360.net/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
-    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
-    "Website/zgbmxh.cn/移动目标防御的策略选择.md",
-    "Basic/操作系统/Solaris.md",
-    "Website/cloud.tencent.com/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
-    "Basic/操作系统",
-    "Cyber Security/APT/APT Report/APT Report.md",
-    "Cyber Security/APT/APT Report",
-    "Cyber Security/认知偏执脆弱性/流程图的优化.md",
-    "Cyber Security/认知偏执脆弱性/脚本.md",
-    "Cyber Security/认知偏执脆弱性/架构图.md",
-    "Cyber Security/认知偏执脆弱性/场景构建.md",
-    "Cyber Security/网络安全学习路线.md",
-    "Coding/Go/数据分析",
-    "Coding/Go/造轮子",
-    "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
-    "Paper/量子力学/论文原文/未确认 927424.crdownload",
-    "Paper/量子力学/论文原文/未确认 814655.crdownload",
+    "Cyber Security/Red Team/基础设施构建/基础设施.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Cyber Security/Social Engineering/Social Engineering.md",
+    "Cyber Security/Social Engineering",
+    "Tasks/信息收集.md",
+    "Tasks/每日任务.md",
+    "AI/PyTorch/Optim/优化算法综合.md",
+    "AI/PyTorch/Neural Network/ResNet.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Tools Index.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Burp Suite.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/sqlmap.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
+    "Cyber Security/网络安全 Github 工具资料搜集.md",
+    "Cyber Security/信息搜集.md",
+    "Cyber Security/CVE/Resource   Collection.md",
+    "Cyber Security/免杀/Resource.md",
+    "Cyber Security/暗月渗透测试/工具合集.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/工具合集.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/tcpdump 使用指南.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/nmap.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Hydra.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/CobaltStrike.md",
+    "Excalidraw/Drawing 2023-05-24 19.07.09.excalidraw.md",
+    "Cyber Security/Red Team/MSF+CS/文档/Windows安装msf.md",
+    "Cyber Security/Red Team/基础设施构建",
+    "Paper/Paper/Honeypots/README.md",
+    "Paper/Paper/防御欺骗/HOLMES.md",
+    "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
+    "Paper/Paper/防御欺骗/README.md",
+    "Paper/Paper/Honeypots/How to Mock a Bear.pdf",
+    "Paper/Paper/Honeypots/How to Mock a Bear Honeypot, Honeynet, Honeywall & Honeytoken.pdf",
+    "PDFS",
+    "Cyber Security/Honeypot/Honeypot 技术概述.md",
+    "Paper/Paper/Honeypots/未确认 897352.crdownload",
+    "Excalidraw",
+    "Paper/Paper/Honeypots/Using rootkits hiding techniques to conceal honeypot functionality.pdf",
+    "Cyber Security/Rootkit",
     "Basic/计算机网络/Snipaste/Pasted image 20230523201852.png",
     "Basic/计算机网络/Snipaste/Pasted image 20230523201722.png",
     "Basic/计算机网络/Snipaste/Pasted image 20230523201623.png",

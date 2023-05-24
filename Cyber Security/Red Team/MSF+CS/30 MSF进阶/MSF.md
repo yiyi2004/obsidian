@@ -1,4 +1,4 @@
-![[Pasted image 20221130143345.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130143345.png]]
 
 - 漏洞：安全性的缺陷
 - bug：功能上的缺陷
@@ -26,9 +26,9 @@
 - s.threatbook.com 微步云沙箱
  
 - 渗透测试的流程
-![[Pasted image 20221130144857.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130144857.png]]
 
-![[Pasted image 20221130145245.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130145245.png]]
 
 - **基于某个漏洞数据库** 需要掌握大量数据库
 - github POC EXP 的工具
@@ -46,59 +46,59 @@
 
 - /usr/share/metasploit-framework/modules/exploit
 
-![[Pasted image 20221130152455.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130152455.png]]
 
 - meterpreter
 
-![[Pasted image 20221130152543.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130152543.png]]
 
 - 情报收集阶段使用辅助模块
 
-![[Pasted image 20221130152825.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130152825.png]]
 
 - 这种具有开放性的工具的扩展性是甚强的。ruby
 
-![[Pasted image 20221130153455.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130153455.png]]
 
- ![[Pasted image 20221130153615.png]]
+ ![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130153615.png]]
 - 内容少，针对 windows 平台，免杀效果差。
 
-![[Pasted image 20221130153655.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130153655.png]]
 - 填充空格，空模块，实际应用少。
 
 
-![[Pasted image 20221130153722.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130153722.png]]
 - payloads 是用来生成木马的。
 
 # 基本命令
 
 - 交互界面
 
-![[Pasted image 20221130155103.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130155103.png]]
 
 - 核心命令
 - 内置数据库，如果有匹配的利用工具，会直接给你。**search** 命令非常关键
 
 ## search
 
-![[Pasted image 20221130160732.png]]
-![[Pasted image 20221130160905.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130160732.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130160905.png]]
 
 - cve-details
 
-![[Pasted image 20221130160800.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130160800.png]]
 
 - search 搜索的是自带的模块
 - **searchsploit** 搜索的是漏洞数据库网站的内容
 - exploit-db.com： https://www.exploit-db.com/
 - 这里面都是针对于某一个漏洞的利用脚本
 
-![[Pasted image 20221130161552.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130161552.png]]
 
 - python 脚本，利用它可以直接攻击成功。**补丁系统如何设计？**
 - show options 
 
-![[Pasted image 20221130164751.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130164751.png]]
 
 - use + module (search)
 - show options
@@ -118,22 +118,22 @@
 
 kali 主机发现 nmap
 
-![[Pasted image 20221130170120.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130170120.png]]
 
 - C 段
 
-![[Pasted image 20221130170544.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130170544.png]]
 
 - 搜集 IP 信息
 - 搜集端口信息
 
-![[Pasted image 20221130170627.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130170627.png]]
 
-![[Pasted image 20221130170715.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130170715.png]]
 
 - **vunhub.org 的靶场，漏洞复现的靶场**
 
-![[Pasted image 20221130170832.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130170832.png]]
 
 - kali 里面目录扫描
 	- drrb
@@ -143,30 +143,30 @@ kali 主机发现 nmap
 - 192.168.184.1 代表物理机的 IP，这我还是第一次知道
 
 
-![[Pasted image 20221130171045.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130171045.png]]
 
-![[Pasted image 20221130171054.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130171054.png]]
 - 默认的字典
 - 200 成功
 
 - 爆破 ssh 的操作
-![[Pasted image 20221130171248.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130171248.png]]
 
 - kali 爆破 ssh 协议的软件
 
-![[Pasted image 20221130171332.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130171332.png]]
 
 - 常用辅助模块，信息搜集。
 
-![[Pasted image 20221130171419.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130171419.png]]
 
 
 # 安全方向
-![[Pasted image 20221130172746.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130172746.png]]
 
 - 别干网工
 
-![[Pasted image 20221130173139.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130173139.png]]
 # msf 实战
 - msf 渗透 wordpress 博客
 - msf 爆破 Tomcat 并获得 shell
@@ -175,7 +175,7 @@ kali 主机发现 nmap
 
 ## WPScan 爆破WordPress 密码
 WorldPress 全球最流行的 web  应用。
-![[Pasted image 20221130183108.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130183108.png]]
 
 1. 程序本身有问题
 2. 插件
@@ -184,9 +184,9 @@ WorldPress 全球最流行的 web  应用。
 ```shell
 wpscan --url https://www.coolshell.cn --enumerate -u
 ```
-![[Pasted image 20221130204324.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130204324.png]]
 
-![[Pasted image 20221130204509.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130204509.png]]
 
 - 文件上传：木马
 - 反弹shell
@@ -203,41 +203,41 @@ wpscan --url https://www.coolshell.cn --enumerate -u
 1. 建立监听
 2. 生成反弹链接木马
 
-![[Pasted image 20221130204903.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130204903.png]]
 
 - msfvenom
 
-![[Pasted image 20221130205029.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130205029.png]]
 
-![[Pasted image 20221130205454.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130205454.png]]
 
 - 记得备份原来的数据，然后将生成的载荷放到一个 php 文件中。如 404，只要调用就会上钩。
 
-![[Pasted image 20221130205631.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130205631.png]]
 
-![[Pasted image 20221130210012.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210012.png]]
 
-![[Pasted image 20221130210054.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210054.png]]
 
 - meterpreter 执行的不是操作系统的命令，而是 meterpreter 的命令
 
-![[Pasted image 20221130210214.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210214.png]]
 
-![[Pasted image 20221130210248.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210248.png]]
 
 - sysinfo
 
-![[Pasted image 20221130210402.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210402.png]]
 
-![[Pasted image 20221130210529.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210529.png]]
 
 - background
 - 会话的概念，让很多人链接我的电脑。
 
 
-![[Pasted image 20221130210838.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210838.png]]
 
-![[Pasted image 20221130210933.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130210933.png]]
 
 - shell 进入目标主机的shell
 -  只要获得 meterpreter 的会话，你就有权限上传和下载文件。
@@ -246,7 +246,7 @@ wpscan --url https://www.coolshell.cn --enumerate -u
 - clearev 清除痕迹
 
 ## msf 渗透总结
-![[Pasted image 20221130211814.png]]
+![[../../基础设施构建/Hacker Tools/Snipaste/Pasted image 20221130211814.png]]
 # msf 进阶
 - msf 利用永恒之蓝 ms17-010
 - msf 渗透并控制安卓手机

@@ -2,8 +2,8 @@
 
 ![[Snipaste/Pasted image 20221120205237.png]]
 
-![[Snipaste/Pasted image 20221121152257.png]]
-![[Snipaste/Pasted image 20221121152315.png]]
+![[Snipaste/Pasted image 20221121152257.png]]  
+![[Snipaste/Pasted image 20221121152315.png]]  
 ![[Snipaste/Pasted image 20221121152325.png]]
 
 ```go
@@ -24,11 +24,12 @@ func TestBufferRW(t *testing.T) {
 }
 
 ```
-![[Snipaste/Pasted image 20221121153226.png]]
+
+![[Snipaste/Pasted image 20221121153226.png]]  
 ![[Snipaste/Pasted image 20221121153410.png]]
 
+## Reader 类型
 
-# Reader 类型
 ![[Snipaste/Pasted image 20221121153441.png]]
 
 ![[Snipaste/Pasted image 20221121153454.png]]
@@ -38,4 +39,3 @@ func TestBufferRW(t *testing.T) {
 ![[Snipaste/Pasted image 20221121154017.png]]
 
 - 调试的技巧
-

@@ -1,2 +1,1 @@
-- [Examples - Apache ECharts](https://echarts.apache.org/examples/zh/index.html#chart-type-line)：用来制作图的工具(各种各样的图)。
-- 
+- [Examples - Apache ECharts](https://echarts.apache.org/examples/zh/index.html#chart-type-line)：用来制作图的工具 (各种各样的图)。

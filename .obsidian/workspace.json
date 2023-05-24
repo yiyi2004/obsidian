@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "file": "Cyber Security/中国的职业教育.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "file": "Cyber Security/中国的职业教育.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md"
+                "file": "Cyber Security/中国的职业教育.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "file": "Cyber Security/中国的职业教育.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,9 @@
   },
   "active": "ea5e1bb989ae98a0",
   "lastOpenFiles": [
-    "Cyber Security/Red Team/基础设施构建/基础设施.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Cyber Security/中国的职业教育.md",
+    "Cyber Security/Red Team/基础设施构建/基础设施.md",
     "Cyber Security/Social Engineering/Social Engineering.md",
     "Cyber Security/Social Engineering",
     "Tasks/信息收集.md",
@@ -215,7 +216,6 @@
     "Paper/Paper/Honeypots/How to Mock a Bear.pdf",
     "Paper/Paper/Honeypots/How to Mock a Bear Honeypot, Honeynet, Honeywall & Honeytoken.pdf",
     "PDFS",
-    "Cyber Security/Honeypot/Honeypot 技术概述.md",
     "Paper/Paper/Honeypots/未确认 897352.crdownload",
     "Excalidraw",
     "Paper/Paper/Honeypots/Using rootkits hiding techniques to conceal honeypot functionality.pdf",

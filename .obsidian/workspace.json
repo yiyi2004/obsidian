@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/APT/APT Report/APT Report.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/APT/APT Report/APT Report.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/APT/APT Report/APT Report.md"
+                "file": "Interesting/陈平跨学科思维.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/APT/APT Report/APT Report.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,6 +183,17 @@
   },
   "active": "ea5e1bb989ae98a0",
   "lastOpenFiles": [
+    "Interesting/Snipaste/Pasted image 20230525182845.png",
+    "Interesting/Snipaste/Pasted image 20230525182748.png",
+    "Interesting/Snipaste/Pasted image 20230525182517.png",
+    "Interesting/Snipaste/Pasted image 20230525182301.png",
+    "Interesting/Snipaste/Pasted image 20230525182041.png",
+    "Interesting/Snipaste/Pasted image 20230525181921.png",
+    "Interesting/Snipaste/Pasted image 20230525181500.png",
+    "Interesting/Snipaste/Pasted image 20230525180532.png",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
+    "Cyber Security/APT/APT Report/APT Report.md",
     "Frontend/UI/UI 设计.md",
     "Frontend/UI/Design Resps!.md",
     "Frontend/UI/色卡如何使用.md",
@@ -190,17 +201,10 @@
     "Frontend/UI/Snipaste/Pasted image 20230525170031.png",
     "Frontend/UI/Snipaste/Pasted image 20230525165915.png",
     "Frontend/UI/Snipaste/Pasted image 20230525165803.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165717.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165604.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165422.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165356.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165224.png",
     "Frontend/UI/Snipaste",
     "Frontend/Design/未命名",
     "Interesting/陈平跨学科思维.md",
     "Frontend/UI",
-    "Interesting/Snipaste/Pasted image 20230525121354.png",
-    "Interesting/Snipaste/Pasted image 20230525121341.png",
     "Interesting/Snipaste",
     "Master's degree/采访与谈话/探讨论文的问题.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
@@ -221,10 +225,6 @@
     "Cyber Security/信息搜集.md",
     "Cyber Security/CVE/Resource   Collection.md",
     "Cyber Security/免杀/Resource.md",
-    "Cyber Security/暗月渗透测试/工具合集.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/工具合集.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/tcpdump 使用指南.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/nmap.md",
     "Cyber Security/Red Team/基础设施构建",
     "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
     "Paper/Paper/Honeypots/How to Mock a Bear.pdf",

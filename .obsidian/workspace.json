@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d03fe60c6c0de2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master's degree/采访与谈话/探讨论文的问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32728929482a1c23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Python/Repository/Web 框架.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Coding/Python/Repository/Web 框架.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md"
+                "file": "Coding/Python/Repository/Web 框架.md"
               }
             }
           },
@@ -140,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Coding/Python/Repository/Web 框架.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,16 +208,24 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ea5e1bb989ae98a0",
+  "active": "32728929482a1c23",
   "lastOpenFiles": [
+    "Coding/Python/Repository/tqdm.md",
+    "Coding/Python/Repository/量化交易.md",
+    "Coding/Python/awesome-python.md",
+    "Coding/Python/Repository/Web 框架.md",
+    "Master's degree/采访与谈话/探讨论文的问题.md",
+    "Interesting/陈平跨学科思维.md",
+    "Interesting/Snipaste/Pasted image 20230525210007.png",
+    "Interesting/Snipaste/Pasted image 20230525205935.png",
+    "Interesting/Snipaste/Pasted image 20230525205438.png",
+    "Interesting/Snipaste/Pasted image 20230525205304.png",
+    "Interesting/Snipaste/Pasted image 20230525203429.png",
+    "Interesting/Snipaste/Pasted image 20230525203345.png",
+    "Interesting/Snipaste/Pasted image 20230525203203.png",
     "Interesting/Snipaste/Pasted image 20230525182845.png",
     "Interesting/Snipaste/Pasted image 20230525182748.png",
     "Interesting/Snipaste/Pasted image 20230525182517.png",
-    "Interesting/Snipaste/Pasted image 20230525182301.png",
-    "Interesting/Snipaste/Pasted image 20230525182041.png",
-    "Interesting/Snipaste/Pasted image 20230525181921.png",
-    "Interesting/Snipaste/Pasted image 20230525181500.png",
-    "Interesting/Snipaste/Pasted image 20230525180532.png",
     "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
     "Cyber Security/APT/APT Report/APT Report.md",
@@ -198,15 +233,10 @@
     "Frontend/UI/Design Resps!.md",
     "Frontend/UI/色卡如何使用.md",
     "Frontend/UI/codepen/Glassmorphism Creative Cloud App Redesign.md",
-    "Frontend/UI/Snipaste/Pasted image 20230525170031.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165915.png",
-    "Frontend/UI/Snipaste/Pasted image 20230525165803.png",
     "Frontend/UI/Snipaste",
     "Frontend/Design/未命名",
-    "Interesting/陈平跨学科思维.md",
     "Frontend/UI",
     "Interesting/Snipaste",
-    "Master's degree/采访与谈话/探讨论文的问题.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Cyber Security/中国的职业教育.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
@@ -222,9 +252,6 @@
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/sqlmap.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "Cyber Security/网络安全 Github 工具资料搜集.md",
-    "Cyber Security/信息搜集.md",
-    "Cyber Security/CVE/Resource   Collection.md",
-    "Cyber Security/免杀/Resource.md",
     "Cyber Security/Red Team/基础设施构建",
     "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
     "Paper/Paper/Honeypots/How to Mock a Bear.pdf",

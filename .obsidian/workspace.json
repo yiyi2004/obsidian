@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 311.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
+                "file": "Interesting/陈平跨学科思维.md"
               }
             }
           },
@@ -140,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,6 +185,21 @@
   },
   "active": "ea5e1bb989ae98a0",
   "lastOpenFiles": [
+    "Interesting/Snipaste/Pasted image 20230525121354.png",
+    "Interesting/Snipaste/Pasted image 20230525121341.png",
+    "Interesting/Snipaste/Pasted image 20230525121329.png",
+    "Interesting/Snipaste/Pasted image 20230525121323.png",
+    "Interesting/Snipaste/Pasted image 20230525121313.png",
+    "Interesting/Snipaste/Pasted image 20230525121306.png",
+    "Interesting/Snipaste/Pasted image 20230525121249.png",
+    "Interesting/Snipaste/Pasted image 20230525121241.png",
+    "Interesting/Snipaste/Pasted image 20230525121231.png",
+    "Interesting/Snipaste/Pasted image 20230525121224.png",
+    "Interesting/Snipaste/Pasted image 20230525121215.png",
+    "Interesting/Snipaste",
+    "Master's degree/采访与谈话/探讨论文的问题.md",
+    "Interesting/陈平跨学科思维.md",
+    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Cyber Security/中国的职业教育.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Cyber Security/Red Team/基础设施构建/基础设施.md",
@@ -207,29 +224,14 @@
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/Hydra.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/CobaltStrike.md",
     "Excalidraw/Drawing 2023-05-24 19.07.09.excalidraw.md",
-    "Cyber Security/Red Team/MSF+CS/文档/Windows安装msf.md",
     "Cyber Security/Red Team/基础设施构建",
-    "Paper/Paper/Honeypots/README.md",
-    "Paper/Paper/防御欺骗/HOLMES.md",
     "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
-    "Paper/Paper/防御欺骗/README.md",
     "Paper/Paper/Honeypots/How to Mock a Bear.pdf",
     "Paper/Paper/Honeypots/How to Mock a Bear Honeypot, Honeynet, Honeywall & Honeytoken.pdf",
     "PDFS",
     "Paper/Paper/Honeypots/未确认 897352.crdownload",
     "Excalidraw",
     "Paper/Paper/Honeypots/Using rootkits hiding techniques to conceal honeypot functionality.pdf",
-    "Cyber Security/Rootkit",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523201852.png",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523201722.png",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523201623.png",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523201350.png",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523201017.png",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523200937.png",
-    "Basic/计算机网络/Snipaste/Pasted image 20230523200719.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163531.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163423.png",
-    "Interesting/经济学/影响商业的50本书/Snipaste/Pasted image 20230523163018.png",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

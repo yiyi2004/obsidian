@@ -24,12 +24,9 @@
             "id": "5f2a231851eee2a2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf-annotator",
               "state": {
-                "file": "Tasks/Review.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md"
               }
             }
           }
@@ -78,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Review.md",
+                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +117,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 311.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Review.md"
+                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md"
               }
             }
           },
@@ -154,7 +152,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Review.md",
+                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +196,13 @@
   },
   "active": "5f2a231851eee2a2",
   "lastOpenFiles": [
+    "PDFS/A comprehensive review study of cyber-attacks and cyber security.pdf",
+    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
+    "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md",
+    "PDFS/未确认 19001.crdownload",
+    "Tasks/Review.md",
     "Website/The recent trends in cyber security A review.md",
     "Tasks/APT Report.md",
-    "Tasks/Review.md",
-    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
     "PDFS/The recent trends in cyber security.htm",
     "PDFS/未确认 856874.crdownload",
     "Paper/Cyber Security/Review",
@@ -240,11 +241,7 @@
     "Interesting/Snipaste",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Cyber Security/中国的职业教育.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-    "Cyber Security/Red Team/基础设施构建/基础设施.md",
-    "Cyber Security/Social Engineering",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
-    "Cyber Security/Red Team/基础设施构建",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

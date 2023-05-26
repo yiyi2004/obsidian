@@ -1,3 +1,23 @@
 - [blackorbird/APT_REPORT: Interesting APT Report Collection And Some Special IOC (github.com)](https://github.com/blackorbird/APT_REPORT)
 - [blackorbird (@blackorbird) / Twitter](https://twitter.com/blackorbird)
 - [CyberMonitor/APT_CyberCriminal_Campagin_Collections: APT & CyberCriminal Campaign Collection (github.com)](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
+
+## Reference
+
+- [kbandla](https://github.com/kbandla/APTnotes)  
+- [APTnotes](https://github.com/aptnotes/data)  
+- [Florian Roth - APT Groups](https://docs.google.com/spreadsheets/u/0/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  
+- [Attack Wiki](https://attack.mitre.org/wiki/Groups)  
+- [threat-INTel](https://github.com/fdiskyou/threat-INTel)  
+- [targetedthreats](https://securitywithoutborders.org/resources/targeted-surveillance-reports.html)  
+- [Raw Threat Intelligence](https://docs.google.com/document/d/1oYX3uN6KxIX_StzTH0s0yFNNoHDnV8VgmVqU5WoeErc/edit)  
+- [APT search](https://cse.google.com/cse/publicurl?cx=003248445720253387346:turlh5vi4xc)  
+- [APT Sample by 0xffff0800](http://0xffff0800.ddns.net/Library/) ([https://iec56w4ibovnb4wc.onion.si/](https://iec56w4ibovnb4wc.onion.si/))  
+- [APT Map](https://aptmap.netlify.com/)  
+- [sapphirex00 - Threat-Hunting](https://github.com/sapphirex00/Threat-Hunting)  
+- [APTSimulator](https://github.com/NextronSystems/APTSimulator)  
+- [MITRE Att&CK: Group](https://attack.mitre.org/groups/)  
+- [APT_REPORT collected by @blackorbird](https://github.com/blackorbird/APT_REPORT)  
+- [Analysis of malware and Cyber Threat Intel of APT and cybercriminals groups](https://github.com/StrangerealIntel/CyberThreatIntel)  
+- [APT_Digital_Weapon](https://github.com/RedDrip7/APT_Digital_Weapon)  
+- [vx-underground](https://vx-underground.org/apts.html)

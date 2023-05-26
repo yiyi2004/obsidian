@@ -98,3 +98,24 @@ print(padded_arr)
 ```
 
 可以看到，填充后的数组在每个维度的两端分别添加了 1 个宽度为 0 的元素。
+
+## gocv.Mat 和 image.Image 之间的转换
+
+```go
+func cvtImageToMat(img image.Image) (gocv.Mat, error) {
+	bounds := img.Bounds()
+	x := bounds.Dx()
+	y := bounds.Dy()
+	bytes := make([]byte, 0, x*y*3)
+
+	for j := bounds.Min.Y; j < bounds.Max.Y; j++ {
+		for i := bounds.Min.X; i < bounds.Max.X; i++ {
+			r, g, b, _ := img.At(i, j).RGBA()
+			bytes = append(bytes, byte(b>>8), byte(g>>8), byte(r>>8))
+		}
+	}
+	return gocv.NewMatFromBytes(y, x, gocv.MatTypeCV8UC3, bytes)
+}
+```
+
+- [gocv.Mat类型和image.Image互相转化_cv mat转image_Freestyle Coding的博客-CSDN博客](https://blog.csdn.net/m0_55708805/article/details/116150660)

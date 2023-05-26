@@ -1,4 +1,4 @@
-对嵌入静态文件的需求，方便go程序的迁移和部署
+对嵌入静态文件的需求，方便 go 程序的迁移和部署
 
 ```go
 package main
@@ -19,5 +19,6 @@ func main() {
 
 尝试将深度学习模型的代码嵌入进去
 
-## [[../../Cloud Native/Database/Dgraph/图数据库]] 
+## [[../../Cloud Native/Database/Dgraph/图数据库]]
+
 - [Golang1.16 使用embed加载静态文件 | Go 技术论坛 (learnku.com)](https://learnku.com/articles/60054)

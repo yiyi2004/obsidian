@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+                "file": "Cloud Native/Linux/Nginx/Nginx 基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a927c9ca48d17d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/Linux/Nginx/Nginx.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/计算机网络/网络拓扑.md",
+                "file": "Cloud Native/Linux/Nginx/Nginx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/计算机网络/网络拓扑.md"
+                "file": "Cloud Native/Linux/Nginx/Nginx.md"
               }
             }
           },
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/计算机网络/网络拓扑.md",
+                "file": "Cloud Native/Linux/Nginx/Nginx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,16 +231,19 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "ecc352cf75cbc39c",
+  "active": "a927c9ca48d17d5d",
   "lastOpenFiles": [
-    "Basic/计算机网络/Snipaste/Pasted image 20230526155819.png",
+    "Cloud Native/Linux/Nginx/Nginx 基础.md",
+    "Cloud Native/Linux/Nginx/Nginx.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Cloud Native/Linux/Nginx",
     "Basic/计算机网络/网络拓扑.md",
+    "Basic/计算机网络/Snipaste/Pasted image 20230526155819.png",
     "Basic/计算机网络/QoS.md",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp.crdownload",
     "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
     "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
     "Cyber Security/认知偏执脆弱性/架构图.md",
@@ -253,7 +269,6 @@
     "Tasks/每日任务.md",
     "Coding/Python/Repository/Web 框架.md",
     "Coding/Python/Repository/tqdm.md",
-    "Coding/Python/Repository/量化交易.md",
     "Interesting/Snipaste/Pasted image 20230525210007.png",
     "Interesting/Snipaste/Pasted image 20230525205935.png",
     "Interesting/Snipaste/Pasted image 20230525205438.png",
@@ -262,10 +277,8 @@
     "Interesting/Snipaste/Pasted image 20230525203345.png",
     "Interesting/Snipaste/Pasted image 20230525203203.png",
     "Interesting/Snipaste/Pasted image 20230525182845.png",
-    "Interesting/Snipaste/Pasted image 20230525182748.png",
     "Frontend/UI/Snipaste",
     "Frontend/Design/未命名",
-    "Frontend/UI",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

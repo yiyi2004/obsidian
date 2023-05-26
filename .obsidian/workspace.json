@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1314efc5208a5ec5",
+        "id": "d6c1c867b40bf0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "ea5e1bb989ae98a0",
+            "id": "6b2ca590d79608e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,25 +21,12 @@
             }
           },
           {
-            "id": "d03fe60c6c0de2a1",
+            "id": "5f2a231851eee2a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master's degree/采访与谈话/探讨论文的问题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32728929482a1c23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Python/Repository/Web 框架.md",
+                "file": "Tasks/Review.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/Web 框架.md",
+                "file": "Tasks/Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/Repository/Web 框架.md"
+                "file": "Tasks/Review.md"
               }
             }
           },
@@ -167,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/Web 框架.md",
+                "file": "Tasks/Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,14 +196,28 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "32728929482a1c23",
+  "active": "5f2a231851eee2a2",
   "lastOpenFiles": [
+    "Website/The recent trends in cyber security A review.md",
+    "Tasks/APT Report.md",
+    "Tasks/Review.md",
+    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
+    "PDFS/The recent trends in cyber security.htm",
+    "PDFS/未确认 856874.crdownload",
+    "Paper/Cyber Security/Review",
+    "Paper/Cyber Security",
+    "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
+    "Website/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
+    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Interesting/陈平跨学科思维.md",
+    "Master's degree/采访与谈话/探讨论文的问题.md",
+    "Tasks/信息收集.md",
+    "Tasks/每日任务.md",
+    "Coding/Python/Repository/Web 框架.md",
     "Coding/Python/Repository/tqdm.md",
     "Coding/Python/Repository/量化交易.md",
     "Coding/Python/awesome-python.md",
-    "Coding/Python/Repository/Web 框架.md",
-    "Master's degree/采访与谈话/探讨论文的问题.md",
-    "Interesting/陈平跨学科思维.md",
     "Interesting/Snipaste/Pasted image 20230525210007.png",
     "Interesting/Snipaste/Pasted image 20230525205935.png",
     "Interesting/Snipaste/Pasted image 20230525205438.png",
@@ -226,7 +228,6 @@
     "Interesting/Snipaste/Pasted image 20230525182845.png",
     "Interesting/Snipaste/Pasted image 20230525182748.png",
     "Interesting/Snipaste/Pasted image 20230525182517.png",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
     "Cyber Security/APT/APT Report/APT Report.md",
     "Frontend/UI/UI 设计.md",
@@ -241,22 +242,9 @@
     "Cyber Security/中国的职业教育.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Cyber Security/Red Team/基础设施构建/基础设施.md",
-    "Cyber Security/Social Engineering/Social Engineering.md",
     "Cyber Security/Social Engineering",
-    "Tasks/信息收集.md",
-    "Tasks/每日任务.md",
-    "AI/PyTorch/Optim/优化算法综合.md",
-    "AI/PyTorch/Neural Network/ResNet.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Tools Index.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Burp Suite.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/sqlmap.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
-    "Cyber Security/网络安全 Github 工具资料搜集.md",
     "Cyber Security/Red Team/基础设施构建",
-    "Paper/Paper/防御欺骗/主动防御增强的蜜网系统设计与实现_路祥雨.pdf",
-    "Paper/Paper/Honeypots/How to Mock a Bear.pdf",
-    "Paper/Paper/Honeypots/How to Mock a Bear Honeypot, Honeynet, Honeywall & Honeytoken.pdf",
-    "PDFS",
     "未命名.canvas",
     "未命名 1.canvas"
   ]

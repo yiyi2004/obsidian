@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d6c1c867b40bf0a5",
+        "id": "9f431995c2a5cea0",
         "type": "tabs",
         "children": [
           {
-            "id": "6b2ca590d79608e4",
+            "id": "01aeec6f3b2ceecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "5f2a231851eee2a2",
+            "id": "ecc352cf75cbc39c",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "markdown",
               "state": {
-                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md"
+                "file": "Basic/计算机网络/网络拓扑.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b652ad8e8bd61e1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/计算机网络/网络拓扑.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc0c5536b8b34e24",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md"
               }
             }
           }
@@ -75,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md",
+                "file": "Basic/计算机网络/网络拓扑.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945,
-    "collapsed": true
+    "width": 311.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -134,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md"
+                "file": "Basic/计算机网络/网络拓扑.md"
               }
             }
           },
@@ -152,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md",
+                "file": "Basic/计算机网络/网络拓扑.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,11 +218,23 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "5f2a231851eee2a2",
+  "active": "ecc352cf75cbc39c",
   "lastOpenFiles": [
-    "PDFS/A comprehensive review study of cyber-attacks and cyber security.pdf",
-    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Basic/计算机网络/网络拓扑.md",
+    "Basic/计算机网络/QoS.md",
+    "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
+    "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp.crdownload",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
+    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
+    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性调研.md",
+    "Cyber Security/认知偏执脆弱性/架构图.md",
+    "Cyber Security/认知偏执脆弱性/脚本.md",
+    "Cyber Security/认知偏执脆弱性/场景构建.md",
     "Paper/Cyber Security/Review/A comprehensive review study of cyber-attacks and cyber security; Emerging trends and recent developments.md",
+    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
+    "PDFS/A comprehensive review study of cyber-attacks and cyber security.pdf",
     "PDFS/未确认 19001.crdownload",
     "Tasks/Review.md",
     "Website/The recent trends in cyber security A review.md",
@@ -210,7 +246,6 @@
     "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
     "Website/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
     "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Interesting/陈平跨学科思维.md",
     "Master's degree/采访与谈话/探讨论文的问题.md",
     "Tasks/信息收集.md",
@@ -218,7 +253,6 @@
     "Coding/Python/Repository/Web 框架.md",
     "Coding/Python/Repository/tqdm.md",
     "Coding/Python/Repository/量化交易.md",
-    "Coding/Python/awesome-python.md",
     "Interesting/Snipaste/Pasted image 20230525210007.png",
     "Interesting/Snipaste/Pasted image 20230525205935.png",
     "Interesting/Snipaste/Pasted image 20230525205438.png",
@@ -228,19 +262,9 @@
     "Interesting/Snipaste/Pasted image 20230525203203.png",
     "Interesting/Snipaste/Pasted image 20230525182845.png",
     "Interesting/Snipaste/Pasted image 20230525182748.png",
-    "Interesting/Snipaste/Pasted image 20230525182517.png",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
-    "Cyber Security/APT/APT Report/APT Report.md",
-    "Frontend/UI/UI 设计.md",
-    "Frontend/UI/Design Resps!.md",
-    "Frontend/UI/色卡如何使用.md",
-    "Frontend/UI/codepen/Glassmorphism Creative Cloud App Redesign.md",
     "Frontend/UI/Snipaste",
     "Frontend/Design/未命名",
     "Frontend/UI",
-    "Interesting/Snipaste",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Cyber Security/中国的职业教育.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

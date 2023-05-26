@@ -22,5 +22,6 @@
   "obsidian-plugin-toc",
   "obsidian-linter",
   "obsidian-excel-to-markdown-table",
-  "obsidian-file-path-to-uri"
+  "obsidian-file-path-to-uri",
+  "language-translator"
 ]

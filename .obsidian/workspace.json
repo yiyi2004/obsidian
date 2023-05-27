@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/go build.md",
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/go build.md",
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/go build.md"
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/go build.md",
+                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +183,29 @@
   },
   "active": "07ac3b4dae9673dd",
   "lastOpenFiles": [
-    "Coding/Go/Go embed.md",
-    "Coding/Go/go build.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Tasks/Blog.md",
-    "Tasks/每日任务.md",
-    "Tasks/APT Report.md",
     "Tasks/Review.md",
+    "Tasks/Blog.md",
+    "Tasks/APT Report.md",
+    "Eassay/BiliBili/20多岁最容易陷入的4种危险状态.md",
+    "Eassay/BiliBili/Snipaste/Pasted image 20230527075334.png",
+    "Eassay/BiliBili/最好的减肥运动是？（不是HIIT）.md",
+    "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
+    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
+    "Website/人工智能 deepface 换脸技术 学习-腾讯云开发者社区-腾讯云.md",
+    "Website/全球高级持续性威胁 (APT) 2022年度报告.md",
+    "Eassay/BiliBili/Snipaste/Pasted image 20230527072750.png",
+    "Eassay/BiliBili/Snipaste/Pasted image 20230527072747.png",
+    "Eassay/BiliBili/Snipaste",
+    "Write/Material for Writing/生活趣事/段子素材.md",
+    "Eassay/BiliBili",
+    "English Learning/美剧跟练/老友记第一季.md",
+    "English Learning/美剧跟练",
+    "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230527065619.png",
+    "Write/Material for Writing/生活趣事/Snipaste",
+    "Coding/Go/go build.md",
+    "Coding/Go/Go embed.md",
+    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+    "Tasks/每日任务.md",
     "AI/Go&AI/Hands-On Deep Learning with Go.md",
     "Cyber Security/APT/APT Report/APT Report.md",
     "AI/Go&AI",
@@ -203,32 +219,15 @@
     "English Learning/期末 presentation.md",
     "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
-    "Daily/2023-05-26.md",
     "Daily",
-    "Write/Material for Writing/生活趣事/段子素材.md",
-    "How to/How  to write.md",
     "Write/Material for Writing/生活趣事",
     "Write/Material for Writing",
     "How to/Snipaste/Pasted image 20230526181418.png",
-    "How to/How.md",
-    "How to/How to write a paper.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
-    "Cloud Native/Linux/Nginx/Nginx 基础.md",
-    "Cloud Native/Linux/Nginx/Nginx.md",
-    "Basic/计算机网络/网络拓扑.md",
-    "Cloud Native/Linux/Nginx",
     "Basic/计算机网络/Snipaste/Pasted image 20230526155819.png",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
-    "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp.crdownload",
-    "PDFS/A comprehensive review study of cyber-attacks and cyber security.pdf",
-    "PDFS/未确认 19001.crdownload",
     "Interesting/Snipaste/Pasted image 20230525210007.png",
     "Interesting/Snipaste/Pasted image 20230525205935.png",
     "Interesting/Snipaste/Pasted image 20230525205438.png",
-    "Interesting/Snipaste/Pasted image 20230525205304.png",
-    "Interesting/Snipaste/Pasted image 20230525203429.png",
-    "Interesting/Snipaste/Pasted image 20230525203345.png",
-    "Interesting/Snipaste/Pasted image 20230525203203.png",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

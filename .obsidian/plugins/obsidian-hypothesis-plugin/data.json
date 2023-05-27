@@ -8,8 +8,8 @@
   "autoSyncInterval": 60,
   "dateTimeFormat": "YYYY-MM-DD HH:mm:ss",
   "history": {
-    "totalArticles": 108,
-    "totalHighlights": 529
+    "totalArticles": 112,
+    "totalHighlights": 538
   },
   "groups": [
     {
@@ -18,8 +18,15 @@
       "public": true,
       "type": "open",
       "selected": true
+    },
+    {
+      "id": "znpqi5dE",
+      "name": "blog",
+      "public": false,
+      "type": "private",
+      "selected": true
     }
   ],
   "useDomainFolders": false,
-  "lastSyncDate": "2023-05-26T13:18:35.490Z"
+  "lastSyncDate": "2023-05-27T00:14:42.877Z"
 }

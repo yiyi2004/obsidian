@@ -13,14 +13,54 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+                "file": "Basic/计算机网络/Proxy/Basic Proxy.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4ff265482c90a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting/陈平跨学科思维.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af375a29b5ec6ab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Red Team/Botnet.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fbd93ac37ae97c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/随想.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
+                "file": "Interesting/陈平跨学科思维.md"
               }
             }
           },
@@ -140,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,53 +221,54 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "07ac3b4dae9673dd",
+  "active": "a4ff265482c90a17",
   "lastOpenFiles": [
+    "Cyber Security/Red Team/黑客攻击一般流程.md",
+    "Basic/计算机网络/Proxy/Basic Proxy.md",
+    "Cyber Security/Red Team/Botnet.md",
+    "Eassay/随想.md",
+    "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
+    "Website/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md",
+    "Website/The recent trends in cyber security A review.md",
+    "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
+    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
+    "Website/kubevirtkubevirt Kubernetes Virtualization API and runtime in order to define and manage virtual machines.md",
+    "Website/KubeVirt.io.md",
+    "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
+    "Website/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
+    "Website/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
+    "Website/8.12. 蜜罐技术 — Web安全学习笔记 1.0 文档.md",
+    "Website/5 Python Automation Scripts I Use Every Day.md",
+    "Website/全球高级持续性威胁 (APT) 2022年度报告.md",
+    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
+    "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md",
+    "Eassay/杨真直自律.md",
+    "Basic/计算机网络/Proxy",
+    "Cyber Security/Red Team/Snipaste/Pasted image 20230527092018.png",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Basic/计算机网络/网络拓扑.md",
     "Tasks/Review.md",
     "Tasks/Blog.md",
     "Tasks/APT Report.md",
     "Eassay/BiliBili/20多岁最容易陷入的4种危险状态.md",
     "Eassay/BiliBili/Snipaste/Pasted image 20230527075334.png",
-    "Eassay/BiliBili/最好的减肥运动是？（不是HIIT）.md",
-    "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
-    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
-    "Website/人工智能 deepface 换脸技术 学习-腾讯云开发者社区-腾讯云.md",
-    "Website/全球高级持续性威胁 (APT) 2022年度报告.md",
     "Eassay/BiliBili/Snipaste/Pasted image 20230527072750.png",
     "Eassay/BiliBili/Snipaste/Pasted image 20230527072747.png",
     "Eassay/BiliBili/Snipaste",
-    "Write/Material for Writing/生活趣事/段子素材.md",
     "Eassay/BiliBili",
-    "English Learning/美剧跟练/老友记第一季.md",
     "English Learning/美剧跟练",
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230527065619.png",
     "Write/Material for Writing/生活趣事/Snipaste",
-    "Coding/Go/go build.md",
-    "Coding/Go/Go embed.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Tasks/每日任务.md",
-    "AI/Go&AI/Hands-On Deep Learning with Go.md",
-    "Cyber Security/APT/APT Report/APT Report.md",
     "AI/Go&AI",
-    "Cyber Security/Rootkit/Rootkit.md",
-    "English Learning/音标课/英语兔.md",
     "Cyber Security/未命名",
-    "English Learning/英语阅读与写作.md",
     "English Learning/音标课",
-    "English Learning/小组作业脚本.md",
-    "English Learning/小组作业.md",
-    "English Learning/期末 presentation.md",
-    "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Daily",
     "Write/Material for Writing/生活趣事",
-    "Write/Material for Writing",
     "How to/Snipaste/Pasted image 20230526181418.png",
     "Basic/计算机网络/Snipaste/Pasted image 20230526155819.png",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
     "Interesting/Snipaste/Pasted image 20230525210007.png",
     "Interesting/Snipaste/Pasted image 20230525205935.png",
-    "Interesting/Snipaste/Pasted image 20230525205438.png",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

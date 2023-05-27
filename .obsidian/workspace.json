@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
+                "file": "Cyber Security/赚钱项目/soen.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
+                "file": "Cyber Security/赚钱项目/soen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 311.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -162,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Learning/孙志立简明英语音标/孙志立简明英语音标.md"
+                "file": "Cyber Security/赚钱项目/soen.md"
               }
             }
           },
@@ -180,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
+                "file": "Cyber Security/赚钱项目/soen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,11 +200,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,20 +226,24 @@
   },
   "active": "a4ff265482c90a17",
   "lastOpenFiles": [
-    "English Learning/突破美式口语/四大语音技巧.md",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527211048.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527211009.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210957.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210943.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210752.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210617.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210457.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210433.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210321.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210203.png",
+    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210002.png",
+    "Cyber Security/赚钱项目/Snipaste",
     "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
+    "Cyber Security/赚钱项目/soen.md",
+    "Cyber Security/赚钱项目",
+    "English Learning/突破美式口语/四大语音技巧.md",
     "English Learning/孙志立简明英语音标",
     "English Learning/突破美式口语/丰富的情感语调.md",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527160030.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155938.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155540.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155522.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155454.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155438.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155427.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155344.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155229.png",
-    "English Learning/突破美式口语/Snipaste/Pasted image 20230527155150.png",
     "English Learning/突破美式口语/Snipaste",
     "Write/Material for Writing/生活趣事/学习 == 打游戏.md",
     "English Learning/突破美式口语",
@@ -260,15 +267,11 @@
     "Website/全球高级持续性威胁 (APT) 2022年度报告.md",
     "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
     "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md",
-    "Eassay/杨真直自律.md",
     "Basic/计算机网络/Proxy",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
     "Eassay/BiliBili/Snipaste",
     "Eassay/BiliBili",
     "English Learning/美剧跟练",
     "Write/Material for Writing/生活趣事/Snipaste",
-    "AI/Go&AI",
-    "Cyber Security/未命名",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

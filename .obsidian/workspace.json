@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chatgpt/chatgpt memos summary.md",
+                "file": "Cloud Native/Prometheus/Prometheus and Honeypot.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatgpt/chatgpt memos summary.md",
+                "file": "Cloud Native/Prometheus/Prometheus and Honeypot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chatgpt/chatgpt memos summary.md"
+                "file": "Cloud Native/Prometheus/Prometheus and Honeypot.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chatgpt/chatgpt memos summary.md",
+                "file": "Cloud Native/Prometheus/Prometheus and Honeypot.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,18 @@
   },
   "active": "a4ff265482c90a17",
   "lastOpenFiles": [
-    "Coding/Go/基础知识/基础知识.md",
+    "Life/Sports/如何正确跑步.md",
+    "Cloud Native/Prometheus/Prometheus and Honeypot.md",
+    "Cloud Native/Prometheus",
+    "Life/Sports/Snipaste/Pasted image 20230528105334.png",
+    "Life/Sports/Snipaste/Pasted image 20230528105310.png",
+    "Life/Sports/Snipaste/Pasted image 20230528104936.png",
+    "Life/Sports/Snipaste/Pasted image 20230528104822.png",
+    "Life/Sports/Snipaste",
+    "Interesting/法律/如何学习法律.md",
     "Chatgpt/chatgpt memos summary.md",
+    "Interesting/法律",
+    "Coding/Go/基础知识/基础知识.md",
     "AI/人工智能模型/ChatGPT.md",
     "AI/OpenAI/ChatGPT.md",
     "Private/Private.md",
@@ -205,10 +215,6 @@
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210943.png",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210752.png",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210617.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210457.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210433.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210321.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210203.png",
     "Cyber Security/赚钱项目/darknet/Snipaste",
     "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
     "Cyber Security/赚钱项目",
@@ -217,18 +223,12 @@
     "English Learning/突破美式口语/丰富的情感语调.md",
     "English Learning/突破美式口语/Snipaste",
     "Write/Material for Writing/生活趣事/学习 == 打游戏.md",
-    "English Learning/突破美式口语",
     "Interesting/陈平跨学科思维.md",
     "Cyber Security/Red Team/黑客攻击一般流程.md",
     "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
     "Website/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md",
     "Website/The recent trends in cyber security A review.md",
     "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
-    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
-    "Website/kubevirtkubevirt Kubernetes Virtualization API and runtime in order to define and manage virtual machines.md",
-    "Website/KubeVirt.io.md",
-    "Basic/计算机网络/Proxy",
-    "Eassay/BiliBili/Snipaste",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

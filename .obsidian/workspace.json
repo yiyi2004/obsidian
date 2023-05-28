@@ -8,59 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "07ac3b4dae9673dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/计算机网络/Proxy/Basic Proxy.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a4ff265482c90a17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/赚钱项目/soen.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "af375a29b5ec6ab2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Red Team/Botnet.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fbd93ac37ae97c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/随想.md",
+                "file": "Cyber Security/赚钱项目/darknet/其他资源.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/赚钱项目/soen.md",
+                "file": "Cyber Security/赚钱项目/darknet/其他资源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945,
-    "collapsed": true
+    "width": 311.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -163,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/赚钱项目/soen.md"
+                "file": "Cyber Security/赚钱项目/darknet/其他资源.md"
               }
             }
           },
@@ -181,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/赚钱项目/soen.md",
+                "file": "Cyber Security/赚钱项目/darknet/其他资源.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,13 +159,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,20 +183,29 @@
   },
   "active": "a4ff265482c90a17",
   "lastOpenFiles": [
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527211048.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527211009.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210957.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210943.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210752.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210617.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210457.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210433.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210321.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210203.png",
-    "Cyber Security/赚钱项目/Snipaste/Pasted image 20230527210002.png",
-    "Cyber Security/赚钱项目/Snipaste",
+    "Cyber Security/赚钱项目/darknet/未命名.md",
+    "新建 文本文档.txt",
+    "Cyber Security/赚钱项目/darknet/其他资源.md",
+    "Private",
+    "Cyber Security/赚钱项目/darknet/soen.md",
+    "Cyber Security/赚钱项目/darknet",
+    "Reading Notes/https..md",
+    "Eassay/随想.md",
+    "Reading Notes/2023 书单.md",
+    "Basic/计算机网络/Proxy/Basic Proxy.md",
+    "Cyber Security/Red Team/Botnet.md",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211048.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211009.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210957.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210943.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210752.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210617.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210457.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210433.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210321.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210203.png",
+    "Cyber Security/赚钱项目/darknet/Snipaste",
     "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
-    "Cyber Security/赚钱项目/soen.md",
     "Cyber Security/赚钱项目",
     "English Learning/突破美式口语/四大语音技巧.md",
     "English Learning/孙志立简明英语音标",
@@ -249,9 +215,6 @@
     "English Learning/突破美式口语",
     "Interesting/陈平跨学科思维.md",
     "Cyber Security/Red Team/黑客攻击一般流程.md",
-    "Basic/计算机网络/Proxy/Basic Proxy.md",
-    "Cyber Security/Red Team/Botnet.md",
-    "Eassay/随想.md",
     "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
     "Website/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md",
     "Website/The recent trends in cyber security A review.md",
@@ -263,15 +226,8 @@
     "Website/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
     "Website/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
     "Website/8.12. 蜜罐技术 — Web安全学习笔记 1.0 文档.md",
-    "Website/5 Python Automation Scripts I Use Every Day.md",
-    "Website/全球高级持续性威胁 (APT) 2022年度报告.md",
-    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
-    "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md",
     "Basic/计算机网络/Proxy",
     "Eassay/BiliBili/Snipaste",
-    "Eassay/BiliBili",
-    "English Learning/美剧跟练",
-    "Write/Material for Writing/生活趣事/Snipaste",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

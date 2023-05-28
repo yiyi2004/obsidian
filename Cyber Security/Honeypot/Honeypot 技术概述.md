@@ -23,7 +23,7 @@
 
 ## Reference
 
-- [[../认知偏执脆弱性/认知偏执脆弱性调研|认知偏执脆弱性调研]]
+- [[../认知偏执脆弱性/认知偏执脆弱性本子|认知偏执脆弱性本子]]
 - [[../认知偏执脆弱性/脚本|脚本]]
 - [[../认知偏执脆弱性/架构图|架构图]]
 - [8.12. 蜜罐技术 — Web安全学习笔记 1.0 文档 (websec.readthedocs.io)](https://websec.readthedocs.io/zh/latest/defense/honeypot.html)

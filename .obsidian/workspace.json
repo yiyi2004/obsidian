@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/private.md",
+                "file": "Chatgpt/chatgpt memos summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/private.md",
+                "file": "Chatgpt/chatgpt memos summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/private.md"
+                "file": "Chatgpt/chatgpt memos summary.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/private.md",
+                "file": "Chatgpt/chatgpt memos summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,12 @@
   },
   "active": "a4ff265482c90a17",
   "lastOpenFiles": [
+    "Coding/Go/基础知识/基础知识.md",
+    "Chatgpt/chatgpt memos summary.md",
+    "AI/人工智能模型/ChatGPT.md",
+    "AI/OpenAI/ChatGPT.md",
+    "Private/Private.md",
     "Cyber Security/赚钱项目/darknet/其他资源.md",
-    "Private/private.md",
     "Cyber Security/赚钱项目/darknet/未命名.md",
     "新建 文本文档.txt",
     "Private",
@@ -223,10 +227,6 @@
     "Website/serengildeepface_models Pre-trained models for deepface python library.md",
     "Website/kubevirtkubevirt Kubernetes Virtualization API and runtime in order to define and manage virtual machines.md",
     "Website/KubeVirt.io.md",
-    "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
-    "Website/android攻防之drozer（基础篇） - FreeBuf网络安全行业门户.md",
-    "Website/干货｜浅析敏感信息泄露漏洞-腾讯云开发者社区-腾讯云.md",
-    "Website/8.12. 蜜罐技术 — Web安全学习笔记 1.0 文档.md",
     "Basic/计算机网络/Proxy",
     "Eassay/BiliBili/Snipaste",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",

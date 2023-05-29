@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/赚钱项目/darknet/soen.md",
+                "file": "Cyber Security/Dark/Black Industry/Information.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -31,12 +31,25 @@
             }
           },
           {
-            "id": "22fb7c97f8d02970",
+            "id": "ac6b56d94d9ec1a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/C&CPP/C&CPP Repository.md",
+                "file": "English Learning/Word/Word.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b837651d4257352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -44,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/C&CPP/C&CPP Repository.md",
+                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 310.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/C&CPP/C&CPP Repository.md"
+                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md"
               }
             }
           },
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/C&CPP/C&CPP Repository.md",
+                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,13 +196,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,54 +218,53 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "22fb7c97f8d02970",
+  "active": "1b837651d4257352",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/mtcnn 开发.md",
+    "Cyber Security/Dark/Black Industry/Information.md",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/vmware_workstation_install_option.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155640584.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155615710.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155549589.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155445712.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155423525.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155338372.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155402773.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155316649.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155300651.png",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets",
+    "Cloud Native/Course/虚拟化技术",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/39_kubernetes集群网络解决方案_calico.zip",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/desktop.ini",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料",
+    "Cyber Security/Dark/darknet/soen.md",
+    "Cyber Security/Dark/Black Industry",
+    "Cyber Security/Dark",
+    "English Learning/Word/Word.md",
+    "Eassay/Youtube/Ruri Ohama/How to be the top 1 percent.md",
+    "English Learning/Word",
+    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
+    "Eassay/Youtube/老高/人有一個很大的弱點.md",
+    "Eassay/Youtube/Ruri Ohama",
+    "Tasks/Coding.md",
+    "Coding/Python/Repository/Flask/Basic Flask.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
+    "Cyber Security/Deeplocker/backend.md",
+    "Coding/Python/Basic/pip 换源.md",
+    "Coding/Python/Repository/Python Web.md",
+    "Coding/Python/Repository/tqdm.md",
+    "Coding/Python/awesome-python.md",
+    "Coding/Python/Basic/Python Basic.md",
+    "Notebook/爬虫/Python.md",
+    "Weekly Note/2023-W22.md",
     "Coding/C&CPP/C&CPP Repository.md",
-    "Coding/C&CPP",
+    "Cyber Security/Deeplocker/mtcnn 开发.md",
     "AI/Arcface/mtcnn.md",
     "AI/LLM/LLM.md",
     "AI/人工智能模型/ChatGPT.md",
-    "AI/LLM",
     "Coding/Python/Script/Python Automation Scripts I Use Every Day.md",
-    "Eassay/企划书/企划书.md",
-    "Coding/Python/Script",
-    "Cyber Security/赚钱项目/darknet/soen.md",
-    "Coding/Go/Third-party library/fyne/fyne.md",
-    "Eassay/企划书",
-    "AI/Tensorflow/tfgo/gocv + tensorflow-go.md",
-    "Coding/Go/Third-party library/fyne",
-    "Coding/Go/未命名",
-    "Basic/操作系统/动态链接库与可执行文件.md",
-    "Coding/Python/Basic/Python Basic.md",
-    "Cloud Native/Linux/Linux Basic Knowledge.md",
-    "Cloud Native/Linux/Linux.md",
-    "Coding/Go/awesome go.md",
-    "Coding/Go/资料收集.md",
-    "Coding/Go/CGO/CGO简易教程.md",
-    "Coding/Go/go build.md",
-    "Coding/Python/awesome-python.md",
-    "Coding/Python/未命名.md",
-    "AI/Go&AI/Hands-On Deep Learning with Go.md",
-    "Follow/关注.md",
-    "Follow",
-    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
-    "Basic/操作系统/Windows 重置网络.md",
-    "Eassay/随想.md",
-    "Tasks/Blog.md",
-    "Eassay/Youtube/老高",
-    "Eassay/Youtube",
-    "Reading Notes/Book/起床后的黄金1小时",
-    "Cyber Security/认知偏执脆弱性/Snipaste/Pasted image 20230528160020.png",
-    "Cyber Security/认知偏执脆弱性/Snipaste/02487e95a182bd4b052c114bf37d3c7.jpg",
-    "Life/Sports/Snipaste/Pasted image 20230528105334.png",
-    "Life/Sports/Snipaste/Pasted image 20230528105310.png",
-    "Life/Sports/Snipaste/Pasted image 20230528104936.png",
-    "Life/Sports/Snipaste/Pasted image 20230528104822.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211048.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211009.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210957.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210943.png",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

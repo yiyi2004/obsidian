@@ -6,4 +6,3 @@
 - [audacity/audacity: Audio Editor (github.com)](https://github.com/audacity/audacity)
 - [FFmpeg/FFmpeg: Mirror of https://git.ffmpeg.org/ffmpeg.git (github.com)](https://github.com/FFmpeg/FFmpeg)FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [mpv-player/mpv: 🎥 Command line video player (github.com)](https://github.com/mpv-player/mpv)
-

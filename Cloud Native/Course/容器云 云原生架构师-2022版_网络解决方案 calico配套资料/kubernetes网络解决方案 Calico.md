@@ -8,9 +8,8 @@
 
 **基础原理**
 
-容器访问模式
-
-![1633650192071](image/1633650192071.png)
+容器访问模式  
+![容器访问模式](image/1633650192071.png)
 
 ```powershell
 方法1： 虚拟网桥 + 虚拟网卡对
@@ -25,7 +24,7 @@ CNI 简介
 	CNI的全称是Container Network Interface，Google和CoreOS联合定制的多容器通信的网络模型。在Kubernetes中通过一个CNI接口来替代docker0，它在宿主机上的默认名字叫cni0。它没有使用Docker的网络模型的原因有两个：1 不想被Docker要挟，2 自有的网络namespace设计有关。
 ```
 
-![1633651873150](image/1633651873150.png)
+![隧道网络](./image/1633651873150.png)
 
 ```powershell
 CNI的设计思想即为：Kubernetes在启动Pod的pause容器之后，直接调用CNI网络插件，从而实现为Pod内部应用容器所在的Network Namespace配置符合预期的网络信息。这里面需要特别关注两个方面：

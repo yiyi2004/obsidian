@@ -23,10 +23,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Dark/Black Industry/Information.md",
+                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "3fe254f84eb18bff",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722193530812.png"
               }
             }
           },
@@ -42,22 +52,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1b837651d4257352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,31 +215,31 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "1b837651d4257352",
+  "active": "f19cd3068944ccde",
   "lastOpenFiles": [
+    "English Learning/Word/Word.md",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722193530812.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722175645610.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633650192071.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633651873150.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/architecture-calico.svg",
     "Cyber Security/Dark/Black Industry/Information.md",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/vmware_workstation_install_option.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155640584.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155615710.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155549589.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155445712.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155423525.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155338372.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155402773.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155316649.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155300651.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets",
     "Cloud Native/Course/虚拟化技术",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/39_kubernetes集群网络解决方案_calico.zip",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/desktop.ini",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料",
     "Cyber Security/Dark/darknet/soen.md",
     "Cyber Security/Dark/Black Industry",
     "Cyber Security/Dark",
-    "English Learning/Word/Word.md",
     "Eassay/Youtube/Ruri Ohama/How to be the top 1 percent.md",
     "English Learning/Word",
     "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",

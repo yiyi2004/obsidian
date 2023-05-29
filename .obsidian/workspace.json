@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
+                "file": "Tasks/Blog.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
+                "file": "Tasks/Blog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
+                "file": "Tasks/Blog.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
+                "file": "Tasks/Blog.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,8 +185,16 @@
   },
   "active": "a4ff265482c90a17",
   "lastOpenFiles": [
-    "Eassay/随想.md",
+    "Tasks/Review.md",
+    "Tasks/APT Report.md",
+    "Tasks/信息收集.md",
+    "Tasks/每日任务.md",
+    "Eassay/Youtube/老高/人有一個很大的弱點.md",
+    "Eassay/随便写点什么.md",
+    "Eassay/Youtube/老高",
+    "Eassay/Youtube",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
+    "Eassay/随想.md",
     "Reading Notes/Book/起床后的黄金1小时/README.md",
     "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
     "Reading Notes/Book/起床后的黄金1小时",
@@ -216,7 +224,6 @@
     "新建 文本文档.txt",
     "Private",
     "Cyber Security/赚钱项目/darknet/soen.md",
-    "Cyber Security/赚钱项目/darknet",
     "Reading Notes/2023 书单.md",
     "Basic/计算机网络/Proxy/Basic Proxy.md",
     "Cyber Security/Red Team/Botnet.md",
@@ -224,12 +231,6 @@
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211009.png",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210957.png",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210943.png",
-    "Cyber Security/赚钱项目/darknet/Snipaste",
-    "English Learning/孙志立简明英语音标/孙志立简明英语音标.md",
-    "English Learning/突破美式口语/四大语音技巧.md",
-    "English Learning/突破美式口语/丰富的情感语调.md",
-    "Write/Material for Writing/生活趣事/学习 == 打游戏.md",
-    "Interesting/陈平跨学科思维.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

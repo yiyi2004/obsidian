@@ -21,4 +21,7 @@ func main() {
 
 ```shell
 go build -buildmode=c-shared -o exportgo.dll exportgo.go
+go build -ldflags=”-H windowsgui”
 ```
+
+

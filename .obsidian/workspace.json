@@ -11,16 +11,40 @@
             "id": "a4ff265482c90a17",
             "type": "leaf",
             "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md"
+              }
+            }
+          },
+          {
+            "id": "f19cd3068944ccde",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/Blog.md",
+                "file": "Cyber Security/赚钱项目/darknet/soen.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22fb7c97f8d02970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/C&CPP/C&CPP Repository.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Blog.md",
+                "file": "Coding/C&CPP/C&CPP Repository.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Blog.md"
+                "file": "Coding/C&CPP/C&CPP Repository.md"
               }
             }
           },
@@ -140,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/Blog.md",
+                "file": "Coding/C&CPP/C&CPP Repository.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,50 +207,50 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "a4ff265482c90a17",
+  "active": "22fb7c97f8d02970",
   "lastOpenFiles": [
-    "Tasks/Review.md",
-    "Tasks/APT Report.md",
-    "Tasks/信息收集.md",
-    "Tasks/每日任务.md",
-    "Eassay/Youtube/老高/人有一個很大的弱點.md",
-    "Eassay/随便写点什么.md",
+    "Cyber Security/Deeplocker/mtcnn 开发.md",
+    "Coding/C&CPP/C&CPP Repository.md",
+    "Coding/C&CPP",
+    "AI/Arcface/mtcnn.md",
+    "AI/LLM/LLM.md",
+    "AI/人工智能模型/ChatGPT.md",
+    "AI/LLM",
+    "Coding/Python/Script/Python Automation Scripts I Use Every Day.md",
+    "Eassay/企划书/企划书.md",
+    "Coding/Python/Script",
+    "Cyber Security/赚钱项目/darknet/soen.md",
+    "Coding/Go/Third-party library/fyne/fyne.md",
+    "Eassay/企划书",
+    "AI/Tensorflow/tfgo/gocv + tensorflow-go.md",
+    "Coding/Go/Third-party library/fyne",
+    "Coding/Go/未命名",
+    "Basic/操作系统/动态链接库与可执行文件.md",
+    "Coding/Python/Basic/Python Basic.md",
+    "Cloud Native/Linux/Linux Basic Knowledge.md",
+    "Cloud Native/Linux/Linux.md",
+    "Coding/Go/awesome go.md",
+    "Coding/Go/资料收集.md",
+    "Coding/Go/CGO/CGO简易教程.md",
+    "Coding/Go/go build.md",
+    "Coding/Python/awesome-python.md",
+    "Coding/Python/未命名.md",
+    "AI/Go&AI/Hands-On Deep Learning with Go.md",
+    "Follow/关注.md",
+    "Follow",
+    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
+    "Basic/操作系统/Windows 重置网络.md",
+    "Eassay/随想.md",
+    "Tasks/Blog.md",
     "Eassay/Youtube/老高",
     "Eassay/Youtube",
-    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
-    "Eassay/随想.md",
-    "Reading Notes/Book/起床后的黄金1小时/README.md",
-    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
     "Reading Notes/Book/起床后的黄金1小时",
-    "Reading Notes/https..md",
-    "Reading Notes/Book",
-    "AI/大预言模型/大预言模型的部署.md",
-    "AI/大预言模型",
     "Cyber Security/认知偏执脆弱性/Snipaste/Pasted image 20230528160020.png",
     "Cyber Security/认知偏执脆弱性/Snipaste/02487e95a182bd4b052c114bf37d3c7.jpg",
-    "Cloud Native/Prometheus/Prometheus and Honeypot.md",
-    "Life/Sports/如何正确跑步.md",
-    "Cloud Native/Prometheus",
     "Life/Sports/Snipaste/Pasted image 20230528105334.png",
     "Life/Sports/Snipaste/Pasted image 20230528105310.png",
     "Life/Sports/Snipaste/Pasted image 20230528104936.png",
     "Life/Sports/Snipaste/Pasted image 20230528104822.png",
-    "Life/Sports/Snipaste",
-    "Interesting/法律/如何学习法律.md",
-    "Chatgpt/chatgpt memos summary.md",
-    "Interesting/法律",
-    "Coding/Go/基础知识/基础知识.md",
-    "AI/人工智能模型/ChatGPT.md",
-    "AI/OpenAI/ChatGPT.md",
-    "Private/Private.md",
-    "Cyber Security/赚钱项目/darknet/其他资源.md",
-    "Cyber Security/赚钱项目/darknet/未命名.md",
-    "新建 文本文档.txt",
-    "Private",
-    "Cyber Security/赚钱项目/darknet/soen.md",
-    "Reading Notes/2023 书单.md",
-    "Basic/计算机网络/Proxy/Basic Proxy.md",
-    "Cyber Security/Red Team/Botnet.md",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211048.png",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527211009.png",
     "Cyber Security/赚钱项目/darknet/Snipaste/Pasted image 20230527210957.png",

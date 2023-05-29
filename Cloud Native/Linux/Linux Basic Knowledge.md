@@ -1,0 +1,1 @@
+- [浅析Linux中的.a、.so、和.o文件 - Oldpan的个人博客](https://oldpan.me/archives/linux-a-so-o-tell)

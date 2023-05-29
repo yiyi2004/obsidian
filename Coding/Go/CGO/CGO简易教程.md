@@ -110,3 +110,4 @@ CGO_ENABLED=1 go build main.go
 - [yulong-ids-example](https://github1s.com/ysrc/yulong-hids-archived/blob/HEAD/agent/monitor/connection_linux.go)
 - [快速入门 - Go语言高级编程 (chai2010.cn)](https://chai2010.cn/advanced-go-programming-book/ch2-cgo/ch2-01-hello-cgo.html)
 - [MinGW-w64 - for 32 and 64 bit Windows - Browse /mingw-w64 at SourceForge.net](https://sourceforge.net/projects/mingw-w64/files/mingw-w64/)
+- [cgo command - cmd/cgo - Go Packages](https://pkg.go.dev/cmd/cgo)

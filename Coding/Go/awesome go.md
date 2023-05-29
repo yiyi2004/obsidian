@@ -1,0 +1,2 @@
+- [yiyi2004/advanced-go-programming-book: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿) (github.com)](https://github.com/yiyi2004/advanced-go-programming-book)
+- [wa-lang/ugo-compiler-book: µGo语言实现(从头开发一个迷你Go语言编译器) (github.com)](https://github.com/wa-lang/ugo-compiler-book)

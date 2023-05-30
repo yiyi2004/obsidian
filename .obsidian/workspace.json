@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a0433726f15cb68c",
+        "id": "f44a92d490b028ad",
         "type": "tabs",
         "children": [
           {
-            "id": "b3ad3913c6154d1b",
+            "id": "dddbfd3c179756ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How to/How to index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -64,7 +59,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to/How to index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "How to/How to index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -140,7 +132,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to/How to index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,17 +172,28 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "b3ad3913c6154d1b",
+  "active": "dddbfd3c179756ac",
   "lastOpenFiles": [
+    "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
+    "Website/Website index.md",
+    "Source Code/Source Code index.md",
+    "Tasks/Tasks index.md",
+    "AI/AI index.md",
+    "基础知识和工具/index.md",
+    "Be Yourself/Be Yourself index.md",
+    "Cloud Native/Cloud Native index.md",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220902222000384.png",
+    "Cloud Native/yaml.md",
+    "AI/AI.md",
+    "基础知识和工具",
+    "AI/基础知识和工具/Colab.md",
+    "How to/How to index.md",
     "index.md",
     "Write/Write index.md",
     "Weekly Note/Weekly Note index.md",
-    "Website/Website index.md",
     "Tools/Tools index.md",
     "The Party/The Party index.md",
     "Templates/Templates index.md",
-    "Tasks/Tasks index.md",
-    "Source Code/Source Code index.md",
     "Resume/Resume index.md",
     "Reading Notes/Reading Notes index.md",
     "Project/Project index.md",
@@ -200,15 +202,6 @@
     "Paper/Paper index.md",
     "Notebook/Notebook index.md",
     "Math/Math index.md",
-    "Master's degree/Master's degree index.md",
-    "Life/Life index.md",
-    "Interesting/Interesting index.md",
-    "How to/How to index.md",
-    "Group Meeting/Group Meeting index.md",
-    "Frontend/Frontend index.md",
-    "Follow/Follow index.md",
-    "English Learning/English Learning index.md",
-    "Eight-part essay/Eight-part essay index.md",
     "generate_catalog.py",
     "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
     "AI/未命名.canvas",
@@ -221,7 +214,6 @@
     "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210344.png",
     "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210303.png",
     "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307205623.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307200620.png",
     "����/Snipaste",
     "����",
     "AI/generate_catalog.py",
@@ -229,7 +221,6 @@
     "catalog_generate.py",
     "catalog_generate.txt",
     "新建 文本文档.txt",
-    "新建文件夹",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

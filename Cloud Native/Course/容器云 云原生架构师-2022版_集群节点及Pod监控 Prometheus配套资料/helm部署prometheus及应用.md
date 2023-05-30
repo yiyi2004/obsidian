@@ -1,49 +1,33 @@
-# helm部署prometheus监控系统及应用
+## Helm 部署 Prometheus 监控系统及应用
 
-# 一、helm安装
-
-
+## 一、helm 安装
 
 ~~~powershell
 wget https://get.helm.sh/helm-v3.8.2-linux-amd64.tar.gz
 ~~~
 
-
-
 ~~~powershell
 tar xf helm-v3.8.2-linux-amd64.tar.gz
 ~~~
 
-
-
 ~~~powershell
 mv linux-amd64/helm /bin/helm
 ~~~
-
-
 
 ~~~powershell
 # helm version
 version.BuildInfo{Version:"v3.8.2", GitCommit:"6e3701edea09e5d55a8ca2aae03a68917630e91b", GitTreeState:"clean", GoVersion:"go1.17.5"}
 ~~~
 
-
-
-# 二、helm添加prometheus仓库
-
-
+## 二、helm 添加 Prometheus 仓库
 
 ~~~powershell
 helm repo add prometheus-community https://prometheus-community.github.io/helm-charts
 ~~~
 
-
-
 ~~~powershell
 helm repo update
 ~~~
-
-
 
 ~~~powershell
 # helm search repo prometheus
@@ -51,23 +35,15 @@ NAME                                                    CHART VERSION   APP VERS
 prometheus-community/kube-prometheus-stack              37.2.0          0.57.0          kube-prometheus-stack collects Kubernetes manif.
 ~~~
 
-
-
-# 三、使用helm安装prometheus全家桶
-
-
+## 三、使用 Helm 安装 Prometheus 全家桶
 
 ~~~powershell
 # helm show values prometheus-community/kube-prometheus-stack > kube-prometheus-stack.yaml-default
 ~~~
 
-
-
 ~~~powershell
 # cp kube-prometheus-stack.yaml-default kube-prometheus-stack.yaml
 ~~~
-
-
 
 ~~~powershell
 # vim kube-prometheus-stack.yaml
@@ -77,21 +53,13 @@ prometheus-community/kube-prometheus-stack              37.2.0          0.57.0  
 把true修改为false
 ~~~
 
-
-
-
-
 ~~~powershell
 # helm install kps  prometheus-community/kube-prometheus-stack -f kube-prometheus-stack.yaml -n monitoring --create-namespace --version 37.2.0 --debug
 ~~~
 
-
-
 ~~~powershell
 kubectl --namespace monitoring get pods -l "release=kps"
 ~~~
-
-
 
 ~~~powershell
 # kubectl get svc -n monitoring
@@ -105,8 +73,6 @@ kps-kube-state-metrics                   ClusterIP   10.96.1.192   <none>       
 kps-prometheus-node-exporter             ClusterIP   10.96.3.21    <none>        9100/TCP                     24m
 prometheus-operated                      ClusterIP   None          <none>        9090/TCP                     23m
 ~~~
-
-
 
 ~~~powershell
 # kubectl get pods -n monitoring
@@ -122,15 +88,9 @@ kps-prometheus-node-exporter-pf5kz                      1/1     Running   0     
 prometheus-kps-kube-prometheus-stack-prometheus-0       2/2     Running   0          24m
 ~~~
 
+## 四、配置 Prometheus 及 Grafana 访问
 
-
-
-
-# 四、配置prometheus及grafana访问
-
-## 4.1 prometheus
-
-
+### 4.1 Prometheus
 
 ~~~powershell
 # cat pro.yaml
@@ -156,29 +116,15 @@ spec:
               number: 9090
 ~~~
 
-
-
 ~~~powershell
 kubectl apply -f pro.yaml
 ~~~
 
-
-
-> 把prometheus.kubemsb.com域名与ingress nginx controller svc对应的IP进行解析即可访问。
-
-
+> 把 prometheus.kubemsb.com 域名与 ingress nginx controller svc 对应的 IP 进行解析即可访问。
 
 ![image-20220714141949162](helm部署prometheus及应用.assets/image-20220714141949162.png)
 
-
-
-
-
-
-
-## 4.2 grafana
-
-
+### 4.2 Grafana
 
 ~~~powershell
 # cat grafana.yaml
@@ -204,21 +150,15 @@ spec:
               number: 80
 ~~~
 
-
-
 ~~~powershell
 kubectl apply -f grafana.yaml
 ~~~
-
-
 
 ~~~powershell
 # kubectl get secret -n monitoring
 NAME                                                               TYPE                 DATA   AGE
 kps-grafana                                                        Opaque               3      28m
 ~~~
-
-
 
 ~~~powershell
 # kubectl get  secret kps-grafana -n monitoring -o yaml
@@ -246,58 +186,36 @@ metadata:
 type: Opaque
 ~~~
 
-
-
 ~~~powershell
 # echo -n "YWRtaW4=" | base64 --decode
 admin
 ~~~
-
-
 
 ~~~powershell
 # echo -n "cHJvbS1vcGVyYXRvcg==" | base64 --decode
 prom-operator
 ~~~
 
-
-
 ![image-20220714142355210](helm部署prometheus及应用.assets/image-20220714142355210.png)
-
-
 
 ![image-20220714142427741](helm部署prometheus及应用.assets/image-20220714142427741.png)
 
-
-
 ![image-20220714142453429](helm部署prometheus及应用.assets/image-20220714142453429.png)
-
-
-
-
 
 ![image-20220714142514495](helm部署prometheus及应用.assets/image-20220714142514495.png)
 
+## 五、使用 Prometheus 监控 Redis
 
-
-# 五、使用prometheus监控redis
-
-## 5.1 使用helm实现redis集群部署
-
-
+### 5.1 使用 Helm 实现 Redis 集群部署
 
 ~~~powershell
 # helm repo add bitnami https://charts.bitnami.com/bitnami
 "bitnami" has been added to your repositories
 ~~~
 
-
-
 ~~~powershell
 # helm repo update
 ~~~
-
-
 
 ~~~powershell
 # helm search repo redis
@@ -306,13 +224,9 @@ bitnami/redis                                   17.0.1          7.0.3           
 bitnami/redis-cluster                           8.0.0           7.0.3           Redis(R) is an open source, scalable, distribut...
 ~~~
 
-
-
 ~~~powershell
 # helm install redis bitnami/redis --set global.storageClass=managed-nfs-storage --set global.redis.password=root --set architecture=standalone --version 17.0.1 -n redisns --create-namespace --debug
 ~~~
-
-
 
 ~~~powershell
 # kubectl get all -n redisns
@@ -327,19 +241,11 @@ NAME                            READY   AGE
 statefulset.apps/redis-master   1/1     6m19s
 ~~~
 
-
-
 ~~~powershell
 # dig -t a redis-headless.redisns.svc.cluster.local @10.96.0.10
 ~~~
 
-
-
-
-
-## 5.2 监控方案一：部署redis-exporter及serviceMonitor
-
-
+### 5.2 监控方案一：部署 Redis-exporter 及 serviceMonitor
 
 ~~~powershell
 # cat d.yaml
@@ -370,15 +276,9 @@ spec:
           name: http
 ~~~
 
-
-
 ~~~powershell
 kubectl apply -f d.yaml
 ~~~
-
-
-
-
 
 ~~~powershell
 # kubectl get deployment -n monitoring
@@ -388,8 +288,6 @@ kps-kube-prometheus-stack-operator   1/1     1            1           57m
 kps-kube-state-metrics               1/1     1            1           57m
 redis-exporter                       1/1     1            1           22s
 ~~~
-
-
 
 ~~~powershell
 # cat svc.yaml
@@ -410,13 +308,9 @@ spec:
   type: ClusterIP 
 ~~~
 
-
-
 ~~~powershell
 # kubectl apply -f svc.yaml
 ~~~
-
-
 
 ~~~powershell
 # kubectl get svc -n monitoring
@@ -425,17 +319,11 @@ NAME                                     TYPE        CLUSTER-IP    EXTERNAL-IP  
 redis-exporter                           ClusterIP   10.96.2.78    <none>        9121/TCP                     8s
 ~~~
 
-
-
-
-
 ~~~powershell
 curl 10.96.2.78:9121/metrics | tail -1
 ...
 redis_uptime_in_seconds 881
 ~~~
-
-
 
 ~~~powershell
 # cat sm.yaml
@@ -460,13 +348,9 @@ spec:
     - monitoring # svc的命名空间
 ~~~
 
-
-
 ~~~powershell
 # kubectl apply -f sm.yaml
 ~~~
-
-
 
 ~~~powershell
 # kubectl get servicemonitor -n monitoring
@@ -475,53 +359,21 @@ NAME                                                AGE
 redis-exporter                                      46s
 ~~~
 
-
-
-
-
 ![image-20220715002329243](helm部署prometheus及应用.assets/image-20220715002329243.png)
-
-
 
 ![image-20220715003418546](helm部署prometheus及应用.assets/image-20220715003418546.png)
 
-
-
-
-
-
-
 ![image-20220715003450859](helm部署prometheus及应用.assets/image-20220715003450859.png)
-
-
-
-
 
 ![image-20220715003558443](helm部署prometheus及应用.assets/image-20220715003558443.png)
 
-
-
-
-
 ![image-20220715003335285](helm部署prometheus及应用.assets/image-20220715003335285.png)
-
-
-
-
 
 ![image-20220720144636315](helm部署prometheus及应用.assets/image-20220720144636315.png)
 
+### 5.3 监控方案二：使用 Helm 部署 Prometheus Redis Exporter 监控 Redis
 
-
-
-
-
-
-## 5.3 监控方案二：使用helm部署prometheus redis exporter监控redis
-
-> 监控helm部署的redis
-
-
+> 监控 helm 部署的 redis
 
 ~~~powershell
 查看服务是否存在
@@ -531,42 +383,30 @@ redis-headless   ClusterIP   None          <none>        6379/TCP   5d13h
 redis-master     ClusterIP   10.96.0.228   <none>        6379/TCP   5d13h
 ~~~
 
-
-
 ~~~powershell
 查看是否有redis exporter
 helm search repo redis
 ~~~
-
-
 
 ~~~powershell
 下载prometheus-redis-exporter
 # helm fetch prometheus-community/prometheus-redis-exporter
 ~~~
 
-
-
 ~~~powershell
 解压prometheus-redis-exporter
 # tar xf prometheus-redis-exporter-5.0.0.tgz
 ~~~
-
-
 
 ~~~powershell
 进入prometheus-redis-exporter目录
 # cd prometheus-redis-exporter/
 ~~~
 
-
-
 ~~~powershell
 解析访问链接，确认是否可以访问
 # dig -t a redis-headless.redisns.svc.cluster.local @10.96.0.10
 ~~~
-
-
 
 ~~~powershell
  修改values.yaml文件，重点看修改部分
@@ -606,27 +446,19 @@ helm search repo redis
 
 ~~~
 
-
-
 ~~~powershell
 安装prometheus-redis-exporter
 
 helm install redis-monitor-old ./ -f values.yaml -n monitoring
 ~~~
 
-
-
 ![image-20220720132959064](helm部署prometheus及应用.assets/image-20220720132959064.png)
 
+### 5.4 使用 Helm 部署 Prometheus Redis Exporter 监控手动部署的 Redis
 
+> 单独复制一份 prometheus redis exporter 即可
 
-## 5.4 使用helm部署prometheus redis exporter监控手动部署的redis
-
-> 单独复制一份prometheus redis exporter即可
-
-### 5.4 1 redis部署
-
-
+#### 5.4 1 Redis 部署
 
 ~~~powershell
 # vim redis.yaml
@@ -692,13 +524,9 @@ spec:
     targetPort: 6379
 ~~~
 
-
-
 ~~~powershell
 # kubectl apply -f redis.yaml
 ~~~
-
-
 
 ~~~powershell
 # kubectl get all -n test
@@ -715,29 +543,19 @@ NAME                               DESIRED   CURRENT   READY   AGE
 replicaset.apps/redis-75f489d8f4   1         1         1       82m
 ~~~
 
-
-
 ~~~powershell
 下载prometheus-redis-exporter
 # helm fetch prometheus-community/prometheus-redis-exporter
 ~~~
-
-
 
 ~~~powershell
 解压prometheus-redis-exporter
 # tar xf prometheus-redis-exporter-5.0.0.tgz
 ~~~
 
-
-
-
-
 ~~~powershell
 # cd prometheus-redis-exporter/
 ~~~
-
-
 
 ~~~powershell
  # vim values.yaml
@@ -779,19 +597,13 @@ replicaset.apps/redis-75f489d8f4   1         1         1       82m
 
 ~~~
 
-
-
 ~~~powershell
 helm install redis-monitor ./ -f values.yaml -n monitoring
 ~~~
 
 ![image-20220720134242565](helm部署prometheus及应用.assets/image-20220720134242565.png)
 
-
-
-## 5.5 实现helm部署prometheus redis exporter监控helm部署的redis集群
-
-
+### 5.5 实现 Helm 部署 Prometheus Redis Exporter 监控 Helm 部署的 Redis 集群
 
 ~~~powershell
 # helm search repo redis
@@ -800,34 +612,24 @@ bitnami/redis                                   17.0.1          7.0.3           
 bitnami/redis-cluster                           8.0.0           7.0.3           Redis(R) is an open source, scalable, distribut...
 ~~~
 
-
-
 ~~~powershell
 # helm install redis bitnami/redis --set global.storageClass=managed-nfs-storage --set global.redis.password=root  --version 17.0.1 -n redisns --create-namespace --debug
 ~~~
-
-
 
 ~~~powershell
 下载prometheus-redis-exporter
 # helm pull prometheus-community/prometheus-redis-exporter
 ~~~
 
-
-
 ~~~powershell
 解压prometheus-redis-exporter
 # tar xf prometheus-redis-exporter-5.0.0.tgz
 ~~~
 
-
-
 ~~~powershell
 进入prometheus-redis-exporter目录
 cd prometheus-redis-exporter/
 ~~~
-
-
 
 ~~~powershell
  # vim values.yaml
@@ -869,29 +671,15 @@ cd prometheus-redis-exporter/
 
 ~~~
 
-
-
 ~~~powershell
 # helm install redisnew-exporter ./ -f values.yaml -n monitoring
 ~~~
 
-
-
-
-
 ![image-20220722002908512](helm部署prometheus及应用.assets/image-20220722002908512.png)
 
+## 六、使用 Prometheus 监控 Mysql
 
-
-
-
-
-
-# 六、使用prometheus监控mysql
-
-## 6.1 mysql部署
-
-
+### 6.1 Mysql 部署
 
 ~~~powershell
 # vim mysql.yaml
@@ -931,13 +719,9 @@ spec:
     app: mysql
 ~~~
 
-
-
 ~~~powershell
 # kubectl apply -f mysql.yaml
 ~~~
-
-
 
 ~~~powershell
 # kubectl get pods -n test
@@ -945,13 +729,9 @@ NAME                     READY   STATUS    RESTARTS   AGE
 mysql-98797c6bf-jpwvj    1/1     Running   0          72s
 ~~~
 
-
-
 ~~~powershell
 # dig -t a mysql.test.svc.cluster.local @10.96.0.10
 ~~~
-
-
 
 ~~~powershell
 连接信息汇总
@@ -961,29 +741,19 @@ user: root
 passwd: root@mysql
 ~~~
 
-
-
-## 6.2 mysql exporter部署及验证
-
-
+### 6.2 Mysql Exporter 部署及验证
 
 ~~~powershell
 # helm pull prometheus-community/prometheus-mysql-exporter
 ~~~
 
-
-
 ~~~powershell
 # tar xf prometheus-mysql-exporter-1.8.1.tgz
 ~~~
 
-
-
 ~~~powershell
 # cd prometheus-mysql-exporter
 ~~~
-
-
 
 ~~~powershell
 # vim values.yaml
@@ -1009,65 +779,39 @@ passwd: root@mysql
 
 ~~~
 
-
-
 ~~~powershell
 # helm install prometheus-mysql-exporter ./ -f values.yaml -n monitoring
 ~~~
 
-
-
 ![image-20220720143121566](helm部署prometheus及应用.assets/image-20220720143121566.png)
 
-
-
-## 6.3 在prometheus web页面中Graph中查看
+### 6.3 在 Prometheus Web 页面中 Graph 中查看
 
 ![image-20220720143923630](helm部署prometheus及应用.assets/image-20220720143923630.png)
 
-
-
-## 6.4 在grafana中添加dashboard
+### 6.4 在 Grafana 中添加 Dashboard
 
 ![image-20220720144246814](helm部署prometheus及应用.assets/image-20220720144246814.png)
 
-
-
-
-
 ![image-20220720144319367](helm部署prometheus及应用.assets/image-20220720144319367.png)
-
-
-
-
 
 ![image-20220720144357335](helm部署prometheus及应用.assets/image-20220720144357335.png)
 
-
-
 ![image-20220720144419911](helm部署prometheus及应用.assets/image-20220720144419911.png)
 
+## 七、使用 Prometheus 监控 Kafka
 
+### 7.1 Kafak 部署
 
-
-
-# 七、使用prometheus监控kafka
-
-## 7.1 kafak部署
-
-### 7.1.1 下载chart包
+#### 7.1.1 下载 Chart 包
 
 ~~~powershell
 # helm repo add bitnami https://charts.bitnami.com/bitnami
 ~~~
 
-
-
 ~~~powershell
 # helm repo update
 ~~~
-
-
 
 ~~~powershell
 # helm search repo zookeeper
@@ -1076,41 +820,25 @@ NAME                            CHART VERSION   APP VERSION     DESCRIPTION
 bitnami/zookeeper               10.0.2          3.8.0           Apache ZooKeeper provides a reliable, centraliz...
 ~~~
 
-
-
-
-
 ~~~powershell
 # helm search repo kafka
 NAME                                            CHART VERSION   APP VERSION     DESCRIPTION
 bitnami/kafka                                   18.0.3          3.2.0           Apache Kafka is a distributed streaming platfor...
 ~~~
 
-
-
-
-
-### 7.1.2  部署zookeeper
-
-
+#### 7.1.2 部署 Zookeeper
 
 ~~~powershell
 # mkdir kafkadir
 ~~~
 
-
-
 ~~~powershell
 # cd kafkadir
 ~~~
 
-
-
 ~~~powershell
 # helm pull bitnami/zookeeper
 ~~~
-
-
 
 ~~~powershell
 # ls
@@ -1121,21 +849,15 @@ zookeeper-10.0.2.tgz
 zookeeper  zookeeper-10.0.2.tgz
 ~~~
 
-
-
 ~~~powershell
 # cd zookeeper/
 # ls
 Chart.lock  charts  Chart.yaml  README.md  templates  values.yaml
 ~~~
 
-
-
 > 主要配置时区、持久化存储、副本数等
->
-> 首次部署时直接修改values中的配置，方便后期更新（upgrade）,也可以使用--set设置
-
-
+> 
+> 首次部署时直接修改 values 中的配置，方便后期更新（upgrade）,也可以使用 --set 设置
 
 ~~~powershell
 # vim values.yaml
@@ -1165,8 +887,6 @@ persistence:
   - ReadWriteOnce
 
 ~~~
-
-
 
 ~~~powershell
 # vim values.yaml
@@ -1228,19 +948,13 @@ persistence:
 722     scrapeTimeout: "20" 默认为空，修改为20
 ~~~
 
-
-
 ~~~powershell
 # kubectl create ns kafka
 ~~~
 
-
-
 ~~~powershell
 # helm install zookeeper ./ -f values.yaml  -n kafka
 ~~~
-
-
 
 ~~~powershell
 # kubectl get pods -n kafka
@@ -1250,16 +964,12 @@ zookeeper-1   1/1     Running   0          62s
 zookeeper-2   1/1     Running   0          62s
 ~~~
 
-
-
 ~~~powershell
 [root@nfsserver ~]# ls /sdb
 kafka-data-zookeeper-1-pvc-9dbb13e2-3174-429b-90aa-3884459aaa23
 kafka-data-zookeeper-2-pvc-0cffe920-2f16-4955-b80e-04e8d1571c82
 kafka-data-zookeeper-0-pvc-a6ed8ed3-058a-4260-be1f-12d1be78b2a0
 ~~~
-
-
 
 ~~~powershell
 # kubectl get svc -n kafka
@@ -1268,13 +978,9 @@ zookeeper            ClusterIP   10.96.2.24   <none>        2181/TCP,2888/TCP,38
 zookeeper-headless   ClusterIP   None         <none>        2181/TCP,2888/TCP,3888/TCP   2m9s
 ~~~
 
-
-
 ~~~powershell
 # dig -t a zookeeper-headless.kafka.svc.cluster.local @10.96.0.10
 ~~~
-
-
 
 ~~~powershell
 # kubectl get ns
@@ -1298,43 +1004,29 @@ Client port found: 2181. Client address: localhost. Client SSL: false.
 Mode: follower
 ~~~
 
-
-
-### 7.1.3 部署kafka
-
-
+#### 7.1.3 部署 Kafka
 
 ~~~powershell
 拉取kafka chart包
 # helm pull bitnami/kafka
 ~~~
 
-
-
 ~~~powershell
 # ls
 kafka-18.0.3.tgz
 ~~~
 
-
-
 ~~~powershell
 # tar xf kafka-18.0.3.tgz
 ~~~
-
-
 
 ~~~powershell
 # cd kafka
 ~~~
 
+##### 7.1.3.1 基础配置
 
-
-#### 7.1.3.1 基础配置
-
-> 设置时区、副本数、持久化存储、zookeeper连接等。
-
-
+> 设置时区、副本数、持久化存储、zookeeper 连接等。
 
 ~~~powershell
 # vim values.yaml
@@ -1385,13 +1077,9 @@ kafka-18.0.3.tgz
 1684   servers: zookeeper 使用外部的zookeeper
 ~~~
 
+##### 7.1.3.2 高可用配置
 
-
-#### 7.1.3.2 高可用配置
-
-> 设置默认分区、默认副本数、日志过期时间，需要根据kafka节点数设定。
-
-
+> 设置默认分区、默认副本数、日志过期时间，需要根据 kafka 节点数设定。
 
 ~~~powershell
 # vim values.yaml
@@ -1426,19 +1114,11 @@ kafka-18.0.3.tgz
 
 ~~~
 
-
-
-
-
-#### 7.1.3.3 kafka部署
-
-
+##### 7.1.3.3 Kafka 部署
 
 ~~~powershell
 # helm install kafka ./ -f values.yaml -n kafka
 ~~~
-
-
 
 ~~~powershell
 输出内容：
@@ -1484,20 +1164,14 @@ To create a pod that you can use as a Kafka client run the following commands:
             --from-beginning
 ~~~
 
+#### 7.1.4 Kafka 调试
 
-
-
-
-### 7.1.4 kafka调试
-
-#### 7.1.4.1 查询与创建topic
+##### 7.1.4.1 查询与创建 Topic
 
 ~~~powershell
 进入pod 
 # kubectl exec -it kafka-0 -n kafka -- bash
 ~~~
-
-
 
 ~~~powershell
 创建topic,3分区+2副本,注意kafka的版本，本次使用的是3.2.0
@@ -1506,15 +1180,11 @@ To create a pod that you can use as a Kafka client run the following commands:
 Created topic test001.
 ~~~
 
-
-
 ~~~powershell
 列出topic
 @kafka-0:/$ kafka-topics.sh --list --bootstrap-server kafka.kafka.svc.cluster.local:9092
 test001
 ~~~
-
-
 
 ~~~powershell
 查看topic详情
@@ -1526,19 +1196,13 @@ Topic: test001  TopicId: J5e8gTjPRV2b49NUWYwNaA PartitionCount: 3       Replicat
         Topic: test001  Partition: 2    Leader: 2       Replicas: 2,0   Isr: 2,0
 ~~~
 
-
-
-#### 7.1.4.2 生产者与消费者
-
-
+##### 7.1.4.2 生产者与消费者
 
 ~~~powershell
 在一个窗口中打开生产者创建数据
 @kafka-0:/$ kafka-console-producer.sh --broker-list kafka:9092 --topic test001
 >kubemsb 输入kubemsb后回车
 ~~~
-
-
 
 ~~~powershell
 在另一个窗口中使用消费者访问数据
@@ -1547,13 +1211,7 @@ Topic: test001  TopicId: J5e8gTjPRV2b49NUWYwNaA PartitionCount: 3       Replicat
 kubemsb 显示
 ~~~
 
-
-
-
-
-#### 7.1.4.3 修改与删除topic
-
-
+##### 7.1.4.3 修改与删除 Topic
 
 ~~~powershell
 修改topic配置：增加分区至4个（分区只可增不可减）
@@ -1570,8 +1228,6 @@ Topic: test001  TopicId: J5e8gTjPRV2b49NUWYwNaA PartitionCount: 4       Replicat
         Topic: test001  Partition: 3    Leader: 1       Replicas: 1,2   Isr: 1,2
 ~~~
 
-
-
 ~~~powershell
 删除topic（需要设置deleteTopicEnable: true）
 @kafka-0:/$ kafka-topics.sh --delete --bootstrap-server kafka:9092 --topic test001
@@ -1581,13 +1237,9 @@ Topic: test001  TopicId: J5e8gTjPRV2b49NUWYwNaA PartitionCount: 4       Replicat
 __consumer_offsets
 ~~~
 
+### 7.2 Kafka Exporter 部署及验证
 
-
-## 7.2 kafka exporter部署及验证
-
-> 监控kafka之前可以创建topic
-
-
+> 监控 kafka 之前可以创建 topic
 
 ~~~powershell
 获取kafka-exporter
@@ -1597,13 +1249,9 @@ NAME                                            CHART VERSION   APP VERSION     
 prometheus-community/prometheus-kafka-exporter  1.6.0           v1.4.2          A Helm chart to export the metrics from Kafka i...
 ~~~
 
-
-
 ~~~powershell
 # helm pull prometheus-community/prometheus-kafka-exporter
 ~~~
-
-
 
 ~~~powershell
 # tar xf prometheus-kafka-exporter-1.6.0.tgz
@@ -1612,14 +1260,10 @@ prometheus-community/prometheus-kafka-exporter  1.6.0           v1.4.2          
 prometheus-kafka-exporter
 ~~~
 
-
-
 ~~~powershell
 链接kafka信息：
 kafka.kafka.svc.cluster.local:9092
 ~~~
-
-
 
 ~~~powershell
 # cd prometheus-kafka-exporter
@@ -1642,38 +1286,26 @@ kafka.kafka.svc.cluster.local:9092
 
 ~~~
 
-
-
 ~~~powershell
 # helm install kafka-exporter ./ -f values.yaml -n monitoring
 ~~~
 
-
-
 ![image-20220722085015022](helm部署prometheus及应用.assets/image-20220722085015022.png)
 
-
-
-## 7.3 在prometheus web中Graph查看
+### 7.3 在 Prometheus Web 中 Graph 查看
 
 ![image-20220722085210137](helm部署prometheus及应用.assets/image-20220722085210137.png)
 
-> 如果想采集更多的数据，需要对消费者进行配置(--consumer-property)，以便获取更多的数据
-
-
+> 如果想采集更多的数据，需要对消费者进行配置 (--consumer-property)，以便获取更多的数据
 
 ~~~powershell
 # kubectl exec -it kafka-0 -n kafka -- bash
 ~~~
 
-
-
 ~~~powershell
 @kafka-0:/$ kafka-topics.sh --bootstrap-server kafka.kafka.svc.cluster.local:9092 --topic test002 --create --partitions 3 --replication-factor 2
 Created topic test002.
 ~~~
-
-
 
 ~~~powershell
 创建生产者生产数据
@@ -1682,8 +1314,6 @@ Created topic test002.
 >abc
 >hello
 ~~~
-
-
 
 ~~~powershell
 创建消费者获取数据
@@ -1694,137 +1324,85 @@ hello
 abc
 ~~~
 
-
-
 ![image-20220722090203802](helm部署prometheus及应用.assets/image-20220722090203802.png)
 
-## 7.4 在grafana中添加kafka监控dashboard
+### 7.4 在 Grafana 中添加 Kafka 监控 Dashboard
 
 > 7589
 
-
-
-
-
 ![image-20220722090350722](helm部署prometheus及应用.assets/image-20220722090350722.png)
-
-
-
-
 
 ![image-20220722090424326](helm部署prometheus及应用.assets/image-20220722090424326.png)
 
-
-
-
-
 ![image-20220722090446732](helm部署prometheus及应用.assets/image-20220722090446732.png)
-
-
-
-
 
 ![image-20220722090518507](helm部署prometheus及应用.assets/image-20220722090518507.png)
 
-
-
 ![image-20220722090540207](helm部署prometheus及应用.assets/image-20220722090540207.png)
 
+## 八、使用 Prometheus 监控 Rabbitmq
 
+### 8.1 Rabbitmq 部署
 
-
-
-
-
-# 八、使用prometheus监控rabbitmq
-
-## 8.1 rabbitmq部署
-
-### 8.1.1 获取rabbitmq部署文件
-
-
+#### 8.1.1 获取 Rabbitmq 部署文件
 
 ~~~powershell
 # helm repo add bitnami https://charts.bitnami.com/bitnami
 ~~~
 
-
-
 ~~~powershell
 # helm repo update
 ~~~
-
-
 
 ~~~powershell
 # helm search repo rabbitmq
 ~~~
 
-
-
 ~~~powershell
 # mkdir rabbitmqdir
 ~~~
 
-
-
 ~~~powershell
 # cd rabbitmqdir
 ~~~
-
-
 
 ~~~powershell
 # helm pull bitnami/rabbitmq
 
 ~~~
 
-
-
 ~~~powershell
 # ls
 rabbitmq-10.1.15.tgz
 ~~~
-
-
 
 ~~~powershell
 # tar xf rabbitmq-10.1.15.tgz
 
 ~~~
 
-
-
 ~~~powershell
 # ls
 rabbitmq  rabbitmq-10.1.15.tgz
 ~~~
 
+#### 8.1.2 配置 Rabbitmq
 
-
-### 8.1.2 配置rabbitmq
-
->- 配置持久化存储、副本数等
->- 建议首次部署时直接修改values中的配置，而不是用–set的方式，这样后期upgrade不必重复设置。
-
-
+> - 配置持久化存储、副本数等
+> - 建议首次部署时直接修改 values 中的配置，而不是用–set 的方式，这样后期 upgrade 不必重复设置。
 
 ~~~powershell
 # cd rabbitmq/
 ~~~
-
-
 
 ~~~powershell
 # ls
 Chart.lock  charts  Chart.yaml  README.md  templates  values.schema.json  values.yaml
 ~~~
 
+##### 8.1.2.1 设置管理员密码
 
-
-#### 8.1.2.1 设置管理员密码
-
-> 方案一:在values.yaml文件中指定
+> 方案一: 在 values.yaml 文件中指定
 
 ~~~powershell
  # vim values.yaml
@@ -1849,23 +1427,15 @@ Chart.lock  charts  Chart.yaml  README.md  templates  values.schema.json  values
 
 ~~~
 
-
-
-> 方案二：在命令行执行时通过--set直接配置
-
-
+> 方案二：在命令行执行时通过 --set 直接配置
 
 ~~~powershell
 --set auth.username=admin,auth.password=admin@mq,auth.erlangCookie=secretcookie
 ~~~
 
+##### 8.1.2.2 配置 Rabbitmq 强制启动
 
-
-#### 8.1.2.2 配置rabbitmq强制启动
-
->当rabbitmq启用持久化存储时，若rabbitmq所有pod同时宕机，将无法重新启动，因此有必要提前开启`clustering.forceBoot`
-
-
+> 当 rabbitmq 启用持久化存储时，若 rabbitmq 所有 pod 同时宕机，将无法重新启动，因此有必要提前开启 `clustering.forceBoot`
 
 ~~~powershell
  211 ## Clustering settings
@@ -1888,11 +1458,7 @@ Chart.lock  charts  Chart.yaml  README.md  templates  values.schema.json  values
  228   forceBoot: true  由默认的false修改为true
 ~~~
 
-
-
-#### 8.1.2.3 配置时区
-
-
+##### 8.1.2.3 配置时区
 
 ~~~powershell
  268 extraEnvVars:
@@ -1900,21 +1466,13 @@ Chart.lock  charts  Chart.yaml  README.md  templates  values.schema.json  values
  270     value: "Asia/Shanghai"
 ~~~
 
-
-
-#### 8.1.2.4 指定副本数
-
-
+##### 8.1.2.4 指定副本数
 
 ~~~powershell
 510 replicaCount: 3 由1修改为3
 ~~~
 
-
-
-#### 8.1.2.5 设置持久化存储
-
-
+##### 8.1.2.5 设置持久化存储
 
 ~~~powershell
  776 persistence:
@@ -1958,36 +1516,26 @@ Chart.lock  charts  Chart.yaml  README.md  templates  values.schema.json  values
  814   size: 5Gi
 ~~~
 
+##### 8.1.2.6 关于 Service 的设置说明
 
+> - 默认通过 ClusterIP 暴露 5672（amqp）和 15672（web 管理界面）等端口供集群内部使用，也可在外部访问，后面有说明
+> - 不建议在 values 中直接配置 nodeport，不方便后期灵活配置
 
-#### 8.1.2.6 关于service的设置说明
+#### 8.1.3 部署 Rabbitmq
 
->- 默认通过ClusterIP暴露5672（amqp）和15672（web管理界面）等端口供集群内部使用，也可在外部访问，后面有说明
->- 不建议在values中直接配置nodeport，不方便后期灵活配置
-
-
-
-### 8.1.3 部署rabbitmq
-
-#### 8.1.3.1 创建命名空间
-
-
+##### 8.1.3.1 创建命名空间
 
 ~~~powershell
 # kubectl create namespace test
 ~~~
 
-
-
-#### 8.1.3.2 安装
+##### 8.1.3.2 安装
 
 > 使用方式一方式安装
 
 ~~~powershell
 # helm install rabbitmq ./ -f values.yaml -n test
 ~~~
-
-
 
 ~~~powershell
 NAME: rabbitmq
@@ -2025,29 +1573,13 @@ To Access the RabbitMQ Management interface:
     kubectl port-forward --namespace test svc/rabbitmq 15672:15672
 ~~~
 
-
-
-
-
-
-
-
-
-> 使用方式二方式安装,通过--set方式指定用户名与密码，方便后期通过upgrade进行更新。
-
-
+> 使用方式二方式安装,通过 --set 方式指定用户名与密码，方便后期通过 upgrade 进行更新。
 
 ~~~powershell
 # helm install rabbitmq ./ -f values.yaml -n test --set auth.username=admin,auth.password=admin@mq,auth.erlangCookie=secretcookie
 ~~~
 
-
-
-
-
-#### 8.1.3.3 查看rabbitmq安装状态
-
-
+##### 8.1.3.3 查看 Rabbitmq 安装状态
 
 ~~~powershell
 # helm list -n test
@@ -2055,15 +1587,11 @@ NAME            NAMESPACE       REVISION        UPDATED                         
 rabbitmq        test            1               2022-07-25 10:38:57.262289654 +0800 CST deployed        rabbitmq-10.1.15        3.10.6
 ~~~
 
-
-
 ~~~powershell
 # kubectl get sts -n test
 NAME       READY   AGE
 rabbitmq   3/3     4m54s
 ~~~
-
-
 
 ~~~powershell
 # kubectl get pods -n test
@@ -2073,8 +1601,6 @@ rabbitmq-1   1/1     Running   0          4m6s
 rabbitmq-2   1/1     Running   0          3m4s
 ~~~
 
-
-
 ~~~powershell
 # kubectl get svc -n test
 NAME                TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)                                 AGE
@@ -2082,11 +1608,7 @@ rabbitmq            ClusterIP   10.96.3.23   <none>        5672/TCP,4369/TCP,256
 rabbitmq-headless   ClusterIP   None         <none>        4369/TCP,5672/TCP,25672/TCP,15672/TCP   4m29s
 ~~~
 
-
-
-#### 8.1.3.4 查看rabbitmq集群状态
-
-
+##### 8.1.3.4 查看 Rabbitmq 集群状态
 
 ~~~powershell
 集群状态
@@ -2094,15 +1616,11 @@ rabbitmq-headless   ClusterIP   None         <none>        4369/TCP,5672/TCP,256
 I have no name!@rabbitmq-0:/$ rabbitmqctl cluster_status
 ~~~
 
-
-
 ~~~powershell
 列出策略（默认没有列出镜像模式）
 I have no name!@rabbitmq-0:/$ rabbitmqctl list_policies
 Listing policies for vhost "/" ...
 ~~~
-
-
 
 ~~~powershell
 设置rabbitmq集群名称
@@ -2110,11 +1628,7 @@ I have no name!@rabbitmq-0:/$ rabbitmqctl set_cluster_name kubemsb_rabbitmq
 Setting cluster name to kubemsb_rabbitmq ...
 ~~~
 
-
-
-### 8.1.4 设置RabbitMQ集群外部访问方式
-
-
+#### 8.1.4 设置 RabbitMQ 集群外部访问方式
 
 ~~~powershell
 [root@k8s-master01 rabbitmqdir]# cat 5672.yaml
@@ -2140,26 +1654,16 @@ spec:
               number: 5672
 ~~~
 
-
-
 ~~~powershell
 [root@k8s-master01 rabbitmqdir]# kubectl apply -f 5672.yaml
 ingress.networking.k8s.io/rabbitmq-5672 created
 ~~~
-
-
 
 ~~~powershell
 [root@k8s-master01 rabbitmqdir]# kubectl get ingress -n test
 NAME             CLASS    HOSTS                        ADDRESS          PORTS   AGE
 rabbitmq-5672    <none>   rabbitmq-5672.kubemsb.com    192.168.10.147   80      61s
 ~~~
-
-
-
-
-
-
 
 ~~~powershell
 [root@k8s-master01 rabbitmqdir]# cat 15672.yaml
@@ -2185,14 +1689,10 @@ spec:
               number: 15672
 ~~~
 
-
-
 ~~~powershell
 [root@k8s-master01 rabbitmqdir]# kubectl apply -f 15672.yaml
 ingress.networking.k8s.io/rabbitmq-15672 created
 ~~~
-
-
 
 ~~~powershell
 [root@k8s-master01 rabbitmqdir]# kubectl get ingress -n test
@@ -2200,57 +1700,33 @@ NAME             CLASS    HOSTS                        ADDRESS          PORTS   
 rabbitmq-15672   <none>   rabbitmq-15672.kubemsb.com   192.168.10.147   80      54s
 ~~~
 
-
-
 ![image-20220725110542672](helm部署prometheus及应用.assets/image-20220725110542672.png)
-
-
-
-
 
 ![image-20220725110703112](helm部署prometheus及应用.assets/image-20220725110703112.png)
 
 ![image-20220725110744799](helm部署prometheus及应用.assets/image-20220725110744799.png)
 
-
-
 ![image-20220725110921083](helm部署prometheus及应用.assets/image-20220725110921083.png)
-
-
-
-
-
-
 
 ![image-20220725110831623](helm部署prometheus及应用.assets/image-20220725110831623.png)
 
+#### 8.1.5 配置镜像模式实现集群高可用
 
-
-### 8.1.5 配置镜像模式实现集群高可用
-
->镜像模式：将需要消费的队列变为镜像队列，存在于多个节点，这样就可以实现 RabbitMQ 的 HA 高可用性。作用就是消息实体会主动在镜像节点之间实现同步，而不是像普通模式那样，在 consumer 消费数据时临时读取。缺点就是，集群内部的同步通讯会占用大量的网络带宽。
-
-
+> 镜像模式：将需要消费的队列变为镜像队列，存在于多个节点，这样就可以实现 RabbitMQ 的 HA 高可用性。作用就是消息实体会主动在镜像节点之间实现同步，而不是像普通模式那样，在 consumer 消费数据时临时读取。缺点就是，集群内部的同步通讯会占用大量的网络带宽。
 
 ~~~powershell
 # kubectl exec -it rabbitmq-0 -n test -- bash
 ~~~
-
-
 
 ~~~powershell
 I have no name!@rabbitmq-0:/$ rabbitmqctl list_policies
 Listing policies for vhost "/" ...
 ~~~
 
-
-
 ~~~powershell
 I have no name!@rabbitmq-0:/$ rabbitmqctl set_policy ha-all "^" '{"ha-mode":"all","ha-sync-mode":"automatic"}'
 Setting policy "ha-all" for pattern "^" to "{"ha-mode":"all","ha-sync-mode":"automatic"}" with priority "0" for vhost "/" ...
 ~~~
-
-
 
 ~~~powershell
 I have no name!@rabbitmq-0:/$ rabbitmqctl list_policies
@@ -2259,22 +1735,16 @@ vhost   name    pattern apply-to        definition      priority
 /       ha-all  ^       all     {"ha-mode":"all","ha-sync-mode":"automatic"}    0
 ~~~
 
-
-
 ![image-20220725113259819](helm部署prometheus及应用.assets/image-20220725113259819.png)
 
-### 8.1.6 卸载rabbitmq
+#### 8.1.6 卸载 Rabbitmq
 
 >  由于接下来要实现监控，所以这个位置的卸载方法根据个人情况执行即可
-
-
 
 ~~~powershell
 卸载rabbitmq
 # kubectl uninstall rabbitmq -n test
 ~~~
-
-
 
 ~~~powershell
 删除pvc
@@ -2287,25 +1757,17 @@ data-rabbitmq-2   Bound    pvc-97358dbc-068d-4076-b046-b5efc80fce1a   5Gi       
 # kubectl delete pvc data-rabbitmq-0 data-rabbitmq-1 data-rabbitmq-2 -n test
 ~~~
 
-
-
 ~~~powershell
 # kubectl delete -f 5672.yaml
 ~~~
-
-
 
 ~~~powershell
 # kubectl delete -f 15672.yaml
 ~~~
 
+### 8.2 Rabbitmq Exporter 部署及验证
 
-
-
-
-## 8.2 rabbitmq exporter部署及验证
-
-### 8.2.1 rabbitmq连接信息
+#### 8.2.1 Rabbitmq 连接信息
 
 ~~~powershell
 url:http://rabbitmq.test.svc.cluster.local:15672
@@ -2313,11 +1775,7 @@ username: admin
 password: 15672
 ~~~
 
-
-
-### 8.2.2 rabbitmq exporter chart包下载
-
-
+#### 8.2.2 Rabbitmq Exporter Chart 包下载
 
 ~~~powershell
 # helm search repo rabbitmq-exporter
@@ -2325,39 +1783,25 @@ NAME                                                    CHART VERSION   APP VERS
 prometheus-community/prometheus-rabbitmq-exporter       1.2.0           v0.29.0         Rabbitmq metrics exporter for prometheus
 ~~~
 
-
-
 ~~~powershell
 # helm pull prometheus-community/prometheus-rabbitmq-exporter
 ~~~
-
-
 
 ~~~powershell
 # ls
 prometheus-rabbitmq-exporter-1.2.0.tgz
 ~~~
 
-
-
-
-
-### 8.2.3 解压并配置
-
-
+#### 8.2.3 解压并配置
 
 ~~~powershell
 # tar xf prometheus-rabbitmq-exporter-1.2.0.tgz
 ~~~
 
-
-
 ~~~powershell
 # ls
 prometheus-rabbitmq-exporter
 ~~~
-
-
 
 ~~~powershell
 # cd prometheus-rabbitmq-exporter/
@@ -2365,8 +1809,6 @@ prometheus-rabbitmq-exporter
 # ls
 Chart.yaml  README.md  templates  values.yaml
 ~~~
-
-
 
 ~~~powershell
 # vim values.yaml
@@ -2409,13 +1851,9 @@ Chart.yaml  README.md  templates  values.yaml
 
 ~~~
 
-
-
 ~~~powershell
 # helm install rabbitmq-exporter ./ -f values.yaml -n monitoring
 ~~~
-
-
 
 ~~~powershell
 # helm list -n monitoring
@@ -2424,63 +1862,26 @@ NAME                    NAMESPACE       REVISION        UPDATED                 
 rabbitmq-exporter       monitoring      1               2022-07-25 12:03:31.769877663 +0800 CST deployed        prometheus-rabbitmq-exporter-1.2.0      v0.29.0
 ~~~
 
-
-
-### 8.2.4 在prometheus web界面中查看
-
-
+#### 8.2.4 在 Prometheus Web 界面中查看
 
 ![image-20220725120633719](helm部署prometheus及应用.assets/image-20220725120633719.png)
 
-
-
 ![image-20220725122156046](helm部署prometheus及应用.assets/image-20220725122156046.png)
 
-### 8.2.5 在grafana添加dashboard
+#### 8.2.5 在 Grafana 添加 Dashboard
 
 > [RabbitMQ Monitoring](https://grafana.com/grafana/dashboards/4279)4279
->
+> 
 > [RabbitMQ Metrics](https://grafana.com/grafana/dashboards/4371)4371
-
-
-
-
 
 ![image-20220725122440946](helm部署prometheus及应用.assets/image-20220725122440946.png)
 
-
-
-
-
 ![image-20220725122527360](helm部署prometheus及应用.assets/image-20220725122527360.png)
-
-
 
 ![image-20220725122605609](helm部署prometheus及应用.assets/image-20220725122605609.png)
 
-
-
 ![image-20220725122648479](helm部署prometheus及应用.assets/image-20220725122648479.png)
-
-
 
 ![image-20220725122722659](helm部署prometheus及应用.assets/image-20220725122722659.png)
 
-
-
-
-
 ![image-20220725122753561](helm部署prometheus及应用.assets/image-20220725122753561.png)
-
-
-
-
-
-
-
-
-
-
-
-
-

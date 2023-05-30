@@ -8,43 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4ff265482c90a17",
+            "id": "df56d15817182828",
             "type": "leaf",
             "state": {
-              "type": "pdf-annotator",
+              "type": "pdf",
               "state": {
-                "file": "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md"
-              }
-            }
-          },
-          {
-            "id": "f19cd3068944ccde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ac6b56d94d9ec1a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English Learning/Word/Word.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md",
+                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md"
+                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf"
               }
             }
           },
@@ -164,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md",
+                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,53 +178,54 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "f19cd3068944ccde",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
+    "AI/未命名.canvas",
+    "Eassay/Youtube/Ruri Ohama/How to create a second brain in a foreign language- no more translating!.md",
+    "Eassay/企划书/企划书.md",
+    "Website/告警关联分析与威胁情报（告警关联分析与威胁情报的区别）-睿象云平台.md",
+    "How to/How to be the top 1 persent.md",
+    "How to/How to write a paper.md",
+    "Tasks/TODO.md",
+    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
+    "Tasks/信息收集.md",
+    "Basic/操作系统/Windows 重置网络.md",
+    "Tasks/企划书.md",
+    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
+    "Basic/操作系统/Solaris.md",
+    "Tasks/APT Report.md",
+    "Tools/Android/Android.md",
+    "Tools/不需要 root 权限的 Android 控制器.md",
+    "Tools/Android",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Tools Index.md",
+    "AI/LLM/LLM 模型&微调&部署方法.md",
+    "AI/LLM/LLM.md",
+    "AI/LLM/LLM 部署.md",
+    "Tools/Snipaste/Pasted image 20230530084944.png",
+    "AI/自动驾驶/openpilot.md",
+    "AI/自动驾驶",
+    "AI/大预言模型/大语言模型的部署.md",
+    "AI/OpenAI/Chatgpt/ChatGPT相关项目.md",
+    "AI/OpenAI/Chatgpt/ChatGPT.md",
+    "AI/OpenAI/Chatgpt/如何绕过 Cloudflare.md",
+    "Interesting/诗词歌赋/唐诗宋词.md",
+    "Interesting/诗词歌赋",
+    "AI/未命名",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722193530812.png",
-    "English Learning/Word/Word.md",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722175645610.png",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633650192071.png",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633651873150.png",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/architecture-calico.svg",
-    "Cyber Security/Dark/Black Industry/Information.md",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/vmware_workstation_install_option.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155640584.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155615710.png",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155549589.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155445712.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
     "Cloud Native/Course/虚拟化技术/虚拟化技术.assets",
     "Cloud Native/Course/虚拟化技术",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/39_kubernetes集群网络解决方案_calico.zip",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/desktop.ini",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料",
-    "Cyber Security/Dark/darknet/soen.md",
-    "Cyber Security/Dark/Black Industry",
-    "Cyber Security/Dark",
-    "Eassay/Youtube/Ruri Ohama/How to be the top 1 percent.md",
-    "English Learning/Word",
-    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
-    "Eassay/Youtube/老高/人有一個很大的弱點.md",
-    "Eassay/Youtube/Ruri Ohama",
-    "Tasks/Coding.md",
-    "Coding/Python/Repository/Flask/Basic Flask.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Cyber Security/Deeplocker/backend.md",
-    "Coding/Python/Basic/pip 换源.md",
-    "Coding/Python/Repository/Python Web.md",
-    "Coding/Python/Repository/tqdm.md",
-    "Coding/Python/awesome-python.md",
-    "Coding/Python/Basic/Python Basic.md",
-    "Notebook/爬虫/Python.md",
-    "Weekly Note/2023-W22.md",
-    "Coding/C&CPP/C&CPP Repository.md",
-    "Cyber Security/Deeplocker/mtcnn 开发.md",
-    "AI/Arcface/mtcnn.md",
-    "AI/LLM/LLM.md",
-    "AI/人工智能模型/ChatGPT.md",
-    "Coding/Python/Script/Python Automation Scripts I Use Every Day.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

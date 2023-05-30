@@ -1,0 +1,1 @@
+- [[../Eassay/Youtube/Ruri Ohama/How to be the top 1 percent|How to be the top 1 percent]]

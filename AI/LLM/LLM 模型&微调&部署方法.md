@@ -1,0 +1,2 @@
+- [Liuhong99/Sophia: The official implementation of “Sophia: A Scalable Stochastic Second-order Optimizer for Language Model Pre-training” (github.com)](https://github.com/Liuhong99/Sophia)
+- [artidoro/qlora: QLoRA: Efficient Finetuning of Quantized LLMs (github.com)](https://github.com/artidoro/qlora)

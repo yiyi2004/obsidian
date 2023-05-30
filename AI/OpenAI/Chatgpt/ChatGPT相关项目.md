@@ -1,0 +1,2 @@
+- [gptlink/gptlink: 10分钟搭建自己可免费商用的ChatGPT环境，搭建简单，包含用户，订单，任务，付费等功能 (github.com)](https://github.com/gptlink/gptlink)
+- [pengzhile/pandora: 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. (github.com)](https://github.com/pengzhile/pandora)

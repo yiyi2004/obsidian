@@ -11,8 +11,13 @@
             "id": "9035252d25e761b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Python/爬虫/requests.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -59,6 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coding/Python/爬虫/requests.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Coding/Python/爬虫/requests.md"
+              }
             }
           },
           {
@@ -132,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Coding/Python/爬虫/requests.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,6 +185,13 @@
   },
   "active": "9035252d25e761b9",
   "lastOpenFiles": [
+    "Coding/Python/爬虫/Python.md",
+    "Coding/Python/爬虫/requests.md",
+    "Cocinfo/网课资源/网课资源.md",
+    "Cocinfo/网课资源",
+    "AI/AI index.md",
+    "AI/未命名.canvas",
+    "AI/AI.md",
     "未命名.md",
     "未命名 1.md",
     "Templates/Notebook.md",
@@ -192,23 +208,17 @@
     "Website/Website index.md",
     "Source Code/Source Code index.md",
     "Tasks/Tasks index.md",
-    "AI/AI index.md",
     "基础知识和工具/index.md",
     "Be Yourself/Be Yourself index.md",
     "Cloud Native/Cloud Native index.md",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220902222000384.png",
     "Cloud Native/yaml.md",
-    "AI/AI.md",
     "基础知识和工具",
     "AI/基础知识和工具/Colab.md",
     "How to/How to index.md",
     "Write/Write index.md",
-    "Weekly Note/Weekly Note index.md",
-    "Tools/Tools index.md",
-    "The Party/The Party index.md",
     "generate_catalog.py",
     "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
-    "AI/未命名.canvas",
     "AI/Python 机器学习笔记/Pasted image 20220308215513.png",
     "AI/Python 机器学习笔记/Pasted image 20220308214501.png",
     "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307200153.png",
@@ -222,7 +232,6 @@
     "����",
     "AI/generate_catalog.py",
     "Coding/Python/文件操作",
-    "catalog_generate.py",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

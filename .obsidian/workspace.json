@@ -11,9 +11,12 @@
             "id": "df56d15817182828",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf"
+                "file": "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -61,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf",
+                "file": "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf"
+                "file": "Cloud Native/Course/虚拟化技术/虚拟化技术.md"
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/Tensorflow/北京大学 tensorflow2.0/第六讲-定稿.pdf",
+                "file": "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,9 +183,39 @@
   },
   "active": "697acbfa6887713c",
   "lastOpenFiles": [
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003558443.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003450859.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003418546.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003335285.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715002329243.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142514495.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142453429.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142427741.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142355210.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714141949162.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.md",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用.assets/image-20220725122753561.png",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用.assets",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用.md",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/desktop.ini",
+    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料",
+    "Cloud Native/Prometheus/Prometheus.md",
+    "Eassay/Youtube/Prince Ea/STOP wasting your LIFE (2023).md",
+    "Eassay/随想.md",
+    "Eassay/Youtube/Prince Ea",
+    "Eassay/Youtube/未命名.md",
+    "Eight-part essay/资料收集.md",
+    "Cloud Native/Prometheus/Prometheus and Honeypot.md",
+    "Cloud Native/Prometheus/Snipaste",
+    "Eassay/企划书/企划书.md",
+    "AI/AI.md",
     "AI/未命名.canvas",
     "Eassay/Youtube/Ruri Ohama/How to create a second brain in a foreign language- no more translating!.md",
-    "Eassay/企划书/企划书.md",
     "Website/告警关联分析与威胁情报（告警关联分析与威胁情报的区别）-睿象云平台.md",
     "How to/How to be the top 1 persent.md",
     "How to/How to write a paper.md",
@@ -196,36 +229,7 @@
     "Tasks/APT Report.md",
     "Tools/Android/Android.md",
     "Tools/不需要 root 权限的 Android 控制器.md",
-    "Tools/Android",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/Tools Index.md",
-    "AI/LLM/LLM 模型&微调&部署方法.md",
-    "AI/LLM/LLM.md",
-    "AI/LLM/LLM 部署.md",
-    "Tools/Snipaste/Pasted image 20230530084944.png",
-    "AI/自动驾驶/openpilot.md",
-    "AI/自动驾驶",
-    "AI/大预言模型/大语言模型的部署.md",
-    "AI/OpenAI/Chatgpt/ChatGPT相关项目.md",
-    "AI/OpenAI/Chatgpt/ChatGPT.md",
-    "AI/OpenAI/Chatgpt/如何绕过 Cloudflare.md",
-    "Interesting/诗词歌赋/唐诗宋词.md",
-    "Interesting/诗词歌赋",
-    "AI/未命名",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722193530812.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722175645610.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633650192071.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633651873150.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/architecture-calico.svg",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/vmware_workstation_install_option.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155640584.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155615710.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets/image-20220111155549589.png",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.assets",
-    "Cloud Native/Course/虚拟化技术",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/39_kubernetes集群网络解决方案_calico.zip",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/desktop.ini",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

@@ -26,4 +26,4 @@ ipconfig /registerdns
 
 执行完毕上述方案后，请您重启设备  
 
-🤡are you kidding me? I don't wanna close my label page.
+🤡are you kidding me? I don't wanna close my label page.****

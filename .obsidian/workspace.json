@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8b328d872204f441",
+        "id": "a0433726f15cb68c",
         "type": "tabs",
         "children": [
           {
-            "id": "df56d15817182828",
+            "id": "b3ad3913c6154d1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md",
+                "file": "How to/How to index.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md",
+                "file": "How to/How to index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.51103591918945
+    "width": 381.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md"
+                "file": "How to/How to index.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/操作系统/Windows 重置网络.md",
+                "file": "How to/How to index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,54 +181,55 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
     }
   },
-  "active": "df56d15817182828",
+  "active": "b3ad3913c6154d1b",
   "lastOpenFiles": [
-    "How to/index.md",
+    "index.md",
+    "Write/Write index.md",
+    "Weekly Note/Weekly Note index.md",
+    "Website/Website index.md",
+    "Tools/Tools index.md",
+    "The Party/The Party index.md",
+    "Templates/Templates index.md",
+    "Tasks/Tasks index.md",
+    "Source Code/Source Code index.md",
+    "Resume/Resume index.md",
+    "Reading Notes/Reading Notes index.md",
+    "Project/Project index.md",
+    "Private/Private index.md",
+    "PDFS/PDFS index.md",
+    "Paper/Paper index.md",
+    "Notebook/Notebook index.md",
+    "Math/Math index.md",
+    "Master's degree/Master's degree index.md",
+    "Life/Life index.md",
+    "Interesting/Interesting index.md",
+    "How to/How to index.md",
+    "Group Meeting/Group Meeting index.md",
+    "Frontend/Frontend index.md",
+    "Follow/Follow index.md",
+    "English Learning/English Learning index.md",
+    "Eight-part essay/Eight-part essay index.md",
+    "generate_catalog.py",
+    "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
+    "AI/未命名.canvas",
+    "AI/Python 机器学习笔记/Pasted image 20220308215513.png",
+    "AI/Python 机器学习笔记/Pasted image 20220308214501.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307200153.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307195935.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210731.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210458.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210344.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210303.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307205623.png",
+    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307200620.png",
+    "����/Snipaste",
+    "����",
+    "AI/generate_catalog.py",
+    "Coding/Python/文件操作",
     "catalog_generate.py",
     "catalog_generate.txt",
     "新建 文本文档.txt",
     "新建文件夹",
-    "English Learning/Word/Word.md",
-    "Website/Internet Explorer 0-day exploited by North Korean actor APT37.md",
-    "Cyber Security/APT/APT Report/APT Report.md",
-    "Tasks/APT Report.md",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用.md",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
-    "Cloud Native/Course/新建 文本文档.txt",
-    "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003558443.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003450859.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003418546.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715003335285.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220715002329243.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142514495.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142453429.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142427741.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714142355210.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets/image-20220714141949162.png",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.md",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记/helm部署prometheus及应用.assets",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控/01_笔记",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料",
-    "Cloud Native/Prometheus/Prometheus.md",
-    "Eassay/Youtube/Prince Ea/STOP wasting your LIFE (2023).md",
-    "Eassay/随想.md",
-    "Eassay/Youtube/未命名.md",
-    "Eight-part essay/资料收集.md",
-    "Cloud Native/Prometheus/Prometheus and Honeypot.md",
-    "Eassay/企划书/企划书.md",
-    "AI/AI.md",
-    "AI/未命名.canvas",
-    "Eassay/Youtube/Ruri Ohama/How to create a second brain in a foreign language- no more translating!.md",
-    "Website/告警关联分析与威胁情报（告警关联分析与威胁情报的区别）-睿象云平台.md",
-    "How to/How to be the top 1 persent.md",
-    "How to/How to write a paper.md",
-    "Tasks/TODO.md",
-    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
-    "Tasks/信息收集.md",
-    "Basic/操作系统/Windows 重置网络.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

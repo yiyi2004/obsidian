@@ -1,0 +1,6 @@
+- [[0. 项目行为习惯分析.md|0. 项目行为习惯分析]]
+- [[2023我们重新开始.md|2023我们重新开始]]
+- [[index.md|index]]
+- [[learning process.md|learning process]]
+- [[突然的想法.md|突然的想法]]
+- [[财富自由.md|财富自由]]

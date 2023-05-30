@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f44a92d490b028ad",
+        "id": "4a0ed56a74c5955f",
         "type": "tabs",
         "children": [
           {
-            "id": "dddbfd3c179756ac",
+            "id": "9035252d25e761b9",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 308.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,11 +170,24 @@
       "workspaces:管理工作区布局": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
-      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false
+      "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "dddbfd3c179756ac",
+  "active": "9035252d25e761b9",
   "lastOpenFiles": [
+    "未命名.md",
+    "未命名 1.md",
+    "Templates/Notebook.md",
+    "Templates/Templates index.md",
+    "Templates/index.md",
+    "Reading Notes/Book/Python网络爬虫权威指南/Python网络爬虫权威指南.md",
+    "Reading Notes/Book/Python网络爬虫权威指南",
+    "未命名",
+    "index.md",
+    "AI/深度学习/RNN.md",
+    "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
+    "Coding/Coding index.md",
     "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
     "Website/Website index.md",
     "Source Code/Source Code index.md",
@@ -188,20 +202,10 @@
     "基础知识和工具",
     "AI/基础知识和工具/Colab.md",
     "How to/How to index.md",
-    "index.md",
     "Write/Write index.md",
     "Weekly Note/Weekly Note index.md",
     "Tools/Tools index.md",
     "The Party/The Party index.md",
-    "Templates/Templates index.md",
-    "Resume/Resume index.md",
-    "Reading Notes/Reading Notes index.md",
-    "Project/Project index.md",
-    "Private/Private index.md",
-    "PDFS/PDFS index.md",
-    "Paper/Paper index.md",
-    "Notebook/Notebook index.md",
-    "Math/Math index.md",
     "generate_catalog.py",
     "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
     "AI/未命名.canvas",
@@ -219,8 +223,6 @@
     "AI/generate_catalog.py",
     "Coding/Python/文件操作",
     "catalog_generate.py",
-    "catalog_generate.txt",
-    "新建 文本文档.txt",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How to/index.md",
+                "file": "Basic/操作系统/Windows 重置网络.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to/index.md",
+                "file": "Basic/操作系统/Windows 重置网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How to/index.md"
+                "file": "Basic/操作系统/Windows 重置网络.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "How to/index.md",
+                "file": "Basic/操作系统/Windows 重置网络.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,8 +183,12 @@
   },
   "active": "df56d15817182828",
   "lastOpenFiles": [
-    "English Learning/Word/Word.md",
     "How to/index.md",
+    "catalog_generate.py",
+    "catalog_generate.txt",
+    "新建 文本文档.txt",
+    "新建文件夹",
+    "English Learning/Word/Word.md",
     "Website/Internet Explorer 0-day exploited by North Korean actor APT37.md",
     "Cyber Security/APT/APT Report/APT Report.md",
     "Tasks/APT Report.md",
@@ -208,13 +212,9 @@
     "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用",
     "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/31_kubernetes集群节点及pod监控",
     "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/helm部署prometheus及应用.assets",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料/desktop.ini",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_集群节点及Pod监控 Prometheus配套资料",
     "Cloud Native/Prometheus/Prometheus.md",
     "Eassay/Youtube/Prince Ea/STOP wasting your LIFE (2023).md",
     "Eassay/随想.md",
-    "Eassay/Youtube/Prince Ea",
     "Eassay/Youtube/未命名.md",
     "Eight-part essay/资料收集.md",
     "Cloud Native/Prometheus/Prometheus and Honeypot.md",
@@ -229,7 +229,6 @@
     "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
     "Tasks/信息收集.md",
     "Basic/操作系统/Windows 重置网络.md",
-    "Tasks/企划书.md",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

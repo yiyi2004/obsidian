@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Python/爬虫/requests.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/爬虫/requests.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/爬虫/requests.md"
+                "file": "Interesting/陈平跨学科思维.md"
               }
             }
           },
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/爬虫/requests.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +163,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.5,
-    "collapsed": true
+    "width": 308.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +184,21 @@
   },
   "active": "9035252d25e761b9",
   "lastOpenFiles": [
-    "Coding/Python/爬虫/Python.md",
+    "Interesting/Snipaste/Pasted image 20230530215010.png",
+    "Interesting/Snipaste/Pasted image 20230530214954.png",
+    "Interesting/Snipaste/Pasted image 20230530214735.png",
+    "Interesting/Snipaste/Pasted image 20230530214656.png",
+    "Interesting/Snipaste/Pasted image 20230530214612.png",
+    "Interesting/Snipaste/Pasted image 20230530214403.png",
+    "Interesting/Snipaste/Pasted image 20230530213417.png",
+    "Interesting/Snipaste/Pasted image 20230530213157.png",
+    "Interesting/Snipaste/Pasted image 20230530213140.png",
+    "Interesting/Snipaste/Pasted image 20230530212943.png",
+    "Interesting/Snipaste/Pasted image 20230530212829.png",
+    "Cyber Security/Dark/darknet/soen.md",
+    "How to/微信公众号.md",
     "Coding/Python/爬虫/requests.md",
+    "Coding/Python/爬虫/Python.md",
     "Cocinfo/网课资源/网课资源.md",
     "Cocinfo/网课资源",
     "AI/AI index.md",
@@ -211,23 +223,10 @@
     "基础知识和工具/index.md",
     "Be Yourself/Be Yourself index.md",
     "Cloud Native/Cloud Native index.md",
-    "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220902222000384.png",
     "Cloud Native/yaml.md",
     "基础知识和工具",
-    "AI/基础知识和工具/Colab.md",
-    "How to/How to index.md",
-    "Write/Write index.md",
     "generate_catalog.py",
     "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
-    "AI/Python 机器学习笔记/Pasted image 20220308215513.png",
-    "AI/Python 机器学习笔记/Pasted image 20220308214501.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307200153.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307195935.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210731.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210458.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210344.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307210303.png",
-    "AI/Python 机器学习笔记/Snipaste/Pasted image 20220307205623.png",
     "����/Snipaste",
     "����",
     "AI/generate_catalog.py",

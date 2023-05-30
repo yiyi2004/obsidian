@@ -23,20 +23,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
+                "file": "Basic/操作系统/Windows 重置网络.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "3fe254f84eb18bff",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722193530812.png"
               }
             }
           },
@@ -98,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
+                "file": "Basic/操作系统/Windows 重置网络.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md"
+                "file": "Basic/操作系统/Windows 重置网络.md"
               }
             }
           },
@@ -174,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
+                "file": "Basic/操作系统/Windows 重置网络.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,9 +207,9 @@
   },
   "active": "f19cd3068944ccde",
   "lastOpenFiles": [
-    "English Learning/Word/Word.md",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/kubernetes网络解决方案 Calico.md",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722193530812.png",
+    "English Learning/Word/Word.md",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/image-20220722175645610.png",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633650192071.png",
     "Cloud Native/Course/容器云 云原生架构师-2022版_网络解决方案 calico配套资料/image/1633651873150.png",

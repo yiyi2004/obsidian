@@ -83,8 +83,6 @@ model_compare.py
 
 from flask import Blueprint
 
- 
-
 simple = Blueprint('simple', __name__, template_folder='templates')
 
 ## @app.route('/model_compare')

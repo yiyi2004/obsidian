@@ -8,33 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9035252d25e761b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Python/爬虫/爬虫基础总结.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "38b0b19c88b8ad32",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +61,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 381.51103591918945
+    "width": 251.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -136,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md"
+                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf"
               }
             }
           },
@@ -154,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,10 +181,21 @@
   },
   "active": "38b0b19c88b8ad32",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
-    "Coding/Python/爬虫/爬虫基础总结.md",
-    "Cyber Security/Deeplocker/deeplcoker backend.md",
+    "Paper/量子力学/Review/A Survey on quantum computing technology.md",
+    "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
+    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+    "Coding/Python/Repository/Flask/Flask Quickstart.md",
+    "Coding/Python/Repository/Flask/Basic Flask.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
+    "Coding/Python/爬虫/爬虫基础总结.md",
+    "Basic/正则表达式.md",
+    "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",
+    "Coding/Python/爬虫/Snipaste/Pasted image 20230531151420.png",
+    "Coding/Python/爬虫/Snipaste/Pasted image 20230531151351.png",
+    "Coding/Python/爬虫/Snipaste/Pasted image 20230531151318.png",
+    "Coding/Python/爬虫/Snipaste",
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Cyber Security/Deeplocker/deeplcoker backend.md",
     "Frontend/React",
     "Interesting/陈平跨学科思维.md",
     "Interesting/Snipaste/Pasted image 20230531105137.png",
@@ -210,14 +204,10 @@
     "Interesting/Snipaste/Pasted image 20230531104325.png",
     "Interesting/Snipaste/Pasted image 20230531104200.png",
     "Interesting/Snipaste/Pasted image 20230531104022.png",
-    "Interesting/Snipaste/Pasted image 20230531103843.png",
-    "Interesting/Snipaste/Pasted image 20230531103812.png",
     "Eassay/随想.md",
     "Coding/Python/爬虫/爬虫实战总结.md",
     "Coding/Python/爬虫/实践",
     "Coding/Python/爬虫/Python.md",
-    "Interesting/Snipaste/Pasted image 20230530215010.png",
-    "Interesting/Snipaste/Pasted image 20230530214954.png",
     "Cyber Security/Dark/darknet/soen.md",
     "How to/微信公众号.md",
     "Coding/Python/爬虫/requests.md",
@@ -235,16 +225,9 @@
     "Reading Notes/Book/Python网络爬虫权威指南",
     "未命名",
     "index.md",
-    "AI/深度学习/RNN.md",
-    "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
-    "Coding/Coding index.md",
-    "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
-    "Website/Website index.md",
     "基础知识和工具",
     "generate_catalog.py",
     "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
-    "����/Snipaste",
-    "����",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

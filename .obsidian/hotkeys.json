@@ -26,5 +26,14 @@
       ],
       "key": "I"
     }
+  ],
+  "editing-toolbar:codeblock": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "B"
+    }
   ]
 }

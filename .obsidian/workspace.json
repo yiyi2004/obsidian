@@ -11,9 +11,12 @@
             "id": "38b0b19c88b8ad32",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf"
+                "file": "Coding/Python/量化交易/量化交易.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -61,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
+                "file": "Coding/Python/量化交易/量化交易.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf"
+                "file": "Coding/Python/量化交易/量化交易.md"
               }
             }
           },
@@ -137,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
+                "file": "Coding/Python/量化交易/量化交易.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,11 +184,15 @@
   },
   "active": "38b0b19c88b8ad32",
   "lastOpenFiles": [
+    "Coding/Python/Repository/量化交易.md",
+    "Coding/Python/量化交易/量化交易.md",
+    "Coding/Python/量化交易",
+    "Coding/Python/Repository/Flask/Flask Quickstart.md",
+    "Coding/Python/Repository/Flask/Basic Flask.md",
+    "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
     "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
-    "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Coding/Python/Repository/Flask/Basic Flask.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Coding/Python/爬虫/爬虫基础总结.md",
     "Basic/正则表达式.md",
@@ -221,13 +228,9 @@
     "Templates/Notebook.md",
     "Templates/Templates index.md",
     "Templates/index.md",
-    "Reading Notes/Book/Python网络爬虫权威指南/Python网络爬虫权威指南.md",
     "Reading Notes/Book/Python网络爬虫权威指南",
     "未命名",
-    "index.md",
     "基础知识和工具",
-    "generate_catalog.py",
-    "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

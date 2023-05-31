@@ -13,14 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Coding/Python/爬虫/爬虫基础总结.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38b0b19c88b8ad32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md"
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md"
               }
             }
           },
@@ -140,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,23 +196,31 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "9035252d25e761b9",
+  "active": "38b0b19c88b8ad32",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Coding/Python/爬虫/爬虫基础总结.md",
+    "Cyber Security/Deeplocker/deeplcoker backend.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
+    "Frontend/React",
+    "Interesting/陈平跨学科思维.md",
+    "Interesting/Snipaste/Pasted image 20230531105137.png",
+    "Interesting/Snipaste/Pasted image 20230531104726.png",
+    "Interesting/Snipaste/Pasted image 20230531104616.png",
+    "Interesting/Snipaste/Pasted image 20230531104325.png",
+    "Interesting/Snipaste/Pasted image 20230531104200.png",
+    "Interesting/Snipaste/Pasted image 20230531104022.png",
+    "Interesting/Snipaste/Pasted image 20230531103843.png",
+    "Interesting/Snipaste/Pasted image 20230531103812.png",
+    "Eassay/随想.md",
+    "Coding/Python/爬虫/爬虫实战总结.md",
+    "Coding/Python/爬虫/实践",
+    "Coding/Python/爬虫/Python.md",
     "Interesting/Snipaste/Pasted image 20230530215010.png",
     "Interesting/Snipaste/Pasted image 20230530214954.png",
-    "Interesting/Snipaste/Pasted image 20230530214735.png",
-    "Interesting/Snipaste/Pasted image 20230530214656.png",
-    "Interesting/Snipaste/Pasted image 20230530214612.png",
-    "Interesting/Snipaste/Pasted image 20230530214403.png",
-    "Interesting/Snipaste/Pasted image 20230530213417.png",
-    "Interesting/Snipaste/Pasted image 20230530213157.png",
-    "Interesting/Snipaste/Pasted image 20230530213140.png",
-    "Interesting/Snipaste/Pasted image 20230530212943.png",
-    "Interesting/Snipaste/Pasted image 20230530212829.png",
     "Cyber Security/Dark/darknet/soen.md",
     "How to/微信公众号.md",
     "Coding/Python/爬虫/requests.md",
-    "Coding/Python/爬虫/Python.md",
     "Cocinfo/网课资源/网课资源.md",
     "Cocinfo/网课资源",
     "AI/AI index.md",
@@ -218,19 +240,11 @@
     "Coding/Coding index.md",
     "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
     "Website/Website index.md",
-    "Source Code/Source Code index.md",
-    "Tasks/Tasks index.md",
-    "基础知识和工具/index.md",
-    "Be Yourself/Be Yourself index.md",
-    "Cloud Native/Cloud Native index.md",
-    "Cloud Native/yaml.md",
     "基础知识和工具",
     "generate_catalog.py",
     "AI/Tensorflow/北京大学 tensorflow2.0/第二讲-定稿.pdf",
     "����/Snipaste",
     "����",
-    "AI/generate_catalog.py",
-    "Coding/Python/文件操作",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

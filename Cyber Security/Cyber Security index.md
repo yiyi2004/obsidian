@@ -47,7 +47,7 @@
 - [[Dark/Black Industry/Information.md|Information]]
 - [[Dark/darknet/soen.md|soen]]
 - [[Dark/darknet/其他资源.md|其他资源]]
-- [[Deeplocker/backend.md|backend]]
+- [[Deeplocker/deeplcoker backend|deeplcoker backend]]
 - [[Deeplocker/deeplocker python API development.md|deeplocker python API development]]
 - [[Deeplocker/mtcnn 开发.md|mtcnn 开发]]
 - [[Deeplocker/信息整合(memos).md|信息整合(memos)]]

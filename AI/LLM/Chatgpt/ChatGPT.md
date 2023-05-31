@@ -3,7 +3,7 @@
 
 # 模型
 
-![[Pasted image 20230228120357.png]]
+![[Snipaste/Pasted image 20230228120357.png]]
 
 
 # Reference

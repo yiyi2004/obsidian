@@ -1,4 +1,4 @@
 - [smol-ai/developer: with 100k context windows on the way, it's now feasible for every dev to have their own smol developer (github.com)](https://github.com/smol-ai/developer)
 - [大语言模型的部署](https://www.bilibili.com/video/BV1R8411Z7Kb/?spm_id_from=333.337.search-card.all.click)
-- [[../Tensorflow/tensorflow 概述|tensorflow 概述]]
+- [[../../Tensorflow/tensorflow 概述|tensorflow 概述]]
 - [[LLM 部署]]

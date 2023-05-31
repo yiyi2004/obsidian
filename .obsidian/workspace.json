@@ -13,14 +13,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Python/量化交易/量化交易.md",
+                "file": "AI/LLM/Chatgpt/ChatGPT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d323a08bde3467d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6d4d0bc7592be85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/企划书/企划书.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/量化交易/量化交易.md",
+                "file": "Eassay/企划书/企划书.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.51103591918945
+    "width": 287.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -122,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/量化交易/量化交易.md"
+                "file": "Eassay/企划书/企划书.md"
               }
             }
           },
@@ -140,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/量化交易/量化交易.md",
+                "file": "Eassay/企划书/企划书.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,17 +209,34 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "38b0b19c88b8ad32",
+  "active": "6d4d0bc7592be85f",
   "lastOpenFiles": [
-    "Coding/Python/Repository/量化交易.md",
+    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
+    "AI/LLM/Project&Analysis/ChatPaper.md",
+    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+    "AI/LLM/Chatgpt/ChatGPT.md",
+    "AI/LLM/Project&Analysis/Snipaste/Pasted image 20230531202542.png",
+    "AI/LLM/Project&Analysis/Snipaste",
+    "README.md",
+    "AI/LLM/Project&Analysis/gpt_academic.md",
+    "AI/LLM/Chatgpt/ChatGPT 商业价值.md",
+    "AI/LLM/Project&Analysis/gpt_academic",
+    "AI/LLM/Chatgpt/Snipaste/Pasted image 20230206184403.png",
+    "AI/LLM/Project&Analysis",
+    "AI/LLM/LLM",
+    "AI/OpenAI",
+    "AI/LLM/Chatgpt",
+    "AI/AI index.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Notebook/自然辩证法/Snipaste/7fd22bcc56f236be1fd0087ada4ece0.jpg",
     "Coding/Python/量化交易/量化交易.md",
+    "Coding/Python/Repository/量化交易.md",
     "Coding/Python/量化交易",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Coding/Python/Repository/Flask/Basic Flask.md",
     "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
-    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Coding/Python/爬虫/爬虫基础总结.md",
     "Basic/正则表达式.md",
@@ -203,34 +247,17 @@
     "Coding/Python/爬虫/Snipaste",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/Deeplocker/deeplcoker backend.md",
-    "Frontend/React",
     "Interesting/陈平跨学科思维.md",
     "Interesting/Snipaste/Pasted image 20230531105137.png",
     "Interesting/Snipaste/Pasted image 20230531104726.png",
     "Interesting/Snipaste/Pasted image 20230531104616.png",
-    "Interesting/Snipaste/Pasted image 20230531104325.png",
-    "Interesting/Snipaste/Pasted image 20230531104200.png",
-    "Interesting/Snipaste/Pasted image 20230531104022.png",
     "Eassay/随想.md",
     "Coding/Python/爬虫/爬虫实战总结.md",
-    "Coding/Python/爬虫/实践",
     "Coding/Python/爬虫/Python.md",
     "Cyber Security/Dark/darknet/soen.md",
     "How to/微信公众号.md",
     "Coding/Python/爬虫/requests.md",
-    "Cocinfo/网课资源/网课资源.md",
-    "Cocinfo/网课资源",
-    "AI/AI index.md",
     "AI/未命名.canvas",
-    "AI/AI.md",
-    "未命名.md",
-    "未命名 1.md",
-    "Templates/Notebook.md",
-    "Templates/Templates index.md",
-    "Templates/index.md",
-    "Reading Notes/Book/Python网络爬虫权威指南",
-    "未命名",
-    "基础知识和工具",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",
     "未命名 1.canvas"

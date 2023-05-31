@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/LLM/Chatgpt/ChatGPT.md",
+                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/企划书/企划书.md",
+                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/企划书/企划书.md"
+                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md"
               }
             }
           },
@@ -167,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/企划书/企划书.md",
+                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,12 +208,23 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "6d4d0bc7592be85f",
+  "active": "38b0b19c88b8ad32",
   "lastOpenFiles": [
+    "AI/LLM/Chatgpt/ChatGPT.md",
+    "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
+    "AI/LLM/Chatgpt + spider",
     "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
+    "Eassay/企划书/企划书.md",
+    "Tasks/TODO.md",
+    "Tasks/Tasks index.md",
+    "Tasks/Review.md",
+    "Tasks/Coding.md",
+    "Tasks/APT Report.md",
+    "Tasks/Blog.md",
+    "Tasks/信息收集.md",
+    "Paper/每日阅读/2022.10.13 ——.md",
     "AI/LLM/Project&Analysis/ChatPaper.md",
     "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
-    "AI/LLM/Chatgpt/ChatGPT.md",
     "AI/LLM/Project&Analysis/Snipaste/Pasted image 20230531202542.png",
     "AI/LLM/Project&Analysis/Snipaste",
     "README.md",
@@ -239,24 +249,13 @@
     "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Coding/Python/爬虫/爬虫基础总结.md",
-    "Basic/正则表达式.md",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151420.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151351.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151318.png",
-    "Coding/Python/爬虫/Snipaste",
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
-    "Cyber Security/Deeplocker/deeplcoker backend.md",
-    "Interesting/陈平跨学科思维.md",
     "Interesting/Snipaste/Pasted image 20230531105137.png",
     "Interesting/Snipaste/Pasted image 20230531104726.png",
     "Interesting/Snipaste/Pasted image 20230531104616.png",
-    "Eassay/随想.md",
-    "Coding/Python/爬虫/爬虫实战总结.md",
-    "Coding/Python/爬虫/Python.md",
-    "Cyber Security/Dark/darknet/soen.md",
-    "How to/微信公众号.md",
-    "Coding/Python/爬虫/requests.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

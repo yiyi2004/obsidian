@@ -72,8 +72,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md"
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md"
               }
             }
           },
@@ -193,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,13 +234,14 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1a28e7fb3e6a0848",
+  "active": "38b0b19c88b8ad32",
   "lastOpenFiles": [
-    "Eassay/企划书/企划书.md",
+    "Eassay/随想.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
-    "Eassay/随想.md",
+    "Interesting/陈平跨学科思维.md",
+    "Eassay/企划书/企划书.md",
     "How to/How to index.md",
     "How to/How to Get Your Brain to Focus-Chris Bailey TEDxManchester.md",
     "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
@@ -273,7 +273,6 @@
     "Coding/Python/量化交易/量化交易.md",
     "Coding/Python/Repository/量化交易.md",
     "Coding/Python/量化交易",
-    "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
     "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",

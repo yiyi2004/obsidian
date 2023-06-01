@@ -4,68 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4a0ed56a74c5955f",
+        "id": "afb7ae30cbce9dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "38b0b19c88b8ad32",
+            "id": "ac2b5b86772bd751",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/LLM/Project&Analysis/ChatPaper.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ef9fa7af7ba1deb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7d323a08bde3467d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d4d0bc7592be85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/企划书/企划书.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a28e7fb3e6a0848",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -116,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/LLM/Project&Analysis/ChatPaper.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/LLM/Project&Analysis/ChatPaper.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -192,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/LLM/Project&Analysis/ChatPaper.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,47 +182,47 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "38b0b19c88b8ad32",
+  "active": "ac2b5b86772bd751",
   "lastOpenFiles": [
+    "Cyber Security/APT/APT Report/APT&刻板印象调研.md",
+    "Day3/Day3.md",
+    "Day3",
+    "Cyber Security/APT/APT Report/RedReport2023-Picus.pdf",
+    "Cyber Security/APT/APT Report/未确认 159094.crdownload",
+    "Tasks/APT Report.md",
+    "Notebook/自然辩证法/自然辩证法初稿.md",
+    "Interesting/陈平跨学科思维.md",
+    "Eassay/企划书/企划书.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
+    "AI/LLM/Project&Analysis/ChatPaper.md",
+    "Website/黑客环伺！12家国家级APT组织紧盯我国.md",
+    "Life/活动/GopherChina2023.md",
+    "Life/活动/票据.pdf",
+    "Life/活动/订单详情.pdf",
+    "Life/活动/未确认 666649.crdownload",
+    "Life/活动/未确认 321536.crdownload",
+    "Life/会议/未命名",
+    "Life/活动",
+    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
+    "Cyber Security/APT/APT Report/APT Report.md",
+    "Cyber Security/APT/APT Report/未命名",
     "Coding/Python/爬虫/Python.md",
     "Coding/Python/Repository/Collection/collection.md",
     "Coding/Python/Repository/tenacity/tenacity.md",
-    "Coding/Python/Repository/tenacity",
-    "AI/LLM/Project&Analysis/ChatPaper.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-    "Eassay/企划书/企划书.md",
-    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
-    "Coding/Python/Repository/Collection",
     "Coding/Python/Repository/Flask/Basic Flask.md",
-    "Interesting/陈平跨学科思维.md",
     "AI/LLM/Chatgpt/ChatGPT.md",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Coding/Go/Gin+Vue+微服务/gin examples.md",
     "Coding/Python/爬虫/爬虫实战总结.md",
     "Coding/Python/爬虫/爬虫基础总结.md",
-    "Notebook/自然辩证法/自然辩证法初稿.md",
     "Eassay/随想.md",
     "How to/How to index.md",
     "How to/How to Get Your Brain to Focus-Chris Bailey TEDxManchester.md",
     "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
-    "AI/LLM/Chatgpt + spider",
-    "Tasks/TODO.md",
-    "Tasks/Tasks index.md",
-    "Tasks/Review.md",
-    "Tasks/Coding.md",
-    "Tasks/APT Report.md",
-    "Tasks/Blog.md",
-    "Tasks/信息收集.md",
     "AI/LLM/Project&Analysis/Snipaste/Pasted image 20230531202542.png",
-    "AI/LLM/Project&Analysis/Snipaste",
-    "AI/LLM/Project&Analysis/gpt_academic",
     "AI/LLM/Chatgpt/Snipaste/Pasted image 20230206184403.png",
-    "AI/LLM/Project&Analysis",
-    "AI/LLM/LLM",
-    "AI/OpenAI",
-    "AI/LLM/Chatgpt",
     "Notebook/自然辩证法/Snipaste/7fd22bcc56f236be1fd0087ada4ece0.jpg",
-    "Coding/Python/量化交易",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151420.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151351.png",

@@ -91,3 +91,33 @@ simple = Blueprint('simple', __name__, template_folder='templates')
 def hello_world():  
     return 'Hello, model_compare!'
 ```
+
+## url_for
+
+#chatgpt #python #flask
+
+在 Python 中，`url_for` 是一个用于生成 URL 的函数，通常与 Web 开发框架（如 Flask 和 Django）一起使用。它接受一个视图函数或端点名称以及任意数量的关键字参数，并返回与该视图函数或端点关联的 URL。
+
+在 Flask 框架中，`url_for` 函数用于构建 URL，可以通过视图函数的名称或端点名称生成对应的 URL。示例如下：
+
+```python
+from flask import Flask, url_for
+
+app = Flask(__name__)
+
+@app.route('/')
+def index():
+    return 'Hello, World!'
+
+@app.route('/user/<username>')
+def user_profile(username):
+    return f'Profile page of {username}'
+
+with app.test_request_context():
+    print(url_for('index'))  # 输出：/
+    print(url_for('user_profile', username='john'))  # 输出：/user/john
+```
+
+上述代码中，`url_for` 函数根据视图函数的名称生成对应的 URL。在测试请求上下文中，我们可以直接调用 `url_for` 函数并传递相应的参数，它将返回生成的 URL。
+
+请注意，具体的用法和参数可能会因所使用的 Web 框架而有所不同。以上示例是在 Flask 框架下的示范，而在其他框架或上下文中可能会有不同的使用方式和参数设置。

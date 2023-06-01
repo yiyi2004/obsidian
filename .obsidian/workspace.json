@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "AI/LLM/Project&Analysis/ChatPaper.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -71,22 +71,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a7dff6e39caca89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "AI/LLM/Project&Analysis/ChatPaper.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md"
+                "file": "AI/LLM/Project&Analysis/ChatPaper.md"
               }
             }
           },
@@ -206,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "AI/LLM/Project&Analysis/ChatPaper.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,21 +234,29 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1a7dff6e39caca89",
+  "active": "38b0b19c88b8ad32",
   "lastOpenFiles": [
+    "Coding/Python/爬虫/Python.md",
+    "Coding/Python/Repository/Collection/collection.md",
+    "Coding/Python/Repository/tenacity/tenacity.md",
+    "Coding/Python/Repository/tenacity",
+    "AI/LLM/Project&Analysis/ChatPaper.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Eassay/企划书/企划书.md",
+    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
+    "Coding/Python/Repository/Collection",
+    "Coding/Python/Repository/Flask/Basic Flask.md",
+    "Interesting/陈平跨学科思维.md",
+    "AI/LLM/Chatgpt/ChatGPT.md",
+    "Coding/Python/Repository/Flask/Flask Quickstart.md",
+    "Coding/Go/Gin+Vue+微服务/gin examples.md",
     "Coding/Python/爬虫/爬虫实战总结.md",
     "Coding/Python/爬虫/爬虫基础总结.md",
-    "Interesting/陈平跨学科思维.md",
-    "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Eassay/随想.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
-    "Eassay/企划书/企划书.md",
     "How to/How to index.md",
     "How to/How to Get Your Brain to Focus-Chris Bailey TEDxManchester.md",
     "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
-    "AI/LLM/Chatgpt/ChatGPT.md",
     "AI/LLM/Chatgpt + spider",
     "Tasks/TODO.md",
     "Tasks/Tasks index.md",
@@ -271,14 +265,8 @@
     "Tasks/APT Report.md",
     "Tasks/Blog.md",
     "Tasks/信息收集.md",
-    "Paper/每日阅读/2022.10.13 ——.md",
-    "AI/LLM/Project&Analysis/ChatPaper.md",
-    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
     "AI/LLM/Project&Analysis/Snipaste/Pasted image 20230531202542.png",
     "AI/LLM/Project&Analysis/Snipaste",
-    "README.md",
-    "AI/LLM/Project&Analysis/gpt_academic.md",
-    "AI/LLM/Chatgpt/ChatGPT 商业价值.md",
     "AI/LLM/Project&Analysis/gpt_academic",
     "AI/LLM/Chatgpt/Snipaste/Pasted image 20230206184403.png",
     "AI/LLM/Project&Analysis",
@@ -287,8 +275,6 @@
     "AI/LLM/Chatgpt",
     "Notebook/自然辩证法/Snipaste/7fd22bcc56f236be1fd0087ada4ece0.jpg",
     "Coding/Python/量化交易",
-    "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
-    "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151420.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151351.png",

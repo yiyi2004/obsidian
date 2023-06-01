@@ -1,4 +1,3 @@
-s
 
 - Time：2023-05-31 16:01
 - Label： #python #flask #web
@@ -241,21 +240,153 @@ def index():
 
 ### Redirects and Errors
 
+```python
+from flask import abort, redirect, url_for
+
+@app.route('/')
+def index():
+    return redirect(url_for('login'))
+
+@app.route('/login')
+def login():
+    abort(401)
+    this_is_never_executed()
+```
+
+handle error
+
+```python
+from flask import render_template
+
+@app.errorhandler(404)
+def page_not_found(error):
+    return render_template('page_not_found.html'), 404
+```
+
+### About Responses
+
+```python
+from flask import render_template
+
+@app.errorhandler(404)
+def not_found(error):
+    return render_template('error.html'), 404
+```
+
+```python
+from flask import make_response
+
+@app.errorhandler(404)
+def not_found(error):
+    resp = make_response(render_template('error.html'), 404)
+    resp.headers['X-Something'] = 'A value'
+    return resp
+```
+
 #### APIs with JSON
+
+```python
+@app.route("/me")
+def me_api():
+    user = get_current_user()
+    return {
+        "username": user.username,
+        "theme": user.theme,
+        "image": url_for("user_image", filename=user.image),
+    }
+
+@app.route("/users")
+def users_api():
+    users = get_all_users()
+    return [user.to_json() for user in users]
+```
+
+```python
+	return [user.to_json() for user in users]
+```
 
 ### Sessions
 
+```python
+from flask import session
+
+# Set the secret key to some random bytes. Keep this really secret!
+app.secret_key = b'_5#y2L"F4Q8z\n\xec]/'
+
+@app.route('/')
+def index():
+    if 'username' in session:
+        return f'Logged in as {session["username"]}'
+    return 'You are not logged in'
+
+@app.route('/login', methods=['GET', 'POST'])
+def login():
+    if request.method == 'POST':
+        session['username'] = request.form['username']
+        return redirect(url_for('index'))
+    return '''
+        <form method="post">
+            <p><input type=text name=username>
+            <p><input type=submit value=Login>
+        </form>
+    '''
+
+@app.route('/logout')
+def logout():
+    # remove the username from the session if it's there
+    session.pop('username', None)
+    return redirect(url_for('index'))
+```
+
+- generate key
+
+```python
+python -c 'import secrets; print(secrets.token_hex())'
+'192b9bdd22ab9ed4d12e236c78afcb9a393ec15f71bbf5dc987d54727823bcbf'
+```
+
 ### Message Flashing
+
+Good applications and user interfaces are all about feedback. If the user does not get enough feedback they will probably end up hating the application. **Flask provides a really simple way to give feedback to a user with the flashing system.** The flashing system basically makes it possible to record a message at the end of a request and access it on the next (and only the next) request. This is usually combined with a layout template to expose the message.
+
+To flash a message use the [`flash()`](https://flask.palletsprojects.com/en/2.3.x/api/#flask.flash "flask.flash") method, to get hold of the messages you can use [`get_flashed_messages()`](https://flask.palletsprojects.com/en/2.3.x/api/#flask.get_flashed_messages "flask.get_flashed_messages") which is also available in the templates. See [Message Flashing](https://flask.palletsprojects.com/en/2.3.x/patterns/flashing/) for a full example.
 
 ### Logging
 
+```python
+app.logger.debug('A value for debugging')
+app.logger.warning('A warning occurred (%d apples)', 42)
+app.logger.error('An error occurred')
+```
+
+The attached [`logger`](https://flask.palletsprojects.com/en/2.3.x/api/#flask.Flask.logger "flask.Flask.logger") is a standard logging [`Logger`](https://docs.python.org/3/library/logging.html#logging.Logger "(in Python v3.11)"), so head over to the official [`logging`](https://docs.python.org/3/library/logging.html#module-logging "(in Python v3.11)") docs for more information.
+
+See [Handling Application Errors](https://flask.palletsprojects.com/en/2.3.x/errorhandling/).
+
 ### Hooking in WSGI
+
+To add WSGI middleware to your Flask application, wrap the application’s `wsgi_app` attribute. For example, to apply Werkzeug’s [`ProxyFix`](https://werkzeug.palletsprojects.com/en/2.3.x/middleware/proxy_fix/#werkzeug.middleware.proxy_fix.ProxyFix "(in Werkzeug v2.3.x)") middleware for running behind Nginx:
+
+```python
+from werkzeug.middleware.proxy_fix import ProxyFix  
+app.wsgi_app = ProxyFix(app.wsgi_app)
+```
+
+Wrapping `app.wsgi_app` instead of `app` means that `app` still points at your Flask application, not at the middleware, so you can continue to use and configure `app` directly.
+
+**how to wrap app with nginx and how to deploy flask app behind nginx server. and build a reverse proxy.**
 
 ### Middleware
 
 ### Using Flask Extensions
 
+Extensions are packages that help you accomplish common tasks. For example, Flask-SQLAlchemy provides SQLAlchemy support that makes it simple and easy to use with Flask.
+
+For more on Flask extensions, see [Extensions](https://flask.palletsprojects.com/en/2.3.x/extensions/).
+
 ### Deploying to a Web Server
+
+Ready to deploy your new Flask app? See [Deploying to Production](https://flask.palletsprojects.com/en/2.3.x/deploying/).
 
 ## Reference
 

@@ -1,3 +1,4 @@
+s
 
 - Time：2023-05-31 16:01
 - Label： #python #flask #web
@@ -157,7 +158,6 @@ Flask will look for templates in the `templates` folder. So if your applicatio
     /__init__.py
     /templates
         /hello.html
-
 ```
 
 For templates you can use the full power of Jinja2 templates. Head over to the official [Jinja2 Template Documentation](https://jinja.palletsprojects.com/templates/) for more information.

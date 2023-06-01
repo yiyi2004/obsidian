@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1ef9fa7af7ba1deb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -45,8 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a28e7fb3e6a0848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting/陈平跨学科思维.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -90,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md"
+                "file": "Interesting/陈平跨学科思维.md"
               }
             }
           },
@@ -166,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
+                "file": "Interesting/陈平跨学科思维.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,13 +235,18 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "38b0b19c88b8ad32",
+  "active": "1a28e7fb3e6a0848",
   "lastOpenFiles": [
-    "AI/LLM/Chatgpt/ChatGPT.md",
-    "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
-    "AI/LLM/Chatgpt + spider",
-    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
     "Eassay/企划书/企划书.md",
+    "Notebook/自然辩证法/自然辩证法初稿.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
+    "Eassay/随想.md",
+    "How to/How to index.md",
+    "How to/How to Get Your Brain to Focus-Chris Bailey TEDxManchester.md",
+    "AI/LLM/Chatgpt + spider/加速你的知识学习Chatgpt + Spider.md",
+    "AI/LLM/Chatgpt/ChatGPT.md",
+    "AI/LLM/Chatgpt + spider",
     "Tasks/TODO.md",
     "Tasks/Tasks index.md",
     "Tasks/Review.md",
@@ -237,18 +269,13 @@
     "AI/OpenAI",
     "AI/LLM/Chatgpt",
     "AI/AI index.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Notebook/自然辩证法/Snipaste/7fd22bcc56f236be1fd0087ada4ece0.jpg",
     "Coding/Python/量化交易/量化交易.md",
     "Coding/Python/Repository/量化交易.md",
     "Coding/Python/量化交易",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Coding/Python/Repository/Flask/Basic Flask.md",
     "Paper/量子力学/论文原文/Learning the quantum algorithm for state overlap.pdf",
-    "Paper/量子力学/Review/A Survey on quantum computing technology.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.pdf",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Coding/Python/爬虫/爬虫基础总结.md",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151420.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230531151351.png",

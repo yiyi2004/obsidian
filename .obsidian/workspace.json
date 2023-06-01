@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Python/爬虫/爬虫实战总结.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/爬虫/爬虫实战总结.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/爬虫/爬虫实战总结.md"
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md"
               }
             }
           },
@@ -206,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/爬虫/爬虫实战总结.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

@@ -178,11 +178,66 @@ Changed in version 0.5: Autoescaping is no longer enabled for all templates. Th
 
 #### Context Locals
 
+> skip it
+
 #### The Request Object
+
+```python
+@app.route('/login', methods=['POST', 'GET'])
+def login():
+    error = None
+    if request.method == 'POST':
+        if valid_login(request.form['username'],
+                       request.form['password']):
+            return log_the_user_in(request.form['username'])
+        else:
+            error = 'Invalid username/password'
+    # the code below is executed if the request method
+    # was GET or the credentials were invalid
+    return render_template('login.html', error=error)
+```
+
+We recommend accessing URL parameters with get or by catching the [`KeyError`](https://docs.python.org/3/library/exceptions.html#KeyError "(in Python v3.11)") because users might change the URL and presenting them a 400 bad request page in that case is not user friendly.
+
+For a full list of methods and attributes of the request object, head over to the [`Request`](https://flask.palletsprojects.com/en/2.3.x/api/#flask.Request "flask.Request") documentation.
 
 #### File Uploads
 
+```python
+from werkzeug.utils import secure_filename
+
+@app.route('/upload', methods=['GET', 'POST'])
+def upload_file():
+    if request.method == 'POST':
+        file = request.files['the_file']
+        file.save(f"/var/www/uploads/{secure_filename(file.filename)}")
+    ...
+```
+
+For some better examples, see [Uploading Files](https://flask.palletsprojects.com/en/2.3.x/patterns/fileuploads/).
+
 #### Cookies
+
+```python
+@app.route('/')
+def index():
+    username = request.cookies.get('username')
+    # use cookies.get(key) instead of cookies[key] to not get a
+    # KeyError if the cookie is missing.
+
+```
+
+```python
+from flask import make_response
+
+@app.route('/')
+def index():
+    resp = make_response(render_template(...))
+    resp.set_cookie('username', 'the username')
+    return resp
+```
+
+为什么你不直接用 golang 去做呢
 
 ### Redirects and Errors
 

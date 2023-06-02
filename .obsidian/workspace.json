@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md"
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md"
               }
             }
           },
@@ -193,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,6 +251,9 @@
   },
   "active": "bb956e673382e208",
   "lastOpenFiles": [
+    "Basic/计算机网络/Websocket.md",
+    "Coding/Python/Repository/Flask/Flask Quickstart.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Day3/Day3.md",
     "Interesting/陈平跨学科思维.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
@@ -290,9 +293,6 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/markdown.css",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/Buttons.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-25 16.08.08.excalidraw.md",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-23 08.45.37.excalidraw.md",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/MindMap/MindMap-发.md",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-23 08.04.18.excalidraw.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/斜杠命令用于测试.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220529151825.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514145752.png",

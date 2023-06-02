@@ -3,13 +3,12 @@
 第一天 (周五)
 
 - [ ] <font color="#f79646">寻找歪果黑客对中国的刻板印象 </font>
-- [ ] <font color="#4bacc6">写完自然辩证法论文 </font>  
+- [x] <font color="#4bacc6">写完自然辩证法论文 </font> ✅ 2023-06-02
 - [ ] <font color="#8064a2">搜索量子计算导论的论文 </font>  
-- [ ] <font color="#9bbb59">论文写作 30 18 号截止，完成第一个作业 </font>  
-- [ ] <font color="#c0504d">deeplocker 模型服务开发 </font>  
+- [x] <font color="#9bbb59">论文写作 30 18 号截止，完成第一个作业 </font> ✅ 2023-06-02
+- [x] <font color="#c0504d">deeplocker 模型服务开发 </font> ✅ 2023-06-02
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
 - [x] <font color="#fac08f">爬虫技术第三节课</font> ✅ 2023-06-02
-- [ ] <font color="#92cddc">python 协程内容 </font>
 - [ ] <font color="#b2a2c7">云原生技术 </font>
 
 第二天 (周六)
@@ -21,7 +20,6 @@
 - [ ] <font color="#c0504d">deeplocker 模型服务开发 </font>  
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
 - [ ] <font color="#fac08f">爬虫技术第四节课</font>  
-- [ ] <font color="#92cddc">python 协程内容 </font>  
 - [ ] <font color="#b2a2c7">云原生技术 </font>
 
 第三天 (周天<font color="#9bbb59">)</font>
@@ -33,8 +31,6 @@
 - [ ] <font color="#c0504d">deeplocker 模型服务开发</font>
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
 - [ ] <font color="#fac08f">爬虫技术第五节课</font>
-- [ ] <font color="#92cddc">python 协程内容</font>
 - [ ] <font color="#b2a2c7">云原生技术</font>
 
 之后去参加 gopher china
-

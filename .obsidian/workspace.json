@@ -21,33 +21,7 @@
             }
           },
           {
-            "id": "d7720e68983e02a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "194c9f527bbbdb8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "edf814e3e94cc3d9",
+            "id": "4f3f38e397a03571",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,12 +34,25 @@
             }
           },
           {
-            "id": "bb956e673382e208",
+            "id": "d7720e68983e02a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcab0ae468d0bf12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -193,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Quickstart.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,16 +236,19 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "bb956e673382e208",
+  "active": "bcab0ae468d0bf12",
   "lastOpenFiles": [
-    "Basic/计算机网络/Websocket.md",
-    "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Day3/Day3.md",
-    "Interesting/陈平跨学科思维.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Website/李约瑟难题_百度百科.md",
+    "Interesting/陈平跨学科思维.md",
+    "Day3/Day3.md",
+    "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Cloud Native/Database/Redis/黑马程序员/Redis 实战.md",
+    "Coding/Python/Repository/Flask/Flask Quickstart.md",
+    "Cloud Native/测试/Postman 使用方法总结.md",
+    "Basic/计算机网络/Websocket.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Eassay/随想.md",
     "Cyber Security/CTF/Misc/杂项题的基本解题思路.md",
     "Coding/Java/Java Spring.md",
@@ -289,10 +279,7 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/paper2docx.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/obs.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/MyLibrary.bib",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/Mdnotes Default Template.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/markdown.css",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/Buttons.md",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-25 16.08.08.excalidraw.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/斜杠命令用于测试.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220529151825.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514145752.png",

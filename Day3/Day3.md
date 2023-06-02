@@ -5,10 +5,10 @@
 - [ ] <font color="#f79646">寻找歪果黑客对中国的刻板印象 </font>
 - [ ] <font color="#4bacc6">写完自然辩证法论文 </font>  
 - [ ] <font color="#8064a2">搜索量子计算导论的论文 </font>  
-- [ ] <font color="#9bbb59">论文写作 18 号截止，完成第一个作业 </font>  
+- [ ] <font color="#9bbb59">论文写作 30 18 号截止，完成第一个作业 </font>  
 - [ ] <font color="#c0504d">deeplocker 模型服务开发 </font>  
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
-- [ ] <font color="#fac08f">爬虫技术第三节课</font>  
+- [x] <font color="#fac08f">爬虫技术第三节课</font> ✅ 2023-06-02
 - [ ] <font color="#92cddc">python 协程内容 </font>
 - [ ] <font color="#b2a2c7">云原生技术 </font>
 

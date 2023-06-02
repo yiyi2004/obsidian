@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Website/李约瑟难题_百度百科.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,17 +47,20 @@
             }
           },
           {
-            "id": "539f7d4e9d82ea70",
+            "id": "194c9f527bbbdb8d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.3.5"
+                "file": "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#daily",
+                "query": "tag:#Personal/test/Investment/Stocks",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/随想.md"
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md"
               }
             }
           },
@@ -177,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,6 +197,18 @@
             "state": {
               "type": "reminder-list",
               "state": {}
+            }
+          },
+          {
+            "id": "7732bbfb2e4df86f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ]
@@ -216,57 +231,59 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "templater-obsidian:Templater": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "539f7d4e9d82ea70",
+  "active": "d7720e68983e02a4",
   "lastOpenFiles": [
+    "Eassay/随想.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Website/李约瑟难题_百度百科.md",
-    "Eassay/随想.md",
+    "Cyber Security/CTF/Misc/杂项题的基本解题思路.md",
+    "Coding/Java/Java Spring.md",
+    "Master's degree/护肤指南.md",
+    "The Party/积极分子党课/01 习近平新时代中国特色社会主义思想的认识论.md",
+    "Cloud Native/MQ/NATS/NATS.md",
+    "Basic/名词解释/安全名词.md",
     "Day3/Day3.md",
-    "Cyber Security/APT/APT Report/APT&刻板印象调研.md",
-    "Day3",
-    "Cyber Security/APT/APT Report/RedReport2023-Picus.pdf",
-    "Cyber Security/APT/APT Report/未确认 159094.crdownload",
-    "Tasks/APT Report.md",
-    "Interesting/陈平跨学科思维.md",
-    "Eassay/企划书/企划书.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
-    "AI/LLM/Project&Analysis/ChatPaper.md",
-    "Website/黑客环伺！12家国家级APT组织紧盯我国.md",
-    "Life/活动/GopherChina2023.md",
-    "Life/活动/票据.pdf",
-    "Life/活动/订单详情.pdf",
-    "Life/活动/未确认 666649.crdownload",
-    "Life/活动/未确认 321536.crdownload",
-    "Life/会议/未命名",
-    "Life/活动",
-    "Cyber Security/APT/APT Report/西工大 APT Report 分析.md",
-    "Cyber Security/APT/APT Report/APT Report.md",
-    "Cyber Security/APT/APT Report/未命名",
-    "Coding/Python/爬虫/Python.md",
-    "Coding/Python/Repository/Collection/collection.md",
-    "Coding/Python/Repository/tenacity/tenacity.md",
-    "Coding/Python/Repository/Flask/Basic Flask.md",
-    "AI/LLM/Chatgpt/ChatGPT.md",
-    "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Coding/Go/Gin+Vue+微服务/gin examples.md",
-    "Coding/Python/爬虫/爬虫实战总结.md",
-    "Coding/Python/爬虫/爬虫基础总结.md",
-    "How to/How to index.md",
-    "How to/How to Get Your Brain to Focus-Chris Bailey TEDxManchester.md",
-    "AI/LLM/Project&Analysis/Snipaste/Pasted image 20230531202542.png",
-    "AI/LLM/Chatgpt/Snipaste/Pasted image 20230206184403.png",
-    "Notebook/自然辩证法/Snipaste/7fd22bcc56f236be1fd0087ada4ece0.jpg",
-    "Coding/Python/爬虫/Snipaste/Pasted image 20230531152043.png",
-    "Coding/Python/爬虫/Snipaste/Pasted image 20230531151420.png",
-    "Coding/Python/爬虫/Snipaste/Pasted image 20230531151351.png",
-    "Coding/Python/爬虫/Snipaste/Pasted image 20230531151318.png",
-    "Interesting/Snipaste/Pasted image 20230531105137.png",
-    "Interesting/Snipaste/Pasted image 20230531104726.png",
-    "Interesting/Snipaste/Pasted image 20230531104616.png",
+    "Cloud Native/Docker/dockerfile & docker-compose examples.md",
+    "未命名.md",
+    "Templates/OB_Template/0A_Templates/0A_6_Books/0A_6_1_Books.md",
+    "Templates/obsidian_vault_template_for_researcher/02-Reading/mdnotes/@Doose2005.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/列表缩进.gif",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/输入表格-1.gif",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/新建todo.gif",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321141509.png",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/floating-toc.gif",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/幻灯片播放.gif",
+    "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-20.md",
+    "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-06.md",
+    "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/常用工具.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/utils.py",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/test.py",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/template.docx",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/test.log",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/ref_list.py",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/paper2docx.py",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/obs.py",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/MyLibrary.bib",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/Mdnotes Default Template.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/markdown.css",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/Buttons.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-25 16.08.08.excalidraw.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-23 08.45.37.excalidraw.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/MindMap/MindMap-发.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Excalidraw/Drawing 2022-03-23 08.04.18.excalidraw.md",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/斜杠命令用于测试.gif",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220529151825.png",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514145752.png",
+    "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514143721.png",
+    "Templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -25,5 +25,7 @@
   "obsidian-file-path-to-uri",
   "language-translator",
   "obsidian-emoji-toolbar",
-  "new-tab-default-page"
+  "new-tab-default-page",
+  "buttons",
+  "templater-obsidian"
 ]

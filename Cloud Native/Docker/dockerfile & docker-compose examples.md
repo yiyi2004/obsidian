@@ -7,7 +7,7 @@ LABEL maintainer="mingcheng<mc@sf.com>"
 COPY . /answer
 WORKDIR /answer
 RUN make install-ui-packages ui && mv ui/build /tmp
-
+w
 FROM golang:1.18 AS golang-builder
 LABEL maintainer="aichy"
 

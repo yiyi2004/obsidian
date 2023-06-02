@@ -27,20 +27,7 @@
               "type": "markdown",
               "state": {
                 "file": "Notebook/自然辩证法/自然辩证法初稿.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8f9b00b852d8a766",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/随想.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -58,9 +45,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edf814e3e94cc3d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interesting/陈平跨学科思维.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bb956e673382e208",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md"
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md"
               }
             }
           },
@@ -180,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,19 +249,20 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d7720e68983e02a4",
+  "active": "bb956e673382e208",
   "lastOpenFiles": [
-    "Eassay/随想.md",
+    "Day3/Day3.md",
+    "Interesting/陈平跨学科思维.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Website/李约瑟难题_百度百科.md",
+    "Eassay/随想.md",
     "Cyber Security/CTF/Misc/杂项题的基本解题思路.md",
     "Coding/Java/Java Spring.md",
     "Master's degree/护肤指南.md",
     "The Party/积极分子党课/01 习近平新时代中国特色社会主义思想的认识论.md",
     "Cloud Native/MQ/NATS/NATS.md",
     "Basic/名词解释/安全名词.md",
-    "Day3/Day3.md",
     "Cloud Native/Docker/dockerfile & docker-compose examples.md",
     "未命名.md",
     "Templates/OB_Template/0A_Templates/0A_6_Books/0A_6_1_Books.md",
@@ -283,7 +297,6 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220529151825.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514145752.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514143721.png",
-    "Templates/obsidian_vault_template_for_researcher/03-Projects/99-黑曜石玩家指南/4-obsidian附录/结束语.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

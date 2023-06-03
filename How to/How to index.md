@@ -4,7 +4,7 @@
 - [[How to draw a diagram.md|How to draw a diagram]]
 - [[How to write a paper.md|How to write a paper]]
 - [[index.md|index]]
-- [[Tips.md|Tips]]
+- [[Tips|Tips]]
 - [[健身.md|健身]]
 - [[奖励机制.md|奖励机制]]
 - [[学习方法总结(硬核学长).md|学习方法总结(硬核学长)]]

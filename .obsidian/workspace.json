@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Resume/Tips.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,10 +236,14 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d7720e68983e02a4",
+  "active": "bcab0ae468d0bf12",
   "lastOpenFiles": [
+    "Resume/Tips.md",
     "Day3/Day3.md",
+    "Resume/Resume index.md",
+    "Interesting/物理学/惯性定律.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
+    "Interesting/物理学",
     "Website/李约瑟难题_百度百科.md",
     "Interesting/陈平跨学科思维.md",
     "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
@@ -268,9 +272,6 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/floating-toc.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/幻灯片播放.gif",
     "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-20.md",
-    "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-06.md",
-    "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-04-02.md",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/常用工具.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/utils.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/test.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/template.docx",
@@ -279,7 +280,6 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/paper2docx.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/obs.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/MyLibrary.bib",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/markdown.css",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/斜杠命令用于测试.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220529151825.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514145752.png",

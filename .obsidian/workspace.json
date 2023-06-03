@@ -4,63 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "afb7ae30cbce9dd8",
+        "id": "544578fbda1a3916",
         "type": "tabs",
         "children": [
           {
-            "id": "ac2b5b86772bd751",
+            "id": "27fd0e5f370e14e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Website/李约瑟难题_百度百科.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f3f38e397a03571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interesting/物理学/惯性定律.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7720e68983e02a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume/Tips.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bcab0ae468d0bf12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -180,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interesting/陈平跨学科思维.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,18 +196,18 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "bcab0ae468d0bf12",
+  "active": "27fd0e5f370e14e7",
   "lastOpenFiles": [
-    "Day3/Day3.md",
-    "Resume/Tips.md",
     "Website/李约瑟难题_百度百科.md",
-    "Interesting/物理学/惯性定律.md",
+    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
+    "Resume/Tips.md",
     "Interesting/陈平跨学科思维.md",
-    "Resume/Resume index.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
+    "Interesting/物理学/惯性定律.md",
+    "Day3/Day3.md",
+    "Resume/Resume index.md",
     "Interesting/物理学",
     "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Cloud Native/Database/Redis/黑马程序员/Redis 实战.md",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Cloud Native/测试/Postman 使用方法总结.md",

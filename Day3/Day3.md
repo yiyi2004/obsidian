@@ -17,12 +17,12 @@
 - [x] <font color="#4bacc6">完善自然辩证法论文 </font> ✅ 2023-06-03
 - [ ] <font color="#8064a2">将量子计算导论的论文翻译出来，并用 chatgpt 进行总结 (就是最后的总结) </font>  
 - [ ] <font color="#9bbb59">完成第二个作业 </font>  
-- [ ] <font color="#c0504d">deeplocker 模型服务开发 </font>  
+- [x] <font color="#c0504d">deeplocker 模型服务开发 </font> ✅ 2023-06-04
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
 - [ ] <font color="#fac08f">爬虫技术第四节课</font>  
 - [ ] <font color="#b2a2c7">云原生技术 </font>
 
-第三天 (周天<font color="#9bbb59">)</font>
+第三天 (周天)
 
 - [ ] <font color="#f79646">找他俩讨论一下刻板印象场景的构建</font>
 - [ ] <font color="#4bacc6">整理格式并打印出来</font>

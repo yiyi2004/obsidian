@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Notebook/自然辩证法/自然辩证法初稿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,12 +236,12 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "bcab0ae468d0bf12",
+  "active": "d7720e68983e02a4",
   "lastOpenFiles": [
+    "Day3/Day3.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Website/李约瑟难题_百度百科.md",
     "Interesting/陈平跨学科思维.md",
-    "Day3/Day3.md",
     "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Cloud Native/Database/Redis/黑马程序员/Redis 实战.md",

@@ -69,7 +69,11 @@ It's a a summary of deeplocker
 
 #### 2️⃣Python API
 
-#### 
+#### 3️⃣接入模块
+
+#### 4️⃣Frontend
+
+#### 5️⃣Windows Install or Script
 
 ## ✅ Checklist Inspiration
 

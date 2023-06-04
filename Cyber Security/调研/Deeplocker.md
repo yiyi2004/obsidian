@@ -2,7 +2,6 @@
 
 - ai-embeded attack
 - using AI to hide the presence of the malware and evade from detection
- 
 
 ![[Pasted image 20230211085743.png]]
 

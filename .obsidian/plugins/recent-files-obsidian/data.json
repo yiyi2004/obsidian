@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "爬虫高级总结",
-      "path": "Coding/Python/爬虫/爬虫高级总结.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "fyne",
+      "path": "Coding/Go/Third-party library/fyne/fyne.md"
+    },
+    {
+      "basename": "Go Channel",
+      "path": "Coding/Go/深入理解go/Go Channel.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Flask 服务",
+      "path": "Coding/Python/爬虫/Flask 服务.md"
     },
     {
       "basename": "场景构建",
@@ -17,8 +33,44 @@
       "path": "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md"
     },
     {
+      "basename": "安卓和 JNI 开发",
+      "path": "Coding/Python/爬虫/安卓和 JNI 开发.md"
+    },
+    {
+      "basename": "安卓开发",
+      "path": "Coding/Python/爬虫/安卓开发.md"
+    },
+    {
+      "basename": "Java 开发基础",
+      "path": "Coding/Python/爬虫/Java 开发基础.md"
+    },
+    {
+      "basename": "APP 逆向入门",
+      "path": "Coding/Python/爬虫/APP 逆向入门.md"
+    },
+    {
+      "basename": "异步爬虫",
+      "path": "Coding/Python/爬虫/异步爬虫.md"
+    },
+    {
+      "basename": "逆向爬虫",
+      "path": "Coding/Python/爬虫/逆向爬虫.md"
+    },
+    {
       "basename": "存在问题",
       "path": "Cyber Security/Deeplocker/存在问题.md"
+    },
+    {
+      "basename": "01",
+      "path": "Coding/Go/Third-party library/grpc/01 gRPC 基础/01.md"
+    },
+    {
+      "basename": "01. 认识复杂度和简单的排序算法",
+      "path": "Coding/Go/算法/01. 认识复杂度和简单的排序算法.md"
+    },
+    {
+      "basename": "02 认证",
+      "path": "Coding/Go/Third-party library/grpc/02 gRPC 认证/02 认证.md"
     },
     {
       "basename": "爬虫基础总结",
@@ -33,16 +85,8 @@
       "path": "Cloud Native/Docker/Docker 安装.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
       "basename": "并发编程",
       "path": "Coding/Go/并发编程/并发编程.md"
-    },
-    {
-      "basename": "Go Channel",
-      "path": "Coding/Go/深入理解go/Go Channel.md"
     },
     {
       "basename": "go context",
@@ -79,10 +123,6 @@
     {
       "basename": "mtcnn 开发",
       "path": "Cyber Security/Deeplocker/mtcnn 开发.md"
-    },
-    {
-      "basename": "Deeplocker",
-      "path": "Cyber Security/调研/Deeplocker.md"
     },
     {
       "basename": "deeplocker frontend",
@@ -143,62 +183,6 @@
     {
       "basename": "认知偏执脆弱性本子",
       "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
-    },
-    {
-      "basename": "弄不懂内容解决",
-      "path": "Notebook/矩阵理论/东南大学/弄不懂内容解决.md"
-    },
-    {
-      "basename": "企划书",
-      "path": "Eassay/企划书/企划书.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "Tasks/TODO.md"
-    },
-    {
-      "basename": "virt-managervirt-manager Desktop tool for managing virtual machines via libvirt",
-      "path": "Website/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md"
-    },
-    {
-      "basename": "Internet Explorer 0-day exploited by North Korean actor APT37",
-      "path": "Website/Internet Explorer 0-day exploited by North Korean actor APT37.md"
-    },
-    {
-      "basename": "Review",
-      "path": "Tasks/Review.md"
-    },
-    {
-      "basename": "Tasks index",
-      "path": "Tasks/Tasks index.md"
-    },
-    {
-      "basename": "Coding",
-      "path": "Tasks/Coding.md"
-    },
-    {
-      "basename": "Blog",
-      "path": "Tasks/Blog.md"
-    },
-    {
-      "basename": "APT Report",
-      "path": "Tasks/APT Report.md"
-    },
-    {
-      "basename": "obsidian workflow",
-      "path": "Tools/obsidian workflow.md"
-    },
-    {
-      "basename": "smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer",
-      "path": "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md"
-    },
-    {
-      "basename": "0A_7_1_Blog",
-      "path": "Templates/OB_Template/0A_Templates/0A_7_Blog/0A_7_1_Blog.md"
-    },
-    {
-      "basename": "信息收集",
-      "path": "Tasks/信息收集.md"
     }
   ],
   "omittedPaths": [],

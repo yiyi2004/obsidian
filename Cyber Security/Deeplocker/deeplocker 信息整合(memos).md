@@ -48,8 +48,8 @@ go build  -ldflags "-extldflags '-static' -s -w -H windowsgui" .
 - [x] 将 gocv 和 mtcnn 连接上
 - [x] 整体架构完成，明天解决 ArcFace
 - [x] 找到预处理的代码并理解
-- [ ] 下一步是将预处理的代码翻译成 go 语言，然后传入 arcface 和 keygeneration
-- [ ] [[../../Coding/Go/其他问题/绝对路径和相对路径问题|绝对路径和相对路径问题]]
+- [x] 下一步是将预处理的代码翻译成 go 语言，然后传入 arcface 和 keygeneration ✅ 2023-06-04
+- [x] [[../../Coding/Go/其他问题/绝对路径和相对路径问题|绝对路径和相对路径问题]] ✅ 2023-06-04
 
 ## 带有摄像头的软件收集
 
@@ -116,3 +116,7 @@ go build  -ldflags "-extldflags '-static' -s -w -H windowsgui" .
 ```shell
 saved_model_cli.exe show --all --dir C:\Users\zhang\workspace\packvirus\src\model\models\KeyGenModel 
 ```
+
+## 存在问题
+
+- [[存在问题]]

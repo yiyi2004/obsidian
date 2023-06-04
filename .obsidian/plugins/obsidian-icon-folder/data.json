@@ -5,7 +5,9 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "FabAngellist"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {

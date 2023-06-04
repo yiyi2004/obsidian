@@ -4,7 +4,8 @@
 - 麦克风
 - 加密
 
-python 
+python
+
 1. 加载参数
 2. 加密 shellcode
 3. go 文件模板替换参数
@@ -12,7 +13,7 @@ python
 
 python 自动化安装 go 环境 + opencv 环境
 
-用到的库
+用到的库  
 argparse
 
 还要写下 gocv 的安装文档，真的折磨
@@ -20,22 +21,25 @@ argparse
 - **APP 逆向**
 
 学习捏
-1. 加载密钥 para1 --> go-flags
-  flags:
-    -a | --algorithm aes | 3des | rc4 and so on
+
+1. 加载密钥 para1 --> go-flags  
+  flags:  
+    -a | --algorithm aes | 3des | rc4 and so on  
     -f | --format raw | hex
-1. 用密钥加密 shellcode(shellcode 有几种方式) para2 --> hex or raw
-2. 用密钥对 shellcode 进行加密得到 payload
-3. 加载模板文件(模板文件是加密的)。解密之后用加密后的 payload 代替 payload
-4. 正则表达式替换 go 文件内容，重新写入文件并 go build
-5. go build 之后删除 go 文件
-6. 生成的可执行文件就是带有监控功能，并且可以加载模型的 virus
+2. 用密钥加密 shellcode(shellcode 有几种方式) para2 --> hex or raw
+3. 用密钥对 shellcode 进行加密得到 payload
+4. 加载模板文件 (模板文件是加密的)。解密之后用加密后的 payload 代替 payload
+5. 正则表达式替换 go 文件内容，重新写入文件并 go build
+6. go build 之后删除 go 文件
+7. 生成的可执行文件就是带有监控功能，并且可以加载模型的 virus
 
 - shellcode --> base64(signature) --> | encryption -->base64
 - base64--->encryption--->base64---->shellcode
 
-# Reference
-## gocv
+## Reference
+
+### Gocv
+
 - [go 调用本地摄像头（opencv,gocv,windows） - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/456151377)
 - [go安装opencv(gocv,windows) - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/456141872)
 - [使用 Golang 和 OpenCV 侦测人脸 | Z - Computer & Programming Technology (zvz.im)](https://log.zvz.im/2021/06/05/go-detect-faces-using-opencv/)
@@ -47,6 +51,7 @@ argparse
 - [OpenCV can't grab-retrieve on Windows 11 - Stack Overflow](https://stackoverflow.com/questions/72658596/opencv-cant-grab-retrieve-on-windows-11)
 - [(114条消息) gocv-go语言调用opencv入门_xinlinhack的博客-CSDN博客_go opencv](https://blog.csdn.net/xinlinhack/article/details/119713374)
 
-## tensorflow-go
+### Tensorflow-go
+
 - [tinrab/go-tensorflow-image-recognition: Image Recognition API in Go using TensorFlow (github.com)](https://github.com/tinrab/go-tensorflow-image-recognition)
 - tensorflow

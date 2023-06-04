@@ -6,6 +6,9 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiSecurityscorecard",
+      "SiThealgorithms",
+      "FasCode",
       "FabAngellist"
     ],
     "recentlyUsedIconsSize": 5,
@@ -17,5 +20,8 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "Coding": "FasCode",
+  "Algorithm": "SiThealgorithms",
+  "Cyber Security": "SiSecurityscorecard"
 }

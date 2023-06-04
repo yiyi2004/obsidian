@@ -1,6 +1,34 @@
 {
   "recentFiles": [
     {
+      "basename": "Micro Service with Go!",
+      "path": "Coding/Go/Micro Service with Go!.md"
+    },
+    {
+      "basename": "Golang 面试题",
+      "path": "Coding/Go/Golang 面试题.md"
+    },
+    {
+      "basename": "GORM(Object-Relationl Mapping)",
+      "path": "Coding/Go/GORM(Object-Relationl Mapping).md"
+    },
+    {
+      "basename": "Golang 回顾",
+      "path": "Coding/Go/Golang 回顾.md"
+    },
+    {
+      "basename": "go context",
+      "path": "Coding/Go/go context.md"
+    },
+    {
+      "basename": "Go Channel",
+      "path": "Coding/Go/深入理解go/Go Channel.md"
+    },
+    {
+      "basename": "并发编程",
+      "path": "Coding/Go/并发编程/并发编程.md"
+    },
+    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
@@ -171,26 +199,6 @@
     {
       "basename": "LLM",
       "path": "AI/LLM/LLM/LLM.md"
-    },
-    {
-      "basename": "LLM 部署",
-      "path": "AI/LLM/LLM/LLM 部署.md"
-    },
-    {
-      "basename": "LLM 模型&微调&部署方法",
-      "path": "AI/LLM/LLM/LLM 模型&微调&部署方法.md"
-    },
-    {
-      "basename": "gpt_academic",
-      "path": "AI/LLM/Project&Analysis/gpt_academic.md"
-    },
-    {
-      "basename": "ChatGPT相关项目",
-      "path": "AI/LLM/Chatgpt/Snipaste/ChatGPT相关项目.md"
-    },
-    {
-      "basename": "openpilot",
-      "path": "AI/自动驾驶/openpilot.md"
     }
   ],
   "omittedPaths": [],

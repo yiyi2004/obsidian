@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+                "file": "Coding/Go/Micro Service with Go!.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,9 +276,16 @@
   },
   "active": "e332b92fce0d7788",
   "lastOpenFiles": [
+    "Coding/Go/Golang 面试题.md",
+    "Coding/Go/GORM(Object-Relationl Mapping).md",
+    "Coding/Go/Micro Service with Go!.md",
+    "Coding/Go/Golang 回顾.md",
+    "Coding/Go/go context.md",
+    "Coding/Go/深入理解go/Go Channel.md",
+    "Coding/Go/并发编程/并发编程.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "AI/Tensorflow/tfgo/gocv + tensorflow-go.md",
     "Day3/Day3.md",
     "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
@@ -295,13 +302,6 @@
     "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
     "Write/Material for Writing/生活趣事/学习 == 打游戏.md",
     "Cocinfo/HIDS.md",
-    "Write/Material for Writing/写作素材/写作素材.md",
-    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
-    "Daily/2023-06-04.md",
-    "Cyber Security/中国的职业教育.md",
-    "Cyber Security/Red Team/如何伪造IP.md",
-    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
-    "Cyber Security/认知偏执脆弱性/未命名.md",
     "Write/Material for Writing/写作素材",
     "Interesting/物理学",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",

@@ -69,7 +69,42 @@ It's a a summary of deeplocker
 
 #### 2️⃣Python API
 
+1. 约定一些文件夹
+	1. 上传图片所需的文件夹，注意文件文件上传漏洞
+2. 压缩之后再传输
+3. 搭建文件服务器，**但是要有验证**，因为你不能让任何人都可以下载你的模型 basic or token
+
+API
+
+- [ ] upload target image | target_name + image | + new line
+- [ ] get training info | get the info: loss, precision, epoch, completed, **key** and so on
+- [ ] download model | **key** string is the folder name of model
+- [ ] retrain model
+- [ ] delete model | default save the model
+- [ ] get model info
+- [ ] get model list key ---> model info
+
+maybe you should build a mysql on pythono API server
+
+and you should install a docker
+
+师姐我们 Python API 需要约定一些文件夹
+
+1. 上传目标照片的位置
+2. 下载模板的位置
+
+上传图片的位置可以是：  
+workspace/target/image/{{name}}/XXX.jpg
+
+下载模型的位置是：  
+workspace/model/{{key}}/xxx
+
+因为分配的 key 是唯一的  
+其他信息会被写道数据库里面
+
 #### 3️⃣接入模块
+
+- [ ] config the template | such as the sampling frequency
 
 #### 4️⃣Frontend
 

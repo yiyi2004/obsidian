@@ -43,10 +43,4 @@ A blog post is like a conversation, you need to explain the information however 
 
 ## ✅ Checklist Inspiration
 
-- [ ] Brainstorm the topics that I want to write about in bullet points
-- [ ] Reorder those bullet points to create a line of thought Draft
-- [ ] Expand those bullet points into sentences/text
-- [ ] Draft 5 titles and pick one
-- [ ] Revise the complete text for typos and any rephrasing that need to be made
-- [ ] Publish or schedule the post
-- [ ] Promote
+你这又是为了什么呢？做好你自己的事情，帮你

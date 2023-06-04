@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/认知偏执脆弱性/场景构建.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,14 +26,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Material for Writing/写作素材/写作素材.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
               }
             }
           },
@@ -169,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -235,9 +236,21 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "27fd0e5f370e14e7",
+  "active": "a4a97df54958600e",
   "lastOpenFiles": [
+    "Write/Material for Writing/生活趣事/学习 == 打游戏.md",
+    "Cocinfo/HIDS.md",
+    "Write/Material for Writing/写作素材/写作素材.md",
+    "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md",
     "Daily/2023-06-04.md",
+    "Cyber Security/中国的职业教育.md",
+    "Cyber Security/Red Team/如何伪造IP.md",
+    "Day3/Day3.md",
+    "Cyber Security/认知偏执脆弱性/场景构建.md",
+    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
+    "Cyber Security/认知偏执脆弱性/未命名.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/Deeplocker/信息整合(memos).md",
     "Notebook/矩阵理论/东南大学/弄不懂内容解决.md",
     "Eassay/企划书/企划书.md",
     "Tasks/TODO.md",
@@ -250,19 +263,7 @@
     "Tasks/APT Report.md",
     "Tools/obsidian workflow.md",
     "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Templates/OB_Template/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
-    "Tasks/信息收集.md",
-    "Coding/Go/标准库的使用/bufio.md",
-    "Coding/Go/标准库的使用/buffer.md",
-    "Coding/C&CPP/C&CPP Repository.md",
-    "Cyber Security/Deeplocker/存在问题.md",
-    "AI/LLM/LLM/LLM.md",
-    "AI/LLM/LLM/LLM 部署.md",
-    "AI/LLM/LLM/LLM 模型&微调&部署方法.md",
-    "AI/LLM/Project&Analysis/gpt_academic.md",
-    "AI/LLM/Chatgpt/Snipaste/ChatGPT相关项目.md",
-    "AI/Go&AI/Hands-On Deep Learning with Go.md",
     "Write/Material for Writing/写作素材",
     "Interesting/物理学",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",

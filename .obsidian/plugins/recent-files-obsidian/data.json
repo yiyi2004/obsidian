@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "生成木马反弹shell（Windows）",
+      "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
+    },
+    {
+      "basename": "学习 == 打游戏",
+      "path": "Write/Material for Writing/生活趣事/学习 == 打游戏.md"
+    },
+    {
+      "basename": "HIDS",
+      "path": "Cocinfo/HIDS.md"
+    },
+    {
+      "basename": "写作素材",
+      "path": "Write/Material for Writing/写作素材/写作素材.md"
+    },
+    {
+      "basename": "起床后的黄金1小时",
+      "path": "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md"
     },
     {
       "basename": "2023-06-04",
       "path": "Daily/2023-06-04.md"
+    },
+    {
+      "basename": "中国的职业教育",
+      "path": "Cyber Security/中国的职业教育.md"
+    },
+    {
+      "basename": "如何伪造IP",
+      "path": "Cyber Security/Red Team/如何伪造IP.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "场景构建",
+      "path": "Cyber Security/认知偏执脆弱性/场景构建.md"
+    },
+    {
+      "basename": "认知偏执脆弱性本子",
+      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/信息整合(memos).md"
     },
     {
       "basename": "弄不懂内容解决",
@@ -55,10 +99,6 @@
     {
       "basename": "smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer",
       "path": "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "0A_7_1_Blog",

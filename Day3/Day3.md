@@ -18,7 +18,7 @@
 - [ ] <font color="#8064a2">将量子计算导论的论文翻译出来，并用 chatgpt 进行总结 (就是最后的总结) </font>
 - [ ] <font color="#9bbb59">完成第二个作业 </font>  
 - [x] <font color="#c0504d">deeplocker 模型服务开发 </font> ✅ 2023-06-04
-- [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
+- [x] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font> ✅ 2023-06-04
 - [ ] <font color="#fac08f">爬虫技术第四节课</font>  
 - [ ] <font color="#b2a2c7">云原生技术 </font>
 
@@ -30,7 +30,9 @@
 - [ ] <font color="#9bbb59">完成第三个作业，这个可以缓一缓，不着急</font>
 - [ ] <font color="#c0504d">deeplocker 模型服务开发</font>
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>
-- [ ] <font color="#fac08f">爬虫技术第五节课</font>
+- [ ] 整理爬虫的笔记
 - [ ] <font color="#b2a2c7">云原生技术</font>
+- [ ] 总结 deeplocker 的内容 #deeplocker
 
 之后去参加 gopher china
+

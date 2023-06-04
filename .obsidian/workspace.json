@@ -13,7 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/存在问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4a97df54958600e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Write/Material for Writing/写作素材/写作素材.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -64,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/存在问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,12 +114,28 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "dd033378146af3f6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "575c93b4864300f2",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.51103591918945
+    "width": 321.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -122,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cyber Security/Deeplocker/存在问题.md"
               }
             }
           },
@@ -140,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/存在问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,13 +194,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/存在问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "1d9133ca19ac2c35",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,18 +231,32 @@
       "obsidian-hypothesis-plugin:Sync your hypothesis highlights": false,
       "random-note:开始漫游笔记": false,
       "templater-obsidian:Templater": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
   "active": "27fd0e5f370e14e7",
   "lastOpenFiles": [
+    "AI/LLM/LLM/LLM.md",
+    "AI/LLM/LLM/LLM 部署.md",
+    "AI/LLM/LLM/LLM 模型&微调&部署方法.md",
+    "AI/LLM/Project&Analysis/gpt_academic.md",
+    "AI/LLM/Chatgpt/Snipaste/ChatGPT相关项目.md",
+    "AI/Go&AI/Hands-On Deep Learning with Go.md",
+    "AI/自动驾驶/openpilot.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/Deeplocker/deeplcoker backend.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Day3/Day3.md",
+    "Write/Material for Writing/写作素材/写作素材.md",
+    "Write/Material for Writing/生活趣事/段子素材.md",
+    "Write/Material for Writing/写作素材",
     "Website/李约瑟难题_百度百科.md",
     "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
     "Resume/Tips.md",
     "Interesting/陈平跨学科思维.md",
     "Notebook/自然辩证法/自然辩证法初稿.md",
     "Interesting/物理学/惯性定律.md",
-    "Day3/Day3.md",
     "Resume/Resume index.md",
     "Interesting/物理学",
     "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
@@ -213,17 +265,6 @@
     "Cloud Native/测试/Postman 使用方法总结.md",
     "Basic/计算机网络/Websocket.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Eassay/随想.md",
-    "Cyber Security/CTF/Misc/杂项题的基本解题思路.md",
-    "Coding/Java/Java Spring.md",
-    "Master's degree/护肤指南.md",
-    "The Party/积极分子党课/01 习近平新时代中国特色社会主义思想的认识论.md",
-    "Cloud Native/MQ/NATS/NATS.md",
-    "Basic/名词解释/安全名词.md",
-    "Cloud Native/Docker/dockerfile & docker-compose examples.md",
-    "未命名.md",
-    "Templates/OB_Template/0A_Templates/0A_6_Books/0A_6_1_Books.md",
-    "Templates/obsidian_vault_template_for_researcher/02-Reading/mdnotes/@Doose2005.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/列表缩进.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/输入表格-1.gif",
@@ -231,7 +272,6 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220321141509.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/floating-toc.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/幻灯片播放.gif",
-    "Templates/obsidian_vault_template_for_researcher/01-Diary/日志存档/2022-05-20.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/utils.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/test.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/template.docx",
@@ -239,7 +279,6 @@
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/ref_list.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/paper2docx.py",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/obs.py",
-    "Templates/obsidian_vault_template_for_researcher/08-Assets/Scripts/MyLibrary.bib",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/斜杠命令用于测试.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220529151825.png",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/Pasted image 20220514145752.png",

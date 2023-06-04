@@ -1,0 +1,39 @@
+{
+  "recentFiles": [
+    {
+      "basename": "存在问题",
+      "path": "Cyber Security/Deeplocker/存在问题.md"
+    },
+    {
+      "basename": "LLM",
+      "path": "AI/LLM/LLM/LLM.md"
+    },
+    {
+      "basename": "LLM 部署",
+      "path": "AI/LLM/LLM/LLM 部署.md"
+    },
+    {
+      "basename": "LLM 模型&微调&部署方法",
+      "path": "AI/LLM/LLM/LLM 模型&微调&部署方法.md"
+    },
+    {
+      "basename": "gpt_academic",
+      "path": "AI/LLM/Project&Analysis/gpt_academic.md"
+    },
+    {
+      "basename": "ChatGPT相关项目",
+      "path": "AI/LLM/Chatgpt/Snipaste/ChatGPT相关项目.md"
+    },
+    {
+      "basename": "Hands-On Deep Learning with Go",
+      "path": "AI/Go&AI/Hands-On Deep Learning with Go.md"
+    },
+    {
+      "basename": "openpilot",
+      "path": "AI/自动驾驶/openpilot.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

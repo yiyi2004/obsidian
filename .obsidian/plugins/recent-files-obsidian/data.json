@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "工具合集",
+      "path": "Cyber Security/暗月渗透测试/工具合集.md"
+    },
+    {
+      "basename": "最好的减肥运动是？（不是HIIT）",
+      "path": "Eassay/BiliBili/最好的减肥运动是？（不是HIIT）.md"
+    },
+    {
+      "basename": "思想汇报",
+      "path": "The Party/积极分子党课/思想汇报.md"
+    },
+    {
+      "basename": "Hands-On Deep Learning with Go",
+      "path": "AI/Go&AI/Hands-On Deep Learning with Go.md"
+    },
+    {
+      "basename": "Prometheus",
+      "path": "Cloud Native/Prometheus/Prometheus.md"
+    },
+    {
       "basename": "生成木马反弹shell（Windows）",
       "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
     },
@@ -143,10 +163,6 @@
     {
       "basename": "ChatGPT相关项目",
       "path": "AI/LLM/Chatgpt/Snipaste/ChatGPT相关项目.md"
-    },
-    {
-      "basename": "Hands-On Deep Learning with Go",
-      "path": "AI/Go&AI/Hands-On Deep Learning with Go.md"
     },
     {
       "basename": "openpilot",

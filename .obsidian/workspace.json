@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/暗月渗透测试/工具合集.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/暗月渗透测试/工具合集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
+                "file": "Cyber Security/暗月渗透测试/工具合集.md"
               }
             }
           },
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/暗月渗透测试/工具合集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/暗月渗透测试/工具合集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,6 +238,11 @@
   },
   "active": "a4a97df54958600e",
   "lastOpenFiles": [
+    "Eassay/BiliBili/最好的减肥运动是？（不是HIIT）.md",
+    "The Party/积极分子党课/思想汇报.md",
+    "AI/Go&AI/Hands-On Deep Learning with Go.md",
+    "Cloud Native/Prometheus/Prometheus.md",
+    "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
     "Write/Material for Writing/生活趣事/学习 == 打游戏.md",
     "Cocinfo/HIDS.md",
     "Write/Material for Writing/写作素材/写作素材.md",
@@ -259,11 +264,6 @@
     "Tasks/Review.md",
     "Tasks/Tasks index.md",
     "Tasks/Coding.md",
-    "Tasks/Blog.md",
-    "Tasks/APT Report.md",
-    "Tools/obsidian workflow.md",
-    "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
-    "Templates/OB_Template/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
     "Write/Material for Writing/写作素材",
     "Interesting/物理学",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",

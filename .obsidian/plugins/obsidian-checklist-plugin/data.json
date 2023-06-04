@@ -1,0 +1,43 @@
+{
+  "todoPageName": "todo\ngithub\nblog\nwrite\ndeeplearning\napt\npython\ngo\n企划书\nreading\nsummary\ntasks",
+  "showChecked": false,
+  "showAllTodos": true,
+  "autoRefresh": true,
+  "subGroups": false,
+  "groupBy": "page",
+  "sortDirectionItems": "new->old",
+  "sortDirectionGroups": "new->old",
+  "sortDirectionSubGroups": "new->old",
+  "includeFiles": "",
+  "lookAndFeel": "classic",
+  "_collapsedSections": [
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
+    "Templates/OB_Template/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
+    "Website/Internet Explorer 0-day exploited by North Korean actor APT37.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
+    "Coding/Python/Repository/Flask/Basic Flask.md",
+    "Website/YohayAiTego-mtcnn go-mtcnn is a go package for face detection in images. It uses httpsgithub.comipazcmtcnn as a reference implementation. It is based on the Zhang, K et al. (2016).md",
+    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
+    "Website/人工智能 deepface 换脸技术 学习-腾讯云开发者社区-腾讯云.md",
+    "Website/全球高级持续性威胁 (APT) 2022年度报告.md",
+    "Website/美国NSA入侵西北工业大学流程图梳理和分析.md",
+    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
+    "Website/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md",
+    "Tools/obsidian workflow.md",
+    "Eassay/企划书/企划书.md"
+  ],
+  "_hiddenTags": [
+    "t",
+    "todo",
+    "write",
+    "go",
+    "reading",
+    "summary",
+    "blog",
+    "github",
+    "deeplearning",
+    "apt",
+    "python"
+  ]
+}

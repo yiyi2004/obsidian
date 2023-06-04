@@ -15,7 +15,7 @@
 
 - [ ] <font color="#f79646">寻找歪果黑客对中国的刻板印象</font>
 - [x] <font color="#4bacc6">完善自然辩证法论文 </font> ✅ 2023-06-03
-- [ ] <font color="#8064a2">将量子计算导论的论文翻译出来，并用 chatgpt 进行总结 (就是最后的总结) </font>  
+- [ ] <font color="#8064a2">将量子计算导论的论文翻译出来，并用 chatgpt 进行总结 (就是最后的总结) </font>
 - [ ] <font color="#9bbb59">完成第二个作业 </font>  
 - [x] <font color="#c0504d">deeplocker 模型服务开发 </font> ✅ 2023-06-04
 - [ ] <font color="#4f81bd">黑客技术学习 (malware + 博客 + 歪果教程) </font>

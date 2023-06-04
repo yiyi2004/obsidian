@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/存在问题.md",
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/存在问题.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/存在问题.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/存在问题.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/存在问题.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,11 +209,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,34 +237,34 @@
   },
   "active": "27fd0e5f370e14e7",
   "lastOpenFiles": [
+    "Daily/2023-06-04.md",
+    "Notebook/矩阵理论/东南大学/弄不懂内容解决.md",
+    "Eassay/企划书/企划书.md",
+    "Tasks/TODO.md",
+    "Website/virt-managervirt-manager Desktop tool for managing virtual machines via libvirt.md",
+    "Website/Internet Explorer 0-day exploited by North Korean actor APT37.md",
+    "Tasks/Review.md",
+    "Tasks/Tasks index.md",
+    "Tasks/Coding.md",
+    "Tasks/Blog.md",
+    "Tasks/APT Report.md",
+    "Tools/obsidian workflow.md",
+    "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Templates/OB_Template/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
+    "Tasks/信息收集.md",
+    "Coding/Go/标准库的使用/bufio.md",
+    "Coding/Go/标准库的使用/buffer.md",
+    "Coding/C&CPP/C&CPP Repository.md",
+    "Cyber Security/Deeplocker/存在问题.md",
     "AI/LLM/LLM/LLM.md",
     "AI/LLM/LLM/LLM 部署.md",
     "AI/LLM/LLM/LLM 模型&微调&部署方法.md",
     "AI/LLM/Project&Analysis/gpt_academic.md",
     "AI/LLM/Chatgpt/Snipaste/ChatGPT相关项目.md",
     "AI/Go&AI/Hands-On Deep Learning with Go.md",
-    "AI/自动驾驶/openpilot.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Cyber Security/Deeplocker/deeplcoker backend.md",
-    "Cyber Security/调研/Deeplocker.md",
-    "Day3/Day3.md",
-    "Write/Material for Writing/写作素材/写作素材.md",
-    "Write/Material for Writing/生活趣事/段子素材.md",
     "Write/Material for Writing/写作素材",
-    "Website/李约瑟难题_百度百科.md",
-    "Notebook/自然辩证法/自然辩证法期末论文素材总结.md",
-    "Resume/Tips.md",
-    "Interesting/陈平跨学科思维.md",
-    "Notebook/自然辩证法/自然辩证法初稿.md",
-    "Interesting/物理学/惯性定律.md",
-    "Resume/Resume index.md",
     "Interesting/物理学",
-    "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
-    "Cloud Native/Database/Redis/黑马程序员/Redis 实战.md",
-    "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Cloud Native/测试/Postman 使用方法总结.md",
-    "Basic/计算机网络/Websocket.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/陈致逸,HOYO-MiX - Dawn Winery Theme 晨曦酒庄.mp3",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/列表缩进.gif",
     "Templates/obsidian_vault_template_for_researcher/08-Assets/输入表格-1.gif",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "fyne",
+      "path": "Coding/Go/Third-party library/fyne/fyne.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "fyne",
-      "path": "Coding/Go/Third-party library/fyne/fyne.md"
     },
     {
       "basename": "Go Channel",

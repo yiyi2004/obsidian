@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasPersonRunning",
       "SiSecurityscorecard",
       "SiThealgorithms",
       "FasCode",
@@ -23,5 +24,6 @@
   },
   "Coding": "FasCode",
   "Algorithm": "SiThealgorithms",
-  "Cyber Security": "SiSecurityscorecard"
+  "Cyber Security": "SiSecurityscorecard",
+  "Challenge": "FasPersonRunning"
 }

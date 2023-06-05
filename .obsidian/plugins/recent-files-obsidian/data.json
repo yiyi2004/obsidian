@@ -5,6 +5,18 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Review everyday",
+      "path": "Challenge/Habit Challenge/Review everyday.md"
+    },
+    {
+      "basename": "RedTeam Workflow",
+      "path": "Cyber Security/Red Team/RedTeam Workflow.md"
+    },
+    {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Go Channel",
       "path": "Coding/Go/深入理解go/Go Channel.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "Flask 服务",

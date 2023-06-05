@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "fyne",
-      "path": "Coding/Go/Third-party library/fyne/fyne.md"
+      "basename": "obsidian workflow",
+      "path": "Tools/obsidian workflow.md"
+    },
+    {
+      "basename": "Tools index",
+      "path": "Tools/Tools index.md"
+    },
+    {
+      "basename": "Occultation",
+      "path": "Cyber Security/Workflow/Occultation.md"
     },
     {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Running everyday",
+      "path": "Challenge/Habit Challenge/Running everyday.md"
     },
     {
       "basename": "deeplocker backend summary",
@@ -17,12 +29,16 @@
       "path": "Challenge/Habit Challenge/Review everyday.md"
     },
     {
-      "basename": "RedTeam Workflow",
-      "path": "Cyber Security/Red Team/RedTeam Workflow.md"
-    },
-    {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "fyne",
+      "path": "Coding/Go/Third-party library/fyne/fyne.md"
+    },
+    {
+      "basename": "RedTeam Workflow",
+      "path": "Cyber Security/Red Team/RedTeam Workflow.md"
     },
     {
       "basename": "Go Channel",
@@ -183,14 +199,6 @@
     {
       "basename": "中国的职业教育",
       "path": "Cyber Security/中国的职业教育.md"
-    },
-    {
-      "basename": "如何伪造IP",
-      "path": "Cyber Security/Red Team/如何伪造IP.md"
-    },
-    {
-      "basename": "认知偏执脆弱性本子",
-      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
     }
   ],
   "omittedPaths": [],

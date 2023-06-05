@@ -21,6 +21,11 @@ you can't live without obsidian
 
 the best tool in you toolkit
 
-## Tasks 
-![[Pasted image 20230518171651.png]]
+## Tasks
+
+![[Pasted image 20230518171651.png]]  
 ![[Pasted image 20230518171658.png]]
+
+## Template 如何使用
+
+- [My Obsidian Daily Note Template | Dann Berg: blog, newsletter, shop, and more](https://dannb.org/blog/2022/obsidian-daily-note-template/)

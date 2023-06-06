@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Go embed",
+      "path": "Coding/Go/Go embed.md"
+    },
+    {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "思想汇报",
       "path": "The Party/积极分子党课/思想汇报.md"
-    },
-    {
-      "basename": "Hands-On Deep Learning with Go",
-      "path": "AI/Go&AI/Hands-On Deep Learning with Go.md"
     }
   ],
   "omittedPaths": [],

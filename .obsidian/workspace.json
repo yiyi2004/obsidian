@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/Go embed.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/Go embed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/随想.md"
+                "file": "Coding/Go/Go embed.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/Go embed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/Go embed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,6 +276,7 @@
   },
   "active": "291815bd0c7230ae",
   "lastOpenFiles": [
+    "Eassay/随想.md",
     "Coding/Go/Third-party library/fyne/fyne.md",
     "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
@@ -321,7 +322,6 @@
     "Coding/Python/爬虫/安卓开发.md",
     "Coding/Python/爬虫/Java 开发基础.md",
     "Coding/Python/爬虫/APP 逆向入门.md",
-    "Coding/Python/爬虫/异步爬虫.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

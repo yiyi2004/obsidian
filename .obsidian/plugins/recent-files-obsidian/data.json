@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Go embed",
+      "path": "Coding/Go/go tools/Go embed.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "fyne-new",
+      "path": "Coding/Go/Third-party library/fyne/fyne-new.md"
+    },
+    {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
     {
       "basename": "yaml",
       "path": "Basic/配置文件/yaml.md"
-    },
-    {
-      "basename": "fyne-new",
-      "path": "Coding/Go/Third-party library/fyne/fyne-new.md"
     },
     {
       "basename": "fyne demo",
@@ -25,20 +33,12 @@
       "path": "Cloud Native/yaml.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "toml",
       "path": "Basic/配置文件/toml.md"
     },
     {
       "basename": "go generate",
       "path": "Coding/Go/go tools/go generate.md"
-    },
-    {
-      "basename": "Go embed",
-      "path": "Coding/Go/go tools/Go embed.md"
     },
     {
       "basename": "deeplocker backend summary",

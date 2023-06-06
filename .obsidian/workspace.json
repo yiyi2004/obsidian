@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/go tools/Go embed.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/go tools/Go embed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/随想.md"
+                "file": "Coding/Go/go tools/Go embed.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/go tools/Go embed.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/go tools/Go embed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,21 +274,21 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "291815bd0c7230ae",
+  "active": "d8a937036615b189",
   "lastOpenFiles": [
-    "Basic/配置文件/yaml.md",
+    "Day3/Day3.md",
     "Coding/Go/Third-party library/fyne/fyne-new.md",
+    "Eassay/随想.md",
+    "Basic/配置文件/yaml.md",
     "Coding/Go/Third-party library/fyne/fyne demo.md",
     "Coding/Go/Third-party library/fyne/fyne-old.md",
     "Cloud Native/yaml.md",
-    "Day3/Day3.md",
     "Basic/配置文件/toml.md",
     "Coding/Go/go tools/go generate.md",
     "Basic/配置文件",
     "Coding/Go/go tools/Go embed.md",
     "Coding/Go/go tools",
     "Coding/Go/Goo.md",
-    "Eassay/随想.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Challenge/Habit Challenge/Running.md",
     "Templates/OB_Template/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",

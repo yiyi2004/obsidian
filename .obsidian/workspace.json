@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Go embed.md",
+                "file": "Basic/配置文件/yaml.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go embed.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go embed.md"
+                "file": "Coding/Go/Third-party library/fyne/fyne demo.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go embed.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go embed.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,11 +274,21 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "291815bd0c7230ae",
+  "active": "b17502c582544654",
   "lastOpenFiles": [
-    "Eassay/随想.md",
+    "Coding/Go/Third-party library/fyne/未命名.md",
+    "Coding/Go/Third-party library/fyne/fyne demo.md",
     "Coding/Go/Third-party library/fyne/fyne.md",
+    "Basic/配置文件/yaml.md",
+    "Cloud Native/yaml.md",
     "Day3/Day3.md",
+    "Basic/配置文件/toml.md",
+    "Coding/Go/go tools/go generate.md",
+    "Basic/配置文件",
+    "Coding/Go/go tools/Go embed.md",
+    "Coding/Go/go tools",
+    "Coding/Go/Goo.md",
+    "Eassay/随想.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Challenge/Habit Challenge/Running.md",
     "Templates/OB_Template/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
@@ -305,8 +315,6 @@
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne27.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/wxgzh8.jpg",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne1.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/utterances.6ec01640.js.下载",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/utterances.css",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne2.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne3.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne4.png",
@@ -314,14 +322,6 @@
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne6.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne7.gif",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne7.png",
-    "Coding/Go/深入理解go/Go Channel.md",
-    "Coding/Python/爬虫/Flask 服务.md",
-    "Cyber Security/认知偏执脆弱性/场景构建.md",
-    "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
-    "Coding/Python/爬虫/安卓和 JNI 开发.md",
-    "Coding/Python/爬虫/安卓开发.md",
-    "Coding/Python/爬虫/Java 开发基础.md",
-    "Coding/Python/爬虫/APP 逆向入门.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -1,5 +1,5 @@
 - [[index.md|index]]
-- [[yaml.md|yaml]]
+- [[yaml|yaml]]
 - [[Architecture/Architecture.md|Architecture]]
 - [[Architecture/CI&CD.md|CI&CD]]
 - [[Architecture/Fasthttp.md|Fasthttp]]

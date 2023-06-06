@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Go embed",
-      "path": "Coding/Go/Go embed.md"
+      "basename": "fyne demo",
+      "path": "Coding/Go/Third-party library/fyne/fyne demo.md"
     },
     {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
+      "basename": "未命名",
+      "path": "Coding/Go/Third-party library/fyne/未命名.md"
     },
     {
       "basename": "fyne",
       "path": "Coding/Go/Third-party library/fyne/fyne.md"
     },
     {
+      "basename": "yaml",
+      "path": "Basic/配置文件/yaml.md"
+    },
+    {
+      "basename": "yaml",
+      "path": "Cloud Native/yaml.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "toml",
+      "path": "Basic/配置文件/toml.md"
+    },
+    {
+      "basename": "go generate",
+      "path": "Coding/Go/go tools/go generate.md"
+    },
+    {
+      "basename": "Go embed",
+      "path": "Coding/Go/go tools/Go embed.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
     },
     {
       "basename": "deeplocker backend summary",
@@ -175,30 +199,6 @@
     {
       "basename": "绝对路径和相对路径问题",
       "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
-    },
-    {
-      "basename": "gocv + tensorflow-go",
-      "path": "AI/Tensorflow/tfgo/gocv + tensorflow-go.md"
-    },
-    {
-      "basename": "mtcnn 开发",
-      "path": "Cyber Security/Deeplocker/mtcnn 开发.md"
-    },
-    {
-      "basename": "deeplocker frontend",
-      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
-    },
-    {
-      "basename": "工具合集",
-      "path": "Cyber Security/暗月渗透测试/工具合集.md"
-    },
-    {
-      "basename": "最好的减肥运动是？（不是HIIT）",
-      "path": "Eassay/BiliBili/最好的减肥运动是？（不是HIIT）.md"
-    },
-    {
-      "basename": "思想汇报",
-      "path": "The Party/积极分子党课/思想汇报.md"
     }
   ],
   "omittedPaths": [],

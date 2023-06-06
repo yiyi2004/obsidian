@@ -132,7 +132,7 @@ func TestGreeting(t *testing.T) {
 }
 ```
 
-#### Paclaging
+#### Packaging
 
 #### Mobile Packaging
 

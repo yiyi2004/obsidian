@@ -1,16 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "复盘+",
+      "path": "Reading Notes/Book/复盘+/复盘+.md"
+    },
+    {
+      "basename": "Bookshelf",
+      "path": "Reading Notes/Bookshelf.md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "爬虫实战总结",
+      "path": "Coding/Python/爬虫/爬虫实战总结.md"
+    },
+    {
+      "basename": "异步爬虫",
+      "path": "Coding/Python/爬虫/异步爬虫.md"
+    },
+    {
+      "basename": "逆向爬虫",
+      "path": "Coding/Python/爬虫/逆向爬虫.md"
+    },
+    {
+      "basename": "爬虫基础总结",
+      "path": "Coding/Python/爬虫/爬虫基础总结.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
       "basename": "fyne-new",
       "path": "Coding/Go/Third-party library/fyne/fyne-new.md"
+    },
+    {
+      "basename": "大语言模型资料整理",
+      "path": "AI/LLM/LLM/大语言模型资料整理.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "LLM",
+      "path": "AI/LLM/LLM/LLM.md"
     },
     {
       "basename": "Go embed",
@@ -45,10 +85,6 @@
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
       "basename": "0A_4_3_CourseNote_V2",
       "path": "Templates/OB_Template/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md"
     },
@@ -75,10 +111,6 @@
     {
       "basename": "Morning Reading",
       "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
     },
     {
       "basename": "obsidian workflow",
@@ -133,14 +165,6 @@
       "path": "Coding/Python/爬虫/APP 逆向入门.md"
     },
     {
-      "basename": "异步爬虫",
-      "path": "Coding/Python/爬虫/异步爬虫.md"
-    },
-    {
-      "basename": "逆向爬虫",
-      "path": "Coding/Python/爬虫/逆向爬虫.md"
-    },
-    {
       "basename": "存在问题",
       "path": "Cyber Security/Deeplocker/存在问题.md"
     },
@@ -155,14 +179,6 @@
     {
       "basename": "02 认证",
       "path": "Coding/Go/Third-party library/grpc/02 gRPC 认证/02 认证.md"
-    },
-    {
-      "basename": "爬虫基础总结",
-      "path": "Coding/Python/爬虫/爬虫基础总结.md"
-    },
-    {
-      "basename": "爬虫实战总结",
-      "path": "Coding/Python/爬虫/爬虫实战总结.md"
     },
     {
       "basename": "Docker 安装",
@@ -183,22 +199,6 @@
     {
       "basename": "Golang 面试题",
       "path": "Coding/Go/Golang 面试题.md"
-    },
-    {
-      "basename": "Micro Service with Go!",
-      "path": "Coding/Go/Micro Service with Go!.md"
-    },
-    {
-      "basename": "GORM(Object-Relationl Mapping)",
-      "path": "Coding/Go/GORM(Object-Relationl Mapping).md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
-      "basename": "绝对路径和相对路径问题",
-      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
     }
   ],
   "omittedPaths": [],

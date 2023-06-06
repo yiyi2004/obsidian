@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne-new.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne-new.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne demo.md"
+                "file": "Coding/Go/Third-party library/fyne/fyne-new.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne-new.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne demo.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne-new.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,9 +276,9 @@
   },
   "active": "b17502c582544654",
   "lastOpenFiles": [
-    "Coding/Go/Third-party library/fyne/未命名.md",
     "Coding/Go/Third-party library/fyne/fyne demo.md",
-    "Coding/Go/Third-party library/fyne/fyne.md",
+    "Coding/Go/Third-party library/fyne/fyne-new.md",
+    "Coding/Go/Third-party library/fyne/fyne-old.md",
     "Basic/配置文件/yaml.md",
     "Cloud Native/yaml.md",
     "Day3/Day3.md",

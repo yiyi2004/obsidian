@@ -52,4 +52,4 @@ func main() {
 ## Reference
 
 - [fyne/cmd at master · fyne-io/fyne (github.com)](https://github.com/fyne-io/fyne/tree/master/cmd)
-- [[fyne]]
+- [[fyne-old]]

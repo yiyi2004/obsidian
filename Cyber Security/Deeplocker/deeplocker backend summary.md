@@ -40,7 +40,7 @@ It's a a summary of deeplocker
 
 目前 deeplocker 开发主要分为 5 个部分
 
-1. 前端的开发 | react + antd(web) or [[../../Coding/Go/Third-party library/fyne/fyne|fyne]]
+1. 前端的开发 | react + antd(web) or [[../../Coding/Go/Third-party library/fyne/fyne-old|fyne-old]]
 2. 服务端开发，配置模板，打包载荷 + 模板 + 应用 | Go
 3. 模板的开发 | Go
 4. 包装深度学习模型 API | [[../../Coding/Python/Repository/Flask/Flask Quickstart|Flask Quickstart]]

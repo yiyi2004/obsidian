@@ -29,3 +29,4 @@ the best tool in you toolkit
 ## Template 如何使用
 
 - [My Obsidian Daily Note Template | Dann Berg: blog, newsletter, shop, and more](https://dannb.org/blog/2022/obsidian-daily-note-template/)
+

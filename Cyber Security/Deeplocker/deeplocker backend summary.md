@@ -1,7 +1,7 @@
 ---
 created: ["2023-06-04 08:26"]
 aliases: ["Blog Post Code"]
-tags: [deeplocker, security]
+	tags: [deeplocker, security]
 ---
 
 ## ❓ Information

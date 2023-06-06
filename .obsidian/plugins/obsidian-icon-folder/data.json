@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiInformatica",
+      "FasCloud",
       "SiCommonworkflowlanguage",
       "FasPersonRunning",
-      "SiSecurityscorecard",
-      "SiThealgorithms",
-      "FasCode"
+      "SiSecurityscorecard"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -26,5 +26,7 @@
   "Algorithm": "SiThealgorithms",
   "Cyber Security": "SiSecurityscorecard",
   "Challenge": "FasPersonRunning",
-  "Cyber Security/Workflow": "SiCommonworkflowlanguage"
+  "Cyber Security/Workflow": "SiCommonworkflowlanguage",
+  "Cloud Native": "FasCloud",
+  "Cocinfo": "SiInformatica"
 }

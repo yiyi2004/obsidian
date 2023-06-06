@@ -2,6 +2,6 @@
 - [[Blog.md|Blog]]
 - [[Coding.md|Coding]]
 - [[index.md|index]]
-- [[Review.md|Review]]
+- [[Review|Review]]
 - [[TODO.md|TODO]]
 - [[信息收集.md|信息收集]]

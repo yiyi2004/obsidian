@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/Habit Challenge/Review everyday.md",
+                "file": "Challenge/Habit Challenge/Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/Habit Challenge/Running everyday.md",
+                "file": "Challenge/Habit Challenge/Running.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,25 @@
             }
           },
           {
-            "id": "ad3bff318b4f27a5",
+            "id": "b17502c582544654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools/obsidian workflow.md",
+                "file": "Coding/Go/Third-party library/fyne/fyne.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "291815bd0c7230ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/随想.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/obsidian workflow.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/obsidian workflow.md"
+                "file": "Eassay/随想.md"
               }
             }
           },
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/obsidian workflow.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/obsidian workflow.md",
+                "file": "Eassay/随想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,17 +274,29 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "811215e87ba12079",
+  "active": "291815bd0c7230ae",
   "lastOpenFiles": [
+    "Coding/Go/Third-party library/fyne/fyne.md",
+    "Day3/Day3.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Templates/OB_Template/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
+    "Eassay/Youtube/David Bombal/2023 Path to Master Programmer (for free).md",
+    "Eassay/BiliBili/如何成为高能量的人.md",
+    "Eassay/Youtube/David Bombal",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/Snipaste/Recording 20230606075901.webm",
+    "Challenge/Habit Challenge/Snipaste/Recording 20230606075824.webm",
+    "Challenge/Habit Challenge/Snipaste",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Tools/obsidian workflow.md",
     "Tools/Tools index.md",
     "Cyber Security/Workflow/Occultation.md",
-    "Day3/Day3.md",
     "Cyber Security/Workflow",
-    "Challenge/Habit Challenge/Running everyday.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Challenge/Habit Challenge/Review everyday.md",
     "Cyber Security/调研/Deeplocker.md",
-    "Coding/Go/Third-party library/fyne/fyne.md",
     "Cyber Security/Red Team/RedTeam Workflow.md",
     "Challenge/Habit Challenge",
     "Challenge",
@@ -281,10 +306,6 @@
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne1.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/utterances.6ec01640.js.下载",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/utterances.css",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/jane.min.fa3d941d1d0e0ddc985804227feabffea55c89883eb0af34e0532a7ae9135151.css",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/custom.css",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/js",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/analytics.js.下载",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne2.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne3.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne4.png",
@@ -301,14 +322,6 @@
     "Coding/Python/爬虫/Java 开发基础.md",
     "Coding/Python/爬虫/APP 逆向入门.md",
     "Coding/Python/爬虫/异步爬虫.md",
-    "Coding/Python/爬虫/逆向爬虫.md",
-    "Cyber Security/Deeplocker/存在问题.md",
-    "Coding/Go/Third-party library/grpc/01 gRPC 基础/01.md",
-    "Coding/Go/算法/01. 认识复杂度和简单的排序算法.md",
-    "Coding/Go/Third-party library/grpc/02 gRPC 认证/02 认证.md",
-    "Coding/Python/爬虫/爬虫基础总结.md",
-    "Coding/Python/爬虫/爬虫实战总结.md",
-    "Cloud Native/Docker/Docker 安装.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

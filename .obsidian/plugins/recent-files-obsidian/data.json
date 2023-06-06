@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "fyne",
+      "path": "Coding/Go/Third-party library/fyne/fyne.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
+      "basename": "0A_4_3_CourseNote_V2",
+      "path": "Templates/OB_Template/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md"
+    },
+    {
+      "basename": "2023 Path to Master Programmer (for free)",
+      "path": "Eassay/Youtube/David Bombal/2023 Path to Master Programmer (for free).md"
+    },
+    {
+      "basename": "如何成为高能量的人",
+      "path": "Eassay/BiliBili/如何成为高能量的人.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "Morning Reading",
+      "path": "Challenge/Habit Challenge/Morning Reading.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
       "basename": "obsidian workflow",
       "path": "Tools/obsidian workflow.md"
     },
@@ -13,28 +65,8 @@
       "path": "Cyber Security/Workflow/Occultation.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Running everyday",
-      "path": "Challenge/Habit Challenge/Running everyday.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "Review everyday",
-      "path": "Challenge/Habit Challenge/Review everyday.md"
-    },
-    {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "fyne",
-      "path": "Coding/Go/Third-party library/fyne/fyne.md"
     },
     {
       "basename": "RedTeam Workflow",
@@ -167,38 +199,6 @@
     {
       "basename": "Hands-On Deep Learning with Go",
       "path": "AI/Go&AI/Hands-On Deep Learning with Go.md"
-    },
-    {
-      "basename": "Prometheus",
-      "path": "Cloud Native/Prometheus/Prometheus.md"
-    },
-    {
-      "basename": "生成木马反弹shell（Windows）",
-      "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
-    },
-    {
-      "basename": "学习 == 打游戏",
-      "path": "Write/Material for Writing/生活趣事/学习 == 打游戏.md"
-    },
-    {
-      "basename": "HIDS",
-      "path": "Cocinfo/HIDS.md"
-    },
-    {
-      "basename": "写作素材",
-      "path": "Write/Material for Writing/写作素材/写作素材.md"
-    },
-    {
-      "basename": "起床后的黄金1小时",
-      "path": "Reading Notes/Book/起床后的黄金1小时/起床后的黄金1小时.md"
-    },
-    {
-      "basename": "2023-06-04",
-      "path": "Daily/2023-06-04.md"
-    },
-    {
-      "basename": "中国的职业教育",
-      "path": "Cyber Security/中国的职业教育.md"
     }
   ],
   "omittedPaths": [],

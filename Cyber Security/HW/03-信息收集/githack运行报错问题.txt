@@ -1,0 +1,10 @@
+可能是python版本问题
+
+kali切换python版本的方法
+
+配置
+update-alternatives --install /usr/bin/python python /usr/bin/python2 100
+update-alternatives --install /usr/bin/python python /usr/bin/python3 150
+
+切换版本
+update-alternatives --config python

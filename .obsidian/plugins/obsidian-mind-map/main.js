@@ -2486,6 +2486,7 @@ rules.code = function(tokens, idx /*, options, env */) {
  */
 
 rules.fence = function(tokens, idx, options, env, instance) {
+  return ''
   var token = tokens[idx];
   var langClass = '';
   var langPrefix = options.langPrefix;

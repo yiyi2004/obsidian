@@ -1,27 +1,24 @@
 ---
 created: ["2023-06-06 07:02"]
-tags:
-- Personal/
+tags: [Personal/]
 ---
 
+> Keeping track of a habit we what to get rid of or that we want to build helps us stay focused on the challenge.  
+> This is a 30 day Track for a habit that we want gain or lose
 
->Keeping track of a habit we what to get rid of or that we want to build helps us stay focused on the challenge. 
->This is a 30 day Track for a habit that we want gain or lose 
+## 📅 My 30 Day's Challenge
 
+### 📃 Challenge Information
 
-# 📅 My 30 Day's Challenge
-## 📃 Challenge Information 
-Created::  06-06-2023 07:02
-Starting On:: 
-Completed:: 
-Type:: 
-Tags:: 
+Created:: 06-06-2023 07:02  
+Starting On::  
+Completed::  
+Type::  
+Tags::
 
-## 🎯 The habit I will gain/lose
-- 
+### 🎯 The Habit I Will gain/lose
 
-# ❗ Challenge Log
-
+## ❗ Challenge Log
 
 |       |     |     |     |     |     |     |     |
 | ----- | --- | --- | --- | --- | --- | --- | --- |
@@ -36,4 +33,4 @@ Tags::
 | Day   | 29  | 30  |     |     |     |     |     |
 | Notes |     |     |     |     |     |     |     |
 
-### Congratulations! You made it to 30 days! You see if you can keep going.
+### Congratulations! You Made it to 30 Days! You See if You Can Keep Going

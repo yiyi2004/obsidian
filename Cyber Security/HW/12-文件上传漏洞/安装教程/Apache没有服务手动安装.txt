@@ -1,0 +1,7 @@
+管理员方式启动cmd
+在Apache/bin目录下执行：
+httpd.exe -k install -n "Apache24"
+
+如果启动失败：
+在Apache/bin目录下执行：
+httpd.exe -t

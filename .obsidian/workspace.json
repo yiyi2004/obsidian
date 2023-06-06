@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/Habit Challenge/Summary.md",
+                "file": "Coding/Go/Go 高级编程/语言基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -26,80 +26,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/go tools/Go embed.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03058fba1819632b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Python/爬虫/爬虫实战总结.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17502c582544654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Third-party library/fyne/fyne-new.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "291815bd0c7230ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/LLM/LLM/大语言模型资料整理.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da3fa0d60fc48225",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/Day3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4395ad9aa7226e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading Notes/Book/复盘+/复盘+.md",
+                "file": "Cyber Security/高级网络安全研究/01 偷的技术.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Notes/Book/复盘+/复盘+.md",
+                "file": "Coding/Go/Go 高级编程/语言基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reading Notes/Book/复盘+/复盘+.md"
+                "file": "Coding/Go/Go 高级编程/语言基础.md"
               }
             }
           },
@@ -235,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reading Notes/Book/复盘+/复盘+.md",
+                "file": "Coding/Go/Go 高级编程/语言基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reading Notes/Book/复盘+/复盘+.md",
+                "file": "Coding/Go/Go 高级编程/语言基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,7 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 349.5
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -300,54 +234,54 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "a4395ad9aa7226e1",
+  "active": "d62eabd7e2801ef9",
   "lastOpenFiles": [
-    "Reading Notes/Bookshelf.md",
-    "Reading Notes/Book/复盘+/复盘+.md",
-    "Reading Notes/Book/复盘+",
-    "Eassay/随想.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Coding/Go/Go 高级编程/语言基础.md",
+    "Coding/Go/Go 高级编程",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Cyber Security/高级网络安全研究/01 偷的技术.md",
+    "Coding/Go/go tools/Go embed.md",
+    "Cyber Security/HW/如何参加 HW.md",
+    "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/README.md",
+    "AI/LLM/LLM/大语言模型资料整理.md",
+    "Paper_Backup/Learning the quantum algorithm for state overlap.pdf",
+    "Cyber Security/社会工程学/社会工程学.md",
+    "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html",
+    "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/教程/24-PHP、Apache环境中部署sqli-labs.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/教程/21-Windows安装phpstudy.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/教程/11-Windows环境安装MySQL Server 步骤.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf",
+    "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
+    "Cyber Security/HW/mimikatz_trunk/README.md",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
+    "Coding/Go/Third-party library/fyne/fyne-new.md",
+    "Cyber Security/高级网络安全研究/期末准备内容.md",
+    "Cyber Security/高级网络安全研究/结课作业.md",
     "Day3/Day3.md",
+    "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
+    "Eassay/未命名.md",
+    "Cyber Security/未命名.md",
+    "Cyber Security/Red Team/RedTeam Workflow.md",
     "Coding/Python/爬虫/爬虫实战总结.md",
+    "Paper_Backup/PDFS index.md",
+    "Paper/量子力学/量子计算导论期末论文素材收集.md",
+    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+    "Reading Notes/Book/复盘+/复盘+.md",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606163729.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606162002.png",
-    "Coding/Python/爬虫/异步爬虫.md",
-    "Coding/Python/爬虫/逆向爬虫.md",
-    "Coding/Python/爬虫/爬虫基础总结.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Coding/Go/Third-party library/fyne/fyne-new.md",
-    "AI/LLM/LLM/大语言模型资料整理.md",
-    "Challenge/Habit Challenge/Summary.md",
-    "AI/LLM/LLM/LLM.md",
-    "Coding/Go/go tools/Go embed.md",
-    "Basic/配置文件/yaml.md",
-    "Coding/Go/Third-party library/fyne/fyne demo.md",
-    "Coding/Go/Third-party library/fyne/fyne-old.md",
-    "Cloud Native/yaml.md",
-    "Basic/配置文件/toml.md",
-    "Coding/Go/go tools/go generate.md",
-    "Basic/配置文件",
-    "Coding/Go/go tools",
-    "Coding/Go/Goo.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Templates/OB_Template/0A_Templates/0A_4_Course/0A_4_3_CourseNote_V2.md",
-    "Eassay/Youtube/David Bombal/2023 Path to Master Programmer (for free).md",
-    "Eassay/BiliBili/如何成为高能量的人.md",
-    "Eassay/Youtube/David Bombal",
-    "Challenge/Habit Challenge/Algorithm.md",
-    "Challenge/Habit Challenge/Snipaste/Recording 20230606075901.webm",
-    "Challenge/Habit Challenge/Snipaste/Recording 20230606075824.webm",
-    "Challenge/Habit Challenge/Snipaste",
-    "Cyber Security/Workflow",
-    "Challenge/Habit Challenge",
-    "Challenge",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne27.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/wxgzh8.jpg",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne1.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne2.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne3.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne4.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne5.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne6.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

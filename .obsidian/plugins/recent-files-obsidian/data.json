@@ -5,6 +5,26 @@
       "path": "Coding/Go/Go 高级编程/语言基础.md"
     },
     {
+      "basename": "爬虫基础总结",
+      "path": "Coding/Python/爬虫/爬虫基础总结.md"
+    },
+    {
+      "basename": "01 偷的技术",
+      "path": "Cyber Security/高级网络安全研究/01 偷的技术.md"
+    },
+    {
+      "basename": "protobuf",
+      "path": "Coding/Go/protobuf.md"
+    },
+    {
+      "basename": "Go Channel",
+      "path": "Coding/Go/深入理解go/Go Channel.md"
+    },
+    {
+      "basename": "colly",
+      "path": "Coding/Go/爬虫/colly.md"
+    },
+    {
       "basename": "Go Pro",
       "path": "Challenge/Habit Challenge/Go Pro.md"
     },
@@ -27,10 +47,6 @@
     {
       "basename": "Algorithm",
       "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "01 偷的技术",
-      "path": "Cyber Security/高级网络安全研究/01 偷的技术.md"
     },
     {
       "basename": "Go embed",
@@ -183,22 +199,6 @@
     {
       "basename": "异步爬虫",
       "path": "Coding/Python/爬虫/异步爬虫.md"
-    },
-    {
-      "basename": "逆向爬虫",
-      "path": "Coding/Python/爬虫/逆向爬虫.md"
-    },
-    {
-      "basename": "爬虫基础总结",
-      "path": "Coding/Python/爬虫/爬虫基础总结.md"
-    },
-    {
-      "basename": "LLM",
-      "path": "AI/LLM/LLM/LLM.md"
-    },
-    {
-      "basename": "yaml",
-      "path": "Basic/配置文件/yaml.md"
     }
   ],
   "omittedPaths": [],

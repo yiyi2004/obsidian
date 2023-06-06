@@ -19,19 +19,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d8a937036615b189",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/高级网络安全研究/01 偷的技术.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -236,15 +223,21 @@
   },
   "active": "d62eabd7e2801ef9",
   "lastOpenFiles": [
-    "Challenge/Habit Challenge/Go Pro.md",
+    "Coding/Go/Go 高级编程/Snipaste/Pasted image 20230606214652.png",
+    "Coding/Go/Go 高级编程/Snipaste",
+    "Coding/Python/爬虫/爬虫基础总结.md",
+    "Cyber Security/高级网络安全研究/01 偷的技术.md",
+    "Coding/Go/protobuf.md",
     "Coding/Go/Go 高级编程/语言基础.md",
+    "Coding/Go/深入理解go/Go Channel.md",
+    "Coding/Go/爬虫/colly.md",
+    "Challenge/Habit Challenge/Go Pro.md",
     "Coding/Go/Go 高级编程",
     "Challenge/Habit Challenge/Morning Reading.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/English Practice.md",
     "Challenge/Habit Challenge/Algorithm.md",
-    "Cyber Security/高级网络安全研究/01 偷的技术.md",
     "Coding/Go/go tools/Go embed.md",
     "Cyber Security/HW/如何参加 HW.md",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/README.md",
@@ -258,7 +251,6 @@
     "Cyber Security/HW/04-SQL注入漏洞/教程/11-Windows环境安装MySQL Server 步骤.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf",
     "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
     "Cyber Security/HW/mimikatz_trunk/README.md",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
@@ -271,11 +263,6 @@
     "Eassay/未命名.md",
     "Cyber Security/未命名.md",
     "Cyber Security/Red Team/RedTeam Workflow.md",
-    "Coding/Python/爬虫/爬虫实战总结.md",
-    "Paper_Backup/PDFS index.md",
-    "Paper/量子力学/量子计算导论期末论文素材收集.md",
-    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
-    "Reading Notes/Book/复盘+/复盘+.md",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606163729.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606162002.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne27.png",

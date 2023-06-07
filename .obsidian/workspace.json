@@ -4,6 +4,46 @@
     "type": "split",
     "children": [
       {
+        "id": "9f84aedb9f968bff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d8dd044e21f0861",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf"
+              }
+            }
+          },
+          {
+            "id": "4fde78da5911dd20",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf"
+              }
+            }
+          },
+          {
+            "id": "3195ce5752cd74ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
         "id": "544578fbda1a3916",
         "type": "tabs",
         "children": [
@@ -23,42 +63,11 @@
             }
           },
           {
-            "id": "18712e0ff17da6d2",
+            "id": "17541c294144c482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/数据结构/Lists.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aea5c8f2b875b62e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/随想.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d68cd2370342ab1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/Github/Github 资源搜集.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -240,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,46 +274,46 @@
   },
   "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Algorithm/数据结构/Lists.md",
     "Day3/Day3.md",
-    "Algorithm/数据结构/数据结构.md",
-    "Coding/Go/Go Pro/Go 语言基础.md",
-    "Algorithm/数据结构",
+    "Challenge/Habit Challenge/Summary.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf",
+    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf",
+    "Cyber Security/HW/03-信息收集/nmap 使用.md",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.6-CDN指纹识别-脑图笔记.pdf",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.5-CMS指纹识别-脑图笔记.pdf",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.4-端口服务信息-脑图笔记.pdf",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-课件.pdf",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-课件.pdf",
+    "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-PPT.pdf",
+    "Algorithm/数据结构/Lists.md",
     "Eassay/随想.md",
     "Algorithm/Github/Github 资源搜集.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/nmap.md",
+    "Cyber Security/HW/如何参加 HW.md",
+    "Algorithm/数据结构/数据结构.md",
+    "Coding/Go/Go Pro/Go 语言基础.md",
     "Algorithm/算法总结.md",
-    "Algorithm/Github",
     "Algorithm/Algorithm index.md",
     "Coding/Go/Third-party library/portaudio/portaudio.md",
     "Coding/Go/Third-party library/go audio/basic go audio.md",
     "Coding/C&CPP/C 开发环境搭建.md",
     "Basic/Unicode 与 utf-8.md",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Coding/Go/Third-party library/portaudio",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Coding/Go/Third-party library/go audio",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Website/serengildeepface_models Pre-trained models for deepface python library.md",
     "Website/1.1 Go语言创世纪 · Go语言高级编程 (1).md",
     "Website/1.1 Go语言创世纪 · Go语言高级编程.md",
-    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
-    "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md",
-    "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
-    "Website/5 Python Automation Scripts I Use Every Day.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Challenge/Habit Challenge/Morning Reading.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Coding/Go/Go Pro/Snipaste/Pasted image 20230606214652.png",
-    "Coding/Go/Go Pro/Snipaste",
-    "Coding/Go/Go Pro",
-    "Paper_Backup/Learning the quantum algorithm for state overlap.pdf",
-    "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html",
-    "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/教程/24-PHP、Apache环境中部署sqli-labs.pdf",
     "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606163729.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606162002.png",

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/go audio/basic go audio.md"
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
     },
     {
-      "basename": "gocv.Mat",
-      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "portaudio",
+      "path": "Coding/Go/Third-party library/portaudio/portaudio.md"
     },
     {
       "basename": "Go Pro",
       "path": "Challenge/Habit Challenge/Go Pro.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/go audio/basic go audio.md"
+    },
+    {
+      "basename": "gocv.Mat",
+      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
     },
     {
       "basename": "语言基础",
@@ -191,14 +199,6 @@
     {
       "basename": "RedTeam Workflow",
       "path": "Cyber Security/Red Team/RedTeam Workflow.md"
-    },
-    {
-      "basename": "爬虫实战总结",
-      "path": "Coding/Python/爬虫/爬虫实战总结.md"
-    },
-    {
-      "basename": "The recent trends in cyber security",
-      "path": "Paper_Backup/The recent trends in cyber security.htm"
     }
   ],
   "omittedPaths": [],

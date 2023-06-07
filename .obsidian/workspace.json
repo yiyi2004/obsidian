@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/Habit Challenge/Go Pro.md",
+                "file": "Coding/Go/Third-party library/portaudio/portaudio.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/C&CPP/C 开发环境搭建.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
+                "file": "Coding/C&CPP/C 开发环境搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/go audio/basic go audio.md"
+                "file": "Coding/C&CPP/C 开发环境搭建.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
+                "file": "Coding/C&CPP/C 开发环境搭建.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
+                "file": "Coding/C&CPP/C 开发环境搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,13 +261,16 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "e2dd0c06cab946a9",
+  "active": "b99c114e6b1f2fa9",
   "lastOpenFiles": [
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Coding/Go/Third-party library/go audio/basic go audio.md",
-    "Coding/Go/Third-party library/go audio",
-    "Challenge/Habit Challenge/Go Pro.md",
     "Day3/Day3.md",
+    "Coding/C&CPP/C 开发环境搭建.md",
+    "Coding/Go/Third-party library/portaudio/portaudio.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Coding/Go/Third-party library/portaudio",
+    "Coding/Go/Third-party library/go audio/basic go audio.md",
+    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+    "Coding/Go/Third-party library/go audio",
     "Coding/Go/Go 高级编程/语言基础.md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Website/serengildeepface_models Pre-trained models for deepface python library.md",
@@ -291,15 +294,12 @@
     "Coding/Go/爬虫/colly.md",
     "Coding/Go/Go 高级编程",
     "Coding/Go/go tools/Go embed.md",
-    "Cyber Security/HW/如何参加 HW.md",
-    "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/README.md",
     "Paper_Backup/Learning the quantum algorithm for state overlap.pdf",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html",
     "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/24-PHP、Apache环境中部署sqli-labs.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/21-Windows安装phpstudy.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/11-Windows环境安装MySQL Server 步骤.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
     "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",

@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fdd4b3076578d90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/C&CPP/C 开发环境搭建.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/C&CPP/C 开发环境搭建.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -196,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/C&CPP/C 开发环境搭建.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/C&CPP/C 开发环境搭建.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,10 +274,11 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "b99c114e6b1f2fa9",
+  "active": "fdd4b3076578d90a",
   "lastOpenFiles": [
-    "Day3/Day3.md",
+    "Eassay/随想.md",
     "Coding/C&CPP/C 开发环境搭建.md",
+    "Day3/Day3.md",
     "Coding/Go/Third-party library/portaudio/portaudio.md",
     "Challenge/Habit Challenge/Go Pro.md",
     "Coding/Go/Third-party library/portaudio",
@@ -293,7 +307,6 @@
     "Coding/Go/深入理解go/Go Channel.md",
     "Coding/Go/爬虫/colly.md",
     "Coding/Go/Go 高级编程",
-    "Coding/Go/go tools/Go embed.md",
     "Paper_Backup/Learning the quantum algorithm for state overlap.pdf",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html",
     "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf",

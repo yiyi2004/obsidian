@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "C 开发环境搭建",
-      "path": "Coding/C&CPP/C 开发环境搭建.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
     },
     {
       "basename": "portaudio",
@@ -195,10 +199,6 @@
     {
       "basename": "结课作业",
       "path": "Cyber Security/高级网络安全研究/结课作业.md"
-    },
-    {
-      "basename": "RedTeam Workflow",
-      "path": "Cyber Security/Red Team/RedTeam Workflow.md"
     }
   ],
   "omittedPaths": [],

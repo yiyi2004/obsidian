@@ -231,7 +231,9 @@
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [],
+  "foldersToIgnore": [
+    "Website"
+  ],
   "linterLocale": "system-default",
   "logLevel": 4,
   "lintCommands": [],

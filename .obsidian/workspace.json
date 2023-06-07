@@ -19,8 +19,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "45fd30f54ad2b496",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Go Pro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2dd0c06cab946a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -64,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go 高级编程/语言基础.md",
+                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go 高级编程/语言基础.md"
+                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
               }
             }
           },
@@ -156,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go 高级编程/语言基础.md",
+                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +208,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go 高级编程/语言基础.md",
+                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,23 +248,31 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d62eabd7e2801ef9",
+  "active": "e2dd0c06cab946a9",
   "lastOpenFiles": [
+    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
+    "Website/1.1 Go语言创世纪 · Go语言高级编程 (1).md",
+    "Website/1.1 Go语言创世纪 · Go语言高级编程.md",
+    "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md",
+    "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md",
+    "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
+    "Website/5 Python Automation Scripts I Use Every Day.md",
+    "Day3/Day3.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Coding/Go/Go 高级编程/语言基础.md",
     "Coding/Go/Go 高级编程/Snipaste/Pasted image 20230606214652.png",
     "Coding/Go/Go 高级编程/Snipaste",
     "Coding/Python/爬虫/爬虫基础总结.md",
     "Cyber Security/高级网络安全研究/01 偷的技术.md",
     "Coding/Go/protobuf.md",
-    "Coding/Go/Go 高级编程/语言基础.md",
     "Coding/Go/深入理解go/Go Channel.md",
     "Coding/Go/爬虫/colly.md",
-    "Challenge/Habit Challenge/Go Pro.md",
     "Coding/Go/Go 高级编程",
-    "Challenge/Habit Challenge/Morning Reading.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Challenge/Habit Challenge/Summary.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Challenge/Habit Challenge/Algorithm.md",
     "Coding/Go/go tools/Go embed.md",
     "Cyber Security/HW/如何参加 HW.md",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/README.md",
@@ -255,20 +290,12 @@
     "Cyber Security/HW/mimikatz_trunk/README.md",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
-    "Coding/Go/Third-party library/fyne/fyne-new.md",
-    "Cyber Security/高级网络安全研究/期末准备内容.md",
-    "Cyber Security/高级网络安全研究/结课作业.md",
-    "Day3/Day3.md",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
-    "Eassay/未命名.md",
-    "Cyber Security/未命名.md",
-    "Cyber Security/Red Team/RedTeam Workflow.md",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606163729.png",
     "Coding/Python/爬虫/Snipaste/Pasted image 20230606162002.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne27.png",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/wxgzh8.jpg",
     "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne1.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne2.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

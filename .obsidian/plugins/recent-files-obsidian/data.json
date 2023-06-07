@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "绝对路径和相对路径问题",
+      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+    },
+    {
+      "basename": "serengildeepface_models Pre-trained models for deepface python library",
+      "path": "Website/serengildeepface_models Pre-trained models for deepface python library.md"
+    },
+    {
+      "basename": "360 天御移动应用隐私合规检测平台 _移动安全_360政企安全",
+      "path": "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md"
+    },
+    {
+      "basename": "僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy",
+      "path": "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md"
+    },
+    {
+      "basename": "decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统",
+      "path": "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md"
+    },
+    {
+      "basename": "5 Python Automation Scripts I Use Every Day",
+      "path": "Website/5 Python Automation Scripts I Use Every Day.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "Morning Reading",
+      "path": "Challenge/Habit Challenge/Morning Reading.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
       "basename": "语言基础",
       "path": "Coding/Go/Go 高级编程/语言基础.md"
     },
@@ -23,30 +75,6 @@
     {
       "basename": "colly",
       "path": "Coding/Go/爬虫/colly.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "Morning Reading",
-      "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
     },
     {
       "basename": "Go embed",
@@ -153,10 +181,6 @@
       "path": "Cyber Security/高级网络安全研究/结课作业.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "RedTeam Workflow",
       "path": "Cyber Security/Red Team/RedTeam Workflow.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "A comprehensive review study of cyber-attacks and cyber security",
       "path": "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf"
-    },
-    {
-      "basename": "量子计算导论期末论文素材收集",
-      "path": "Paper/量子力学/量子计算导论期末论文素材收集.md"
-    },
-    {
-      "basename": "Learning the quantum algorithm for state overlap",
-      "path": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
-    },
-    {
-      "basename": "复盘+",
-      "path": "Reading Notes/Book/复盘+/复盘+.md"
-    },
-    {
-      "basename": "Bookshelf",
-      "path": "Reading Notes/Bookshelf.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "异步爬虫",
-      "path": "Coding/Python/爬虫/异步爬虫.md"
     }
   ],
   "omittedPaths": [],

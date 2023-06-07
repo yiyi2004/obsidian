@@ -119,3 +119,170 @@ func cvtImageToMat(img image.Image) (gocv.Mat, error) {
 ```
 
 - [gocv.Mat类型和image.Image互相转化_cv mat转image_Freestyle Coding的博客-CSDN博客](https://blog.csdn.net/m0_55708805/article/details/116150660)
+
+## gocv.Normalize
+
+在 GoCV 中，`gocv.Normalize` 函数用于将图像数据归一化为特定的范围。该函数的签名如下：
+
+```go
+func Normalize(src gocv.Mat, dst *gocv.Mat, alpha, beta float64, normType gocv.NormType, dtype gocv.MatType)
+```
+
+参数说明：
+
+- `src`: 输入的源图像，类型为 `gocv.Mat`。
+- `dst`: 输出的归一化后的图像，类型为 `*gocv.Mat`。如果为 `nil`，则会创建一个新的 `gocv.Mat` 来保存结果。
+- `alpha`: 归一化的缩放因子。
+- `beta`: 归一化的偏移量。
+- `normType`: 归一化的类型，可以是 `gocv.NormInf`、`gocv.NormL1`、`gocv.NormL2`、`gocv.NormMinMax` 中的一个。
+- `dtype`: 输出的归一化图像的数据类型，一般保持与源图像相同。
+
+下面是一个示例代码，展示如何使用 `gocv.Normalize` 函数对图像进行归一化：
+
+```go
+package main
+
+import (
+	"gocv.io/x/gocv"
+)
+
+func main() {
+	// 读取图像文件
+	img := gocv.IMRead("image.jpg", gocv.IMReadColor)
+	if img.Empty() {
+		panic("无法读取图像文件")
+	}
+
+	// 转换为灰度图像
+	gray := gocv.NewMat()
+	defer gray.Close()
+	gocv.CvtColor(img, &gray, gocv.ColorBGRToGray)
+
+	// 归一化图像
+	normalized := gocv.NewMat()
+	defer normalized.Close()
+	gocv.Normalize(gray, &normalized, 0, 255, gocv.NormMinMax, gocv.MatTypeCV8U)
+
+	// 显示归一化后的图像
+	window := gocv.NewWindow("Normalized Image")
+	defer window.Close()
+	window.IMShow(normalized)
+	window.WaitKey(0)
+}
+```
+
+在上述代码中，我们首先读取一个彩色图像，并将其转换为灰度图像。然后，我们使用 `gocv.Normalize` 函数对灰度图像进行归一化，将像素值范围从 0 到 255 映射到 0 到 255 的整数范围。最后，我们创建一个窗口并显示归一化后的图像。
+
+请确保将代码中的 `"image.jpg"` 替换为实际的图像文件路径和文件名。
+
+## gocv.BlobFromImage
+
+在 GoCV 中，`gocv.BlobFromImage` 函数用于从图像创建一个 4D blob。这个函数通常用于深度学习中的图像预处理，例如输入神经网络之前的图像转换。该函数的签名如下：
+
+```go
+func BlobFromImage(src gocv.Mat, scale float64, size image.Point, mean gocv.Scalar, swapRB bool, crop bool) gocv.Mat
+```
+
+参数说明：
+
+- `src`: 输入的源图像，类型为 `gocv.Mat`。
+- `scale`: 缩放因子，将图像像素值缩放到给定范围。
+- `size`: 输出 blob 的大小，作为图像尺寸的目标大小。
+- `mean`: 图像的均值，用于像素值的偏移。
+- `swapRB`: 是否交换通道顺序。
+- `crop`: 是否在中心裁剪图像。
+
+下面是一个示例代码，展示如何使用 `gocv.BlobFromImage` 函数创建一个 4D blob：
+
+```go
+package main
+
+import (
+	"fmt"
+	"gocv.io/x/gocv"
+	"image"
+)
+
+func main() {
+	// 读取图像文件
+	img := gocv.IMRead("image.jpg", gocv.IMReadColor)
+	if img.Empty() {
+		panic("无法读取图像文件")
+	}
+
+	// 创建blob
+	scale := 1.0 / 255.0
+	size := image.Point{300, 300}
+	mean := gocv.NewScalar(0, 0, 0, 0)
+	swapRB := true
+	crop := false
+	blob := gocv.BlobFromImage(img, scale, size, mean, swapRB, crop)
+
+	// 输出blob的形状
+	shape := blob.Size3D()
+	fmt.Println("Blob Shape:", shape)
+
+	// 释放blob内存
+	blob.Close()
+}
+```
+
+在上述代码中，我们首先读取一个彩色图像。然后，我们使用 `gocv.BlobFromImage` 函数创建一个 4D blob，其中我们指定了缩放因子、目标大小、均值、通道交换和裁剪选项。最后，我们输出了 blob 的形状。
+
+请确保将代码中的 `"image.jpg"` 替换为实际的图像文件路径和文件名。
+
+在 GoCV 中，`gocv.BlobFromImage` 函数用于从图像创建一个 4D blob。这个函数通常用于深度学习中的图像预处理，例如输入神经网络之前的图像转换。该函数的签名如下：
+
+```go
+func BlobFromImage(src gocv.Mat, scale float64, size image.Point, mean gocv.Scalar, swapRB bool, crop bool) gocv.Mat
+```
+
+参数说明：
+
+- `src`: 输入的源图像，类型为 `gocv.Mat`。
+- `scale`: 缩放因子，将图像像素值缩放到给定范围。
+- `size`: 输出 blob 的大小，作为图像尺寸的目标大小。
+- `mean`: 图像的均值，用于像素值的偏移。
+- `swapRB`: 是否交换通道顺序。
+- `crop`: 是否在中心裁剪图像。
+
+下面是一个示例代码，展示如何使用 `gocv.BlobFromImage` 函数创建一个 4D blob：
+
+```go
+package main
+
+import (
+	"fmt"
+	"gocv.io/x/gocv"
+	"image"
+)
+
+func main() {
+	// 读取图像文件
+	img := gocv.IMRead("image.jpg", gocv.IMReadColor)
+	if img.Empty() {
+		panic("无法读取图像文件")
+	}
+
+	// 创建blob
+	scale := 1.0 / 255.0
+	size := image.Point{300, 300}
+	mean := gocv.NewScalar(0, 0, 0, 0)
+	swapRB := true
+	crop := false
+	blob := gocv.BlobFromImage(img, scale, size, mean, swapRB, crop)
+
+	// 输出blob的形状
+	shape := blob.Size3D()
+	fmt.Println("Blob Shape:", shape)
+
+	// 释放blob内存
+	blob.Close()
+}
+```
+
+在上述代码中，我们首先读取一个彩色图像。然后，我们使用 `gocv.BlobFromImage` 函数创建一个 4D blob，其中我们指定了缩放因子、目标大小、均值、通道交换和裁剪选项。最后，我们输出了 blob 的形状。
+
+请确保将代码中的 `"image.jpg"` 替换为实际的图像文件路径和文件名。
+
+**其中 mean 是偏移量的意思**，我就说一个包中的图片的概念应该是对的少的。

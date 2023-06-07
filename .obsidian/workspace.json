@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b99c114e6b1f2fa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+                "file": "Coding/Go/Third-party library/go audio/basic go audio.md"
               }
             }
           },
@@ -183,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Coding/Go/Third-party library/go audio/basic go audio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,6 +263,13 @@
   },
   "active": "e2dd0c06cab946a9",
   "lastOpenFiles": [
+    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+    "Coding/Go/Third-party library/go audio/basic go audio.md",
+    "Coding/Go/Third-party library/go audio",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Day3/Day3.md",
+    "Coding/Go/Go 高级编程/语言基础.md",
+    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Website/serengildeepface_models Pre-trained models for deepface python library.md",
     "Website/1.1 Go语言创世纪 · Go语言高级编程 (1).md",
     "Website/1.1 Go语言创世纪 · Go语言高级编程.md",
@@ -257,14 +277,11 @@
     "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md",
     "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md",
     "Website/5 Python Automation Scripts I Use Every Day.md",
-    "Day3/Day3.md",
-    "Challenge/Habit Challenge/Go Pro.md",
     "Challenge/Habit Challenge/English Practice.md",
     "Challenge/Habit Challenge/Morning Reading.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/Algorithm.md",
-    "Coding/Go/Go 高级编程/语言基础.md",
     "Coding/Go/Go 高级编程/Snipaste/Pasted image 20230606214652.png",
     "Coding/Go/Go 高级编程/Snipaste",
     "Coding/Python/爬虫/爬虫基础总结.md",
@@ -276,18 +293,14 @@
     "Coding/Go/go tools/Go embed.md",
     "Cyber Security/HW/如何参加 HW.md",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/README.md",
-    "AI/LLM/LLM/大语言模型资料整理.md",
     "Paper_Backup/Learning the quantum algorithm for state overlap.pdf",
-    "Cyber Security/社会工程学/社会工程学.md",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html",
     "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/24-PHP、Apache环境中部署sqli-labs.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/21-Windows安装phpstudy.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/11-Windows环境安装MySQL Server 步骤.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf",
     "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
-    "Cyber Security/HW/mimikatz_trunk/README.md",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
     "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",

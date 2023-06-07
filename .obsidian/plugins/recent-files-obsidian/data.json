@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/go audio/basic go audio.md"
+    },
+    {
+      "basename": "gocv.Mat",
+      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "语言基础",
+      "path": "Coding/Go/Go 高级编程/语言基础.md"
+    },
+    {
       "basename": "绝对路径和相对路径问题",
       "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
     },
@@ -25,14 +45,6 @@
       "path": "Website/5 Python Automation Scripts I Use Every Day.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
       "basename": "English Practice",
       "path": "Challenge/Habit Challenge/English Practice.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "Algorithm",
       "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "语言基础",
-      "path": "Coding/Go/Go 高级编程/语言基础.md"
     },
     {
       "basename": "爬虫基础总结",
@@ -191,14 +199,6 @@
     {
       "basename": "The recent trends in cyber security",
       "path": "Paper_Backup/The recent trends in cyber security.htm"
-    },
-    {
-      "basename": "PDFS index",
-      "path": "Paper_Backup/PDFS index.md"
-    },
-    {
-      "basename": "A comprehensive review study of cyber-attacks and cyber security",
-      "path": "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf"
     }
   ],
   "omittedPaths": [],

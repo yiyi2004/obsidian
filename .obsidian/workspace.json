@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "fdd4b3076578d90a",
+            "id": "18712e0ff17da6d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 语言基础.md",
+                "file": "Algorithm/数据结构/Lists.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Github/Github 资源搜集.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Github/Github 资源搜集.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -198,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Github/Github 资源搜集.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Github/Github 资源搜集.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,15 +262,18 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "d68cd2370342ab1e",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Algorithm/算法总结.md",
+    "Algorithm/数据结构/Lists.md",
+    "Day3/Day3.md",
+    "Algorithm/数据结构/数据结构.md",
+    "Coding/Go/Go Pro/Go 语言基础.md",
+    "Algorithm/数据结构",
+    "Eassay/随想.md",
     "Algorithm/Github/Github 资源搜集.md",
+    "Algorithm/算法总结.md",
     "Algorithm/Github",
     "Algorithm/Algorithm index.md",
-    "Day3/Day3.md",
-    "Coding/Go/Go Pro/Go 语言基础.md",
-    "Eassay/随想.md",
     "Coding/Go/Third-party library/portaudio/portaudio.md",
     "Coding/Go/Third-party library/go audio/basic go audio.md",
     "Coding/C&CPP/C 开发环境搭建.md",
@@ -292,16 +294,13 @@
     "Challenge/Habit Challenge/Morning Reading.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Summary.md",
-    "Challenge/Habit Challenge/Algorithm.md",
     "Coding/Go/Go Pro/Snipaste/Pasted image 20230606214652.png",
     "Coding/Go/Go Pro/Snipaste",
-    "Coding/Python/爬虫/爬虫基础总结.md",
     "Coding/Go/Go Pro",
     "Paper_Backup/Learning the quantum algorithm for state overlap.pdf",
     "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html",
     "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/教程/24-PHP、Apache环境中部署sqli-labs.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/教程/21-Windows安装phpstudy.pdf",
     "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",

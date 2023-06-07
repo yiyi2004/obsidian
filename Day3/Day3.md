@@ -99,7 +99,7 @@
 下午的任务是
 
 - [x] Go Pro 进行晨读叭 ✅ 2023-06-07
-- [ ] Algorithm
+- [x] Algorithm ✅ 2023-06-07
 - [x] HW 内容 ✅ 2023-06-07
 
 晚上
@@ -107,7 +107,7 @@
 - [ ] Running
 - [ ] Summary
 - [ ] Hacker
-- [ ] Algorithm
+- [x] Algorithm ✅ 2023-06-07
 
 下一次是接入模块的开发
 

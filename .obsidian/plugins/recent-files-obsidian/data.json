@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Algorithm/数据结构/Lists.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "Algorithm/数据结构/数据结构.md"
+    },
+    {
+      "basename": "Go 语言基础",
+      "path": "Coding/Go/Go Pro/Go 语言基础.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
       "basename": "Github 资源搜集",
       "path": "Algorithm/Github/Github 资源搜集.md"
     },
@@ -11,18 +31,6 @@
     {
       "basename": "Algorithm index",
       "path": "Algorithm/Algorithm index.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "portaudio",
@@ -191,14 +199,6 @@
     {
       "basename": "HW介绍",
       "path": "Cyber Security/HW/01-HW介绍/HW介绍.pdf"
-    },
-    {
-      "basename": "社会工程学(三)",
-      "path": "Cyber Security/社会工程学/社会工程学(三).pdf"
-    },
-    {
-      "basename": "社会工程学(四)",
-      "path": "Cyber Security/社会工程学/社会工程学(四).pdf"
     }
   ],
   "omittedPaths": [],

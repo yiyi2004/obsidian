@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "课程目录",
+      "path": "Cyber Security/HW/课程目录.md"
+    },
+    {
+      "basename": "HW 介绍",
+      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "protobuf",
       "path": "Coding/Go/protobuf.md"
-    },
-    {
-      "basename": "Micro Service with Go!",
-      "path": "Coding/Go/Micro Service with Go!.md"
-    },
-    {
-      "basename": "GORM(Object-Relationl Mapping)",
-      "path": "Coding/Go/GORM(Object-Relationl Mapping).md"
     }
   ],
   "omittedPaths": [],

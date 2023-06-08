@@ -62,8 +62,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0360f233a9f2a825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/HW/课程目录.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/HW/课程目录.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cyber Security/HW/课程目录.md"
               }
             }
           },
@@ -199,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/HW/课程目录.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/HW/课程目录.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,8 +281,14 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "0360f233a9f2a825",
   "lastOpenFiles": [
+    "Cyber Security/HW/面试题/2022护网面试题总结 (1).pdf",
+    "Cyber Security/HW/面试题/京东护网面试题总结+DD安全工程师笔试问题 (1).pdf",
+    "Cyber Security/HW/面试题",
+    "Cyber Security/HW/新建文件夹",
+    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+    "Day3/Day3.md",
     "Eassay/随想.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
     "Coding/Go/Third-party library/minidudio/miniaudio.md",
@@ -292,9 +312,6 @@
     "Cyber Security/调研/Deeplocker.md",
     "Cyber Security/病毒样本/蠕虫病毒原理.md",
     "Cyber Security/病毒样本/病毒的分类.md",
-    "Cyber Security/暗月渗透测试/行业术语扫盲.md",
-    "Cyber Security/暗月渗透测试/信息搜集.md",
-    "Coding/C&CPP/C 开发环境搭建.md",
     "Coding/Java/Maven&MyBatis.pdf",
     "Cloud Native/Docker/docker-compose/第二天.pdf",
     "Cloud Native/Docker/docker-compose/第一天.pdf",
@@ -302,11 +319,8 @@
     "Basic/操作系统/Windows",
     "Coding/Go/Third-party library/minidudio",
     "Coding/Go/buildin",
-    "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf",
-    "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/HTTP-课件.pdf",
     "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608084237.png",
     "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608083329.png",
-    "Cyber Security/HW/01-HW介绍/Snipaste",
     "Cyber Security/HW/Snipaste/Pasted image 20230608083006.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082959.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082946.png",

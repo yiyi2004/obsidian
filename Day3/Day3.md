@@ -133,9 +133,12 @@ HVV 的内容 —— 尝试参与到护网里面，因此你要**提前完成你
 - [x] 上午开会 ✅ 2023-06-08
 - [ ] deeplocker
 	- [ ] 提取 deeplocker 公共的部分
-	- [ ] 尝试接入音频，但是需要 build from source
+	- [ ] 尝试接入音频，但是需要，读取音频是可以的
+	- [ ] 下一步是角度文档，然后将内容输入到 tensorflow 中
 	- [ ] 学习 redis，尝试将数据 (统一) 存储在 redis 里面，因为有同步问题
 - [ ] 演示场景
+
+- [go-tensorflow-audio-example/app at main · scootpl/go-tensorflow-audio-example · GitHub](https://github.com/scootpl/go-tensorflow-audio-example/tree/main/app)
 
 我的评价是不如通过 tags 去匹配。
 

@@ -56,15 +56,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/操作系统/alsa.md",
+                "file": "Coding/Go/Third-party library/minidudio/miniaudio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e98618dd8e58ca04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/操作系统/Windows/WASAPI.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/操作系统/alsa.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/操作系统/alsa.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -200,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/操作系统/alsa.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic/操作系统/alsa.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,12 +282,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "4dc9ae9fd25b6179",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Day3/Day3.md",
-    "Basic/操作系统/alsa.md",
     "Eassay/随想.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
+    "Day3/Day3.md",
+    "Basic/操作系统/Windows/WASAPI.md",
+    "Basic/计算机网络/Proxy/Basic Proxy.md",
+    "Basic/操作系统/Windows",
+    "Coding/Go/Third-party library/minidudio/miniaudio.md",
+    "Coding/Go/Third-party library/grpc/gRPC.md",
+    "Coding/Go/Third-party library/minidudio",
+    "Basic/操作系统/alsa.md",
     "Coding/Go/go context.md",
     "Coding/Go/buildin/go copy.md",
     "Coding/Go/buildin",
@@ -311,13 +329,7 @@
     "Weekly Note/2023-W23.md",
     "Daily/2023-06-04.md",
     "Daily/2023-06-08.md",
-    "Challenge/Habit Challenge/Summary.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Challenge/Habit Challenge/Morning Reading.md",
-    "Challenge/Habit Challenge/English Practice.md",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf",
-    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

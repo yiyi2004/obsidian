@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "alsa",
-      "path": "Basic/操作系统/alsa.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -15,6 +11,26 @@
     {
       "basename": "Go 语言基础",
       "path": "Coding/Go/Go Pro/Go 语言基础.md"
+    },
+    {
+      "basename": "WASAPI",
+      "path": "Basic/操作系统/Windows/WASAPI.md"
+    },
+    {
+      "basename": "Basic Proxy",
+      "path": "Basic/计算机网络/Proxy/Basic Proxy.md"
+    },
+    {
+      "basename": "miniaudio",
+      "path": "Coding/Go/Third-party library/minidudio/miniaudio.md"
+    },
+    {
+      "basename": "gRPC",
+      "path": "Coding/Go/Third-party library/grpc/gRPC.md"
+    },
+    {
+      "basename": "alsa",
+      "path": "Basic/操作系统/alsa.md"
     },
     {
       "basename": "go context",
@@ -183,22 +199,6 @@
     {
       "basename": "2020_Book_CyberSecurity",
       "path": "Cyber Security/HW/03-信息收集/附赠资料/2020_Book_CyberSecurity.pdf"
-    },
-    {
-      "basename": "BurpSuite使用-课件",
-      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/2.2-Burp/BurpSuite使用-课件.pdf"
-    },
-    {
-      "basename": "32-Win10配置JDK11，启动BP",
-      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/2.2-Burp/32-Win10配置JDK11，启动BP.pdf"
-    },
-    {
-      "basename": "31-Win10配置JDK8，启动BP",
-      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/2.2-Burp/31-Win10配置JDK8，启动BP.pdf"
-    },
-    {
-      "basename": "HW介绍",
-      "path": "Cyber Security/HW/01-HW介绍/HW介绍.pdf"
     }
   ],
   "omittedPaths": [],

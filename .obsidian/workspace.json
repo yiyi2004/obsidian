@@ -62,19 +62,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "e98618dd8e58ca04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/操作系统/Windows/WASAPI.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -251,13 +238,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -286,28 +271,42 @@
   "lastOpenFiles": [
     "Eassay/随想.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
-    "Day3/Day3.md",
-    "Basic/操作系统/Windows/WASAPI.md",
-    "Basic/计算机网络/Proxy/Basic Proxy.md",
-    "Basic/操作系统/Windows",
     "Coding/Go/Third-party library/minidudio/miniaudio.md",
-    "Coding/Go/Third-party library/grpc/gRPC.md",
+    "Basic/操作系统/Windows/WASAPI.md",
+    "Cyber Security/Rootkit/Rootkit.md",
+    "Cyber Security/未命名.md",
+    "Cyber Security/Social Engineering/Social Engineering.md",
+    "Cyber Security/免杀/如何给正常程序附加壳(未知源码).md",
+    "Cyber Security/免杀/加壳脱壳技术.md",
+    "Cyber Security/免杀/免杀系列文章/2 远控免杀专题文章-msfvenom隐藏的参数.md",
+    "Cyber Security/免杀/免杀系列文章/1 远控免杀专题文章-基础篇.md",
+    "Cyber Security/免杀/GO 免杀/2. 反沙盒检测.md",
+    "Cyber Security/免杀/GO 免杀/3. Go 免杀技巧.md",
+    "Cyber Security/免杀/GO 免杀/1. Go 加载 shellcode 免杀(三种方式).md",
+    "Cyber Security/混沌密码混沌理论/智能优化算法.md",
+    "Cyber Security/汇编和逆向/Windows 逆向/汇编.md",
+    "Cyber Security/汇编和逆向/汇编/汇编基础知识.md",
+    "Cyber Security/高级网络安全研究/结课作业.md",
+    "Cyber Security/调研/Sandbox.md",
+    "Cyber Security/调研/IDS.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Cyber Security/病毒样本/蠕虫病毒原理.md",
+    "Cyber Security/病毒样本/病毒的分类.md",
+    "Cyber Security/暗月渗透测试/行业术语扫盲.md",
+    "Cyber Security/暗月渗透测试/信息搜集.md",
+    "Coding/C&CPP/C 开发环境搭建.md",
+    "Coding/Java/Maven&MyBatis.pdf",
+    "Cloud Native/Docker/docker-compose/第二天.pdf",
+    "Cloud Native/Docker/docker-compose/第一天.pdf",
+    "Cloud Native/DevOps/26-Docker安装nginx以及部署.pdf",
+    "Basic/操作系统/Windows",
     "Coding/Go/Third-party library/minidudio",
-    "Basic/操作系统/alsa.md",
-    "Coding/Go/go context.md",
-    "Coding/Go/buildin/go copy.md",
     "Coding/Go/buildin",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Cyber Security/HW/02-HTTP&Burp课程资料/Burp.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Burp Suite.md",
-    "Cyber Security/HW/02-HTTP&Burp课程资料/HTTP.md",
     "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf",
     "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/HTTP-课件.pdf",
-    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
     "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608084237.png",
     "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608083329.png",
     "Cyber Security/HW/01-HW介绍/Snipaste",
-    "Cyber Security/HW/课程目录.md",
     "Cyber Security/HW/Snipaste/Pasted image 20230608083006.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082959.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082946.png",
@@ -316,20 +315,6 @@
     "Cyber Security/HW/Snipaste/Pasted image 20230608082920.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082911.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082634.png",
-    "Cyber Security/HW/Snipaste",
-    "Cyber Security/HW/如何参加 HW.md",
-    "Cyber Security/调研/Deeplocker.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
-    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf",
-    "Review/Deeplocker.md",
-    "Review",
-    "Weekly Note/2023-W23.md",
-    "Daily/2023-06-04.md",
-    "Daily/2023-06-08.md",
-    "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

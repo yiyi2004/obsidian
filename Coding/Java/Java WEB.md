@@ -1,34 +1,41 @@
-# Navicat
+## Navicat
 
 ![[Snipaste/Pasted image 20220929234717.png]]
-- 数据库的技术暂时不是痕迹s
 
-# Maven
-![[Snipaste/Pasted image 20220915214332.png]]
+- 数据库的技术暂时不是痕迹 s
+
+## Maven
+
+![[Snipaste/Pasted image 20220915214332.png]]  
 ![[Snipaste/Pasted image 20220915214456.png]]
+
 - 标准化构建流程
 
 ![[Snipaste/Pasted image 20220915214742.png]]
 
-![[Snipaste/Pasted image 20220915214923.png]]
+![[Snipaste/Pasted image 20220915214923.png]]  
 ![[Snipaste/Pasted image 20220915215511.png]]
+
 - 本地仓库
 - 中央仓库
-- 远程仓库：私服
+- 远程仓库：私服  
 ![[Snipaste/Pasted image 20220915215755.png]]
 
-## Maven 简介
+### Maven 简介
+
 ![[Snipaste/Pasted image 20220929235440.png]]
 
 - 依赖查询：mysql maven
 - alt + isnert ---> ctrl + i
 
-# Mybatis
+## Mybatis
 
-## Mapper 代理开发
+### Mapper 代理开发
+
 - [(82条消息) IntelliJ IDEA 设置代码提示或自动补全的快捷键 (附IntelliJ IDEA常用快捷键)_a13145213710的博客-CSDN博客](https://blog.csdn.net/a13145213710/article/details/101599677?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166722808016782429721272%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166722808016782429721272&biz_id=0&spm=1018.2226.3001.4187)
 
 ![[Snipaste/Pasted image 20221103111217.png]]
+
 - 上面还存在硬编码的问题，UserMapper 是 interface，里面的方法对应于配置文件中的 id。
 - 不依赖于字面值，更安全，代码补全。
 - 最为常见的开发方法。
@@ -37,13 +44,12 @@
 
 - 直接拖进去，但是不推荐，配置文件放在 Resources 中
 - package 会分层，Directory 要注意。
-
-- 目录结构。
+- 目录结构。  
 ![[Snipaste/Pasted image 20221103125249.png]]
 
 - 创建 Directory 要用 / 做分隔符  
 
-## 核心配置文件
+### 核心配置文件
 
 ```xml
 <?xml version="1.0" encoding="UTF-8" ?>  
@@ -78,34 +84,37 @@
 - 数据源的信息也会被 Spring 接管
 
 ![[Snipaste/Pasted image 20221103131556.png]]
+
 - resultType 自定义别名
 
 ![[Snipaste/Pasted image 20221103131709.png]]
+
 - 通过包扫描的方式，不区分大小写。
 
 ![[Snipaste/Pasted image 20221103131753.png]]
+
 - 用别名的方式简化配置，
 - 默认的别名
 - 配置各个标签的时候要注意配置的前后关系。
 
-## 配置文件完成增删改查
+### 配置文件完成增删改查
+
 - 配置文件 CRUD
 - 注解 CRUD
 - 动态 SQL
 
 ![[Snipaste/Pasted image 20221105111222.png]]
-- 业务基本模块
 
+- 业务基本模块
 - 准备环境
 	- 数据库表 tb_brand
 	- 实体类 Brand
 	- 测试用例
 	- 安装 MyBatisX 插件
-
 - 红色头绳、蓝色头绳，自动补全。
 - 自动补全、自动生成 sql id 等等
-
 - 使用别名解决映射错误问题，但其实是从 mysql 角度解决的。
+
 ```xml
 <select id="selectAll" resultType="brand">
     select
@@ -142,7 +151,6 @@
 
 - #{} 不存在 SQL 注入问题
 - ${} 会拼接 SQL 语句，从而导致 SQL 注入问题。
-
 - 特殊字段处理
 
 ![[Snipaste/Pasted image 20221105220803.png]]
@@ -150,6 +158,7 @@
 - 编写多参数接口的方法
 
 ![[Snipaste/Pasted image 20221105221105.png]]
+
 - @Param(“status”)
 - 封装到类里面
 - Map ---> #{}
@@ -163,6 +172,7 @@
     and brand_name like #{brandName}
 </select>
 ```
+
 - 注意是 resultMap 不是 resultType
 - 因为是多个参数
 
@@ -267,7 +277,6 @@ public void testSelectByCondition() throws IOException {
 
 ![[Snipaste/Pasted image 20221108090645.png]]
 
-
 ![[Snipaste/Pasted image 20221108090952.png]]
 
 - 优化 open, close
@@ -275,20 +284,23 @@ public void testSelectByCondition() throws IOException {
 - item
 - separator
 
-## Mybatis 参数传递
+### Mybatis 参数传递
 
 ![[Snipaste/Pasted image 20221108091132.png]]
+
 - 参数传递
-- Collection is  HashSet
+- Collection is HashSet
 - 可以通过断点调试的方式进入函数，看源码不错的方式。
 
-## 注解实现 CURD
-* 查询 ：@Select
-* 添加 ：@Insert
-* 修改 ：@Update
-* 删除 ：@Delete
+### 注解实现 CURD
 
-# Web 核心
+- 查询 ：@Select
+- 添加 ：@Insert
+- 修改 ：@Update
+- 删除 ：@Delete
+
+## Web 核心
+
 - HTTP Tomcat Servlet
 - Request Response
 - JSP Cookie Session
@@ -296,10 +308,12 @@ public void testSelectByCondition() throws IOException {
 - Ajax Vue ElementUI
 - 综合案例
 
-## Tomcat
+### Tomcat
+
 - 安装 tomcat
 
-### 自定义 Server
+#### 自定义 Server
+
 - 你这样的创建方式也太费劲了，不如用别人封装好的。
 
 ```java
@@ -396,36 +410,39 @@ class Handler extends Thread {
     }
 }
 ```
+
 - 自定义 Server，这段代码没有什么难点。其实人的大脑和计算机有很大的相似性。
 - 修改端口，借助 IDEA 打包成 war 包，tomcat 会自动解压缩。
 
-### Web 项目结构
-![[Snipaste/Pasted image 20221108124029.png]]
+#### Web 项目结构
+
+![[Snipaste/Pasted image 20221108124029.png]]  
 ![[Snipaste/Pasted image 20221108124130.png]]
+
   
-- 开发项目通过执行Maven打包命令==package==,可以获取到部署的Web项目目录
-- 编译后的Java字节码文件和resources的资源文件，会被放到WEB-INF下的classes目录下
-- pom.xml中依赖坐标对应的jar包，会被放入WEB-INF下的lib目录下
+- 开发项目通过执行 Maven 打包命令==package==,可以获取到部署的 Web 项目目录
+- 编译后的 Java 字节码文件和 resources 的资源文件，会被放到 WEB-INF 下的 classes 目录下
+- pom.xml 中依赖坐标对应的 jar 包，会被放入 WEB-INF 下的 lib 目录下
 
 上面部分还需要看一下源代码才能理解。
 
 - 骨架创建 maven
 - archifect id 是什么
 - ctrl + shift + s ---> create from 骨架
-
-- 使用骨架
+- 使用骨架  
 ![[Snipaste/Pasted image 20221109101005.png]]
-- 不适用骨架
+- 不适用骨架  
 ![[Snipaste/Pasted image 20221109101128.png]]
 
-### 配置 tomcat
+#### 配置 Tomcat
+
 - 项目右上角 add configuration
 
 ![[Snipaste/Pasted image 20221109101738.png]]
 
 ![[Snipaste/Pasted image 20221109101750.png]]
 
-- maven  插件使用 tomcat
+- maven 插件使用 tomcat
 
 ```xml
 <build>
@@ -449,9 +466,11 @@ class Handler extends Thread {
     </plugins>
 </build>
 ```
+
 - 插件只支持 tomcat7
 
-## Servlet
+### Servlet
+
 > 动态 Web 资源开发技术，Servlet 是 JavaWeb 最为核心的内容。
 
 - 简介
@@ -463,8 +482,10 @@ class Handler extends Thread {
 - urlPattern 配置
 - XML 配置
 
-### 快速入门
-1.  创建Web项目`web-demo`，导入Servlet依赖坐标
+#### 快速入门
+
+1. 创建 Web 项目 `web-demo`，导入 Servlet 依赖坐标
+
 ```xml
 <dependency>
     <groupId>javax.servlet</groupId>
@@ -479,15 +500,16 @@ class Handler extends Thread {
 </dependency>
 ```
 
+### Request & Response
 
-## Request & Response
-### Request
+#### Request
 
-### Response
+#### Response
 
-## MVC 模式和三层架构
+### MVC 模式和三层架构
 
-## Cookie 和 Session
+### Cookie 和 Session
+
 ![[Snipaste/Pasted image 20221109110806.png]]
 
 - 购物车 cookie

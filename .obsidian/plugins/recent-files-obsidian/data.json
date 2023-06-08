@@ -13,192 +13,192 @@
       "path": "Coding/Go/Go Pro/Go 语言基础.md"
     },
     {
-      "basename": "WASAPI",
-      "path": "Basic/操作系统/Windows/WASAPI.md"
-    },
-    {
-      "basename": "Basic Proxy",
-      "path": "Basic/计算机网络/Proxy/Basic Proxy.md"
-    },
-    {
       "basename": "miniaudio",
       "path": "Coding/Go/Third-party library/minidudio/miniaudio.md"
     },
     {
-      "basename": "gRPC",
-      "path": "Coding/Go/Third-party library/grpc/gRPC.md"
+      "basename": "WASAPI",
+      "path": "Basic/操作系统/Windows/WASAPI.md"
     },
     {
-      "basename": "alsa",
-      "path": "Basic/操作系统/alsa.md"
+      "basename": "Rootkit",
+      "path": "Cyber Security/Rootkit/Rootkit.md"
     },
     {
-      "basename": "go context",
-      "path": "Coding/Go/go context.md"
+      "basename": "Social Engineering",
+      "path": "Cyber Security/Social Engineering/Social Engineering.md"
     },
     {
-      "basename": "go copy",
-      "path": "Coding/Go/buildin/go copy.md"
+      "basename": "如何给正常程序附加壳(未知源码)",
+      "path": "Cyber Security/免杀/如何给正常程序附加壳(未知源码).md"
     },
     {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
+      "basename": "加壳脱壳技术",
+      "path": "Cyber Security/免杀/加壳脱壳技术.md"
     },
     {
-      "basename": "Burp",
-      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/Burp.md"
+      "basename": "2 远控免杀专题文章-msfvenom隐藏的参数",
+      "path": "Cyber Security/免杀/免杀系列文章/2 远控免杀专题文章-msfvenom隐藏的参数.md"
     },
     {
-      "basename": "Burp Suite",
-      "path": "Cyber Security/Red Team/基础设施构建/Hacker Tools/Burp Suite.md"
+      "basename": "1 远控免杀专题文章-基础篇",
+      "path": "Cyber Security/免杀/免杀系列文章/1 远控免杀专题文章-基础篇.md"
     },
     {
-      "basename": "HTTP",
-      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/HTTP.md"
+      "basename": "2. 反沙盒检测",
+      "path": "Cyber Security/免杀/GO 免杀/2. 反沙盒检测.md"
     },
     {
-      "basename": "Nmap使用技巧总结",
-      "path": "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf"
+      "basename": "3. Go 免杀技巧",
+      "path": "Cyber Security/免杀/GO 免杀/3. Go 免杀技巧.md"
     },
     {
-      "basename": "HTTP-课件",
-      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/HTTP-课件.pdf"
+      "basename": "1. Go 加载 shellcode 免杀(三种方式)",
+      "path": "Cyber Security/免杀/GO 免杀/1. Go 加载 shellcode 免杀(三种方式).md"
     },
     {
-      "basename": "HW 介绍",
-      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+      "basename": "智能优化算法",
+      "path": "Cyber Security/混沌密码混沌理论/智能优化算法.md"
     },
     {
-      "basename": "课程目录",
-      "path": "Cyber Security/HW/课程目录.md"
+      "basename": "汇编",
+      "path": "Cyber Security/汇编和逆向/Windows 逆向/汇编.md"
+    },
+    {
+      "basename": "汇编基础知识",
+      "path": "Cyber Security/汇编和逆向/汇编/汇编基础知识.md"
+    },
+    {
+      "basename": "结课作业",
+      "path": "Cyber Security/高级网络安全研究/结课作业.md"
+    },
+    {
+      "basename": "Sandbox",
+      "path": "Cyber Security/调研/Sandbox.md"
+    },
+    {
+      "basename": "IDS",
+      "path": "Cyber Security/调研/IDS.md"
     },
     {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
     },
     {
-      "basename": "deeplocker python API development",
-      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
+      "basename": "蠕虫病毒原理",
+      "path": "Cyber Security/病毒样本/蠕虫病毒原理.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "病毒的分类",
+      "path": "Cyber Security/病毒样本/病毒的分类.md"
     },
     {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+      "basename": "行业术语扫盲",
+      "path": "Cyber Security/暗月渗透测试/行业术语扫盲.md"
     },
     {
-      "basename": "绝对路径和相对路径问题",
-      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+      "basename": "信息搜集",
+      "path": "Cyber Security/暗月渗透测试/信息搜集.md"
     },
     {
-      "basename": "Linux常用命令",
-      "path": "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf"
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
     },
     {
-      "basename": "2023-W23",
-      "path": "Weekly Note/2023-W23.md"
+      "basename": "C&CPP Repository",
+      "path": "Coding/C&CPP/C&CPP Repository.md"
     },
     {
-      "basename": "2023-06-04",
-      "path": "Daily/2023-06-04.md"
+      "basename": "Coding index",
+      "path": "Coding/Coding index.md"
     },
     {
-      "basename": "2023-06-08",
-      "path": "Daily/2023-06-08.md"
+      "basename": "awesome-python",
+      "path": "Coding/Python/awesome-python.md"
     },
     {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
+      "basename": "tqdm",
+      "path": "Coding/Python/Repository/tqdm.md"
     },
     {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
+      "basename": "Python Web",
+      "path": "Coding/Python/Repository/Python Web.md"
     },
     {
-      "basename": "Morning Reading",
-      "path": "Challenge/Habit Challenge/Morning Reading.md"
+      "basename": "量化交易",
+      "path": "Coding/Python/Repository/量化交易.md"
     },
     {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
+      "basename": "tenacity",
+      "path": "Coding/Python/Repository/tenacity/tenacity.md"
     },
     {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
+      "basename": "Flask Quickstart",
+      "path": "Coding/Python/Repository/Flask/Flask Quickstart.md"
     },
     {
-      "basename": "SQL注入-中-课件",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf"
+      "basename": "Basic Flask",
+      "path": "Coding/Python/Repository/Flask/Basic Flask.md"
     },
     {
-      "basename": "SQL注入-下-课件",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf"
+      "basename": "collection",
+      "path": "Coding/Python/Repository/Collection/collection.md"
     },
     {
-      "basename": "SQL注入-上-课件",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf"
+      "basename": "爬虫实战总结",
+      "path": "Coding/Python/爬虫/爬虫实战总结.md"
     },
     {
-      "basename": "nmap 使用",
-      "path": "Cyber Security/HW/03-信息收集/nmap 使用.md"
+      "basename": "爬虫基础总结",
+      "path": "Coding/Python/爬虫/爬虫基础总结.md"
     },
     {
-      "basename": "3.6-CDN指纹识别-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.6-CDN指纹识别-脑图笔记.pdf"
+      "basename": "TS-从一个项目开始",
+      "path": "Coding/TypeScript/TS-从一个项目开始.md"
     },
     {
-      "basename": "3.5-CMS指纹识别-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.5-CMS指纹识别-脑图笔记.pdf"
+      "basename": "Shell 教程",
+      "path": "Coding/Shell/Shell 教程.md"
     },
     {
-      "basename": "3.4-端口服务信息-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.4-端口服务信息-脑图笔记.pdf"
+      "basename": "SSM",
+      "path": "Coding/Java/SSM.md"
     },
     {
-      "basename": "3.3-IP信息-课件",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-课件.pdf"
+      "basename": "Maven&MyBatis",
+      "path": "Coding/Java/Maven&MyBatis.pdf"
     },
     {
-      "basename": "3.2-域名信息-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png"
+      "basename": "Java WEB",
+      "path": "Coding/Java/Java WEB.md"
     },
     {
-      "basename": "3.2-域名信息-课件",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-课件.pdf"
+      "basename": "Java Spring",
+      "path": "Coding/Java/Java Spring.md"
     },
     {
-      "basename": "3.1-信息收集概览-PPT",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-PPT.pdf"
+      "basename": "Java 注解",
+      "path": "Coding/Java/Java 注解.md"
     },
     {
-      "basename": "3.1-信息收集概览-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-脑图笔记.pdf"
+      "basename": "Java 入门(菜鸟教程)",
+      "path": "Coding/Java/Java 入门(菜鸟教程).md"
     },
     {
-      "basename": "Lists",
-      "path": "Algorithm/数据结构/Lists.md"
+      "basename": "Java 基础知识",
+      "path": "Coding/Java/Java 基础知识.md"
     },
     {
-      "basename": "Github 资源搜集",
-      "path": "Algorithm/Github/Github 资源搜集.md"
+      "basename": "protobuf",
+      "path": "Coding/Go/protobuf.md"
     },
     {
-      "basename": "nmap",
-      "path": "Cyber Security/Red Team/基础设施构建/Hacker Tools/nmap.md"
+      "basename": "Micro Service with Go!",
+      "path": "Coding/Go/Micro Service with Go!.md"
     },
     {
-      "basename": "00-虚拟机安装Kali和远程连接",
-      "path": "Cyber Security/HW/03-信息收集/00-虚拟机安装Kali和远程连接.pdf"
-    },
-    {
-      "basename": "censys",
-      "path": "Cyber Security/HW/03-信息收集/附赠资料/censys.pdf"
-    },
-    {
-      "basename": "2020_Book_CyberSecurity",
-      "path": "Cyber Security/HW/03-信息收集/附赠资料/2020_Book_CyberSecurity.pdf"
+      "basename": "GORM(Object-Relationl Mapping)",
+      "path": "Coding/Go/GORM(Object-Relationl Mapping).md"
     }
   ],
   "omittedPaths": [],

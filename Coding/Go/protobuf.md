@@ -1,5 +1,4 @@
 - `protoc --go_out=./blog ./blog/*.proto`
-	
 
 ![[Snipaste/Pasted image 20220922124352.png]]
 

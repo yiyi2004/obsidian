@@ -1,5 +1,7 @@
 - [Java 卸载](https://blog.csdn.net/m0_56022510/article/details/120180358?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166273042316800180691520%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=166273042316800180691520&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-120180358-null-null.142^v47^pc_rank_34_default_23,201^v3^control_1&utm_term=%E5%8D%B8%E8%BD%BD%20java&spm=1018.2226.3001.4187)
-# Java 基础语法
+
+## Java 基础语法
+
 ```java
 public class HelloWorld{
 	public static void main(String[] args){
@@ -7,8 +9,9 @@ public class HelloWorld{
 	}
 }
 ```
+
 - 源文#件名必须与类名一致
-- 数组是存储在堆上的对象(**堆和栈的区别，分配云云**)
+- 数组是存储在堆上的对象 (**堆和栈的区别，分配云云**)
 
 ```java
 class FreshJuice { 
@@ -23,7 +26,9 @@ public class FreshJuiceTest {
 	} 
 }
 ```
+
 需要注意的关键字
+
 1. abstract
 2. extends
 3. final
@@ -60,39 +65,46 @@ public class FreshJuiceTest {
 - char 类型是一个单一的 16 位 Unicode 字符；
 - String 的默认值是 null
 - 对象、数组都是引用类型
-- 所有引用类型的默认值都是null
-
+- 所有引用类型的默认值都是 null
 - 常量不能修改，用 final 修饰
+
 ```java
 	final double PI = 3.14;
 ```
+
 - 前缀 0 表示 8 进制，而前缀 0x 代表 16 进制
+
 ```java
 	int decimal = 100;
 	int octal = 0144;
 	int hexa =  0x64;
 ```
+
 - Unicode
+
 ```java
 	char a = '\u0001';
 	String a = "\u0001";
 ```
+
 - 不能对 boolean 类型进行类型转换。
 - 强制类型转换
+
 ```java
 	byte b = (byte)i1;//强制类型转换为byte
 ```
+
 - 局部变量分配在栈上
 - **局部变量没有默认值，所以要初始化！**
 - Java 修饰符
 	- 访问修饰符
 	- 非访问修饰符
-- 访问修饰符
+- 访问修饰符  
 ![[Snipaste/Pasted image 20220910221530.png]]
 
 - 访问控制和继承
 	- father public. child public
-	- father protected, child public or protected 
+	- father protected, child public or protected
 	- father private, child die
 - 非访问类修饰符
 	- static
@@ -106,11 +118,12 @@ public class FreshJuiceTest {
 - 静态方法不能使用类的非静态变量
 - static + final
 - final 方法可以被继承，但是不能被重写
-- 抽象类可以包含抽象方法和非抽象方法
+- 抽象类可以包含抽象方法和非抽象方法  
 ![[Snipaste/Pasted image 20220910223129.png]]
- - synchronized 关键字声明的方法同一时间只能被一个线程访问。synchronized 修饰符可以应用于四个访问修饰符(public, private, protected, default)。
+ - synchronized 关键字声明的方法同一时间只能被一个线程访问。synchronized 修饰符可以应用于四个访问修饰符 (public, private, protected, default)。
  - **transient**#
  - volatile 修饰的成员变量在每次被线程访问时，都强制从共享内存中重新读取该成员变量的值。而且，当成员变量发生变化时，会强制线程将变化值回写到共享内存。这样在任何时刻，两个不同的线程总是看到某个成员变量的同一个值。一个 volatile 对象引用可能是 null。
+
 ```java
 public class MyRunnable implements Runnable{
 	private volatile boolean active;
@@ -123,11 +136,13 @@ public class MyRunnable implements Runnable{
 		public void stop() { active = false;} // 第二行
 }
 ```
+
 - 通常情况下，在一个线程调用 run() 方法（在 Runnable 开启的线程），在另一个线程调用 stop() 方法。 如果第一行中缓冲区的 active 值被使用，那么在第二行的 active 值为 false 时循环不会停止。但是以上代码中我们使用了 volatile 修饰 active，所以该循环会停止。
 
 ![[Snipaste/Pasted image 20220910230546.png]]
 
 - ?
+
 ```java
 public class Test { 
 	public static void main(String[] args){ 
@@ -140,13 +155,17 @@ public class Test {
 	}
 }
 ```
+
 - instanceof
+
 ```java
 	String name = "James";
 	boolean result = name instanceof String; 
 	// 由于 name 是 String 类型，所以返回真
 ```
+
 - 增强 for 循环
+
 ```java
 public class Test {
    public static void main(String[] args){
@@ -165,10 +184,12 @@ public class Test {
    }
 }
 ```
+
 - switch case break
 - 如果 case 语句块中没有 break 语句时，匹配成功后，从当前 case 开始，后续所有 case 的值都会输出。
 
-# Java Number & Math
+## Java Number & Math
+
 - Boolean
 - Byte
 - Short
@@ -185,12 +206,15 @@ public class Test {
 - floor, round, ceil
 - [Number方法](https://www.runoob.com/java/java-number.html)
 
-# Java Character
+## Java Character
+
 - 用于对单个字符进行操作
 - [Character 方法](https://www.runoob.com/java/java-character.html)
 
-# Java  String
+## Java String
+
 - String 创建的字符串存储在公共池中，而 new 创建的字符串对象在堆上：
+
 ```java
 String s1 = "Runoob";              // String 直接创建
 String s2 = "Runoob";              // String 直接创建
@@ -198,25 +222,30 @@ String s3 = s1;                    // 相同引用
 String s4 = new String("Runoob");   // String 对象创建
 String s5 = new String("Runoob");   // String 对象创建
 ```
+
 ![[Snipaste/Pasted image 20220911190037.png]]
 
 - 一旦创建了 String 对象，那它的值就无法改变了
-- 连接字符串(两种 方法)
+- 连接字符串 (两种 方法)
+
 ```java
 str1.concat(str2);
 "1".concal("str2");
 "1" + "2" + "3";
 ```
+
 - 格式化字符串
 	- System.out.printf(); 占用符
 	- String.format()
 - [String 方法](https://www.runoob.com/java/java-string.html)
 
-# Java String Buffer & String Builder
+## Java String Buffer & String Builder
+
 - 当你需要对字符串进行修改的额时候会用到 String Buffer 类。
-- 不产生新的未使用对象
+- 不产生新的未使用对象  
 ![[Snipaste/Pasted image 20220911192814.png]]
 - StringBuilder 不是线程安全的，但是有速度优势，推荐使用。
+
 ```java
 public class RunoobTest{
     public static void main(String args[]){
@@ -234,21 +263,27 @@ public class RunoobTest{
 ```
 
 ![[Snipaste/Pasted image 20220911193046.png]]
+
 - **如果要求是线程安全的，那么要求使用 StringBuffer。**
 - [StringBuffer 方法](https://www.runoob.com/java/java-stringbuffer.html)
 
-# Java 数组
+## Java 数组
+
 ```java
 datatype[] array;
 ```
+
 - 创建数据
+
 ```java
 arrayRefVar = new dataType[arraySize];
 ```
+
 - 上面语句干了两件事
-	- 使用 datatype[arraySize]创建了一个数组。
+	- 使用 datatype[arraySize] 创建了一个数组。
 	- 把新创建的数组引用赋值给 arrayRefVar。
 - 处理数组
+
 ```java
 public class TestArray {
    public static void main(String[] args) {
@@ -273,7 +308,9 @@ public class TestArray {
    }
 }
 ```
-- for...each
+
+- for…each
+
 ```java
 public class TestArray {
    public static void main(String[] args) {
@@ -286,8 +323,10 @@ public class TestArray {
    }
 }
 ```
+
 - 数组可以作为函数的参数或返回值
 - 多维数组
+
 ```java
 String[][] s = new String[2][];
 s[0] = new String[2];
@@ -298,24 +337,31 @@ s[1][0] = new String("to");
 s[1][1] = new String("you");
 s[1][2] = new String("!");
 ```
-## Arrays 类
+
+### Arrays 类
+
 - java.utils.Arrays 是为了方便对数据操作的，它的所有方法否是惊
 1. binarySearch
 2. equals
 3. fill
 4. sort
 
-# Java 日期时间
+## Java 日期时间
+
 - [Java 日期时间](https://www.runoob.com/java/java-date-time.html>)
 
-# Java 正则表达式
+## Java 正则表达式
+
 - [Java 正则表达式](https://www.runoob.com/java/java-regular-expressions.html)
 
-# Java 方法
+## Java 方法
+
 ![[Snipaste/Pasted image 20220911202546.png]]
+
 - 重载：一个类有两个相同的函数名，但是函数有不同的参数列表
 - 方法重载可以使代码更加清晰易读
 - 命令行参数的使用
+
 ```java
 public class CommandLine {
    public static void main(String[] args){ 
@@ -325,6 +371,7 @@ public class CommandLine {
    }
 }
 ```
+
 ```shell
 $ javac CommandLine.java 
 $ java CommandLine this is a command line 200 -100
@@ -336,7 +383,9 @@ args[4]: line
 args[5]: 200
 args[6]: -100
 ```
+
 - 可变参数
+
 ```java
 public class VarargsDemo {
     public static void main(String[] args) {
@@ -362,20 +411,26 @@ public class VarargsDemo {
     }
 }
 ```
+
 - finalize() 手动进行垃圾回收
+
 ```java
 protected void finalize()
 {
    // 在这里终结代码
 }
 ```
+
 - protected 确保该方法不会被类以外的代码调用
 
-# Java Stream、File、IO
+## Java Stream、File、IO
+
 - 控制台输入由 System.in 实现
+
 ```java
 BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 ```
+
 - 得到对象后用 read() 方法读取一个字符，用 readLine() 读取一行。
 
 ```java
@@ -397,28 +452,36 @@ public class BRRead {
     }
 }
 ```
+
 - Java5 之后我们使用 Scanner 读取输入
 - 从控制台输出
-- 读写数据
+- 读写数据  
 ![[Snipaste/Pasted image 20220912190157.png]]
 - FileInputStream
+
 ```java
 FileInputStream f = new FileInputStream("C:/Java");
 ```
+
 ![[Snipaste/Pasted image 20220912190726.png]]
+
 - ByteArrayInputStream
 - DataInputStream
 - FileOutputStream
+
 ```java
 OutputStream f = new FileOutputStream("C:/java/hello")
 ```
+
 ```java
 File f = new File("C:/java/hello"); OutputStream fOut = new FileOutputStream(f);
 ```
+
 ![[Snipaste/Pasted image 20220912191309.png]]
 
 - [ByteArrayOutputStream](https://www.runoob.com/java/java-bytearrayoutputstream.html)
 - [DataOutputStream](https://www.runoob.com/java/java-dataoutputstream.html)
+
 ```JAVA
 import java.io.*;
  
@@ -445,7 +508,9 @@ public class fileStreamTest {
     }
 }
 ```
+
 - **这段代码写的不错哦**
+
 ```java
 //文件名 :fileStreamTest2.java
 import java.io.*;
@@ -496,12 +561,14 @@ public class fileStreamTest2 {
     }
 }
 ```
+
 - 上面的代码也不错哦
-- 文件和  IO
+- 文件和 IO
 	- [File Class](https://www.runoob.com/java/java-file.html)
 	- FileReader Class
 	- FileWriter Class
 - 创建目录
+
 ```java
 import java.io.File;
  
@@ -514,7 +581,9 @@ public class CreateDir {
     }
 }
 ```
+
 - 查看目录
+
 ```java
 import java.io.File;
  
@@ -539,7 +608,9 @@ public class DirList {
     }
 }
 ```
+
 - 递归删除目录及文件
+
 ```java
 import java.io.File;
  
@@ -566,7 +637,9 @@ public class DeleteFileDemo {
     }
 }
 ```
-# Java Scanner 类
+
+## Java Scanner 类
+
 ```java
 import java.util.Scanner;
  
@@ -586,11 +659,13 @@ public class ScannerDemo {
     }
 }
 ```
+
 - **next 和 nextLine 的区别**
-- 我认为在读取文件的时候可能会有所区别。
+- 我认为在读取文件的时候可能会有所区别。  
 ![[Snipaste/Pasted image 20220912194537.png]]
 
 - hasNextXxx
+
 ```java
 import java.util.Scanner;
  
@@ -624,13 +699,15 @@ public class ScannerDemo {
     }
 }
 ```
-# 异常处理
+
+## 异常处理
+
 - [异常处理在做羡慕的时候很有用，但是现在还用不到.jpg](https://www.runoob.com/java/java-exceptions.html)
 
-# 重写和重载
+## 重写和重载
+
 ![[Snipaste/Pasted image 20220912195604.png]]
 
+## 问题解决
 
-# 问题解决
 - Java18 汉字乱码那就换成 Java17
-

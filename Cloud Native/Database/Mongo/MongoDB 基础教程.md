@@ -1,6 +1,5 @@
 - golang mongodb 的问题
 - MapReduce 大数据工具
-
 - document json string
 - 介于关系型数据库和非关系型数据库之间
 - 事务 ACID，redis，es
@@ -24,7 +23,6 @@
 		- 多中心容灾能力
 	- 分片，2TB，水平扩展
 	- 需要时无限扩容 mongos 无限代理
-
 - mongodb 的应用场景
 	- 游戏场景
 		- 装备信息
@@ -41,20 +39,21 @@
 
 ![[Snipaste/Pasted image 20221025221408.png]]
 
-# mongodb 使用
+## Mongodb 使用
+
 - 文档里面有安装的方式哦，mongo 的安装蛮简单的哦。如何才能写出这样一个数据库呢？
 - 表结构，权限控制，分布式功能等等，是如何实现的呢？
 - linux 配置环境变量，你需要一个 ubuntu 的开发环境
 - ps -ef | grep mongo 查看 mongo 运行状态 use admin; db.shutdownServer()
-- 
-# Golang 操作 mongodb
 
+## Golang 操作 Mongodb
 
-# mongo-express
+## Mongo-express
+
 - [mongo-express/mongo-express: Web-based MongoDB admin interface, written with Node.js and express (github.com)](https://github.com/mongo-express/mongo-express)
 - mongodb 的 web 管理界面
 - 可以用 docker-compose,yml 启动
 
+## Reference
 
-# Reference
 - [2022B站最新的MongoDB视频教程，一节课带你从0基础到实战操作，保姆级教学！！！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1CS4y1e7Pb/?spm_id_from=333.337.search-card.all.click&vd_source=25509bb582bc4a25d86d871d5cdffca3)

@@ -136,23 +136,24 @@ HVV 的内容 —— 尝试参与到护网里面，因此你要**提前完成你
 	- [ ] 尝试接入音频，但是需要，读取音频是可以的
 	- [ ] 下一步是角度文档，然后将内容输入到 tensorflow 中
 	- [ ] 学习 redis，尝试将数据 (统一) 存储在 redis 里面，因为有同步问题
-- [ ] 演示场景
+- [ ] 演示场景，一步一步的看到结果。——测试的大纲
 
 - [go-tensorflow-audio-example/app at main · scootpl/go-tensorflow-audio-example · GitHub](https://github.com/scootpl/go-tensorflow-audio-example/tree/main/app)
 
 我的评价是不如通过 tags 去匹配。
 
+- redis 和算法是必须要掌握的，还有 MySQL 高级的内容——这是作为一个程序员的基本素养
+
 下午
 
-- [ ] HW 内容，起码在去之前要清楚的认知有哪些内容
-- [ ] Hacker
-- [ ] Go pro
+- [ ] 准备简历
+- [ ] 写 boss 直聘的
 
 虽然我很想参加，但是很有可能时间上冲突，没得办法。
 
 夜晚 + 深夜
 
-- [ ] 准备明天的行程，要去参加 GopherChina
+- [ ] 准备明天的行程，后天要去参加 GopherChina
 
 不要将读书这件事情过于神圣化了
 

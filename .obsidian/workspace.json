@@ -8,46 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d8dd044e21f0861",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf"
-              }
-            }
-          },
-          {
-            "id": "4fde78da5911dd20",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf"
-              }
-            }
-          },
-          {
-            "id": "3195ce5752cd74ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "544578fbda1a3916",
-        "type": "tabs",
-        "children": [
-          {
             "id": "e6685c110a4cdb8e",
             "type": "leaf",
             "pinned": true,
@@ -63,14 +23,48 @@
             }
           },
           {
-            "id": "17541c294144c482",
+            "id": "444eedf933a71967",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/随想.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "00d872ae962b2f5b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go Pro/Go 语言基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4dc9ae9fd25b6179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/操作系统/alsa.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#deeplocker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/操作系统/alsa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Basic/操作系统/alsa.md"
               }
             }
           },
@@ -206,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/操作系统/alsa.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/操作系统/alsa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,7 +239,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -269,57 +264,60 @@
       "random-note:开始漫游笔记": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:开始/结束录音": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "periodic-notes:Open this week": false,
+      "periodic-notes:Open today": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "4dc9ae9fd25b6179",
   "lastOpenFiles": [
     "Day3/Day3.md",
+    "Basic/操作系统/alsa.md",
+    "Eassay/随想.md",
+    "Coding/Go/Go Pro/Go 语言基础.md",
+    "Coding/Go/go context.md",
+    "Coding/Go/buildin/go copy.md",
+    "Coding/Go/buildin",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Cyber Security/HW/02-HTTP&Burp课程资料/Burp.md",
+    "Cyber Security/Red Team/基础设施构建/Hacker Tools/Burp Suite.md",
+    "Cyber Security/HW/02-HTTP&Burp课程资料/HTTP.md",
+    "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf",
+    "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/HTTP-课件.pdf",
+    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+    "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608084237.png",
+    "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608083329.png",
+    "Cyber Security/HW/01-HW介绍/Snipaste",
+    "Cyber Security/HW/课程目录.md",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608083006.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082959.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082946.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082935.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082927.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082920.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082911.png",
+    "Cyber Security/HW/Snipaste/Pasted image 20230608082634.png",
+    "Cyber Security/HW/Snipaste",
+    "Cyber Security/HW/如何参加 HW.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+    "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf",
+    "Review/Deeplocker.md",
+    "Review",
+    "Weekly Note/2023-W23.md",
+    "Daily/2023-06-04.md",
+    "Daily/2023-06-08.md",
     "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Morning Reading.md",
-    "Challenge/Habit Challenge/Go Pro.md",
     "Challenge/Habit Challenge/English Practice.md",
-    "Challenge/Habit Challenge/Algorithm.md",
-    "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf",
     "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf",
-    "Cyber Security/HW/03-信息收集/nmap 使用.md",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.6-CDN指纹识别-脑图笔记.pdf",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.5-CMS指纹识别-脑图笔记.pdf",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.4-端口服务信息-脑图笔记.pdf",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-课件.pdf",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-课件.pdf",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-PPT.pdf",
-    "Algorithm/数据结构/Lists.md",
-    "Eassay/随想.md",
-    "Algorithm/Github/Github 资源搜集.md",
-    "Cyber Security/Red Team/基础设施构建/Hacker Tools/nmap.md",
-    "Cyber Security/HW/如何参加 HW.md",
-    "Algorithm/数据结构/数据结构.md",
-    "Coding/Go/Go Pro/Go 语言基础.md",
-    "Algorithm/算法总结.md",
-    "Algorithm/Algorithm index.md",
-    "Coding/Go/Third-party library/portaudio/portaudio.md",
-    "Coding/Go/Third-party library/go audio/basic go audio.md",
-    "Coding/C&CPP/C 开发环境搭建.md",
-    "Basic/Unicode 与 utf-8.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Website/serengildeepface_models Pre-trained models for deepface python library.md",
-    "Website/1.1 Go语言创世纪 · Go语言高级编程 (1).md",
-    "Website/1.1 Go语言创世纪 · Go语言高级编程.md",
-    "Coding/Go/Go Pro/Snipaste/Pasted image 20230606214652.png",
-    "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/常见请求头和响应头.png",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
-    "PDFS/CCNA1-10.3.1.2-Packet-Tracer-Explore-a-Network.webp",
-    "Coding/Python/爬虫/Snipaste/Pasted image 20230606163729.png",
-    "Coding/Python/爬虫/Snipaste/Pasted image 20230606162002.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne27.png",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/wxgzh8.jpg",
-    "Coding/Go/Third-party library/fyne/Go 每日一库之 fyne - 大俊的博客_files/fyne1.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

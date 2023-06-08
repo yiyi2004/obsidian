@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "alsa",
+      "path": "Basic/操作系统/alsa.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "Go 语言基础",
+      "path": "Coding/Go/Go Pro/Go 语言基础.md"
+    },
+    {
+      "basename": "go context",
+      "path": "Coding/Go/go context.md"
+    },
+    {
+      "basename": "go copy",
+      "path": "Coding/Go/buildin/go copy.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "Burp",
+      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/Burp.md"
+    },
+    {
+      "basename": "Burp Suite",
+      "path": "Cyber Security/Red Team/基础设施构建/Hacker Tools/Burp Suite.md"
+    },
+    {
+      "basename": "HTTP",
+      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/HTTP.md"
+    },
+    {
+      "basename": "Nmap使用技巧总结",
+      "path": "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf"
+    },
+    {
+      "basename": "HTTP-课件",
+      "path": "Cyber Security/HW/02-HTTP&Burp课程资料/2.1-HTTP/HTTP-课件.pdf"
+    },
+    {
+      "basename": "HW 介绍",
+      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+    },
+    {
+      "basename": "课程目录",
+      "path": "Cyber Security/HW/课程目录.md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "deeplocker python API development",
+      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "绝对路径和相对路径问题",
+      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+    },
+    {
+      "basename": "Linux常用命令",
+      "path": "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf"
+    },
+    {
+      "basename": "2023-W23",
+      "path": "Weekly Note/2023-W23.md"
+    },
+    {
+      "basename": "2023-06-04",
+      "path": "Daily/2023-06-04.md"
+    },
+    {
+      "basename": "2023-06-08",
+      "path": "Daily/2023-06-08.md"
     },
     {
       "basename": "Summary",
@@ -17,20 +105,12 @@
       "path": "Challenge/Habit Challenge/Morning Reading.md"
     },
     {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
       "basename": "English Practice",
       "path": "Challenge/Habit Challenge/English Practice.md"
     },
     {
       "basename": "Algorithm",
       "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "Linux常用命令",
-      "path": "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf"
     },
     {
       "basename": "SQL注入-中-课件",
@@ -81,16 +161,8 @@
       "path": "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-脑图笔记.pdf"
     },
     {
-      "basename": "Nmap使用技巧总结",
-      "path": "Cyber Security/HW/03-信息收集/附赠资料/Nmap使用技巧总结.pdf"
-    },
-    {
       "basename": "Lists",
       "path": "Algorithm/数据结构/Lists.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "Github 资源搜集",
@@ -127,78 +199,6 @@
     {
       "basename": "HW介绍",
       "path": "Cyber Security/HW/01-HW介绍/HW介绍.pdf"
-    },
-    {
-      "basename": "如何参加 HW",
-      "path": "Cyber Security/HW/如何参加 HW.md"
-    },
-    {
-      "basename": "数据结构",
-      "path": "Algorithm/数据结构/数据结构.md"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "Algorithm index",
-      "path": "Algorithm/Algorithm index.md"
-    },
-    {
-      "basename": "portaudio",
-      "path": "Coding/Go/Third-party library/portaudio/portaudio.md"
-    },
-    {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/go audio/basic go audio.md"
-    },
-    {
-      "basename": "C 开发环境搭建",
-      "path": "Coding/C&CPP/C 开发环境搭建.md"
-    },
-    {
-      "basename": "Unicode 与 utf-8",
-      "path": "Basic/Unicode 与 utf-8.md"
-    },
-    {
-      "basename": "gocv.Mat",
-      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
-    },
-    {
-      "basename": "绝对路径和相对路径问题",
-      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
-    },
-    {
-      "basename": "serengildeepface_models Pre-trained models for deepface python library",
-      "path": "Website/serengildeepface_models Pre-trained models for deepface python library.md"
-    },
-    {
-      "basename": "360 天御移动应用隐私合规检测平台 _移动安全_360政企安全",
-      "path": "Website/360 天御移动应用隐私合规检测平台 _移动安全_360政企安全.md"
-    },
-    {
-      "basename": "僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy",
-      "path": "Website/僵尸网络 - 初学者指南：BotNet 定义、类型以及如何创建  代理 • Proxy.md"
-    },
-    {
-      "basename": "decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统",
-      "path": "Website/decoyminiDecoyMini 🐝 A highly scalable, safe, free enterprise honeypots 一款高可扩展、安全、免费的企业级蜜罐系统.md"
-    },
-    {
-      "basename": "5 Python Automation Scripts I Use Every Day",
-      "path": "Website/5 Python Automation Scripts I Use Every Day.md"
-    },
-    {
-      "basename": "爬虫基础总结",
-      "path": "Coding/Python/爬虫/爬虫基础总结.md"
-    },
-    {
-      "basename": "01 偷的技术",
-      "path": "Cyber Security/高级网络安全研究/01 偷的技术.md"
     }
   ],
   "omittedPaths": [],

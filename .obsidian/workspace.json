@@ -49,9 +49,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ccf1db40f3318ed0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume/Resume.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resume/Resume.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -187,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resume/Resume.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resume/Resume.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,12 +267,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "18fe31c6a7715ddf",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Eassay/随想.md",
+    "Resume/Resume.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Day3/Day3.md",
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Cyber Security/调研/Deeplocker.md",
     "Resume/Snipaste/Pasted image 20230609104940.png",
     "Resume/Snipaste",
-    "Day3/Day3.md",
-    "Eassay/随想.md",
     "Resume/招聘网站/领英职场.md",
     "Resume/招聘网站/实习僧.md",
     "Resume/招聘网站/内推网.md",
@@ -277,14 +293,12 @@
     "Resume/Resume index.md",
     "Resume/招聘网站",
     "Resume/未命名.md",
-    "Resume/Resume.md",
     "Eassay/企划书/企划书.md",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "Coding/Go/Third-party library/gocv/gocv.Show.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Life/活动/准备一下去安全公司需要问的问题.md",
     "Life/活动/GopherChina2023.md",
-    "Resume/面试题.md",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",
     "Cyber Security/HW/18-入侵排查/windows排查.pdf",
     "Cyber Security/HW/18-入侵排查/Linux排查.pdf",
@@ -292,7 +306,6 @@
     "Cyber Security/HW/17-内网渗透-课件/IPC横向.pdf",
     "Cyber Security/HW/17-内网渗透-课件/抓取密码.pdf",
     "Cyber Security/HW/17-内网渗透-课件/域内信息收集.pdf",
-    "Coding/Go/Go Pro/Go 语言基础.md",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
     "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608084237.png",
@@ -302,7 +315,6 @@
     "Cyber Security/HW/Snipaste/Pasted image 20230608082946.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082935.png",
     "Cyber Security/HW/Snipaste/Pasted image 20230608082927.png",
-    "Cyber Security/HW/Snipaste/Pasted image 20230608082920.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

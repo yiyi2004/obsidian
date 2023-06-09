@@ -1,7 +1,7 @@
 ---
 created: ["2023-06-04 08:26"]
 aliases: ["Blog Post Code"]
-	tags: [deeplocker, security]
+tags: [deeplocker, security]
 ---
 
 ## ❓ Information
@@ -110,6 +110,13 @@ workspace/model/{{key}}/xxx
 
 #### 5️⃣Windows Install or Script
 
+## ℹ️指标
+
+- [ ] 可以获取目标的照片
+- [ ] 将目标的照片输入模型
+- [ ] 模型输出密钥
+- [ ] 用密钥做 hash 然后解出载荷
+
 ## ✅ Checklist Inspiration
 
-你这又是为了什么呢？做好你自己的事情，帮你
+- [ ] 完成指标的编写 #deeplocker

@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
     },
     {
       "basename": "领英职场",
@@ -187,18 +199,6 @@
     {
       "basename": "Apache解析漏洞",
       "path": "Cyber Security/HW/08-中间件漏洞/Apache解析漏洞.pdf"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "HW 介绍",
-      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
-    },
-    {
-      "basename": "miniaudio",
-      "path": "Coding/Go/Third-party library/minidudio/miniaudio.md"
     }
   ],
   "omittedPaths": [],

@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "miniaudio",
-      "path": "Coding/Go/Third-party library/minidudio/miniaudio.md"
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
-      "basename": "HW行动时间",
-      "path": "Cyber Security/HW/01-HW介绍/HW行动时间.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
-      "basename": "HW 介绍",
-      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+      "basename": "随想",
+      "path": "Eassay/随想.md"
     },
     {
-      "basename": "HW介绍",
-      "path": "Cyber Security/HW/01-HW介绍/HW介绍.pdf"
+      "basename": "领英职场",
+      "path": "Resume/招聘网站/领英职场.md"
     },
     {
-      "basename": "README",
-      "path": "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/README.md"
+      "basename": "实习僧",
+      "path": "Resume/招聘网站/实习僧.md"
     },
     {
-      "basename": "LICENSE",
-      "path": "Cyber Security/HW/20-hw-工具/tools/代理/reGeorg-master/LICENSE.html"
+      "basename": "内推网",
+      "path": "Resume/招聘网站/内推网.md"
+    },
+    {
+      "basename": "电商人才",
+      "path": "Resume/招聘网站/电商人才.md"
+    },
+    {
+      "basename": "拉勾网",
+      "path": "Resume/招聘网站/拉勾网.md"
+    },
+    {
+      "basename": "当地的人才网",
+      "path": "Resume/招聘网站/当地的人才网.md"
+    },
+    {
+      "basename": "猎聘网",
+      "path": "Resume/招聘网站/猎聘网.md"
+    },
+    {
+      "basename": "前程无忧",
+      "path": "Resume/招聘网站/前程无忧.md"
+    },
+    {
+      "basename": "智联招聘",
+      "path": "Resume/招聘网站/智联招聘.md"
+    },
+    {
+      "basename": "各厂的招聘官网",
+      "path": "Resume/招聘网站/各厂的招聘官网.md"
+    },
+    {
+      "basename": "校招",
+      "path": "Resume/招聘网站/校招.md"
+    },
+    {
+      "basename": "Boss直聘",
+      "path": "Resume/招聘网站/Boss直聘.md"
+    },
+    {
+      "basename": "牛客网",
+      "path": "Resume/招聘网站/牛客网.md"
+    },
+    {
+      "basename": "Resume index",
+      "path": "Resume/Resume index.md"
+    },
+    {
+      "basename": "企划书",
+      "path": "Eassay/企划书/企划书.md"
     },
     {
       "basename": "面试",
       "path": "Cyber Security/HW/19-安全设备和面试/面试.pdf"
     },
     {
+      "basename": "gocv.Show",
+      "path": "Coding/Go/Third-party library/gocv/gocv.Show.md"
+    },
+    {
+      "basename": "gocv.Mat",
+      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
+    },
+    {
+      "basename": "准备一下去安全公司需要问的问题",
+      "path": "Life/活动/准备一下去安全公司需要问的问题.md"
+    },
+    {
+      "basename": "GopherChina2023",
+      "path": "Life/活动/GopherChina2023.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Resume/面试题.md"
+    },
+    {
       "basename": "常见安全设备",
       "path": "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf"
     },
     {
-      "basename": "windows权限维持-克隆账号",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/windows权限维持-克隆账号.pdf"
+      "basename": "windows排查",
+      "path": "Cyber Security/HW/18-入侵排查/windows排查.pdf"
     },
     {
-      "basename": "windows权限维持-计划任务",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/windows权限维持-计划任务.pdf"
+      "basename": "Linux排查",
+      "path": "Cyber Security/HW/18-入侵排查/Linux排查.pdf"
     },
     {
-      "basename": "linux权限维持-SUID",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/linux权限维持-SUID.pdf"
+      "basename": "NTML和LM哈希",
+      "path": "Cyber Security/HW/17-内网渗透-课件/NTML和LM哈希.pdf"
     },
     {
-      "basename": "linux权限维持-PAM软连接",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/linux权限维持-PAM软连接.pdf"
+      "basename": "IPC横向",
+      "path": "Cyber Security/HW/17-内网渗透-课件/IPC横向.pdf"
     },
     {
-      "basename": "linux权限维持-特权账号",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/linux权限维持-特权账号.pdf"
+      "basename": "抓取密码",
+      "path": "Cyber Security/HW/17-内网渗透-课件/抓取密码.pdf"
     },
     {
-      "basename": "linux权限维持-计划任务",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/linux权限维持-计划任务.pdf"
+      "basename": "域内信息收集",
+      "path": "Cyber Security/HW/17-内网渗透-课件/域内信息收集.pdf"
     },
     {
-      "basename": "linux权限维持-公私钥",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/linux权限维持-公私钥.pdf"
+      "basename": "票据传递",
+      "path": "Cyber Security/HW/17-内网渗透-课件/票据传递.pdf"
     },
     {
-      "basename": "通信流量分析",
-      "path": "Cyber Security/HW/14-流量分析/流量分析课件/通信流量分析.pdf"
+      "basename": "内网渗透基础",
+      "path": "Cyber Security/HW/17-内网渗透-课件/内网渗透基础.pdf"
     },
     {
-      "basename": "流量分析",
-      "path": "Cyber Security/HW/14-流量分析/流量分析课件/流量分析.pdf"
+      "basename": "内网渗透",
+      "path": "Cyber Security/HW/17-内网渗透-课件/内网渗透.pdf"
     },
     {
-      "basename": "vuln02-XSS漏洞-课件",
-      "path": "Cyber Security/HW/06-XSS漏洞/笔记课件/vuln02-XSS漏洞-课件.pdf"
+      "basename": "内网扫描",
+      "path": "Cyber Security/HW/17-内网渗透-课件/内网扫描.pdf"
     },
     {
-      "basename": "vuln02-XSS漏洞-笔记",
-      "path": "Cyber Security/HW/06-XSS漏洞/笔记课件/vuln02-XSS漏洞-笔记.pdf"
+      "basename": "哈希传递",
+      "path": "Cyber Security/HW/17-内网渗透-课件/哈希传递.pdf"
     },
     {
-      "basename": "工具怎么学习",
-      "path": "Cyber Security/HW/06-XSS漏洞/笔记课件/工具怎么学习.pdf"
+      "basename": "搭建内网环境",
+      "path": "Cyber Security/HW/17-内网渗透-课件/搭建内网环境.pdf"
     },
     {
-      "basename": "32-Win10配置JDK11，启动BP",
-      "path": "Cyber Security/HW/06-XSS漏洞/安装教程/32-Win10配置JDK11，启动BP.pdf"
+      "basename": "本机信息收集",
+      "path": "Cyber Security/HW/17-内网渗透-课件/本机信息收集.pdf"
     },
     {
-      "basename": "31-Win10配置JDK8，启动BP",
-      "path": "Cyber Security/HW/06-XSS漏洞/安装教程/31-Win10配置JDK8，启动BP.pdf"
+      "basename": "windows权限维持-shift后门",
+      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/windows权限维持-shift后门.pdf"
     },
     {
-      "basename": "28-PHP、Apache环境中部署pikachu",
-      "path": "Cyber Security/HW/06-XSS漏洞/安装教程/28-PHP、Apache环境中部署pikachu.pdf"
+      "basename": "03-Fastjson反序列化漏洞-笔记",
+      "path": "Cyber Security/HW/11-Java反序列化漏洞/03-Fastjson反序列化漏洞-笔记.pdf"
     },
     {
-      "basename": "27-PHP、Apache环境中部署DVWA",
-      "path": "Cyber Security/HW/06-XSS漏洞/安装教程/27-PHP、Apache环境中部署DVWA.pdf"
+      "basename": "02-Apache Commons Collections反序列化漏洞-课件",
+      "path": "Cyber Security/HW/11-Java反序列化漏洞/02-Apache Commons Collections反序列化漏洞-课件.pdf"
     },
     {
-      "basename": "21-Windows安装phpstudy",
-      "path": "Cyber Security/HW/06-XSS漏洞/安装教程/21-Windows安装phpstudy.pdf"
+      "basename": "02-Apache Commons Collections反序列化漏洞-笔记",
+      "path": "Cyber Security/HW/11-Java反序列化漏洞/02-Apache Commons Collections反序列化漏洞-笔记.pdf"
     },
     {
-      "basename": "04-Apache安装WAF",
-      "path": "Cyber Security/HW/06-XSS漏洞/安装教程/04-Apache安装WAF.pdf"
+      "basename": "01-Java序列化和反序列化-课件",
+      "path": "Cyber Security/HW/11-Java反序列化漏洞/01-Java序列化和反序列化-课件.pdf"
     },
     {
-      "basename": "vuln06-远程代码执行-笔记",
-      "path": "Cyber Security/HW/05-命令执行漏洞/vuln06-远程代码执行-笔记.pdf"
+      "basename": "01-Java序列化和反序列化-笔记",
+      "path": "Cyber Security/HW/11-Java反序列化漏洞/01-Java序列化和反序列化-笔记.pdf"
     },
     {
-      "basename": "vuln06-远程代码执行-课件",
-      "path": "Cyber Security/HW/05-命令执行漏洞/vuln06-远程代码执行-课件.pdf"
+      "basename": "XXE漏洞-课件",
+      "path": "Cyber Security/HW/10-XXE/XXE漏洞-课件.pdf"
     },
     {
-      "basename": "Linux常用命令",
-      "path": "Cyber Security/HW/05-命令执行漏洞/Linux常用命令.pdf"
+      "basename": "SSRF漏洞-课件",
+      "path": "Cyber Security/HW/09-SSRF/SSRF漏洞-课件.pdf"
     },
     {
-      "basename": "Windows常用命令",
-      "path": "Cyber Security/HW/05-命令执行漏洞/Windows常用命令.pdf"
-    },
-    {
-      "basename": "SQL注入-上-课件",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/SQL注入-上-课件.pdf"
-    },
-    {
-      "basename": "SQL注入-中-课件",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/SQL注入-中-课件.pdf"
-    },
-    {
-      "basename": "SQL注入-下-课件",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/SQL注入-下-课件.pdf"
-    },
-    {
-      "basename": "24-PHP、Apache环境中部署sqli-labs",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/教程/24-PHP、Apache环境中部署sqli-labs.pdf"
-    },
-    {
-      "basename": "21-Windows安装phpstudy",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/教程/21-Windows安装phpstudy.pdf"
-    },
-    {
-      "basename": "12-MySQL忘记root密码或者root密码错误",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/教程/12-MySQL忘记root密码或者root密码错误.pdf"
-    },
-    {
-      "basename": "11-Windows环境安装MySQL Server 步骤",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/教程/11-Windows环境安装MySQL Server 步骤.pdf"
-    },
-    {
-      "basename": "29-Apache安装WAF",
-      "path": "Cyber Security/HW/04-SQL注入漏洞/教程/29-Apache安装WAF.pdf"
-    },
-    {
-      "basename": "3.3-IP信息-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png"
-    },
-    {
-      "basename": "3.3-IP信息-课件",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-课件.pdf"
-    },
-    {
-      "basename": "3.2-域名信息-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png"
-    },
-    {
-      "basename": "3.2-域名信息-课件",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-课件.pdf"
-    },
-    {
-      "basename": "3.1-信息收集概览-PPT",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-PPT.pdf"
-    },
-    {
-      "basename": "3.1-信息收集概览-脑图笔记",
-      "path": "Cyber Security/HW/03-信息收集/课件笔记/3.1-信息收集概览-脑图笔记.pdf"
-    },
-    {
-      "basename": "nmap 使用",
-      "path": "Cyber Security/HW/03-信息收集/nmap 使用.md"
-    },
-    {
-      "basename": "00-虚拟机安装Kali和远程连接",
-      "path": "Cyber Security/HW/03-信息收集/00-虚拟机安装Kali和远程连接.pdf"
-    },
-    {
-      "basename": "2022护网面试题总结 (1)",
-      "path": "Cyber Security/HW/21-面试题/2022护网面试题总结 (1).pdf"
-    },
-    {
-      "basename": "京东护网面试题总结+DD安全工程师笔试问题 (1)",
-      "path": "Cyber Security/HW/21-面试题/京东护网面试题总结+DD安全工程师笔试问题 (1).pdf"
+      "basename": "Apache解析漏洞",
+      "path": "Cyber Security/HW/08-中间件漏洞/Apache解析漏洞.pdf"
     },
     {
       "basename": "Go 语言基础",
       "path": "Coding/Go/Go Pro/Go 语言基础.md"
     },
     {
-      "basename": "课程目录",
-      "path": "Cyber Security/HW/课程目录.md"
+      "basename": "HW 介绍",
+      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+    },
+    {
+      "basename": "miniaudio",
+      "path": "Coding/Go/Third-party library/minidudio/miniaudio.md"
     }
   ],
   "omittedPaths": [],

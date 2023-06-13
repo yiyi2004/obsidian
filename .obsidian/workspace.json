@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/调研/Deeplocker.md",
+                "file": "Coding/Go/Third-party library/malgo/malgo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/调研/Deeplocker.md",
+                "file": "Coding/Go/Third-party library/malgo/malgo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/调研/Deeplocker.md"
+                "file": "Coding/Go/Third-party library/malgo/malgo.md"
               }
             }
           },
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/调研/Deeplocker.md",
+                "file": "Coding/Go/Third-party library/malgo/malgo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/调研/Deeplocker.md",
+                "file": "Coding/Go/Third-party library/malgo/malgo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,12 +283,14 @@
   },
   "active": "d0897c68e181d429",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Coding/Go/Third-party library/malgo/malgo.md",
+    "Coding/Go/Third-party library/malgo",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/调研/Deeplocker.md",
     "Day3/Day3.md",
     "Eassay/随想.md",
     "Resume/Resume.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
-    "Cyber Security/调研/Deeplocker.md",
     "Resume/Snipaste/Pasted image 20230609104940.png",
     "Resume/Snipaste",
     "Resume/招聘网站/领英职场.md",
@@ -312,14 +314,12 @@
     "Coding/Go/Third-party library/gocv/gocv.Show.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Life/活动/准备一下去安全公司需要问的问题.md",
-    "Life/活动/GopherChina2023.md",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",
     "Cyber Security/HW/18-入侵排查/windows排查.pdf",
     "Cyber Security/HW/18-入侵排查/Linux排查.pdf",
     "Cyber Security/HW/17-内网渗透-课件/NTML和LM哈希.pdf",
     "Cyber Security/HW/17-内网渗透-课件/IPC横向.pdf",
     "Cyber Security/HW/17-内网渗透-课件/抓取密码.pdf",
-    "Cyber Security/HW/17-内网渗透-课件/域内信息收集.pdf",
     "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
     "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
     "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608084237.png",

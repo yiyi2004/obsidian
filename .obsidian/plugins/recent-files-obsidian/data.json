@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "malgo",
+      "path": "Coding/Go/Third-party library/malgo/malgo.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "Resume",
       "path": "Resume/Resume.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
     },
     {
       "basename": "领英职场",
@@ -195,10 +199,6 @@
     {
       "basename": "SSRF漏洞-课件",
       "path": "Cyber Security/HW/09-SSRF/SSRF漏洞-课件.pdf"
-    },
-    {
-      "basename": "Apache解析漏洞",
-      "path": "Cyber Security/HW/08-中间件漏洞/Apache解析漏洞.pdf"
     }
   ],
   "omittedPaths": [],

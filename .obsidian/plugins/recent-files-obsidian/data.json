@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
       "basename": "Makefile",
       "path": "Coding/C&CPP/入门/Makefile.md"
+    },
+    {
+      "basename": "现代诗",
+      "path": "Interesting/诗词歌赋/现代诗.md"
+    },
+    {
+      "basename": "唐诗宋词",
+      "path": "Interesting/诗词歌赋/唐诗宋词.md"
     },
     {
       "basename": "C++编译基础",
@@ -13,20 +33,12 @@
       "path": "Coding/Go/Third-party library/malgo/malgo.md"
     },
     {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "随想",
@@ -187,18 +199,6 @@
     {
       "basename": "02-Apache Commons Collections反序列化漏洞-课件",
       "path": "Cyber Security/HW/11-Java反序列化漏洞/02-Apache Commons Collections反序列化漏洞-课件.pdf"
-    },
-    {
-      "basename": "02-Apache Commons Collections反序列化漏洞-笔记",
-      "path": "Cyber Security/HW/11-Java反序列化漏洞/02-Apache Commons Collections反序列化漏洞-笔记.pdf"
-    },
-    {
-      "basename": "01-Java序列化和反序列化-课件",
-      "path": "Cyber Security/HW/11-Java反序列化漏洞/01-Java序列化和反序列化-课件.pdf"
-    },
-    {
-      "basename": "01-Java序列化和反序列化-笔记",
-      "path": "Cyber Security/HW/11-Java反序列化漏洞/01-Java序列化和反序列化-笔记.pdf"
     }
   ],
   "omittedPaths": [],

@@ -10,18 +10,17 @@
 ### Capture
 
 ```go
+// This example simply captures data from your default microphone until you press Enter, after which it plays back the captured audio.
 package main
 
 import (
 	"fmt"
 	"os"
 
-	// This example simply captures data from your default microphone until you press Enter, after which it plays back the captured audio.
 	"github.com/gen2brain/malgo"
 )
 
 func main() {
-
 	ctx, err := malgo.InitContext(nil, malgo.ContextConfig{}, func(message string) {
 		fmt.Printf("LOG <%v>\n", message)
 	})

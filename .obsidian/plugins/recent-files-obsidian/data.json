@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Makefile",
+      "path": "Coding/C&CPP/入门/Makefile.md"
+    },
+    {
+      "basename": "C++编译基础",
+      "path": "Coding/C&CPP/入门/C++编译基础.md"
+    },
+    {
       "basename": "malgo",
       "path": "Coding/Go/Third-party library/malgo/malgo.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "01-Java序列化和反序列化-笔记",
       "path": "Cyber Security/HW/11-Java反序列化漏洞/01-Java序列化和反序列化-笔记.pdf"
-    },
-    {
-      "basename": "XXE漏洞-课件",
-      "path": "Cyber Security/HW/10-XXE/XXE漏洞-课件.pdf"
-    },
-    {
-      "basename": "SSRF漏洞-课件",
-      "path": "Cyber Security/HW/09-SSRF/SSRF漏洞-课件.pdf"
     }
   ],
   "omittedPaths": [],

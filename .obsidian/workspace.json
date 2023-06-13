@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Third-party library/malgo/malgo.md",
+                "file": "Coding/C&CPP/入门/Makefile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/malgo/malgo.md",
+                "file": "Coding/C&CPP/入门/Makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/malgo/malgo.md"
+                "file": "Coding/C&CPP/入门/Makefile.md"
               }
             }
           },
@@ -214,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/malgo/malgo.md",
+                "file": "Coding/C&CPP/入门/Makefile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/malgo/malgo.md",
+                "file": "Coding/C&CPP/入门/Makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,15 +282,28 @@
   },
   "active": "d0897c68e181d429",
   "lastOpenFiles": [
+    "Coding/C&CPP/入门/C++编译基础.md",
+    "Coding/C&CPP/入门/Makefile.md",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171519.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171305.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171023.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170841.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170157.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170044.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613165847.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613165145.png",
+    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613165116.png",
+    "Coding/C&CPP/入门/Snipaste",
+    "Coding/Go/Third-party library/malgo/malgo.md",
+    "Coding/C&CPP/入门",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Coding/Go/Third-party library/malgo/malgo.md",
     "Coding/Go/Third-party library/malgo",
     "Cyber Security/调研/Deeplocker.md",
     "Day3/Day3.md",
     "Eassay/随想.md",
     "Resume/Resume.md",
-    "Resume/Snipaste/Pasted image 20230609104940.png",
     "Resume/Snipaste",
     "Resume/招聘网站/领英职场.md",
     "Resume/招聘网站/实习僧.md",
@@ -313,23 +324,10 @@
     "Eassay/企划书/企划书.md",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "Coding/Go/Third-party library/gocv/gocv.Show.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Life/活动/准备一下去安全公司需要问的问题.md",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",
     "Cyber Security/HW/18-入侵排查/windows排查.pdf",
     "Cyber Security/HW/18-入侵排查/Linux排查.pdf",
     "Cyber Security/HW/17-内网渗透-课件/NTML和LM哈希.pdf",
-    "Cyber Security/HW/17-内网渗透-课件/IPC横向.pdf",
-    "Cyber Security/HW/17-内网渗透-课件/抓取密码.pdf",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.3-IP信息-脑图笔记.png",
-    "Cyber Security/HW/03-信息收集/课件笔记/3.2-域名信息-脑图笔记.png",
-    "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608084237.png",
-    "Cyber Security/HW/01-HW介绍/Snipaste/Pasted image 20230608083329.png",
-    "Cyber Security/HW/Snipaste/Pasted image 20230608083006.png",
-    "Cyber Security/HW/Snipaste/Pasted image 20230608082959.png",
-    "Cyber Security/HW/Snipaste/Pasted image 20230608082946.png",
-    "Cyber Security/HW/Snipaste/Pasted image 20230608082935.png",
-    "Cyber Security/HW/Snipaste/Pasted image 20230608082927.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

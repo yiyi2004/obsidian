@@ -95,15 +95,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Coding/Go/其他问题/对各种 Payload 加解密.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -239,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,8 +305,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c2083e8b2f9cdd10",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Coding/Go/其他问题/对各种 Payload 加解密.md",
+    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Coding/C&CPP/C 开发环境搭建.md",
@@ -348,8 +349,6 @@
     "Resume/招聘网站/猎聘网.md",
     "Resume/招聘网站/前程无忧.md",
     "Resume/招聘网站/智联招聘.md",
-    "Resume/招聘网站/各厂的招聘官网.md",
-    "Resume/招聘网站/校招.md",
     "Resume/招聘网站",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",

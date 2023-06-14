@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "绝对路径和相对路径问题",
-      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "对各种 Payload 加解密",
+      "path": "Coding/Go/其他问题/对各种 Payload 加解密.md"
+    },
+    {
+      "basename": "绝对路径和相对路径问题",
+      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
     },
     {
       "basename": "deeplocker 信息整合(memos)",
@@ -195,10 +199,6 @@
     {
       "basename": "哈希传递",
       "path": "Cyber Security/HW/17-内网渗透-课件/哈希传递.pdf"
-    },
-    {
-      "basename": "搭建内网环境",
-      "path": "Cyber Security/HW/17-内网渗透-课件/搭建内网环境.pdf"
     }
   ],
   "omittedPaths": [],

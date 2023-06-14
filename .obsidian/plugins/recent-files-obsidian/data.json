@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "绝对路径和相对路径问题",
+      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
+    },
+    {
       "basename": "Learning the quantum algorithm for state overlap",
       "path": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
     },
@@ -11,18 +27,6 @@
     {
       "basename": "A Survey on quantum computing technology",
       "path": "Paper/量子力学/Review/A Survey on quantum computing technology.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "C 开发环境搭建",
-      "path": "Coding/C&CPP/C 开发环境搭建.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
     },
     {
       "basename": "Makefile",
@@ -195,10 +199,6 @@
     {
       "basename": "搭建内网环境",
       "path": "Cyber Security/HW/17-内网渗透-课件/搭建内网环境.pdf"
-    },
-    {
-      "basename": "本机信息收集",
-      "path": "Cyber Security/HW/17-内网渗透-课件/本机信息收集.pdf"
     }
   ],
   "omittedPaths": [],

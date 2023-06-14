@@ -75,8 +75,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2a34373bf66c9009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
               }
             }
           },
@@ -212,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -279,8 +293,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "2a34373bf66c9009",
   "lastOpenFiles": [
+    "Paper/量子力学/量子计算导论期末论文素材收集.md",
+    "Paper/量子力学/Review/A Survey on quantum computing technology.md",
+    "Day3/Day3.md",
+    "Cyber Security/HW/08-中间件漏洞/a2a25610131f4e3984833625eaec61ab",
     "Coding/C&CPP/C 开发环境搭建.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Coding/C&CPP/基础知识(黑马)",
@@ -304,7 +322,6 @@
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Coding/Go/Third-party library/malgo",
     "Cyber Security/调研/Deeplocker.md",
-    "Day3/Day3.md",
     "Eassay/随想.md",
     "Resume/Resume.md",
     "Resume/Snipaste",
@@ -320,13 +337,10 @@
     "Resume/招聘网站/各厂的招聘官网.md",
     "Resume/招聘网站/校招.md",
     "Resume/招聘网站/Boss直聘.md",
-    "Resume/招聘网站/牛客网.md",
-    "Resume/Resume index.md",
     "Resume/招聘网站",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",
     "Cyber Security/HW/18-入侵排查/windows排查.pdf",
-    "Cyber Security/HW/18-入侵排查/Linux排查.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

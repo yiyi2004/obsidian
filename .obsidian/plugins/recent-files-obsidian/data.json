@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Learning the quantum algorithm for state overlap",
+      "path": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
+    },
+    {
+      "basename": "量子计算导论期末论文素材收集",
+      "path": "Paper/量子力学/量子计算导论期末论文素材收集.md"
+    },
+    {
+      "basename": "A Survey on quantum computing technology",
+      "path": "Paper/量子力学/Review/A Survey on quantum computing technology.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "本机信息收集",
       "path": "Cyber Security/HW/17-内网渗透-课件/本机信息收集.pdf"
-    },
-    {
-      "basename": "windows权限维持-shift后门",
-      "path": "Cyber Security/HW/15-权限维持-课件/15-权限维持-课件/windows权限维持-shift后门.pdf"
-    },
-    {
-      "basename": "03-Fastjson反序列化漏洞-笔记",
-      "path": "Cyber Security/HW/11-Java反序列化漏洞/03-Fastjson反序列化漏洞-笔记.pdf"
-    },
-    {
-      "basename": "02-Apache Commons Collections反序列化漏洞-课件",
-      "path": "Cyber Security/HW/11-Java反序列化漏洞/02-Apache Commons Collections反序列化漏洞-课件.pdf"
     }
   ],
   "omittedPaths": [],

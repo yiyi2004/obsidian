@@ -33,4 +33,65 @@ github, gitlab 我都会使用，笔记系统的构建。**计算机行业向外
 我管他叫王哥。  
 ——《实习》
 
+### 个人基本信息
+
+### 教育经历
+
+### 专业技能
+
+- 基础知识部分
+	- 计算机网络
+	- 操作系统
+		- Linux
+	- 计算机组成原理
+	- 算法
+- 语言的掌握程度，关键在于能用他们做什么
+	- Go
+		- CGO
+		- 并发编程实践
+	- Python
+	- TypeScript
+	- Shell
+	- GUI
+	- 有用 Go 部署深度学习模型的经验
+- 前端技术
+	- React
+	- Antd
+	- Ajax
+- 后端技术
+	- Gin Hertz 等等可以了解一下
+	- Python Flask
+	- Go 后端开发
+	- 代码规范
+	- 中间件
+		- Kafka
+		- Nats
+- 数据库
+	- PostgreSQL
+	- MySQL
+	- Redis
+	- Elasticsearch —— 分布式数据库
+- 云原生
+	- Docker 技术
+	- Kubernetes
+	- Prometheus
+- 爬虫
+	- 基本爬虫
+	- 异步爬虫
+	- 逆向爬虫
+- 网络安全
+
+### 项目经历
+
+- deeplocker
+- 第一个项目
+- 开源项目
+- 爬虫 + chatgpt
+
+### 校园经历
+
+- 参加 GopherChina
+
+### 个人评价
+
 ## Reference

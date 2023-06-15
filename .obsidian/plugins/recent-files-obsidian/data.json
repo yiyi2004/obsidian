@@ -5,12 +5,24 @@
       "path": "Day3/Day3.md"
     },
     {
-      "basename": "对各种 Payload 加解密",
-      "path": "Coding/Go/其他问题/对各种 Payload 加解密.md"
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
-      "basename": "绝对路径和相对路径问题",
-      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
+      "basename": "prompt",
+      "path": "AI/LLM/Chatgpt/prompt.md"
+    },
+    {
+      "basename": "Private",
+      "path": "Private/Private.md"
+    },
+    {
+      "basename": "问题解决",
+      "path": "Frontend/Node/问题解决.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "AI/LLM/Chatgpt/ChatGPT.md"
     },
     {
       "basename": "deeplocker 信息整合(memos)",
@@ -19,6 +31,14 @@
     {
       "basename": "C 开发环境搭建",
       "path": "Coding/C&CPP/C 开发环境搭建.md"
+    },
+    {
+      "basename": "对各种 Payload 加解密",
+      "path": "Coding/Go/其他问题/对各种 Payload 加解密.md"
+    },
+    {
+      "basename": "绝对路径和相对路径问题",
+      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
     },
     {
       "basename": "Learning the quantum algorithm for state overlap",
@@ -63,10 +83,6 @@
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
     },
     {
       "basename": "领英职场",
@@ -183,22 +199,6 @@
     {
       "basename": "票据传递",
       "path": "Cyber Security/HW/17-内网渗透-课件/票据传递.pdf"
-    },
-    {
-      "basename": "内网渗透基础",
-      "path": "Cyber Security/HW/17-内网渗透-课件/内网渗透基础.pdf"
-    },
-    {
-      "basename": "内网渗透",
-      "path": "Cyber Security/HW/17-内网渗透-课件/内网渗透.pdf"
-    },
-    {
-      "basename": "内网扫描",
-      "path": "Cyber Security/HW/17-内网渗透-课件/内网扫描.pdf"
-    },
-    {
-      "basename": "哈希传递",
-      "path": "Cyber Security/HW/17-内网渗透-课件/哈希传递.pdf"
     }
   ],
   "omittedPaths": [],

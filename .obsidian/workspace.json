@@ -77,12 +77,12 @@
             }
           },
           {
-            "id": "2a34373bf66c9009",
+            "id": "aed0d71c1a470180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+                "file": "AI/LLM/Chatgpt/prompt.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,12 +90,12 @@
             }
           },
           {
-            "id": "c2083e8b2f9cdd10",
+            "id": "8111a946f2c11ef3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/其他问题/对各种 Payload 加解密.md",
+                "file": "Resume/Resume.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -307,11 +307,16 @@
   },
   "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Coding/Go/其他问题/对各种 Payload 加解密.md",
-    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
+    "Resume/Resume.md",
+    "AI/LLM/Chatgpt/prompt.md",
+    "Private/Private.md",
+    "Frontend/Node/问题解决.md",
     "Day3/Day3.md",
+    "AI/LLM/Chatgpt/ChatGPT.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Coding/C&CPP/C 开发环境搭建.md",
+    "Coding/Go/其他问题/对各种 Payload 加解密.md",
+    "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
     "Paper/量子力学/量子计算导论期末论文素材收集.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
@@ -338,17 +343,12 @@
     "Coding/Go/Third-party library/malgo",
     "Cyber Security/调研/Deeplocker.md",
     "Eassay/随想.md",
-    "Resume/Resume.md",
     "Resume/Snipaste",
     "Resume/招聘网站/领英职场.md",
     "Resume/招聘网站/实习僧.md",
     "Resume/招聘网站/内推网.md",
     "Resume/招聘网站/电商人才.md",
     "Resume/招聘网站/拉勾网.md",
-    "Resume/招聘网站/当地的人才网.md",
-    "Resume/招聘网站/猎聘网.md",
-    "Resume/招聘网站/前程无忧.md",
-    "Resume/招聘网站/智联招聘.md",
     "Resume/招聘网站",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",

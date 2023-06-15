@@ -102,8 +102,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/flags/flags.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/flags/flags.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -239,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/flags/flags.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/flags/flags.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,12 +306,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cfb9670c13800d4a",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Coding/Go/Third-party library/flags/flags.md",
     "Coding/Go/hash.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Cyber Security/Red Team/载荷的植入方式.md",
-    "Coding/Go/Third-party library/flags/flags.md",
     "Coding/Go/标准库的使用/strings.md",
     "Coding/Go/Third-party library/flags",
     "Coding/Go/标准库的使用/crypto.md",

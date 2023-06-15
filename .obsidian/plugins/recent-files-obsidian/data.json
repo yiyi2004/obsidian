@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "flags",
       "path": "Coding/Go/Third-party library/flags/flags.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "crypto",
       "path": "Coding/Go/标准库的使用/crypto.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Go 打包",

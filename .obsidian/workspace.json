@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/标准库的使用/strings.md",
+                "file": "Coding/Go/Third-party library/flags/flags.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/标准库的使用/strings.md",
+                "file": "Coding/Go/Third-party library/flags/flags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/标准库的使用/strings.md"
+                "file": "Coding/Go/Third-party library/flags/flags.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/标准库的使用/strings.md",
+                "file": "Coding/Go/Third-party library/flags/flags.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/标准库的使用/strings.md",
+                "file": "Coding/Go/Third-party library/flags/flags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,16 +310,18 @@
   "active": "cfb9670c13800d4a",
   "lastOpenFiles": [
     "Coding/Go/hash.md",
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Cyber Security/Red Team/载荷的植入方式.md",
+    "Coding/Go/Third-party library/flags/flags.md",
     "Coding/Go/标准库的使用/strings.md",
+    "Coding/Go/Third-party library/flags",
     "Coding/Go/标准库的使用/crypto.md",
     "Day3/Day3.md",
     "Coding/Go/基础知识/Go 打包.md",
     "Cyber Security/密码应用与安全/04. Hash 函数.md",
     "Eassay/随想.md",
-    "Cyber Security/Red Team/载荷的植入方式.md",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
-    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Coding/C&CPP/C 开发环境搭建.md",
     "Resume/Resume.md",
     "AI/LLM/Chatgpt/prompt.md",
@@ -349,12 +351,10 @@
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170157.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170044.png",
     "Coding/C&CPP/入门/Snipaste",
-    "Coding/Go/Third-party library/malgo/malgo.md",
     "Coding/C&CPP/入门",
     "Coding/Go/Third-party library/malgo",
     "Resume/Snipaste",
     "Resume/招聘网站",
-    "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "strings",
-      "path": "Coding/Go/标准库的使用/strings.md"
+      "basename": "flags",
+      "path": "Coding/Go/Third-party library/flags/flags.md"
     },
     {
       "basename": "hash",
       "path": "Coding/Go/hash.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "载荷的植入方式",
+      "path": "Cyber Security/Red Team/载荷的植入方式.md"
+    },
+    {
+      "basename": "strings",
+      "path": "Coding/Go/标准库的使用/strings.md"
     },
     {
       "basename": "crypto",
@@ -27,14 +39,6 @@
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "载荷的植入方式",
-      "path": "Cyber Security/Red Team/载荷的植入方式.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
     },
     {
       "basename": "C 开发环境搭建",
@@ -195,10 +199,6 @@
     {
       "basename": "面试题",
       "path": "Resume/面试题.md"
-    },
-    {
-      "basename": "常见安全设备",
-      "path": "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf"
     }
   ],
   "omittedPaths": [],

@@ -64,46 +64,7 @@
             }
           },
           {
-            "id": "d0897c68e181d429",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/C&CPP/C 开发环境搭建.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aed0d71c1a470180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/LLM/Chatgpt/prompt.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8111a946f2c11ef3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume/Resume.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76ab50a4e6f39e1d",
+            "id": "150e178a4d09ca4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -114,8 +75,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f3d2abfad8dd7443",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/hash.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfb9670c13800d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/标准库的使用/crypto.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -159,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/标准库的使用/crypto.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/Go/标准库的使用/crypto.md"
               }
             }
           },
@@ -251,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/标准库的使用/crypto.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/标准库的使用/crypto.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,20 +307,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "cfb9670c13800d4a",
   "lastOpenFiles": [
+    "Day3/Day3.md",
+    "Coding/Go/标准库的使用/crypto.md",
+    "Coding/Go/hash.md",
+    "Coding/Go/基础知识/Go 打包.md",
+    "Cyber Security/密码应用与安全/04. Hash 函数.md",
+    "Eassay/随想.md",
+    "Cyber Security/Red Team/载荷的植入方式.md",
+    "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
+    "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Coding/C&CPP/C 开发环境搭建.md",
+    "Resume/Resume.md",
+    "AI/LLM/Chatgpt/prompt.md",
     "Cyber Security/Red Team/automating_payload_delivery.pdf",
     "Cyber Security/Red Team/未确认 243642.crdownload",
-    "Cyber Security/Red Team/载荷的植入方式.md",
     "Cyber Security/Cyber Security index.md",
-    "AI/LLM/Chatgpt/prompt.md",
-    "Day3/Day3.md",
-    "Resume/Resume.md",
     "Private/Private.md",
     "Frontend/Node/问题解决.md",
     "AI/LLM/Chatgpt/ChatGPT.md",
-    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
-    "Coding/C&CPP/C 开发环境搭建.md",
     "Coding/Go/其他问题/对各种 Payload 加解密.md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
@@ -352,21 +347,14 @@
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170841.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170157.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170044.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613165847.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613165145.png",
     "Coding/C&CPP/入门/Snipaste",
     "Coding/Go/Third-party library/malgo/malgo.md",
     "Coding/C&CPP/入门",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Coding/Go/Third-party library/malgo",
-    "Cyber Security/调研/Deeplocker.md",
-    "Eassay/随想.md",
     "Resume/Snipaste",
-    "Resume/招聘网站/领英职场.md",
-    "Resume/招聘网站/实习僧.md",
     "Resume/招聘网站",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
-    "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

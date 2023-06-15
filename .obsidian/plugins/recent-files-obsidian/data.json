@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "crypto",
+      "path": "Coding/Go/标准库的使用/crypto.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "hash",
+      "path": "Coding/Go/hash.md"
+    },
+    {
+      "basename": "Go 打包",
+      "path": "Coding/Go/基础知识/Go 打包.md"
+    },
+    {
+      "basename": "04. Hash 函数",
+      "path": "Cyber Security/密码应用与安全/04. Hash 函数.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
     },
     {
       "basename": "载荷的植入方式",
       "path": "Cyber Security/Red Team/载荷的植入方式.md"
     },
     {
-      "basename": "Cyber Security index",
-      "path": "Cyber Security/Cyber Security index.md"
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
       "basename": "prompt",
       "path": "AI/LLM/Chatgpt/prompt.md"
     },
     {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
+      "basename": "Cyber Security index",
+      "path": "Cyber Security/Cyber Security index.md"
     },
     {
       "basename": "Private",
@@ -31,14 +59,6 @@
     {
       "basename": "ChatGPT",
       "path": "AI/LLM/Chatgpt/ChatGPT.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
-      "basename": "C 开发环境搭建",
-      "path": "Coding/C&CPP/C 开发环境搭建.md"
     },
     {
       "basename": "对各种 Payload 加解密",
@@ -87,10 +107,6 @@
     {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "领英职场",
@@ -183,22 +199,6 @@
     {
       "basename": "windows排查",
       "path": "Cyber Security/HW/18-入侵排查/windows排查.pdf"
-    },
-    {
-      "basename": "Linux排查",
-      "path": "Cyber Security/HW/18-入侵排查/Linux排查.pdf"
-    },
-    {
-      "basename": "NTML和LM哈希",
-      "path": "Cyber Security/HW/17-内网渗透-课件/NTML和LM哈希.pdf"
-    },
-    {
-      "basename": "IPC横向",
-      "path": "Cyber Security/HW/17-内网渗透-课件/IPC横向.pdf"
-    },
-    {
-      "basename": "抓取密码",
-      "path": "Cyber Security/HW/17-内网渗透-课件/抓取密码.pdf"
     }
   ],
   "omittedPaths": [],

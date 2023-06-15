@@ -200,7 +200,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -277,7 +278,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -305,7 +307,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "1d9133ca19ac2c35",
   "lastOpenFiles": [
     "Resume/Resume.md",
     "AI/LLM/Chatgpt/prompt.md",

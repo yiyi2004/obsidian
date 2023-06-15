@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "strings",
+      "path": "Coding/Go/标准库的使用/strings.md"
+    },
+    {
+      "basename": "hash",
+      "path": "Coding/Go/hash.md"
+    },
+    {
       "basename": "crypto",
       "path": "Coding/Go/标准库的使用/crypto.md"
     },
     {
       "basename": "Day3",
       "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "hash",
-      "path": "Coding/Go/hash.md"
     },
     {
       "basename": "Go 打包",
@@ -195,10 +199,6 @@
     {
       "basename": "常见安全设备",
       "path": "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf"
-    },
-    {
-      "basename": "windows排查",
-      "path": "Cyber Security/HW/18-入侵排查/windows排查.pdf"
     }
   ],
   "omittedPaths": [],

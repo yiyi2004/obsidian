@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/标准库的使用/crypto.md",
+                "file": "Coding/Go/标准库的使用/strings.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/标准库的使用/crypto.md",
+                "file": "Coding/Go/标准库的使用/strings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/标准库的使用/crypto.md"
+                "file": "Coding/Go/标准库的使用/strings.md"
               }
             }
           },
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/标准库的使用/crypto.md",
+                "file": "Coding/Go/标准库的使用/strings.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/标准库的使用/crypto.md",
+                "file": "Coding/Go/标准库的使用/strings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,9 +309,10 @@
   },
   "active": "cfb9670c13800d4a",
   "lastOpenFiles": [
-    "Day3/Day3.md",
-    "Coding/Go/标准库的使用/crypto.md",
     "Coding/Go/hash.md",
+    "Coding/Go/标准库的使用/strings.md",
+    "Coding/Go/标准库的使用/crypto.md",
+    "Day3/Day3.md",
     "Coding/Go/基础知识/Go 打包.md",
     "Cyber Security/密码应用与安全/04. Hash 函数.md",
     "Eassay/随想.md",
@@ -350,7 +351,6 @@
     "Coding/C&CPP/入门/Snipaste",
     "Coding/Go/Third-party library/malgo/malgo.md",
     "Coding/C&CPP/入门",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Coding/Go/Third-party library/malgo",
     "Resume/Snipaste",
     "Resume/招聘网站",

@@ -101,6 +101,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "76ab50a4e6f39e1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Red Team/载荷的植入方式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -200,8 +213,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
@@ -307,13 +319,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d9133ca19ac2c35",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Resume/Resume.md",
+    "Cyber Security/Red Team/载荷的植入方式.md",
+    "Cyber Security/Cyber Security index.md",
     "AI/LLM/Chatgpt/prompt.md",
+    "Day3/Day3.md",
+    "Resume/Resume.md",
     "Private/Private.md",
     "Frontend/Node/问题解决.md",
-    "Day3/Day3.md",
     "AI/LLM/Chatgpt/ChatGPT.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Coding/C&CPP/C 开发环境搭建.md",
@@ -349,8 +363,6 @@
     "Resume/招聘网站/领英职场.md",
     "Resume/招聘网站/实习僧.md",
     "Resume/招聘网站/内推网.md",
-    "Resume/招聘网站/电商人才.md",
-    "Resume/招聘网站/拉勾网.md",
     "Resume/招聘网站",
     "Cyber Security/HW/19-安全设备和面试/面试.pdf",
     "Cyber Security/HW/19-安全设备和面试/常见安全设备.pdf",

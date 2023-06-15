@@ -5,12 +5,20 @@
       "path": "Day3/Day3.md"
     },
     {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
+      "basename": "载荷的植入方式",
+      "path": "Cyber Security/Red Team/载荷的植入方式.md"
+    },
+    {
+      "basename": "Cyber Security index",
+      "path": "Cyber Security/Cyber Security index.md"
     },
     {
       "basename": "prompt",
       "path": "AI/LLM/Chatgpt/prompt.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
       "basename": "Private",
@@ -191,14 +199,6 @@
     {
       "basename": "抓取密码",
       "path": "Cyber Security/HW/17-内网渗透-课件/抓取密码.pdf"
-    },
-    {
-      "basename": "域内信息收集",
-      "path": "Cyber Security/HW/17-内网渗透-课件/域内信息收集.pdf"
-    },
-    {
-      "basename": "票据传递",
-      "path": "Cyber Security/HW/17-内网渗透-课件/票据传递.pdf"
     }
   ],
   "omittedPaths": [],

@@ -128,8 +128,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -265,7 +264,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -290,7 +289,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -333,8 +332,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "32c779f53c8fb388",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Eassay/随想.md",
+    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
     "Day3/Day3.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
@@ -349,7 +350,6 @@
     "Coding/Go/标准库的使用/crypto.md",
     "Coding/Go/基础知识/Go 打包.md",
     "Cyber Security/密码应用与安全/04. Hash 函数.md",
-    "Eassay/随想.md",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
     "Coding/C&CPP/C 开发环境搭建.md",
@@ -363,7 +363,6 @@
     "AI/LLM/Chatgpt/ChatGPT.md",
     "Coding/Go/其他问题/对各种 Payload 加解密.md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
     "Paper/量子力学/量子计算导论期末论文素材收集.md",
     "Paper/量子力学/Review/A Survey on quantum computing technology.md",
     "Cyber Security/HW/08-中间件漏洞/a2a25610131f4e3984833625eaec61ab",

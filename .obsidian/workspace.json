@@ -101,6 +101,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5f69e6144d7518b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Third-party library/audio/Go Audio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -308,6 +321,11 @@
   },
   "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Coding/Go/Third-party library/audio/Go Audio.md",
+    "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+    "Coding/Go/Third-party library/audio",
+    "Basic/VIM/vim 指令.md",
+    "Day3/Day3.md",
     "Coding/Go/Third-party library/flags/flags.md",
     "Coding/Go/hash.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
@@ -315,7 +333,6 @@
     "Coding/Go/标准库的使用/strings.md",
     "Coding/Go/Third-party library/flags",
     "Coding/Go/标准库的使用/crypto.md",
-    "Day3/Day3.md",
     "Coding/Go/基础知识/Go 打包.md",
     "Cyber Security/密码应用与安全/04. Hash 函数.md",
     "Eassay/随想.md",
@@ -339,9 +356,6 @@
     "Coding/C&CPP/基础知识(黑马)",
     "Coding/C&CPP/入门/Makefile.md",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613181808.png",
-    "Interesting/诗词歌赋/现代诗.md",
-    "Interesting/诗词歌赋/唐诗宋词.md",
-    "Coding/C&CPP/入门/C++编译基础.md",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171519.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171305.png",
@@ -351,9 +365,8 @@
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170044.png",
     "Coding/C&CPP/入门/Snipaste",
     "Coding/C&CPP/入门",
-    "Coding/Go/Third-party library/malgo",
+    "Coding/Go/Third-party library/audio/malgo",
     "Resume/Snipaste",
-    "Resume/招聘网站",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

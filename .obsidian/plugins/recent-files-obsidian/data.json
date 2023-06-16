@@ -5,6 +5,18 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "Go Audio",
+      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+    },
+    {
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
+    },
+    {
+      "basename": "vim 指令",
+      "path": "Basic/VIM/vim 指令.md"
+    },
+    {
       "basename": "flags",
       "path": "Coding/Go/Third-party library/flags/flags.md"
     },
@@ -106,7 +118,7 @@
     },
     {
       "basename": "malgo",
-      "path": "Coding/Go/Third-party library/malgo/malgo.md"
+      "path": "Coding/Go/Third-party library/audio/malgo/malgo.md"
     },
     {
       "basename": "deeplocker backend summary",
@@ -187,18 +199,6 @@
     {
       "basename": "gocv.Mat",
       "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
-    },
-    {
-      "basename": "准备一下去安全公司需要问的问题",
-      "path": "Life/活动/准备一下去安全公司需要问的问题.md"
-    },
-    {
-      "basename": "GopherChina2023",
-      "path": "Life/活动/GopherChina2023.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Resume/面试题.md"
     }
   ],
   "omittedPaths": [],

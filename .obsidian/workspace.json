@@ -114,8 +114,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "32c779f53c8fb388",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -159,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
               }
             }
           },
@@ -251,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -276,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,13 +333,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "32c779f53c8fb388",
   "lastOpenFiles": [
+    "Day3/Day3.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Coding/Go/Third-party library/audio",
     "Basic/VIM/vim 指令.md",
-    "Day3/Day3.md",
     "Coding/Go/Third-party library/flags/flags.md",
     "Coding/Go/hash.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",

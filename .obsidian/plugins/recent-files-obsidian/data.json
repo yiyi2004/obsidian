@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "短时傅里叶变换(STFT)",
+      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "西藏旅行攻略",
+      "path": "Travel Diary/西藏/西藏旅行攻略.md"
     },
     {
       "basename": "Learning the quantum algorithm for state overlap",
@@ -17,20 +21,16 @@
       "path": "Coding/Go/Third-party library/audio/Go Audio.md"
     },
     {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
-    },
-    {
-      "basename": "vim 指令",
-      "path": "Basic/VIM/vim 指令.md"
-    },
-    {
       "basename": "flags",
       "path": "Coding/Go/Third-party library/flags/flags.md"
     },
     {
-      "basename": "hash",
-      "path": "Coding/Go/hash.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
       "basename": "deeplocker 信息整合(memos)",
@@ -39,6 +39,18 @@
     {
       "basename": "载荷的植入方式",
       "path": "Cyber Security/Red Team/载荷的植入方式.md"
+    },
+    {
+      "basename": "hash",
+      "path": "Coding/Go/hash.md"
+    },
+    {
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
+    },
+    {
+      "basename": "vim 指令",
+      "path": "Basic/VIM/vim 指令.md"
     },
     {
       "basename": "strings",
@@ -59,10 +71,6 @@
     {
       "basename": "C 开发环境搭建",
       "path": "Coding/C&CPP/C 开发环境搭建.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
     },
     {
       "basename": "prompt",
@@ -191,14 +199,6 @@
     {
       "basename": "面试",
       "path": "Cyber Security/HW/19-安全设备和面试/面试.pdf"
-    },
-    {
-      "basename": "gocv.Show",
-      "path": "Coding/Go/Third-party library/gocv/gocv.Show.md"
-    },
-    {
-      "basename": "gocv.Mat",
-      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
     }
   ],
   "omittedPaths": [],

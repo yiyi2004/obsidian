@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "444eedf933a71967",
+            "id": "da5777578517f627",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "18fe31c6a7715ddf",
+            "id": "40ab5c0f27e1bfaa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Resume/Resume.md",
+                "file": "Travel Diary/西藏/西藏旅行攻略.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,84 +51,20 @@
             }
           },
           {
-            "id": "ccf1db40f3318ed0",
+            "id": "2b72e6caf6bbe9a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "150e178a4d09ca4b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Red Team/载荷的植入方式.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3d2abfad8dd7443",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/hash.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cfb9670c13800d4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Third-party library/flags/flags.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f69e6144d7518b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Third-party library/audio/Go Audio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "32c779f53c8fb388",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
+                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -172,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
               }
             }
           },
@@ -264,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -289,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,19 +268,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "2b72e6caf6bbe9a1",
   "lastOpenFiles": [
     "Eassay/随想.md",
+    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+    "Travel Diary/西藏/西藏旅行攻略.md",
+    "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
+    "Travel Diary/西藏/Snipaste/Pasted image 20230617102950.png",
+    "Travel Diary/西藏/Snipaste/Pasted image 20230617100239.png",
+    "Travel Diary/西藏/Snipaste",
     "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
-    "Day3/Day3.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
+    "Coding/Go/Third-party library/flags/flags.md",
+    "Day3/Day3.md",
+    "Resume/Resume.md",
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Cyber Security/Red Team/载荷的植入方式.md",
+    "Coding/Go/hash.md",
+    "Travel Diary/西藏",
+    "Travel Diary",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Coding/Go/Third-party library/audio",
     "Basic/VIM/vim 指令.md",
-    "Coding/Go/Third-party library/flags/flags.md",
-    "Coding/Go/hash.md",
-    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
-    "Cyber Security/Red Team/载荷的植入方式.md",
     "Coding/Go/标准库的使用/strings.md",
     "Coding/Go/Third-party library/flags",
     "Coding/Go/标准库的使用/crypto.md",
@@ -353,7 +298,6 @@
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
     "Coding/C&CPP/C 开发环境搭建.md",
-    "Resume/Resume.md",
     "AI/LLM/Chatgpt/prompt.md",
     "Cyber Security/Red Team/automating_payload_delivery.pdf",
     "Cyber Security/Red Team/未确认 243642.crdownload",
@@ -364,22 +308,14 @@
     "Coding/Go/其他问题/对各种 Payload 加解密.md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
     "Paper/量子力学/量子计算导论期末论文素材收集.md",
-    "Paper/量子力学/Review/A Survey on quantum computing technology.md",
     "Cyber Security/HW/08-中间件漏洞/a2a25610131f4e3984833625eaec61ab",
     "Coding/C&CPP/基础知识(黑马)",
-    "Coding/C&CPP/入门/Makefile.md",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613181808.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171519.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171305.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171023.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170841.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170157.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613170044.png",
     "Coding/C&CPP/入门/Snipaste",
-    "Coding/C&CPP/入门",
-    "Coding/Go/Third-party library/audio/malgo",
-    "Resume/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

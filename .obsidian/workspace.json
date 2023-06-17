@@ -62,9 +62,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e6343cc0401ee64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Third-party library/audio/Go Audio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/基础知识/复数.md",
+                "file": "Coding/Go/Third-party library/audio/Go Audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/基础知识/复数.md"
+                "file": "Coding/Go/Third-party library/audio/Go Audio.md"
               }
             }
           },
@@ -200,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/基础知识/复数.md",
+                "file": "Coding/Go/Third-party library/audio/Go Audio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/基础知识/复数.md",
+                "file": "Coding/Go/Third-party library/audio/Go Audio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,8 +252,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,10 +280,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b72e6caf6bbe9a1",
+  "active": "811215e87ba12079",
   "lastOpenFiles": [
-    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
     "Coding/Go/基础知识/复数.md",
+    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
     "Eassay/随想.md",
     "Travel Diary/西藏/西藏旅行攻略.md",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",

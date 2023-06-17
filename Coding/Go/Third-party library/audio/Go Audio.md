@@ -8,6 +8,8 @@
 
 ## Content
 
+### PortAudio & Beep
+
 以下是一个简单的使用 PortAudio 播放音频的例子：
 
 ```go
@@ -121,6 +123,67 @@ func main() {
 
 以上代码中，我们首先检查命令行参数，获取要播放的音频文件名。然后打开文件并将其解码为音频流。我们初始化扬声
 
+### go-audio/audio & go-audio/wav
+
+要在 Golang 中读取并处理 WAV 文件，你可以使用第三方库 `go-audio/wav`。以下是一个基本的示例代码，演示了如何读取 WAV 文件的音频数据：
+
+```go
+package main
+
+import (
+	"fmt"
+	"os"
+
+	"github.com/go-audio/audio"
+	"github.com/go-audio/wav"
+)
+
+func main() {
+	// 打开 WAV 文件
+	file, err := os.Open("audio.wav")
+	if err != nil {
+		fmt.Println("无法打开 WAV 文件:", err)
+		return
+	}
+	defer file.Close()
+
+	// 创建一个 WAV 解码器
+	decoder := wav.NewDecoder(file)
+
+	// 确保音频格式是 PCM
+	if decoder.SampleFormat != audio.SampleFormatPCM {
+		fmt.Println("不支持的音频格式")
+		return
+	}
+
+	// 读取 WAV 文件的音频数据
+	buf, err := decoder.FullPCMBuffer()
+	if err != nil {
+		fmt.Println("无法读取音频数据:", err)
+		return
+	}
+
+	// 访问音频数据
+	fmt.Println("采样率:", buf.Format.SampleRate)
+	fmt.Println("声道数:", buf.Format.NumChannels)
+	fmt.Println("采样位深:", buf.Format.BitDepth)
+	fmt.Println("采样数:", buf.NumFrames())
+	fmt.Println("音频数据:", buf.Data)
+}
+```
+
+上述代码使用 `go-audio/wav` 库打开 WAV 文件并创建一个解码器对象。然后，通过解码器的 `FullPCMBuffer` 方法读取完整的音频数据。最后，你可以访问音频数据的各种属性，例如采样率、声道数、采样位深等，并对音频数据进行处理。
+
+请确保在运行代码之前，你已经安装了 `go-audio/wav` 库，可以使用以下命令进行安装：
+
+```
+go get github.com/go-audio/audio
+go get github.com/go-audio/wav
+```
+
+此外，你还需要准备一个名为 "audio.wav" 的 WAV 文件，将其放在代码所在的目录下，以便示例代码能够正确读取该文件的音频数据。
+
 ## Reference
 
 - [golang 播放音频-掘金 (juejin.cn)](https://juejin.cn/s/golang%20%E6%92%AD%E6%94%BE%E9%9F%B3%E9%A2%91)
+- [go-audio (github.com)](https://github.com/go-audio)

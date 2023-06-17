@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Go Audio",
+      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+    },
+    {
       "basename": "复数",
       "path": "Coding/Go/基础知识/复数.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Learning the quantum algorithm for state overlap",
       "path": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
-    },
-    {
-      "basename": "Go Audio",
-      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
     },
     {
       "basename": "flags",

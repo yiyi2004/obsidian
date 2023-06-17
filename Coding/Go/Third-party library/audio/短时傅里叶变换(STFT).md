@@ -8,6 +8,8 @@
 
 ## Content
 
+今天努力一点，明天我想完全的休息，我想远离喧嚣，在图书馆呆一天。
+
 ## Reference
 
 - [音频信号处理及深度学习教程_6.信号的时频分析STFT短时傅里叶变换【新手极其友好】_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1P3411o7FD/?spm_id_from=333.337.search-card.all.click&vd_source=25509bb582bc4a25d86d871d5cdffca3)

@@ -56,7 +56,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+                "file": "Coding/Go/基础知识/复数.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+                "file": "Coding/Go/基础知识/复数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
+                "file": "Coding/Go/基础知识/复数.md"
               }
             }
           },
@@ -200,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+                "file": "Coding/Go/基础知识/复数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+                "file": "Coding/Go/基础知识/复数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,8 +270,9 @@
   },
   "active": "2b72e6caf6bbe9a1",
   "lastOpenFiles": [
-    "Eassay/随想.md",
     "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+    "Coding/Go/基础知识/复数.md",
+    "Eassay/随想.md",
     "Travel Diary/西藏/西藏旅行攻略.md",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617102950.png",
@@ -307,7 +308,6 @@
     "AI/LLM/Chatgpt/ChatGPT.md",
     "Coding/Go/其他问题/对各种 Payload 加解密.md",
     "Coding/Go/其他问题/绝对路径和相对路径问题.md",
-    "Paper/量子力学/量子计算导论期末论文素材收集.md",
     "Cyber Security/HW/08-中间件漏洞/a2a25610131f4e3984833625eaec61ab",
     "Coding/C&CPP/基础知识(黑马)",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613181808.png",

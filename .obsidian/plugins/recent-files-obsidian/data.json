@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "复数",
+      "path": "Coding/Go/基础知识/复数.md"
+    },
+    {
       "basename": "短时傅里叶变换(STFT)",
       "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "企划书",
       "path": "Eassay/企划书/企划书.md"
-    },
-    {
-      "basename": "面试",
-      "path": "Cyber Security/HW/19-安全设备和面试/面试.pdf"
     }
   ],
   "omittedPaths": [],

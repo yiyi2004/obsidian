@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "Go Audio",
       "path": "Coding/Go/Third-party library/audio/Go Audio.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "flags",
       "path": "Coding/Go/Third-party library/flags/flags.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Resume",

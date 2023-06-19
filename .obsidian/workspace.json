@@ -90,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Leetcode/大厂算法题目汇总.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/Leetcode/大厂算法题目汇总.md"
+                "file": "Eassay/随想.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/Leetcode/大厂算法题目汇总.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/Leetcode/大厂算法题目汇总.md",
+                "file": "Eassay/随想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,10 +293,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6343cc0401ee64a",
+  "active": "da5777578517f627",
   "lastOpenFiles": [
-    "Travel Diary/西藏/西藏旅行攻略.md",
+    "Eassay/Snipaste/Pasted image 20230619133851.png",
     "Algorithm/Leetcode/大厂算法题目汇总.md",
+    "Travel Diary/西藏/西藏旅行攻略.md",
     "Algorithm/数据结构/Lists.md",
     "Algorithm/数据结构/数据结构.md",
     "Algorithm/算法体系学习/归并排序.md",
@@ -328,7 +329,6 @@
     "Coding/Go/标准库的使用/strings.md",
     "Coding/Go/Third-party library/flags",
     "Coding/Go/标准库的使用/crypto.md",
-    "Coding/Go/基础知识/Go 打包.md",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
     "Cyber Security/Red Team/automating_payload_delivery.pdf",

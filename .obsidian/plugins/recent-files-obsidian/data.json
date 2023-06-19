@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
       "basename": "大厂算法题目汇总",
       "path": "Algorithm/Leetcode/大厂算法题目汇总.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Day3",
       "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "Flask 服务",

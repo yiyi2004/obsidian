@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "大厂算法题目汇总",
+      "path": "Algorithm/Leetcode/大厂算法题目汇总.md"
     },
     {
-      "basename": "Go Audio",
-      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+      "basename": "西藏旅行攻略",
+      "path": "Travel Diary/西藏/西藏旅行攻略.md"
+    },
+    {
+      "basename": "Lists",
+      "path": "Algorithm/数据结构/Lists.md"
+    },
+    {
+      "basename": "数据结构",
+      "path": "Algorithm/数据结构/数据结构.md"
+    },
+    {
+      "basename": "归并排序",
+      "path": "Algorithm/算法体系学习/归并排序.md"
+    },
+    {
+      "basename": "链表问题",
+      "path": "Algorithm/算法体系学习/链表问题.md"
+    },
+    {
+      "basename": "位图",
+      "path": "Algorithm/算法体系学习/位图.md"
+    },
+    {
+      "basename": "规划",
+      "path": "Algorithm/Leetcode/规划.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
       "basename": "复数",
       "path": "Coding/Go/基础知识/复数.md"
     },
     {
-      "basename": "短时傅里叶变换(STFT)",
-      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
+      "basename": "Flask Quickstart",
+      "path": "Coding/Python/Repository/Flask/Flask Quickstart.md"
+    },
+    {
+      "basename": "Go Audio",
+      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
     {
-      "basename": "西藏旅行攻略",
-      "path": "Travel Diary/西藏/西藏旅行攻略.md"
+      "basename": "Flask 服务",
+      "path": "Coding/Python/爬虫/Flask 服务.md"
+    },
+    {
+      "basename": "短时傅里叶变换(STFT)",
+      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
     },
     {
       "basename": "Learning the quantum algorithm for state overlap",
@@ -31,10 +71,6 @@
     {
       "basename": "flags",
       "path": "Coding/Go/Third-party library/flags/flags.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
     },
     {
       "basename": "deeplocker 信息整合(memos)",
@@ -163,42 +199,6 @@
     {
       "basename": "当地的人才网",
       "path": "Resume/招聘网站/当地的人才网.md"
-    },
-    {
-      "basename": "猎聘网",
-      "path": "Resume/招聘网站/猎聘网.md"
-    },
-    {
-      "basename": "前程无忧",
-      "path": "Resume/招聘网站/前程无忧.md"
-    },
-    {
-      "basename": "智联招聘",
-      "path": "Resume/招聘网站/智联招聘.md"
-    },
-    {
-      "basename": "各厂的招聘官网",
-      "path": "Resume/招聘网站/各厂的招聘官网.md"
-    },
-    {
-      "basename": "校招",
-      "path": "Resume/招聘网站/校招.md"
-    },
-    {
-      "basename": "Boss直聘",
-      "path": "Resume/招聘网站/Boss直聘.md"
-    },
-    {
-      "basename": "牛客网",
-      "path": "Resume/招聘网站/牛客网.md"
-    },
-    {
-      "basename": "Resume index",
-      "path": "Resume/Resume index.md"
-    },
-    {
-      "basename": "企划书",
-      "path": "Eassay/企划书/企划书.md"
     }
   ],
   "omittedPaths": [],

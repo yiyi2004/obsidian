@@ -89,8 +89,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/随想.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -226,7 +225,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +250,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,8 +292,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da5777578517f627",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Eassay/随想.md",
     "Eassay/Snipaste/Pasted image 20230619133851.png",
     "Algorithm/Leetcode/大厂算法题目汇总.md",
     "Travel Diary/西藏/西藏旅行攻略.md",
@@ -309,7 +309,6 @@
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Day3/Day3.md",
-    "Eassay/随想.md",
     "Coding/Python/爬虫/Flask 服务.md",
     "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
@@ -339,7 +338,6 @@
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171519.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171305.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171023.png",
     "Coding/C&CPP/入门/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",

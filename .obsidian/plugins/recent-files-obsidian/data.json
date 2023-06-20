@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "大厂算法题目汇总",
-      "path": "Algorithm/Leetcode/大厂算法题目汇总.md"
+      "basename": "Algorithm",
+      "path": "Algorithm/算法总结/Algorithm.md"
     },
     {
       "basename": "西藏旅行攻略",
       "path": "Travel Diary/西藏/西藏旅行攻略.md"
     },
     {
+      "basename": "大厂算法题目汇总",
+      "path": "Algorithm/Leetcode/大厂算法题目汇总.md"
+    },
+    {
+      "basename": "复数",
+      "path": "Coding/Go/基础知识/复数.md"
+    },
+    {
+      "basename": "Flask Quickstart",
+      "path": "Coding/Python/Repository/Flask/Flask Quickstart.md"
+    },
+    {
+      "basename": "数据结构简要总结",
+      "path": "Algorithm/数据结构/数据结构简要总结.md"
+    },
+    {
       "basename": "Lists",
       "path": "Algorithm/数据结构/Lists.md"
     },
     {
-      "basename": "数据结构",
-      "path": "Algorithm/数据结构/数据结构.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
     },
     {
       "basename": "归并排序",
@@ -43,14 +55,6 @@
     {
       "basename": "Resume",
       "path": "Resume/Resume.md"
-    },
-    {
-      "basename": "复数",
-      "path": "Coding/Go/基础知识/复数.md"
-    },
-    {
-      "basename": "Flask Quickstart",
-      "path": "Coding/Python/Repository/Flask/Flask Quickstart.md"
     },
     {
       "basename": "Go Audio",
@@ -195,10 +199,6 @@
     {
       "basename": "拉勾网",
       "path": "Resume/招聘网站/拉勾网.md"
-    },
-    {
-      "basename": "当地的人才网",
-      "path": "Resume/招聘网站/当地的人才网.md"
     }
   ],
   "omittedPaths": [],

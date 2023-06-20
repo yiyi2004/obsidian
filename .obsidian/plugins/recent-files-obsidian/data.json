@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Data Structure",
+      "path": "Algorithm/数据结构/Data Structure.md"
+    },
+    {
+      "basename": "数据集",
+      "path": "Eassay/Email/数据集.md"
+    },
+    {
       "basename": "Algorithm",
       "path": "Algorithm/算法总结/Algorithm.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Flask Quickstart",
       "path": "Coding/Python/Repository/Flask/Flask Quickstart.md"
-    },
-    {
-      "basename": "数据结构简要总结",
-      "path": "Algorithm/数据结构/数据结构简要总结.md"
     },
     {
       "basename": "Lists",
@@ -195,10 +199,6 @@
     {
       "basename": "电商人才",
       "path": "Resume/招聘网站/电商人才.md"
-    },
-    {
-      "basename": "拉勾网",
-      "path": "Resume/招聘网站/拉勾网.md"
     }
   ],
   "omittedPaths": [],

@@ -62,9 +62,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e553dd89d9990735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/数据结构/Data Structure.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -108,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法总结/Algorithm.md",
+                "file": "Algorithm/数据结构/Data Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/算法总结/Algorithm.md"
+                "file": "Algorithm/数据结构/Data Structure.md"
               }
             }
           },
@@ -200,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法总结/Algorithm.md",
+                "file": "Algorithm/数据结构/Data Structure.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/算法总结/Algorithm.md",
+                "file": "Algorithm/数据结构/Data Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,14 +281,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a244a23b58e57e9",
+  "active": "e553dd89d9990735",
   "lastOpenFiles": [
-    "Travel Diary/西藏/西藏旅行攻略.md",
+    "Eassay/Email/数据集.md",
     "Algorithm/算法总结/Algorithm.md",
+    "Travel Diary/西藏/西藏旅行攻略.md",
     "Algorithm/Leetcode/大厂算法题目汇总.md",
     "Coding/Go/基础知识/复数.md",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Algorithm/数据结构/数据结构简要总结.md",
+    "Algorithm/数据结构/Data Structure.md",
     "Algorithm/算法总结",
     "Algorithm/数据结构/Lists.md",
     "Day3/Day3.md",
@@ -305,7 +319,6 @@
     "Basic/VIM/vim 指令.md",
     "Coding/Go/标准库的使用/strings.md",
     "Coding/Go/Third-party library/flags",
-    "Coding/Go/标准库的使用/crypto.md",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
     "Cyber Security/Red Team/automating_payload_delivery.pdf",

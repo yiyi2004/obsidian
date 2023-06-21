@@ -1,8 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "Morning Reading",
+      "path": "Challenge/Habit Challenge/Morning Reading.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Algorithm/算法总结/Algorithm.md"
+    },
+    {
+      "basename": "Data Structure",
+      "path": "Algorithm/数据结构/Data Structure.md"
+    },
+    {
       "basename": "deeplocker test",
       "path": "Cyber Security/Deeplocker/deeplocker test.md"
+    },
+    {
+      "basename": "西藏旅行攻略",
+      "path": "Travel Diary/西藏/西藏旅行攻略.md"
     },
     {
       "basename": "deeplocker frontend",
@@ -13,24 +61,8 @@
       "path": "Cyber Security/调研/Deeplocker.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Data Structure",
-      "path": "Algorithm/数据结构/Data Structure.md"
-    },
-    {
       "basename": "数据集",
       "path": "Eassay/Email/数据集.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Algorithm/算法总结/Algorithm.md"
-    },
-    {
-      "basename": "西藏旅行攻略",
-      "path": "Travel Diary/西藏/西藏旅行攻略.md"
     },
     {
       "basename": "大厂算法题目汇总",
@@ -49,10 +81,6 @@
       "path": "Algorithm/数据结构/Lists.md"
     },
     {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
       "basename": "归并排序",
       "path": "Algorithm/算法体系学习/归并排序.md"
     },
@@ -67,10 +95,6 @@
     {
       "basename": "规划",
       "path": "Algorithm/Leetcode/规划.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
     },
     {
       "basename": "Go Audio",
@@ -175,30 +199,6 @@
     {
       "basename": "现代诗",
       "path": "Interesting/诗词歌赋/现代诗.md"
-    },
-    {
-      "basename": "唐诗宋词",
-      "path": "Interesting/诗词歌赋/唐诗宋词.md"
-    },
-    {
-      "basename": "C++编译基础",
-      "path": "Coding/C&CPP/入门/C++编译基础.md"
-    },
-    {
-      "basename": "malgo",
-      "path": "Coding/Go/Third-party library/audio/malgo/malgo.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "领英职场",
-      "path": "Resume/招聘网站/领英职场.md"
-    },
-    {
-      "basename": "实习僧",
-      "path": "Resume/招聘网站/实习僧.md"
     }
   ],
   "omittedPaths": [],

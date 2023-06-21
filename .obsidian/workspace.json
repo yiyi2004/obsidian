@@ -38,59 +38,19 @@
             }
           },
           {
-            "id": "40ab5c0f27e1bfaa",
+            "id": "c8b7ce4421219a9e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel Diary/西藏/西藏旅行攻略.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a244a23b58e57e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/算法总结/Algorithm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e553dd89d9990735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/数据结构/Data Structure.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9677b0c34b47c459",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker test.md",
+                "file": "Challenge/Habit Challenge/Algorithm.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker test.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker test.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -226,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker test.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker test.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,40 +254,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9677b0c34b47c459",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
-    "Cyber Security/Deeplocker/deeplocker test.md",
-    "Cyber Security/调研/Deeplocker.md",
+    "Eassay/随想.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/English Practice.md",
     "Day3/Day3.md",
-    "Algorithm/数据结构/Data Structure.md",
-    "Eassay/Email/数据集.md",
+    "Resume/Resume.md",
     "Algorithm/算法总结/Algorithm.md",
+    "Algorithm/数据结构/Data Structure.md",
+    "Cyber Security/Deeplocker/deeplocker test.md",
     "Travel Diary/西藏/西藏旅行攻略.md",
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Eassay/Email/数据集.md",
     "Algorithm/Leetcode/大厂算法题目汇总.md",
     "Coding/Go/基础知识/复数.md",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Algorithm/算法总结",
     "Algorithm/数据结构/Lists.md",
-    "Eassay/随想.md",
     "Eassay/Snipaste/Pasted image 20230619133851.png",
     "Algorithm/算法体系学习/归并排序.md",
     "Algorithm/算法体系学习/链表问题.md",
     "Algorithm/算法体系学习/位图.md",
     "Algorithm/Leetcode/规划.md",
-    "Resume/Resume.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Python/爬虫/Flask 服务.md",
-    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617102950.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617100239.png",
     "Travel Diary/西藏/Snipaste",
-    "Paper/量子力学/Learning the quantum algorithm for state overlap.md",
-    "Coding/Go/Third-party library/flags/flags.md",
-    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
-    "Cyber Security/Red Team/载荷的植入方式.md",
-    "Coding/Go/hash.md",
     "Travel Diary/西藏",
     "Travel Diary",
     "Coding/Go/Third-party library/audio",

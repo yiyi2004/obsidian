@@ -75,9 +75,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9677b0c34b47c459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker test.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/数据结构/Data Structure.md",
+                "file": "Cyber Security/Deeplocker/deeplocker test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/数据结构/Data Structure.md"
+                "file": "Cyber Security/Deeplocker/deeplocker test.md"
               }
             }
           },
@@ -213,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/数据结构/Data Structure.md",
+                "file": "Cyber Security/Deeplocker/deeplocker test.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/数据结构/Data Structure.md",
+                "file": "Cyber Security/Deeplocker/deeplocker test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,18 +294,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e553dd89d9990735",
+  "active": "9677b0c34b47c459",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Cyber Security/Deeplocker/deeplocker test.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Day3/Day3.md",
+    "Algorithm/数据结构/Data Structure.md",
     "Eassay/Email/数据集.md",
     "Algorithm/算法总结/Algorithm.md",
     "Travel Diary/西藏/西藏旅行攻略.md",
     "Algorithm/Leetcode/大厂算法题目汇总.md",
     "Coding/Go/基础知识/复数.md",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
-    "Algorithm/数据结构/Data Structure.md",
     "Algorithm/算法总结",
     "Algorithm/数据结构/Lists.md",
-    "Day3/Day3.md",
     "Eassay/随想.md",
     "Eassay/Snipaste/Pasted image 20230619133851.png",
     "Algorithm/算法体系学习/归并排序.md",
@@ -314,10 +330,7 @@
     "Coding/Go/hash.md",
     "Travel Diary/西藏",
     "Travel Diary",
-    "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Coding/Go/Third-party library/audio",
-    "Basic/VIM/vim 指令.md",
-    "Coding/Go/标准库的使用/strings.md",
     "Coding/Go/Third-party library/flags",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",

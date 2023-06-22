@@ -5,12 +5,48 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "deeplocker test",
+      "path": "Cyber Security/Deeplocker/deeplocker test.md"
+    },
+    {
+      "basename": "信息收集",
+      "path": "Tasks/信息收集.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Tasks/TODO.md"
+    },
+    {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
     {
       "basename": "Algorithm",
       "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "短时傅里叶变换(STFT)",
+      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
+    },
+    {
+      "basename": "go-ffmpeg",
+      "path": "Coding/Go/Third-party library/audio/go-ffmpeg/go-ffmpeg.md"
+    },
+    {
+      "basename": "Go Audio",
+      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
     },
     {
       "basename": "Running",
@@ -25,14 +61,6 @@
       "path": "Challenge/Habit Challenge/Morning Reading.md"
     },
     {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
       "basename": "Resume",
       "path": "Resume/Resume.md"
     },
@@ -43,10 +71,6 @@
     {
       "basename": "Data Structure",
       "path": "Algorithm/数据结构/Data Structure.md"
-    },
-    {
-      "basename": "deeplocker test",
-      "path": "Cyber Security/Deeplocker/deeplocker test.md"
     },
     {
       "basename": "西藏旅行攻略",
@@ -97,16 +121,8 @@
       "path": "Algorithm/Leetcode/规划.md"
     },
     {
-      "basename": "Go Audio",
-      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
-    },
-    {
       "basename": "Flask 服务",
       "path": "Coding/Python/爬虫/Flask 服务.md"
-    },
-    {
-      "basename": "短时傅里叶变换(STFT)",
-      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
     },
     {
       "basename": "Learning the quantum algorithm for state overlap",
@@ -183,22 +199,6 @@
     {
       "basename": "绝对路径和相对路径问题",
       "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
-    },
-    {
-      "basename": "量子计算导论期末论文素材收集",
-      "path": "Paper/量子力学/量子计算导论期末论文素材收集.md"
-    },
-    {
-      "basename": "A Survey on quantum computing technology",
-      "path": "Paper/量子力学/Review/A Survey on quantum computing technology.md"
-    },
-    {
-      "basename": "Makefile",
-      "path": "Coding/C&CPP/入门/Makefile.md"
-    },
-    {
-      "basename": "现代诗",
-      "path": "Interesting/诗词歌赋/现代诗.md"
     }
   ],
   "omittedPaths": [],

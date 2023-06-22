@@ -49,6 +49,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "54c00ac8340ff533",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/English Practice.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98d5ba40bc7a59ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1634825c06d920df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/实习/第一份寒假实习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -225,12 +264,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,18 +295,27 @@
   },
   "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Tasks/实习/第一份寒假实习.md",
+    "Cyber Security/Deeplocker/deeplocker test.md",
+    "Tasks/信息收集.md",
+    "Tasks/实习",
+    "Tasks/TODO.md",
+    "Day3/Day3.md",
     "Eassay/随想.md",
     "Challenge/Habit Challenge/Algorithm.md",
+    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
+    "Coding/Go/Third-party library/audio/go-ffmpeg/go-ffmpeg.md",
+    "Coding/Go/Third-party library/audio/Go Audio.md",
+    "Coding/Go/Third-party library/audio/go-ffmpeg",
+    "Coding/Go/Third-party library/audio/未命名.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Go Pro.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/Morning Reading.md",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Day3/Day3.md",
     "Resume/Resume.md",
     "Algorithm/算法总结/Algorithm.md",
     "Algorithm/数据结构/Data Structure.md",
-    "Cyber Security/Deeplocker/deeplocker test.md",
     "Travel Diary/西藏/西藏旅行攻略.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/调研/Deeplocker.md",
@@ -276,14 +324,7 @@
     "Coding/Go/基础知识/复数.md",
     "Coding/Python/Repository/Flask/Flask Quickstart.md",
     "Algorithm/算法总结",
-    "Algorithm/数据结构/Lists.md",
     "Eassay/Snipaste/Pasted image 20230619133851.png",
-    "Algorithm/算法体系学习/归并排序.md",
-    "Algorithm/算法体系学习/链表问题.md",
-    "Algorithm/算法体系学习/位图.md",
-    "Algorithm/Leetcode/规划.md",
-    "Coding/Go/Third-party library/audio/Go Audio.md",
-    "Coding/Python/爬虫/Flask 服务.md",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617102950.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617100239.png",
@@ -296,8 +337,6 @@
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
     "Cyber Security/Red Team/automating_payload_delivery.pdf",
     "Cyber Security/Red Team/未确认 243642.crdownload",
-    "Cyber Security/HW/08-中间件漏洞/a2a25610131f4e3984833625eaec61ab",
-    "Coding/C&CPP/基础知识(黑马)",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613181808.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171519.png",

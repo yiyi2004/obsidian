@@ -1,12 +1,72 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL-运维篇",
+      "path": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf"
+    },
+    {
+      "basename": "MySQL-进阶篇",
+      "path": "Cloud Native/Database/MySQL/MySQL-进阶篇.pdf"
+    },
+    {
+      "basename": "MySQL-黑马程序员",
+      "path": "Cloud Native/Database/MySQL/MySQL-黑马程序员.md"
+    },
+    {
+      "basename": "数据库综述(MySQL)",
+      "path": "Cloud Native/Database/数据库综述(MySQL).md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Cloud Native/Database/MySQL/MySQL.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Cloud Native/Database/MySQL/MySQL 黑马程序员/MySQL.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "如何学习数据结构与算法",
+      "path": "Algorithm/如何学习数据结构与算法.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "短时傅里叶变换(STFT)",
+      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Algorithm/算法总结/Algorithm.md"
+    },
+    {
+      "basename": "归并排序",
+      "path": "Algorithm/算法体系学习/归并排序.md"
+    },
+    {
+      "basename": "链表问题",
+      "path": "Algorithm/算法体系学习/链表问题.md"
+    },
+    {
+      "basename": "堆",
+      "path": "Algorithm/算法体系学习/堆.md"
+    },
+    {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
     },
     {
       "basename": "deeplocker test",
@@ -21,28 +81,12 @@
       "path": "Tasks/TODO.md"
     },
     {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "短时傅里叶变换(STFT)",
-      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
-    },
-    {
       "basename": "go-ffmpeg",
       "path": "Coding/Go/Third-party library/audio/go-ffmpeg/go-ffmpeg.md"
     },
     {
       "basename": "Go Audio",
       "path": "Coding/Go/Third-party library/audio/Go Audio.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
     },
     {
       "basename": "Go Pro",
@@ -63,10 +107,6 @@
     {
       "basename": "Resume",
       "path": "Resume/Resume.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Algorithm/算法总结/Algorithm.md"
     },
     {
       "basename": "Data Structure",
@@ -103,14 +143,6 @@
     {
       "basename": "Lists",
       "path": "Algorithm/数据结构/Lists.md"
-    },
-    {
-      "basename": "归并排序",
-      "path": "Algorithm/算法体系学习/归并排序.md"
-    },
-    {
-      "basename": "链表问题",
-      "path": "Algorithm/算法体系学习/链表问题.md"
     },
     {
       "basename": "位图",
@@ -167,38 +199,6 @@
     {
       "basename": "04. Hash 函数",
       "path": "Cyber Security/密码应用与安全/04. Hash 函数.md"
-    },
-    {
-      "basename": "C 开发环境搭建",
-      "path": "Coding/C&CPP/C 开发环境搭建.md"
-    },
-    {
-      "basename": "prompt",
-      "path": "AI/LLM/Chatgpt/prompt.md"
-    },
-    {
-      "basename": "Cyber Security index",
-      "path": "Cyber Security/Cyber Security index.md"
-    },
-    {
-      "basename": "Private",
-      "path": "Private/Private.md"
-    },
-    {
-      "basename": "问题解决",
-      "path": "Frontend/Node/问题解决.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/LLM/Chatgpt/ChatGPT.md"
-    },
-    {
-      "basename": "对各种 Payload 加解密",
-      "path": "Coding/Go/其他问题/对各种 Payload 加解密.md"
-    },
-    {
-      "basename": "绝对路径和相对路径问题",
-      "path": "Coding/Go/其他问题/绝对路径和相对路径问题.md"
     }
   ],
   "omittedPaths": [],

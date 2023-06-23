@@ -1,6 +1,9 @@
 {
-  "things-style@@h6-color": "#2EF243",
-  "things-style@@h3-color": "#E5B567",
-  "things-style@@h4-color": "#E83E3E",
-  "things-style@@h5-color": "#2E80F2"
+  "things-style@@h6-color": "#78909C",
+  "things-style@@h3-color": "#66BB6A",
+  "things-style@@h4-color": "#FFEE58",
+  "things-style@@h5-color": "#FF7043",
+  "things-style@@h1-color": "#42A5F5",
+  "things-style@@h2-color": "#26C6DA",
+  "things-style@@active-line": true
 }

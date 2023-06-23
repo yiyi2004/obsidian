@@ -3,8 +3,7 @@
 - 可以理解为一个工具包，对字节切片进行的操作。
 - 事件抽取，原来是在做这件事情
 
-
-## 转换 
+## 转换
 
 ![[Snipaste/Pasted image 20221120200250.png]]
 
@@ -16,14 +15,13 @@
 
 ## 清理
 
-![[Snipaste/Pasted image 20221120201006.png]]
-![[Snipaste/Pasted image 20221120201026.png]]
+![[Snipaste/Pasted image 20221120201006.png]]  
+![[Snipaste/Pasted image 20221120201026.png]]  
 ![[Snipaste/Pasted image 20221120201229.png]]
-
 
 ## 拆和
 
-![[Snipaste/Pasted image 20221120201545.png]]
+![[Snipaste/Pasted image 20221120201545.png]]  
 ![[Snipaste/Pasted image 20221120201558.png]]
 
 ![[Snipaste/Pasted image 20221120201751.png]]
@@ -49,4 +47,3 @@
 ![[Snipaste/Pasted image 20221120202419.png]]
 
 - Runes
-

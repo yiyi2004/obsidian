@@ -42,4 +42,3 @@ Tags::
 | Notes |     |     |     |     |     |     |     |
 
 ### Congratulations! You Made it to 30 Days! You See if You Can Keep Going
-

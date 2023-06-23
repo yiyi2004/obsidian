@@ -1,7 +1,9 @@
-# 输出
+## 输出
+
 ![[Snipaste/Pasted image 20221117105552.png]]
 
-## 占位符
+### 占位符
+
 ![[Snipaste/Pasted image 20221117105651.png]]
 
 ![[Snipaste/Pasted image 20221117105831.png]]
@@ -16,17 +18,19 @@
 
 ![[Snipaste/Pasted image 20221117110221.png]]
 
--  宽度标识符
+- 宽度标识符
 
 ![[Snipaste/Pasted image 20221117112000.png]]
 
 ![[Snipaste/Pasted image 20221117112018.png]]
+
 - 右对齐
 
 ![[Snipaste/Pasted image 20221117113104.png]]
 
-## Fprintf
-![[Snipaste/Pasted image 20221117113644.png]]
+### Fprintf
+
+![[Snipaste/Pasted image 20221117113644.png]]  
 ![[Snipaste/Pasted image 20221117113711.png]]
 
 ![[Snipaste/Pasted image 20221117113748.png]]
@@ -42,14 +46,16 @@
 
 ![[Snipaste/Pasted image 20221117145445.png]]
 
-## fmt.Scan
+### fmt.Scan
+
 ![[Snipaste/Pasted image 20221117145523.png]]
 
 ![[Snipaste/Pasted image 20221117145818.png]]
 
 ![[Snipaste/Pasted image 20221117145956.png]]
 
-# os
+## Os
+
 - os 包提供了操作系统函数，但和操作系统无关
 - os 包的接口规定为在所有操作系统都是一致的
 - 设计为 Unix 风格
@@ -144,12 +150,14 @@ func TestChmod(t *testing.T) {
 
 ```
 
-## 文件
+### 文件
+
 ![[Snipaste/Pasted image 20221117201216.png]]
 
 ![[Snipaste/Pasted image 20221117201259.png]]
 
-### Read
+#### Read
+
 ```go
 // file
 func TestReadFile(t *testing.T) {
@@ -220,29 +228,31 @@ func TestReadDir(t *testing.T) {
 }
 
 ```
-### Write
+
+#### Write
 
 ![[Snipaste/Pasted image 20221117203439.png]]
-
 
 ![[Snipaste/Pasted image 20221117203528.png]]
 
 - 注意 Linux 编译操作
 
-## 进程相关
+### 进程相关
 
 ![[Snipaste/Pasted image 20221117203804.png]]
 
-![[Snipaste/Pasted image 20221117204529.png]]
+![[Snipaste/Pasted image 20221117204529.png]]  
 ![[Snipaste/Pasted image 20221117204642.png]]
+
 - d:\\test.txt
 
 ![[Snipaste/Pasted image 20221117204712.png]]
 
 ![[Snipaste/Pasted image 20221117204814.png]]
 
-## Signal
-![[Snipaste/Pasted image 20221117204945.png]]
+### Signal
+
+![[Snipaste/Pasted image 20221117204945.png]]  
 ![[Snipaste/Pasted image 20221117205012.png]]
 
 ![[Snipaste/Pasted image 20221117211446.png]]
@@ -260,7 +270,7 @@ func TestReadDir(t *testing.T) {
 
 - Args 参数
 
-## 环境相关
+### 环境相关
 
 ![[Snipaste/Pasted image 20221117212137.png]]
 
@@ -268,37 +278,34 @@ func TestReadDir(t *testing.T) {
 
 ![[Snipaste/Pasted image 20221117212445.png]]
 
+## Time
 
-# time
+## Log
 
+## Error
 
+## Bytes
 
-# log
+## Io
 
-# error
+## Ioutil
 
-# bytes
+## Bufio
 
-# io
+## Builtin
 
-# ioutil
+## Json
 
-# bufio
+## Sort
 
-# builtin
+## Math
 
-# json
+## Flag
 
-# sort
+## Runtime
 
-# math
+## Context
 
-# flag
+## Reference
 
-# runtime
-
-# context
-
-
-# Reference
 - [【go标准库】02-格式化占位符_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Rd4y1K75i/?p=2&spm_id_from=pageDriver&vd_source=25509bb582bc4a25d86d871d5cdffca3)

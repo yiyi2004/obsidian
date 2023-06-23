@@ -1,3 +1,5 @@
+## Buffer
+
 ![[Snipaste/Pasted image 20221120205223.png]]
 
 ![[Snipaste/Pasted image 20221120205237.png]]
@@ -39,3 +41,6 @@ func TestBufferRW(t *testing.T) {
 ![[Snipaste/Pasted image 20221121154017.png]]
 
 - 调试的技巧
+- 就是简单的将官方文档复述了一遍，并没有什么新颖的东西。
+
+是对内存精细的规划，有人把事情讲清楚挺好的。

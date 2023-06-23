@@ -35,7 +35,7 @@ Notebook Outline ^bgOrdQ2E
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.8.22",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.1",
 	"elements": [
 		{
 			"type": "text",
@@ -70,7 +70,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "focus on the every topic\nbefore you ",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 43
 		},
 		{
 			"type": "rectangle",
@@ -166,7 +167,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Learning",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -229,7 +231,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Summary",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -292,7 +295,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "Output",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "text",
@@ -327,7 +331,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "1. using model to manage your life\n2. considering the input and output of every stage\n3. Constantly improve your learning model",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 68
 		},
 		{
 			"type": "text",
@@ -362,7 +367,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "top",
 			"containerId": null,
 			"originalText": "summarize your learning model",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -430,7 +436,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "middle",
 			"containerId": "xULunQDtKLukDqJrFUS_d",
 			"originalText": "topics and sub topics",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -498,7 +505,8 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "middle",
 			"containerId": "_qBmwaJSqMuM7rt8O81us",
 			"originalText": "exercise and answers",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "rectangle",
@@ -570,12 +578,13 @@ Notebook Outline ^bgOrdQ2E
 			"verticalAlign": "middle",
 			"containerId": "YTF7Ji0LZcR50-R7aIoe5",
 			"originalText": "Notebook Outline",
-			"lineHeight": 1.25
+			"lineHeight": 1.25,
+			"baseline": 18
 		},
 		{
 			"type": "arrow",
-			"version": 106,
-			"versionNonce": 2012949252,
+			"version": 108,
+			"versionNonce": 2094383297,
 			"isDeleted": false,
 			"id": "G-1GATJI04Tj2C3MOv_RD",
 			"fillStyle": "hachure",
@@ -596,18 +605,18 @@ Notebook Outline ^bgOrdQ2E
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1683971967829,
+			"updated": 1687528003550,
 			"link": null,
 			"locked": false,
 			"startBinding": {
 				"elementId": "8rT6GtIl4e133DddNZW0p",
-				"focus": 0,
-				"gap": 1
+				"gap": 1,
+				"focus": 0
 			},
 			"endBinding": {
 				"elementId": "YTF7Ji0LZcR50-R7aIoe5",
-				"focus": 0,
-				"gap": 1
+				"gap": 1,
+				"focus": 0
 			},
 			"lastCommittedPoint": null,
 			"startArrowhead": null,
@@ -639,10 +648,10 @@ Notebook Outline ^bgOrdQ2E
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 1317.2905738796055,
-		"scrollY": 960.7513226546979,
+		"scrollX": 755.3576003684495,
+		"scrollY": 953.8427197407411,
 		"zoom": {
-			"value": 0.4999999999999996
+			"value": 0.5499999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

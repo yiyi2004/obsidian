@@ -38,30 +38,71 @@
             }
           },
           {
-            "id": "edebf282a37850d4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf"
-              }
-            }
-          },
-          {
             "id": "1e8cc2b9a0833572",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+                "file": "Coding/Go/标准库的使用/fmt.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edebf282a37850d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6913351db9d3d460",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/设计模式/Go 设计模式/Go 设计模式总结.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4cfc565234ad4ff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/Be Yourself index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd29a0d988fceb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#七、什么是蓝队",
+                "query": "tag:#go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +204,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.51103591918945,
-    "collapsed": true
+    "width": 321.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -180,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -198,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +263,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -241,8 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,54 +305,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e8cc2b9a0833572",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Cloud Native/Database/Redis/黑马程序员/Snipaste/Pasted image 20230623164903 1.png",
-    "Cloud Native/Database/Redis/黑马程序员/Snipaste/Pasted image 20230623164903.png",
-    "Cloud Native/Database/Redis/黑马程序员/Snipaste/Pasted image 20230623164902.png",
-    "Cloud Native/Database/Redis/黑马程序员/Snipaste",
-    "Cloud Native/Database/Redis/黑马程序员/README.md",
-    "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
-    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/代码/Redis注释版/Redis.md",
+    "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
+    "Reading Notes/数学之美.md",
+    "Reading Notes/高效能人士的7个习惯",
+    "Reading Notes/Reading Notes index.md",
     "Day3/Day3.md",
-    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/资料/Redis安装说明.md",
-    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/讲义/Redis注释版/01.快速入门.md",
-    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
-    "Life/保持精力/咖啡的选择.md",
+    "Be Yourself/Be Yourself index.md",
+    "Be Yourself/learning process.md",
+    "Be Yourself/突然的想法.md",
+    "Be Yourself/财富自由.md",
+    "Be Yourself/2023我们重新开始.md",
+    "Be Yourself/0. 项目行为习惯分析.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式总结.md",
+    "Basic/设计模式/Go 设计模式/Snipaste/Pasted image 20230623213512.png",
+    "Basic/设计模式/Go 设计模式/Snipaste",
+    "Basic/设计模式/Java 设计模式/Java 设计模式.md",
+    "Basic/设计模式/Java 设计模式",
+    "Basic/设计模式/Go 设计模式",
+    "Basic/名词解释/安全名词.md",
+    "Basic/设计模式/Java 设计模式/images/3-1Q1141559151S.gif",
+    "Basic/设计模式/Java 设计模式/images",
+    "Basic/设计模式",
+    "Coding/Go/标准库的使用/fmt.md",
+    "Coding/Go/标准库的使用/flag(白雪，有更好的方式).md",
+    "Coding/Go/标准库的使用/filepath.md",
+    "Coding/Go/标准库的使用/error.md",
+    "Coding/Go/标准库的使用/crypto.md",
+    "Coding/Go/标准库的使用/bytes.md",
+    "Coding/Go/标准库的使用/builtin.md",
+    "Coding/Go/标准库的使用/bufio.md",
+    "Coding/Go/标准库的使用/buffer.md",
+    "Coding/Go/标准库的使用/标准库深入学习.md",
+    "Coding/Go/Go 新版本特性总结",
+    "Coding/Go/Go Pro/Go 基础重新理解",
     "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/impl/ItemStockService.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/impl/ItemService.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/mapper/ItemStockMapper.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/redis-demo/src/main/java/cn/itcast/redisdemo/web/HelloController.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/impl",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/web/ItemController.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/IItemStockService.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/IItemService.java",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521151902080.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521151524621.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521151459880.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521144339377.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521143458010.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521142943350.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521140621204.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521140415785.png",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/02-多级缓存/多级缓存.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/案例导入说明.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/安装Canal.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/Redis集群.md",
-    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/安装OpenResty.md",
-    "Cloud Native/Database/Redis/黑马程序员/02-实战篇/讲义/Redis实战篇.md",
-    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Cloud Native/Database/Redis/黑马程序员/04-原理篇/讲义/原理篇.md",
-    "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
-    "Cloud Native/Database/Redis/黑马程序员/Redis 实战.md",
-    "Cloud Native/Database/Redis/Redis 基础/Redis文档.md",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/YyUHN8.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/YytSHK.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/Yytcb6.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/YyJzFg.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/Yy0d56.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/redis-cluster-5.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/redis-cluster-3.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/img/image-20210717200519848.png",
+    "Cloud Native/Database/Redis/Redis(码神之路)/06.资料/cluster集群配置文件/cluster-6507.conf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

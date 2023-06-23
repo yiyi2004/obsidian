@@ -60,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/保持精力/咖啡的选择.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/保持精力/咖啡的选择.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/保持精力/咖啡的选择.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/保持精力/咖啡的选择.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,14 +264,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1e8cc2b9a0833572",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Day3/Day3.md",
+    "Tasks/实习/第一份寒假实习.md",
     "Life/保持精力/咖啡的选择.md",
+    "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
+    "Day3/Day3.md",
     "Life/保持精力",
     "Cloud Native/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
-    "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
-    "Tasks/实习/第一份寒假实习.md",
     "Cloud Native/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
     "Cloud Native/Database/MySQL/MySQL 运维/MySQL 日志.md",
     "Cloud Native/Database/MySQL/MySQL 运维/MySQL 主从复制.md",
@@ -300,7 +300,6 @@
     "Tasks/实习",
     "Tasks/TODO.md",
     "Coding/Go/Third-party library/audio/go-ffmpeg/go-ffmpeg.md",
-    "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Go/Third-party library/audio/go-ffmpeg",
     "Algorithm/算法总结",
     "Eassay/Snipaste/Pasted image 20230619133851.png",

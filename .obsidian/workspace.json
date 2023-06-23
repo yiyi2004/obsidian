@@ -53,14 +53,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/保持精力/咖啡的选择.md",
+                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,12 +159,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 321.51103591918945
+    "width": 321.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -179,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md"
               }
             }
           },
@@ -197,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,53 +266,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "1e8cc2b9a0833572",
   "lastOpenFiles": [
-    "Tasks/实习/第一份寒假实习.md",
+    "Cloud Native/Database/Redis/黑马程序员/Snipaste/Pasted image 20230623164903 1.png",
+    "Cloud Native/Database/Redis/黑马程序员/Snipaste/Pasted image 20230623164903.png",
+    "Cloud Native/Database/Redis/黑马程序员/Snipaste/Pasted image 20230623164902.png",
+    "Cloud Native/Database/Redis/黑马程序员/Snipaste",
+    "Cloud Native/Database/Redis/黑马程序员/README.md",
+    "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/代码/Redis注释版/Redis.md",
+    "Day3/Day3.md",
+    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/资料/Redis安装说明.md",
+    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/讲义/Redis注释版/01.快速入门.md",
+    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
     "Life/保持精力/咖啡的选择.md",
     "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
-    "Day3/Day3.md",
-    "Life/保持精力",
-    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
-    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
-    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 日志.md",
-    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 主从复制.md",
-    "Cloud Native/Database/MySQL/MySQL 运维/Snipaste/Pasted image 20230623134338.png",
-    "Cloud Native/Database/MySQL/MySQL 运维/未命名.md",
-    "Cloud Native/Database/MySQL/MySQL 运维/Snipaste/Pasted image 20230623133139.png",
-    "Cloud Native/Database/MySQL/MySQL 运维/Snipaste",
-    "Challenge/Habit Challenge/Algorithm.md",
-    "Algorithm/如何学习数据结构与算法.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Cloud Native/Database/MySQL/MySQL 运维",
-    "Cloud Native/Database/MySQL/MySQL-进阶篇.pdf",
-    "Cloud Native/Database/MySQL/MySQL-黑马程序员.md",
-    "Cloud Native/Database/MySQL/MySQL-基础篇.pdf",
-    "Cloud Native/Database/数据库综述(MySQL).md",
-    "Cloud Native/Database/MySQL/MySQL.md",
-    "Cloud Native/Database/MySQL/MySQL 黑马程序员/MySQL.md",
-    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
-    "Algorithm/算法总结/Algorithm.md",
-    "Algorithm/算法体系学习/归并排序.md",
-    "Algorithm/算法体系学习/链表问题.md",
-    "Algorithm/算法体系学习/堆.md",
-    "Eassay/随想.md",
-    "Cyber Security/Deeplocker/deeplocker test.md",
-    "Tasks/信息收集.md",
-    "Tasks/实习",
-    "Tasks/TODO.md",
-    "Coding/Go/Third-party library/audio/go-ffmpeg/go-ffmpeg.md",
-    "Coding/Go/Third-party library/audio/go-ffmpeg",
-    "Algorithm/算法总结",
-    "Eassay/Snipaste/Pasted image 20230619133851.png",
-    "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
-    "Travel Diary/西藏/Snipaste/Pasted image 20230617102950.png",
-    "Travel Diary/西藏/Snipaste/Pasted image 20230617100239.png",
-    "Travel Diary/西藏/Snipaste",
-    "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
-    "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613181808.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/impl/ItemStockService.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/impl/ItemService.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/mapper/ItemStockMapper.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/redis-demo/src/main/java/cn/itcast/redisdemo/web/HelloController.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/impl",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/web/ItemController.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/IItemStockService.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/item-service/src/main/java/com/heima/item/service/IItemService.java",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521151902080.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521151524621.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521151459880.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521144339377.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521143458010.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521142943350.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521140621204.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.assets/image-20220521140415785.png",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/02-多级缓存/多级缓存.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/案例导入说明.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/安装Canal.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/Redis集群.md",
+    "Cloud Native/Database/Redis/黑马程序员/03-高级篇/资料/安装OpenResty.md",
+    "Cloud Native/Database/Redis/黑马程序员/02-实战篇/讲义/Redis实战篇.md",
+    "Cloud Native/Database/Redis/黑马程序员/01-入门篇/讲义/Redis注释版/Redis.md",
+    "Cloud Native/Database/Redis/黑马程序员/04-原理篇/讲义/原理篇.md",
+    "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md",
+    "Cloud Native/Database/Redis/黑马程序员/Redis 实战.md",
+    "Cloud Native/Database/Redis/Redis 基础/Redis文档.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

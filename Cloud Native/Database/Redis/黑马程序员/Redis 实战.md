@@ -1,3 +1,0 @@
-![[Snipaste/Pasted image 20221121215817.png]]
-
-- [[Redis 基础]]

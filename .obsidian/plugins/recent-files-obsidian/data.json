@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "Redis 基础",
+      "path": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md"
     },
     {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
+      "basename": "README",
+      "path": "Cloud Native/Database/Redis/黑马程序员/README.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "咖啡的选择",
@@ -15,6 +19,18 @@
     {
       "basename": "MySQL-运维篇",
       "path": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf"
+    },
+    {
+      "basename": "Redis文档",
+      "path": "Cloud Native/Database/Redis/Redis 基础/Redis文档.md"
+    },
+    {
+      "basename": "Redis 使用场景",
+      "path": "Cloud Native/Database/Redis/Redis 使用场景.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "MySQL 读写分离",
@@ -175,30 +191,6 @@
     {
       "basename": "Flask 服务",
       "path": "Coding/Python/爬虫/Flask 服务.md"
-    },
-    {
-      "basename": "Learning the quantum algorithm for state overlap",
-      "path": "Paper/量子力学/Learning the quantum algorithm for state overlap.md"
-    },
-    {
-      "basename": "flags",
-      "path": "Coding/Go/Third-party library/flags/flags.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
-      "basename": "载荷的植入方式",
-      "path": "Cyber Security/Red Team/载荷的植入方式.md"
-    },
-    {
-      "basename": "hash",
-      "path": "Coding/Go/hash.md"
-    },
-    {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
     }
   ],
   "omittedPaths": [],

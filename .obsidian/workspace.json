@@ -38,46 +38,7 @@
             }
           },
           {
-            "id": "c8b7ce4421219a9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/Algorithm.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "54c00ac8340ff533",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/English Practice.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "73a8dda3333a51cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/如何学习数据结构与算法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "841f756a32d429b9",
+            "id": "edebf282a37850d4",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -85,9 +46,22 @@
                 "file": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf"
               }
             }
+          },
+          {
+            "id": "1e8cc2b9a0833572",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/保持精力/咖啡的选择.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -131,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
+                "file": "Life/保持精力/咖啡的选择.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf"
+                "file": "Life/保持精力/咖啡的选择.md"
               }
             }
           },
@@ -223,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
+                "file": "Life/保持精力/咖啡的选择.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +222,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
+                "file": "Life/保持精力/咖啡的选择.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,26 +264,37 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "841f756a32d429b9",
+  "active": "1e8cc2b9a0833572",
   "lastOpenFiles": [
+    "Day3/Day3.md",
+    "Life/保持精力/咖啡的选择.md",
+    "Life/保持精力",
+    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
+    "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
+    "Tasks/实习/第一份寒假实习.md",
+    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
+    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 日志.md",
+    "Cloud Native/Database/MySQL/MySQL 运维/MySQL 主从复制.md",
+    "Cloud Native/Database/MySQL/MySQL 运维/Snipaste/Pasted image 20230623134338.png",
+    "Cloud Native/Database/MySQL/MySQL 运维/未命名.md",
+    "Cloud Native/Database/MySQL/MySQL 运维/Snipaste/Pasted image 20230623133139.png",
+    "Cloud Native/Database/MySQL/MySQL 运维/Snipaste",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Algorithm/如何学习数据结构与算法.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Cloud Native/Database/MySQL/MySQL 运维",
     "Cloud Native/Database/MySQL/MySQL-进阶篇.pdf",
     "Cloud Native/Database/MySQL/MySQL-黑马程序员.md",
-    "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
     "Cloud Native/Database/MySQL/MySQL-基础篇.pdf",
     "Cloud Native/Database/数据库综述(MySQL).md",
     "Cloud Native/Database/MySQL/MySQL.md",
     "Cloud Native/Database/MySQL/MySQL 黑马程序员/MySQL.md",
-    "Day3/Day3.md",
-    "Algorithm/如何学习数据结构与算法.md",
-    "Challenge/Habit Challenge/English Practice.md",
     "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
     "Algorithm/算法总结/Algorithm.md",
     "Algorithm/算法体系学习/归并排序.md",
     "Algorithm/算法体系学习/链表问题.md",
     "Algorithm/算法体系学习/堆.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Eassay/随想.md",
-    "Challenge/Habit Challenge/Algorithm.md",
     "Cyber Security/Deeplocker/deeplocker test.md",
     "Tasks/信息收集.md",
     "Tasks/实习",
@@ -317,26 +302,16 @@
     "Coding/Go/Third-party library/audio/go-ffmpeg/go-ffmpeg.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Go/Third-party library/audio/go-ffmpeg",
-    "Coding/Go/Third-party library/audio/未命名.md",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Challenge/Habit Challenge/Summary.md",
-    "Challenge/Habit Challenge/Morning Reading.md",
     "Algorithm/算法总结",
     "Eassay/Snipaste/Pasted image 20230619133851.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617103030.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617102950.png",
     "Travel Diary/西藏/Snipaste/Pasted image 20230617100239.png",
     "Travel Diary/西藏/Snipaste",
-    "Travel Diary/西藏",
-    "Travel Diary",
-    "Coding/Go/Third-party library/audio",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132850.png",
     "Cyber Security/Red Team/Snipaste/Pasted image 20230615132426.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613181808.png",
     "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171651.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171519.png",
-    "Coding/C&CPP/入门/Snipaste/Pasted image 20230613171305.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

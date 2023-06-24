@@ -10,10 +10,21 @@ sudo tee /etc/docker/daemon.json <<-'EOF'
   "registry-mirrors": ["xxxx 替换自己的加速地址 "]  
 }  
 EOF
-
 ```
 
 - 阿里云镜像地址
+
+```shell
+wget -O /etc/yum.repos.d/docker-ce.repo https://mirrors.aliyun.com/docker-ce/linux/centos/docker-ce.repo
+yum -y install docker-ce
+vim /usr/lib/systemd/system/docker.service
+重启加载daemon文件
+# systemctl daemon-reload
+启动docker daemon
+# systemctl start docker
+设置开机自启动
+# systemctl enable docker
+```
 
 ## Windows 安装
 

@@ -1,5 +1,5 @@
-# Deep learning
+## Deep Learning
 
-## Efficient Deep CNN-BiLSTM Model for Network Intrusion Detection
+### Efficient Deep CNN-BiLSTM Model for Network Intrusion Detection
 
 - Obsidian

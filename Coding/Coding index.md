@@ -12,7 +12,7 @@
 - [[Go/Micro Service with Go!.md|Micro Service with Go!]]
 - [[Go/protobuf.md|protobuf]]
 - [[Go/资料收集.md|资料收集]]
-- [[Go/Go Pro/CGO/CGO简易教程|CGO简易教程]]
+- [[Go/Go Pro/CGO/CGO 简易教程|CGO 简易教程]]
 - [[Go/Gin+Vue+微服务/gin examples.md|gin examples]]
 - [[Go/Gin+Vue+微服务/Gin 笔记.md|Gin 笔记]]
 - [[Go/Gin+Vue+微服务/gin框架教程v4.0.pdf|gin框架教程v4.0]]

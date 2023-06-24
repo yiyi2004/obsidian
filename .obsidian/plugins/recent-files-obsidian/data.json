@@ -1,12 +1,192 @@
 {
   "recentFiles": [
     {
+      "basename": "dockerfile",
+      "path": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md"
+    },
+    {
+      "basename": "Docker Notebook",
+      "path": "Cloud Native/Docker/Docker Notebook.md"
+    },
+    {
+      "basename": "虚拟化技术",
+      "path": "Cloud Native/Course/虚拟化技术/虚拟化技术.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "Linux入门，系统运维，云计算",
+      "path": "Cloud Native/Linux/Operations/Linux入门，系统运维，云计算.md"
+    },
+    {
+      "basename": "Docker 安装",
+      "path": "Cloud Native/Docker/Docker 安装.md"
+    },
+    {
+      "basename": "docker",
+      "path": "Weekly Note/docker.md"
+    },
+    {
+      "basename": "Docker Compose",
+      "path": "Cloud Native/Docker/docker-compose 教程/Docker Compose.md"
+    },
+    {
+      "basename": "docker memos",
+      "path": "Cloud Native/Docker/docker memos.md"
+    },
+    {
+      "basename": "Docker Network(我的建议是重新学习)",
+      "path": "Cloud Native/Docker/Docker Network(我的建议是重新学习).md"
+    },
+    {
+      "basename": "go-dev",
+      "path": "Cloud Native/Docker/dockerfile & docker-compose/go-dev.md"
+    },
+    {
+      "basename": "Docker Macvlan",
+      "path": "Cloud Native/Docker/Docker Macvlan.md"
+    },
+    {
+      "basename": "Docker2022",
+      "path": "Cloud Native/Docker/Docker2022.html"
+    },
+    {
+      "basename": "Portainer",
+      "path": "Cloud Native/Docker/Portainer.md"
+    },
+    {
+      "basename": "dockerfile & docker-compose examples",
+      "path": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile & docker-compose examples.md"
+    },
+    {
+      "basename": "第一天",
+      "path": "Cloud Native/Docker/docker-compose 教程/第一天.pdf"
+    },
+    {
+      "basename": "第三天",
+      "path": "Cloud Native/Docker/docker-compose 教程/第三天.pdf"
+    },
+    {
+      "basename": "第二天",
+      "path": "Cloud Native/Docker/docker-compose 教程/第二天.pdf"
+    },
+    {
+      "basename": "pocketbase 源码阅读",
+      "path": "Source Code/pocketbase/pocketbase 源码阅读.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "fmt",
+      "path": "Coding/Go/标准库的使用/fmt.md"
+    },
+    {
       "basename": "高效能人士的7个习惯",
       "path": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md"
+    },
+    {
+      "basename": "Go 基础",
+      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
+    },
+    {
+      "basename": "Go 设计模式总结",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式总结.md"
+    },
+    {
+      "basename": "Be Yourself index",
+      "path": "Be Yourself/Be Yourself index.md"
+    },
+    {
+      "basename": "Deeplearning Summary",
+      "path": "AI/深度学习/Deeplearning Summary.md"
+    },
+    {
+      "basename": "auto-encoder",
+      "path": "AI/深度学习/理论/auto-encoder.md"
+    },
+    {
+      "basename": "README",
+      "path": "Paper/Paper/Deeplearning/README.md"
+    },
+    {
+      "basename": "deeplocker 信息整合(memos)",
+      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
+    },
+    {
+      "basename": "Source Code index",
+      "path": "Source Code/Source Code index.md"
+    },
+    {
+      "basename": "CGO 简易教程",
+      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "Fasthttp",
+      "path": "Cloud Native/Architecture/Fasthttp.md"
+    },
+    {
+      "basename": "CI&CD",
+      "path": "Cloud Native/Architecture/CI&CD.md"
+    },
+    {
+      "basename": "Architecture",
+      "path": "Cloud Native/Architecture/Architecture.md"
+    },
+    {
+      "basename": "ATT&CK Memos 总结",
+      "path": "Cyber Security/ATT&CK/ATT&CK Memos 总结.md"
+    },
+    {
+      "basename": "ATT&CK 素材",
+      "path": "Cyber Security/ATT&CK/ATT&CK 素材.md"
+    },
+    {
+      "basename": "交付文档",
+      "path": "Cyber Security/ATT&CK/交付文档.md"
+    },
+    {
+      "basename": "基于ATT&CK的威胁检测技术研究",
+      "path": "Cyber Security/ATT&CK/基于ATT&CK的威胁检测技术研究.md"
+    },
+    {
+      "basename": "ATTCK PPT",
+      "path": "Group Meeting/ATTCK PPT.md"
+    },
+    {
+      "basename": "ATT&CK",
+      "path": "Cyber Security/ATT&CK/ATT&CK.md"
+    },
+    {
+      "basename": "词根词缀总结",
+      "path": "English Learning/词根词缀/词根词缀总结.md"
+    },
+    {
+      "basename": "老友记第一季",
+      "path": "English Learning/美剧跟练/老友记第一季.md"
+    },
+    {
+      "basename": "孙志立简明英语音标",
+      "path": "English Learning/孙志立简明英语音标/孙志立简明英语音标.md"
+    },
+    {
+      "basename": "英语兔",
+      "path": "English Learning/音标课/英语兔.md"
+    },
+    {
+      "basename": "Word",
+      "path": "English Learning/Word/Word.md"
+    },
+    {
+      "basename": "小组作业",
+      "path": "English Learning/小组作业.md"
     },
     {
       "basename": "数学之美",
@@ -17,188 +197,8 @@
       "path": "Reading Notes/Reading Notes index.md"
     },
     {
-      "basename": "Be Yourself index",
-      "path": "Be Yourself/Be Yourself index.md"
-    },
-    {
       "basename": "learning process",
       "path": "Be Yourself/learning process.md"
-    },
-    {
-      "basename": "突然的想法",
-      "path": "Be Yourself/突然的想法.md"
-    },
-    {
-      "basename": "财富自由",
-      "path": "Be Yourself/财富自由.md"
-    },
-    {
-      "basename": "2023我们重新开始",
-      "path": "Be Yourself/2023我们重新开始.md"
-    },
-    {
-      "basename": "0. 项目行为习惯分析",
-      "path": "Be Yourself/0. 项目行为习惯分析.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Go 设计模式总结",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式总结.md"
-    },
-    {
-      "basename": "Java 设计模式",
-      "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
-    },
-    {
-      "basename": "安全名词",
-      "path": "Basic/名词解释/安全名词.md"
-    },
-    {
-      "basename": "fmt",
-      "path": "Coding/Go/标准库的使用/fmt.md"
-    },
-    {
-      "basename": "flag(白雪，有更好的方式)",
-      "path": "Coding/Go/标准库的使用/flag(白雪，有更好的方式).md"
-    },
-    {
-      "basename": "filepath",
-      "path": "Coding/Go/标准库的使用/filepath.md"
-    },
-    {
-      "basename": "error",
-      "path": "Coding/Go/标准库的使用/error.md"
-    },
-    {
-      "basename": "crypto",
-      "path": "Coding/Go/标准库的使用/crypto.md"
-    },
-    {
-      "basename": "bytes",
-      "path": "Coding/Go/标准库的使用/bytes.md"
-    },
-    {
-      "basename": "builtin",
-      "path": "Coding/Go/标准库的使用/builtin.md"
-    },
-    {
-      "basename": "bufio",
-      "path": "Coding/Go/标准库的使用/bufio.md"
-    },
-    {
-      "basename": "buffer",
-      "path": "Coding/Go/标准库的使用/buffer.md"
-    },
-    {
-      "basename": "标准库深入学习",
-      "path": "Coding/Go/标准库的使用/标准库深入学习.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
-    },
-    {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
-      "basename": "Morning Reading",
-      "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
-      "basename": "go-redis",
-      "path": "Cloud Native/Database/Redis/go-redis.md"
-    },
-    {
-      "basename": "Go 基础",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "一定要参考官方文档",
-      "path": "Coding/Go/Go 新版本特性总结/一定要参考官方文档.md"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "1.1 Go语言创世纪 · Go语言高级编程 (1)",
-      "path": "Website/1.1 Go语言创世纪 · Go语言高级编程 (1).md"
-    },
-    {
-      "basename": "1.1 Go语言创世纪 · Go语言高级编程",
-      "path": "Website/1.1 Go语言创世纪 · Go语言高级编程.md"
-    },
-    {
-      "basename": "MySQL-运维篇",
-      "path": "Cloud Native/Database/MySQL/MySQL-运维篇.pdf"
-    },
-    {
-      "basename": "数据库综述(MySQL)",
-      "path": "Cloud Native/Database/数据库综述(MySQL).md"
-    },
-    {
-      "basename": "Common",
-      "path": "Cloud Native/Database/Common.md"
-    },
-    {
-      "basename": "Redis 使用场景",
-      "path": "Cloud Native/Database/Redis/Redis 使用场景.md"
-    },
-    {
-      "basename": "8. Redis面试题",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
-    },
-    {
-      "basename": "7. Redis的缓存穿透、缓存击穿和缓存雪崩",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/7. Redis的缓存穿透、缓存击穿和缓存雪崩.md"
-    },
-    {
-      "basename": "4. Redis配置文件和持久化",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/4. Redis配置文件和持久化.md"
-    },
-    {
-      "basename": "5. 发布订阅模式、主从复制和哨兵模式",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/5. 发布订阅模式、主从复制和哨兵模式.md"
-    },
-    {
-      "basename": "2. Redis的八种数据类型",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/2. Redis的八种数据类型.md"
-    },
-    {
-      "basename": "1. Redis 入门",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/1. Redis 入门.md"
-    },
-    {
-      "basename": "3. Redis的事务和SpringBoot整合",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/3. Redis的事务和SpringBoot整合.md"
-    },
-    {
-      "basename": "6. Redis集群",
-      "path": "Cloud Native/Database/Redis/Redis(码神之路)/6. Redis集群.md"
-    },
-    {
-      "basename": "Redis 基础",
-      "path": "Cloud Native/Database/Redis/黑马程序员/Redis 基础.md"
-    },
-    {
-      "basename": "README",
-      "path": "Cloud Native/Database/Redis/黑马程序员/README.md"
     }
   ],
   "omittedPaths": [],

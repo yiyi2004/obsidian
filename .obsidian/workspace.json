@@ -38,12 +38,12 @@
             }
           },
           {
-            "id": "1e8cc2b9a0833572",
+            "id": "d15768ab7c1be515",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/标准库的使用/fmt.md",
+                "file": "Source Code/pocketbase/pocketbase 源码阅读.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,58 +51,20 @@
             }
           },
           {
-            "id": "edebf282a37850d4",
+            "id": "3b049b81fa9c41ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6913351db9d3d460",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/设计模式/Go 设计模式/Go 设计模式总结.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4cfc565234ad4ff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/Be Yourself index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd29a0d988fceb16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
+                "file": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -146,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md"
               }
             }
           },
@@ -238,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -263,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,54 +267,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "3b049b81fa9c41ec",
   "lastOpenFiles": [
-    "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
-    "Reading Notes/数学之美.md",
-    "Reading Notes/高效能人士的7个习惯",
-    "Reading Notes/Reading Notes index.md",
+    "Cloud Native/Docker/Docker Notebook.md",
+    "Cloud Native/Course/虚拟化技术/虚拟化技术.md",
     "Day3/Day3.md",
-    "Be Yourself/Be Yourself index.md",
-    "Be Yourself/learning process.md",
-    "Be Yourself/突然的想法.md",
-    "Be Yourself/财富自由.md",
-    "Be Yourself/2023我们重新开始.md",
-    "Be Yourself/0. 项目行为习惯分析.md",
-    "Challenge/Habit Challenge/Algorithm.md",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Basic/设计模式/Go 设计模式/Go 设计模式总结.md",
-    "Basic/设计模式/Go 设计模式/Snipaste/Pasted image 20230623213512.png",
-    "Basic/设计模式/Go 设计模式/Snipaste",
-    "Basic/设计模式/Java 设计模式/Java 设计模式.md",
-    "Basic/设计模式/Java 设计模式",
-    "Basic/设计模式/Go 设计模式",
-    "Basic/名词解释/安全名词.md",
-    "Basic/设计模式/Java 设计模式/images/3-1Q1141559151S.gif",
-    "Basic/设计模式/Java 设计模式/images",
-    "Basic/设计模式",
+    "Cloud Native/Linux/Operations/Linux入门，系统运维，云计算.md",
+    "Cloud Native/Docker/Docker 安装.md",
+    "Weekly Note/docker.md",
+    "Cloud Native/Docker/docker-compose 教程/Docker Compose.md",
+    "Cloud Native/Docker/docker memos.md",
+    "Cloud Native/Docker/Docker Network(我的建议是重新学习).md",
+    "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md",
+    "Cloud Native/Docker/dockerfile & docker-compose/go-dev.md",
+    "Cloud Native/Docker/Docker Macvlan.md",
+    "Cloud Native/Docker/Docker2022.html",
+    "Cloud Native/Docker/Portainer.md",
+    "Cloud Native/Docker/Portainer(Docker Management).md",
+    "Cloud Native/Docker/dockerfile & docker-compose/dockerfile & docker-compose examples.md",
+    "Cloud Native/Docker/docker-compose 教程/第一天.pdf",
+    "Cloud Native/Docker/docker-compose 教程/第三天.pdf",
+    "Cloud Native/Docker/docker-compose 教程/第二天.pdf",
+    "Source Code/pocketbase/pocketbase 源码阅读.md",
+    "Tasks/实习/第一份寒假实习.md",
     "Coding/Go/标准库的使用/fmt.md",
-    "Coding/Go/标准库的使用/flag(白雪，有更好的方式).md",
-    "Coding/Go/标准库的使用/filepath.md",
-    "Coding/Go/标准库的使用/error.md",
-    "Coding/Go/标准库的使用/crypto.md",
-    "Coding/Go/标准库的使用/bytes.md",
-    "Coding/Go/标准库的使用/builtin.md",
-    "Coding/Go/标准库的使用/bufio.md",
-    "Coding/Go/标准库的使用/buffer.md",
-    "Coding/Go/标准库的使用/标准库深入学习.md",
-    "Coding/Go/Go 新版本特性总结",
-    "Coding/Go/Go Pro/Go 基础重新理解",
-    "Cloud Native/Database/MySQL/MySQL-运维篇.pdf",
+    "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
+    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式总结.md",
+    "Be Yourself/Be Yourself index.md",
+    "AI/深度学习/Deeplearning Summary.md",
+    "AI/深度学习/理论/auto-encoder.md",
+    "Paper/Paper/Deeplearning/README.md",
+    "深度学习/index.md",
+    "深度学习",
+    "Source Code/pocketbase/Snipaste/Pasted image 20230624171517.png",
+    "Source Code/pocketbase/Snipaste",
+    "Source Code/pocketbase",
+    "Coding/Go/Book",
+    "Cloud Native/Architecture/Snipaste/Pasted image 20230624163511.png",
+    "Cloud Native/Architecture/Snipaste/Pasted image 20230624163507.png",
+    "Cloud Native/Architecture/Snipaste/Pasted image 20230624163433.png",
+    "English Learning/词根词缀/Snipaste/Pasted image 20230624162601.png",
+    "English Learning/词根词缀/Snipaste",
+    "English Learning/词根词缀",
+    "Basic/设计模式/Go 设计模式/Snipaste/Pasted image 20230623213512.png",
+    "Basic/设计模式/Java 设计模式/images/3-1Q1141559151S.gif",
     "Cloud Native/Database/Redis/Redis(码神之路)/img/YyUHN8.png",
     "Cloud Native/Database/Redis/Redis(码神之路)/img/YytSHK.png",
     "Cloud Native/Database/Redis/Redis(码神之路)/img/Yytcb6.png",
-    "Cloud Native/Database/Redis/Redis(码神之路)/img/YyJzFg.png",
-    "Cloud Native/Database/Redis/Redis(码神之路)/img/Yy0d56.png",
-    "Cloud Native/Database/Redis/Redis(码神之路)/img/redis-cluster-5.png",
-    "Cloud Native/Database/Redis/Redis(码神之路)/img/redis-cluster-3.png",
-    "Cloud Native/Database/Redis/Redis(码神之路)/img/image-20210717200519848.png",
-    "Cloud Native/Database/Redis/Redis(码神之路)/06.资料/cluster集群配置文件/cluster-6507.conf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

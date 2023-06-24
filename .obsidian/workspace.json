@@ -56,15 +56,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/设计模式/Go 设计模式/适配器模式.md",
+                "file": "Resume/Golang 面试资料搜集.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/设计模式/Go 设计模式/适配器模式.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/设计模式/Go 设计模式/适配器模式.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -200,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/设计模式/Go 设计模式/适配器模式.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +224,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic/设计模式/Go 设计模式/适配器模式.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -267,14 +266,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d74fff158c288080",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
+    "Resume/Golang 面试资料搜集.md",
+    "Resume/面试题/Go/Go 编程题目.md",
+    "Resume/面试题/Go/Go 面试题.md",
+    "Resume/面试题/Go/Gin 面试题.md",
+    "Resume/面试题/Go/面经收集.md",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202307.png",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202301.png",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202254.png",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202249.png",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202245.png",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202240.png",
+    "Resume/面试题/Go/Snipaste/Pasted image 20230624202234.png",
+    "Resume/面试题/Go/Snipaste",
+    "Resume/面试技能.md",
+    "Resume/面试题.md",
+    "Resume/三年后的自己要是什么样的呢？.md",
+    "Resume/Resume.md",
+    "Resume/Tips.md",
+    "Resume/Resume index.md",
+    "Resume/面试题/Go/Go",
+    "Coding/Go/GORM(Object-Relationl Mapping).md",
+    "Resume/面试题/Go",
+    "Resume/面试题",
+    "Eassay/随想.md",
     "Basic/设计模式/Go 设计模式/适配器模式.md",
+    "Eassay/讲座/OpenHarmony.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Basic/设计模式/Go 设计模式/简单工厂模式.md",
     "Day3/Day3.md",
     "Tasks/实习/第一份寒假实习.md",
-    "Eassay/讲座/OpenHarmony.md",
     "Eassay/讲座/研究生安全竞赛.md",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
     "Basic/计算机组成原理/冯诺依曼体系结构.md",
@@ -285,36 +308,11 @@
     "Basic/计算机组成原理/DLL.md",
     "Math/Latex/Latex 常用包.md",
     "Math/Math index.md",
-    "Math/Latex/Latex.md",
-    "Coding/Go/基础知识/Go 打包.md",
-    "Cloud Native/Github Project/okteto——change local, sync cloud.md",
-    "Cloud Native/Cloud Native index.md",
     "Cloud Native/Github Project",
-    "AI/LLM/Project&Analysis/bilingual_book_maker.md",
-    "AI/LLM/Project&Analysis/ChatPaper.md",
-    "AI/LLM/Project&Analysis/gpt_academic.md",
-    "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md",
-    "AI/LLM/Chatgpt/ChatGPT.md",
-    "Cloud Native/Others/Github 工作流.md",
-    "Interesting/Fitness/健身.md",
-    "Interesting/陈平跨学科思维.md",
     "Interesting/Fitness/未命名",
     "Interesting/Fitness",
-    "Economics/经济学 Memos.md",
-    "Weekly Note/2023-W20.md",
     "Economics/经济学/资本论(王德峰)",
     "Economics/商科",
-    "Economics/经济学",
-    "Economics/金融学",
-    "Economics",
-    "Cloud Native/Docker/Snipaste/Pasted image 20230624184231.png",
-    "Cloud Native/Docker/Snipaste/Pasted image 20230624184226.png",
-    "Cloud Native/Docker/Snipaste/Pasted image 20230624184220.png",
-    "Cloud Native/Docker/Snipaste/Pasted image 20230624184217.png",
-    "Cloud Native/Docker/Docker2022.html",
-    "Source Code/pocketbase/Snipaste/Pasted image 20230624171517.png",
-    "Cloud Native/Architecture/Snipaste/Pasted image 20230624163511.png",
-    "Cloud Native/Architecture/Snipaste/Pasted image 20230624163507.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

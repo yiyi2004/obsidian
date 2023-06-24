@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Golang 面试资料搜集",
+      "path": "Resume/Golang 面试资料搜集.md"
+    },
+    {
+      "basename": "Go 编程题目",
+      "path": "Resume/面试题/Go/Go 编程题目.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Resume/面试题/Go/Go 面试题.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Resume/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "面经收集",
+      "path": "Resume/面试题/Go/面经收集.md"
+    },
+    {
+      "basename": "面试技能",
+      "path": "Resume/面试技能.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Resume/面试题.md"
+    },
+    {
+      "basename": "三年后的自己要是什么样的呢？",
+      "path": "Resume/三年后的自己要是什么样的呢？.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
+    },
+    {
+      "basename": "Tips",
+      "path": "Resume/Tips.md"
+    },
+    {
+      "basename": "Resume index",
+      "path": "Resume/Resume index.md"
+    },
+    {
+      "basename": "GORM(Object-Relationl Mapping)",
+      "path": "Coding/Go/GORM(Object-Relationl Mapping).md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
       "basename": "适配器模式",
       "path": "Basic/设计模式/Go 设计模式/适配器模式.md"
+    },
+    {
+      "basename": "OpenHarmony",
+      "path": "Eassay/讲座/OpenHarmony.md"
     },
     {
       "basename": "Go 设计模式索引",
@@ -13,16 +73,8 @@
       "path": "Basic/设计模式/Go 设计模式/简单工厂模式.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "OpenHarmony",
-      "path": "Eassay/讲座/OpenHarmony.md"
     },
     {
       "basename": "研究生安全竞赛",
@@ -147,58 +199,6 @@
     {
       "basename": "Linux入门，系统运维，云计算",
       "path": "Cloud Native/Linux/Operations/Linux入门，系统运维，云计算.md"
-    },
-    {
-      "basename": "Docker 安装",
-      "path": "Cloud Native/Docker/Docker 安装.md"
-    },
-    {
-      "basename": "docker",
-      "path": "Weekly Note/docker.md"
-    },
-    {
-      "basename": "Docker Compose",
-      "path": "Cloud Native/Docker/docker-compose 教程/Docker Compose.md"
-    },
-    {
-      "basename": "docker memos",
-      "path": "Cloud Native/Docker/docker memos.md"
-    },
-    {
-      "basename": "go-dev",
-      "path": "Cloud Native/Docker/dockerfile & docker-compose/go-dev.md"
-    },
-    {
-      "basename": "Docker Macvlan",
-      "path": "Cloud Native/Docker/Docker Macvlan.md"
-    },
-    {
-      "basename": "Docker2022",
-      "path": "Cloud Native/Docker/Docker2022.html"
-    },
-    {
-      "basename": "Portainer",
-      "path": "Cloud Native/Docker/Portainer.md"
-    },
-    {
-      "basename": "dockerfile & docker-compose examples",
-      "path": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile & docker-compose examples.md"
-    },
-    {
-      "basename": "第一天",
-      "path": "Cloud Native/Docker/docker-compose 教程/第一天.pdf"
-    },
-    {
-      "basename": "第三天",
-      "path": "Cloud Native/Docker/docker-compose 教程/第三天.pdf"
-    },
-    {
-      "basename": "第二天",
-      "path": "Cloud Native/Docker/docker-compose 教程/第二天.pdf"
-    },
-    {
-      "basename": "fmt",
-      "path": "Coding/Go/标准库的使用/fmt.md"
     }
   ],
   "omittedPaths": [],

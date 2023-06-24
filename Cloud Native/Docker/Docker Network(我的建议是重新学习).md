@@ -1,3 +1,39 @@
+#docker
+
+## Memos
+
+```powershell
+iptables -t nat -vnL POSTROUTING
+ptables -t nat -vnL DOCKER
+```
+
+Docker 的四种网络模式
+
+1. bridge
+2. host
+3. none
+4. container 联盟模式
+
+```powershell
+docker network ls
+docker network inspect bridge
+docker network create -d bridge --subnet "192.168.100.0/24" --gateway "192.168.100.1" -o com.docker.network.bridge.name=docker1 mybr0
+docker run -it --network mybr0 --rm busybox
+docker run -it --network host --rm busybox
+docker run -it --name c1 --rm busybox:latest
+docker run -it --name c2 --network container:c1 --rm busybox:latest
+netstat -npl
+docker exec c1 wget -O - -q 127.0.0.1
+# 查看c1容器/tmp目录，发现没有在c2容器中创建的文件，说明c1与c2仅共享了网络命名空间，没有共享文件系统
+docker exec c1 ls /tmp
+```
+
+![[Snipaste/Pasted image 20230624184220.png]]  
+![[Snipaste/Pasted image 20230624184226.png]]  
+![[Snipaste/Pasted image 20230624184231.png]]
+
+## Note
+
 - ifconfig
 - brctl show
 - docker0 虚拟的网桥，相当于一个虚拟的交换机
@@ -23,8 +59,6 @@
 - docker0 是容器之间，容器和宿主机进行通信的一块网卡，ens33 是主机的网卡。
 
 docker run -d -p 8000:8000 -p 9000:9000 --name portainer --restart=always -v /var/run/docker.sock:/var/run/docker.sock -v portainer_data:/data portainer/portainer-ce:2.11.1
-
-## Note
 
 - https://note.youdao.com/s/Js2Tccu3
 - https://note.youdao.com/s/36hAglwJ

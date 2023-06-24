@@ -1,20 +1,148 @@
 {
   "recentFiles": [
     {
-      "basename": "dockerfile",
-      "path": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md"
+      "basename": "适配器模式",
+      "path": "Basic/设计模式/Go 设计模式/适配器模式.md"
+    },
+    {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
+      "basename": "简单工厂模式",
+      "path": "Basic/设计模式/Go 设计模式/简单工厂模式.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "OpenHarmony",
+      "path": "Eassay/讲座/OpenHarmony.md"
+    },
+    {
+      "basename": "研究生安全竞赛",
+      "path": "Eassay/讲座/研究生安全竞赛.md"
+    },
+    {
+      "basename": "认知偏执脆弱性本子",
+      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
+    },
+    {
+      "basename": "冯诺依曼体系结构",
+      "path": "Basic/计算机组成原理/冯诺依曼体系结构.md"
+    },
+    {
+      "basename": "DLL",
+      "path": "Basic/计算机组成原理/DLL.md"
+    },
+    {
+      "basename": "Latex 常用包",
+      "path": "Math/Latex/Latex 常用包.md"
+    },
+    {
+      "basename": "Math index",
+      "path": "Math/Math index.md"
+    },
+    {
+      "basename": "Latex",
+      "path": "Math/Latex/Latex.md"
+    },
+    {
+      "basename": "Go 打包",
+      "path": "Coding/Go/基础知识/Go 打包.md"
+    },
+    {
+      "basename": "okteto——change local, sync cloud",
+      "path": "Cloud Native/Github Project/okteto——change local, sync cloud.md"
+    },
+    {
+      "basename": "Cloud Native index",
+      "path": "Cloud Native/Cloud Native index.md"
+    },
+    {
+      "basename": "bilingual_book_maker",
+      "path": "AI/LLM/Project&Analysis/bilingual_book_maker.md"
+    },
+    {
+      "basename": "ChatPaper",
+      "path": "AI/LLM/Project&Analysis/ChatPaper.md"
+    },
+    {
+      "basename": "gpt_academic",
+      "path": "AI/LLM/Project&Analysis/gpt_academic.md"
+    },
+    {
+      "basename": "利用 ChatGPT 加速论文阅读与写作",
+      "path": "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "AI/LLM/Chatgpt/ChatGPT.md"
+    },
+    {
+      "basename": "Github 工作流",
+      "path": "Cloud Native/Others/Github 工作流.md"
+    },
+    {
+      "basename": "健身",
+      "path": "Interesting/Fitness/健身.md"
+    },
+    {
+      "basename": "陈平跨学科思维",
+      "path": "Interesting/陈平跨学科思维.md"
+    },
+    {
+      "basename": "经济学 Memos",
+      "path": "Economics/经济学 Memos.md"
+    },
+    {
+      "basename": "2023-W20",
+      "path": "Weekly Note/2023-W20.md"
+    },
+    {
+      "basename": "pocketbase 源码阅读",
+      "path": "Source Code/pocketbase/pocketbase 源码阅读.md"
+    },
+    {
+      "basename": "Interesting index",
+      "path": "Interesting/Interesting index.md"
+    },
+    {
+      "basename": "通论",
+      "path": "Economics/经济学/影响商业的50本书/通论.md"
+    },
+    {
+      "basename": "第二章 经济学的基本方法",
+      "path": "Economics/经济学/经济学系统课程/第二章 经济学的基本方法.md"
+    },
+    {
+      "basename": "第一章 绪论",
+      "path": "Economics/经济学/经济学系统课程/第一章 绪论.md"
     },
     {
       "basename": "Docker Notebook",
       "path": "Cloud Native/Docker/Docker Notebook.md"
     },
     {
-      "basename": "虚拟化技术",
-      "path": "Cloud Native/Course/虚拟化技术/虚拟化技术.md"
+      "basename": "Docker Network(我的建议是重新学习)",
+      "path": "Cloud Native/Docker/Docker Network(我的建议是重新学习).md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "dockerfile",
+      "path": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
+      "basename": "虚拟化技术",
+      "path": "Cloud Native/Course/虚拟化技术/虚拟化技术.md"
     },
     {
       "basename": "Linux入门，系统运维，云计算",
@@ -35,10 +163,6 @@
     {
       "basename": "docker memos",
       "path": "Cloud Native/Docker/docker memos.md"
-    },
-    {
-      "basename": "Docker Network(我的建议是重新学习)",
-      "path": "Cloud Native/Docker/Docker Network(我的建议是重新学习).md"
     },
     {
       "basename": "go-dev",
@@ -73,132 +197,8 @@
       "path": "Cloud Native/Docker/docker-compose 教程/第二天.pdf"
     },
     {
-      "basename": "pocketbase 源码阅读",
-      "path": "Source Code/pocketbase/pocketbase 源码阅读.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
       "basename": "fmt",
       "path": "Coding/Go/标准库的使用/fmt.md"
-    },
-    {
-      "basename": "高效能人士的7个习惯",
-      "path": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md"
-    },
-    {
-      "basename": "Go 基础",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
-    },
-    {
-      "basename": "Go 设计模式总结",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式总结.md"
-    },
-    {
-      "basename": "Be Yourself index",
-      "path": "Be Yourself/Be Yourself index.md"
-    },
-    {
-      "basename": "Deeplearning Summary",
-      "path": "AI/深度学习/Deeplearning Summary.md"
-    },
-    {
-      "basename": "auto-encoder",
-      "path": "AI/深度学习/理论/auto-encoder.md"
-    },
-    {
-      "basename": "README",
-      "path": "Paper/Paper/Deeplearning/README.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
-      "basename": "Source Code index",
-      "path": "Source Code/Source Code index.md"
-    },
-    {
-      "basename": "CGO 简易教程",
-      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Fasthttp",
-      "path": "Cloud Native/Architecture/Fasthttp.md"
-    },
-    {
-      "basename": "CI&CD",
-      "path": "Cloud Native/Architecture/CI&CD.md"
-    },
-    {
-      "basename": "Architecture",
-      "path": "Cloud Native/Architecture/Architecture.md"
-    },
-    {
-      "basename": "ATT&CK Memos 总结",
-      "path": "Cyber Security/ATT&CK/ATT&CK Memos 总结.md"
-    },
-    {
-      "basename": "ATT&CK 素材",
-      "path": "Cyber Security/ATT&CK/ATT&CK 素材.md"
-    },
-    {
-      "basename": "交付文档",
-      "path": "Cyber Security/ATT&CK/交付文档.md"
-    },
-    {
-      "basename": "基于ATT&CK的威胁检测技术研究",
-      "path": "Cyber Security/ATT&CK/基于ATT&CK的威胁检测技术研究.md"
-    },
-    {
-      "basename": "ATTCK PPT",
-      "path": "Group Meeting/ATTCK PPT.md"
-    },
-    {
-      "basename": "ATT&CK",
-      "path": "Cyber Security/ATT&CK/ATT&CK.md"
-    },
-    {
-      "basename": "词根词缀总结",
-      "path": "English Learning/词根词缀/词根词缀总结.md"
-    },
-    {
-      "basename": "老友记第一季",
-      "path": "English Learning/美剧跟练/老友记第一季.md"
-    },
-    {
-      "basename": "孙志立简明英语音标",
-      "path": "English Learning/孙志立简明英语音标/孙志立简明英语音标.md"
-    },
-    {
-      "basename": "英语兔",
-      "path": "English Learning/音标课/英语兔.md"
-    },
-    {
-      "basename": "Word",
-      "path": "English Learning/Word/Word.md"
-    },
-    {
-      "basename": "小组作业",
-      "path": "English Learning/小组作业.md"
-    },
-    {
-      "basename": "数学之美",
-      "path": "Reading Notes/数学之美.md"
-    },
-    {
-      "basename": "Reading Notes index",
-      "path": "Reading Notes/Reading Notes index.md"
-    },
-    {
-      "basename": "learning process",
-      "path": "Be Yourself/learning process.md"
     }
   ],
   "omittedPaths": [],

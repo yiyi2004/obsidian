@@ -5,7 +5,8 @@ git commit：将暂存区内容添加到 local 区的当前分支中。
 git push *RemoteHostName* *LocalBranchName*：将 local 区的 LocalBranchName 分支推送到 RemoteHostName 主机的同名分支。（若加 -f 表示无视本地与远程分支的差异强行 push）  
 git pull *RemoteHostName* *RemoteBranchName*：同上，不过改成从远程主机下载远程分支并与本地同名分支合并。  
 git rebase xxx：假设当前分支与 xxx 分支存在共同部分 common，该指令用 xxx 分支包括 common 在内的整体替换当前分支的 common 部分（原先 xxx 分支内容为 common->diversityA，当前分支内容为 common->diversityB，执行完该指令后当前分支内容为 common->diversityA->diversityB）。  
-git branch -D xxx：不加 -D 表示创建新 local 分支 xxx，加 -D 表示强制删除 local 分支 xxx。
+git branch -D xxx：不加 -D 表示创建新 local 分支 xxx，加 -D 表示强制删除 local 分支 xxx。  
+git config --global http.proxy 'http://127.0.0.1:7890' 配置访问代理
 
 ## Branch
 

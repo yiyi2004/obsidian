@@ -5,7 +5,7 @@
 - [[How to write a paper.md|How to write a paper]]
 - [[index.md|index]]
 - [[Tips|Tips]]
-- [[健身.md|健身]]
+- [[../Interesting/Fitness/健身|健身]]
 - [[奖励机制.md|奖励机制]]
 - [[学习方法总结(硬核学长).md|学习方法总结(硬核学长)]]
 - [[工具.md|工具]]

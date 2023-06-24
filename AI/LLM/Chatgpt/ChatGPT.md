@@ -1,3 +1,12 @@
+- Time：2023-06-24 18:46
+- Label： #chatgpt
+
+## Abstract
+
+ChatGPT 有关的理论知识
+
+## Content
+
 - Bert
 - GPT
 

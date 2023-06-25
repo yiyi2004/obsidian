@@ -1,3 +1,14 @@
+- Time：2023-06-25 10:40
+- Label：
+
+## Abstract
+
+简要介绍 Unicode 和 utf-8 之间的区别
+
+## Content
+
+### Unicode 与 UTF-8
+
 作者：uuspider  
 链接：https://www.zhihu.com/question/23374078/answer/65352538  
 来源：知乎  
@@ -84,6 +95,20 @@ s 01110011
 请将”It's 知乎日报“的 GB2312 和 GBK 码 (自行 google) 转成二进制。不考虑历史因素，从技术角度解释为什么在 unicode 和 [UTF-8](https://www.zhihu.com/search?q=UTF-8&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A65352538%7D) 大行其道的同时，GB2312 和 GBK 仍在广泛使用。
 
 剧透：一切都是为了节省你的硬盘和流量。
+
+### Unicode in Golang
+
+byte <---> uint8  
+rune <---> int32 unicode 编码  
+原生字符串字面量和解释型字符字面量  
+字符串的值是不可变的  
+数组和切片是不一样的，数组，精细的规划内存，避免二次分配。
+
+```go
+arr := [...]uint8{192.168.184.132}
+```
+
+![[Snipaste/Pasted image 20230625104224.png]]
 
 ## Reference
 

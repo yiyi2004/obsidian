@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "Unicode 与 utf-8",
+      "path": "Basic/Unicode 与 utf-8.md"
+    },
+    {
+      "basename": "Go IM",
+      "path": "Project/Golang IM/Go IM.md"
     },
     {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "百度网盘",
+      "path": "Project/百度云盘/百度网盘.md"
+    },
+    {
+      "basename": "Golang JSON omitempty",
+      "path": "Coding/Go/基础知识/Golang JSON omitempty.md"
+    },
+    {
+      "basename": "Go 错误处理",
+      "path": "Coding/Go/基础知识/Go 错误处理.md"
+    },
+    {
+      "basename": "error",
+      "path": "Coding/Go/标准库的使用/error.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "OpenHarmony",
@@ -175,30 +199,6 @@
     {
       "basename": "第二章 经济学的基本方法",
       "path": "Economics/经济学/经济学系统课程/第二章 经济学的基本方法.md"
-    },
-    {
-      "basename": "第一章 绪论",
-      "path": "Economics/经济学/经济学系统课程/第一章 绪论.md"
-    },
-    {
-      "basename": "Docker Notebook",
-      "path": "Cloud Native/Docker/Docker Notebook.md"
-    },
-    {
-      "basename": "Docker Network(我的建议是重新学习)",
-      "path": "Cloud Native/Docker/Docker Network(我的建议是重新学习).md"
-    },
-    {
-      "basename": "dockerfile",
-      "path": "Cloud Native/Docker/dockerfile & docker-compose/dockerfile.md"
-    },
-    {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "虚拟化技术",
-      "path": "Cloud Native/Course/虚拟化技术/虚拟化技术.md"
     }
   ],
   "omittedPaths": [],

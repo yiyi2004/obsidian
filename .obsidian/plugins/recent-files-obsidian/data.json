@@ -5,8 +5,24 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "OpenHarmony",
+      "path": "Eassay/讲座/OpenHarmony.md"
+    },
+    {
       "basename": "Golang 面试资料搜集",
       "path": "Resume/Golang 面试资料搜集.md"
+    },
+    {
+      "basename": "GopherChina2023",
+      "path": "Eassay/讲座/2023/GopherChina2023.md"
+    },
+    {
+      "basename": "研究生安全竞赛",
+      "path": "Eassay/讲座/研究生安全竞赛.md"
     },
     {
       "basename": "Go 编程题目",
@@ -61,24 +77,12 @@
       "path": "Basic/设计模式/Go 设计模式/适配器模式.md"
     },
     {
-      "basename": "OpenHarmony",
-      "path": "Eassay/讲座/OpenHarmony.md"
-    },
-    {
       "basename": "Go 设计模式索引",
       "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
     },
     {
       "basename": "简单工厂模式",
       "path": "Basic/设计模式/Go 设计模式/简单工厂模式.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "研究生安全竞赛",
-      "path": "Eassay/讲座/研究生安全竞赛.md"
     },
     {
       "basename": "认知偏执脆弱性本子",
@@ -195,10 +199,6 @@
     {
       "basename": "虚拟化技术",
       "path": "Cloud Native/Course/虚拟化技术/虚拟化技术.md"
-    },
-    {
-      "basename": "Linux入门，系统运维，云计算",
-      "path": "Cloud Native/Linux/Operations/Linux入门，系统运维，云计算.md"
     }
   ],
   "omittedPaths": [],

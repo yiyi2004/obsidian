@@ -36,32 +36,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "d15768ab7c1be515",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/讲座/OpenHarmony.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d74fff158c288080",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resume/Golang 面试资料搜集.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -242,7 +216,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5
+    "width": 363.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,7 +243,13 @@
   },
   "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
+    "Tasks/实习/第一份寒假实习.md",
+    "Eassay/讲座/OpenHarmony.md",
     "Resume/Golang 面试资料搜集.md",
+    "Eassay/讲座/2023/GopherChina2023.md",
+    "Eassay/讲座/研究生安全竞赛.md",
+    "Eassay/讲座/2023",
+    "Day3/Day3.md",
     "Resume/面试题/Go/Go 编程题目.md",
     "Resume/面试题/Go/Go 面试题.md",
     "Resume/面试题/Go/Gin 面试题.md",
@@ -293,12 +274,8 @@
     "Resume/面试题",
     "Eassay/随想.md",
     "Basic/设计模式/Go 设计模式/适配器模式.md",
-    "Eassay/讲座/OpenHarmony.md",
     "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Basic/设计模式/Go 设计模式/简单工厂模式.md",
-    "Day3/Day3.md",
-    "Tasks/实习/第一份寒假实习.md",
-    "Eassay/讲座/研究生安全竞赛.md",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
     "Basic/计算机组成原理/冯诺依曼体系结构.md",
     "Basic/计算机组成原理/Snipaste/Pasted image 20230624192017.png",
@@ -312,7 +289,6 @@
     "Interesting/Fitness/未命名",
     "Interesting/Fitness",
     "Economics/经济学/资本论(王德峰)",
-    "Economics/商科",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
+      "basename": "Algorithm index",
+      "path": "Algorithm/Algorithm index.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "windows 安装 ssh",
       "path": "Basic/windows 安装 ssh.md"
     },
     {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "CVE 漏洞复现及渗透思路学习",
@@ -191,14 +199,6 @@
     {
       "basename": "面试题",
       "path": "Resume/面试题.md"
-    },
-    {
-      "basename": "三年后的自己要是什么样的呢？",
-      "path": "Resume/三年后的自己要是什么样的呢？.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
     }
   ],
   "omittedPaths": [],

@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "生成木马反弹shell（Windows）",
+      "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
+    },
+    {
+      "basename": "MSF",
+      "path": "Cyber Security/Red Team/MSF+CS/30 MSF进阶/MSF.md"
+    },
+    {
+      "basename": "Deeplocker 攻击流程",
+      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "deeplocker python API development",
+      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "CVE 漏洞复现及渗透思路学习",
+      "path": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "Leetcode 刷题",
+      "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "CVE-2023-21839 Weblogic未授权远程代码执行漏洞",
+      "path": "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md"
+    },
+    {
+      "basename": "Resource   Collection",
+      "path": "Cyber Security/CVE/Resource   Collection.md"
+    },
+    {
+      "basename": "Occultation",
+      "path": "Cyber Security/Workflow/Occultation.md"
+    },
+    {
+      "basename": "通过复刻网站后台 getshell",
+      "path": "Cyber Security/渗透思路/通过复刻网站后台 getshell.md"
+    },
+    {
+      "basename": "信息搜集",
+      "path": "Cyber Security/暗月渗透测试/信息搜集.md"
+    },
+    {
       "basename": "Unicode 与 utf-8",
       "path": "Basic/Unicode 与 utf-8.md"
     },
     {
       "basename": "Go IM",
       "path": "Project/Golang IM/Go IM.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "百度网盘",
@@ -27,10 +99,6 @@
     {
       "basename": "error",
       "path": "Coding/Go/标准库的使用/error.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "OpenHarmony",
@@ -131,74 +199,6 @@
     {
       "basename": "Latex",
       "path": "Math/Latex/Latex.md"
-    },
-    {
-      "basename": "Go 打包",
-      "path": "Coding/Go/基础知识/Go 打包.md"
-    },
-    {
-      "basename": "okteto——change local, sync cloud",
-      "path": "Cloud Native/Github Project/okteto——change local, sync cloud.md"
-    },
-    {
-      "basename": "Cloud Native index",
-      "path": "Cloud Native/Cloud Native index.md"
-    },
-    {
-      "basename": "bilingual_book_maker",
-      "path": "AI/LLM/Project&Analysis/bilingual_book_maker.md"
-    },
-    {
-      "basename": "ChatPaper",
-      "path": "AI/LLM/Project&Analysis/ChatPaper.md"
-    },
-    {
-      "basename": "gpt_academic",
-      "path": "AI/LLM/Project&Analysis/gpt_academic.md"
-    },
-    {
-      "basename": "利用 ChatGPT 加速论文阅读与写作",
-      "path": "AI/LLM/Project&Analysis/利用 ChatGPT 加速论文阅读与写作.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/LLM/Chatgpt/ChatGPT.md"
-    },
-    {
-      "basename": "Github 工作流",
-      "path": "Cloud Native/Others/Github 工作流.md"
-    },
-    {
-      "basename": "健身",
-      "path": "Interesting/Fitness/健身.md"
-    },
-    {
-      "basename": "陈平跨学科思维",
-      "path": "Interesting/陈平跨学科思维.md"
-    },
-    {
-      "basename": "经济学 Memos",
-      "path": "Economics/经济学 Memos.md"
-    },
-    {
-      "basename": "2023-W20",
-      "path": "Weekly Note/2023-W20.md"
-    },
-    {
-      "basename": "pocketbase 源码阅读",
-      "path": "Source Code/pocketbase/pocketbase 源码阅读.md"
-    },
-    {
-      "basename": "Interesting index",
-      "path": "Interesting/Interesting index.md"
-    },
-    {
-      "basename": "通论",
-      "path": "Economics/经济学/影响商业的50本书/通论.md"
-    },
-    {
-      "basename": "第二章 经济学的基本方法",
-      "path": "Economics/经济学/经济学系统课程/第二章 经济学的基本方法.md"
     }
   ],
   "omittedPaths": [],

@@ -43,7 +43,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/Unicode 与 utf-8.md",
+                "file": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64517ae96e1e8580",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60b2d3a9ac7a36eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -95,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/Unicode 与 utf-8.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.51103591918945,
-    "collapsed": true
+    "width": 321.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -170,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/Unicode 与 utf-8.md"
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
               }
             }
           },
@@ -188,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/Unicode 与 utf-8.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +238,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic/Unicode 与 utf-8.md",
+                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -256,26 +281,39 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b20dc3949a5a22c4",
+  "active": "60b2d3a9ac7a36eb",
   "lastOpenFiles": [
+    "Cyber Security/Red Team/MSF+CS/30 MSF进阶/MSF.md",
+    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
+    "Day3/Day3.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/Leetcode 刷题.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
+    "Cyber Security/CVE/Resource   Collection.md",
+    "Cyber Security/Workflow/Occultation.md",
+    "Cyber Security/渗透思路/通过复刻网站后台 getshell.md",
+    "Cyber Security/暗月渗透测试/信息搜集.md",
+    "Cyber Security/渗透思路",
+    "Cyber Security/CVE/未命名",
+    "Basic/Unicode 与 utf-8.md",
     "Basic/Snipaste/Pasted image 20230625104224.png",
     "Project/Golang IM/Go IM.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Project/百度云盘/百度网盘.md",
     "Project/Golang IM",
     "Coding/Go/基础知识/Golang JSON omitempty.md",
     "Coding/Go/基础知识/Go 错误处理.md",
     "Coding/Go/标准库的使用/error.md",
-    "Day3/Day3.md",
     "Eassay/讲座/OpenHarmony.md",
     "Resume/Golang 面试资料搜集.md",
-    "Eassay/讲座/2023/GopherChina2023.md",
-    "Eassay/讲座/研究生安全竞赛.md",
     "Eassay/讲座/2023",
-    "Resume/面试题/Go/Go 编程题目.md",
-    "Resume/面试题/Go/Go 面试题.md",
-    "Resume/面试题/Go/Gin 面试题.md",
-    "Resume/面试题/Go/面经收集.md",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202307.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202301.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202254.png",
@@ -284,26 +322,13 @@
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202240.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202234.png",
     "Resume/面试题/Go/Snipaste",
-    "Resume/面试技能.md",
-    "Resume/面试题.md",
-    "Resume/三年后的自己要是什么样的呢？.md",
-    "Resume/Resume.md",
-    "Resume/Tips.md",
-    "Resume/Resume index.md",
     "Resume/面试题/Go/Go",
-    "Coding/Go/GORM(Object-Relationl Mapping).md",
     "Resume/面试题/Go",
     "Resume/面试题",
-    "Eassay/随想.md",
-    "Basic/设计模式/Go 设计模式/适配器模式.md",
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Basic/计算机组成原理/Snipaste/Pasted image 20230624192017.png",
     "Basic/计算机组成原理/Snipaste/Pasted image 20230624192013.png",
-    "Basic/计算机组成原理/Snipaste/Pasted image 20230624192007.png",
     "Basic/计算机组成原理/Snipaste",
     "Cloud Native/Github Project",
-    "Interesting/Fitness/未命名",
-    "Interesting/Fitness",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

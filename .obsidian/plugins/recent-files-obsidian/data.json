@@ -1,6 +1,66 @@
 {
   "recentFiles": [
     {
+      "basename": "HW 介绍",
+      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+    },
+    {
+      "basename": "CVE 漏洞复现及渗透思路学习",
+      "path": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "第07章-越权漏洞",
+      "path": "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf"
+    },
+    {
+      "basename": "第01章-初识代码审计",
+      "path": "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf"
+    },
+    {
+      "basename": "第02章-Java代码审计环境搭建",
+      "path": "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf"
+    },
+    {
+      "basename": "代码审计",
+      "path": "Cyber Security/代码审计/代码审计.md"
+    },
+    {
+      "basename": "第10章-文件上传",
+      "path": "Cyber Security/代码审计/笔记/第10章-文件上传.pdf"
+    },
+    {
+      "basename": "第04章-SQL注入漏洞",
+      "path": "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf"
+    },
+    {
+      "basename": "第03章-javaWeb前置知识",
+      "path": "Cyber Security/代码审计/笔记/第03章-javaWeb前置知识.pdf"
+    },
+    {
+      "basename": "代码审计",
+      "path": "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/代码审计.md"
+    },
+    {
+      "basename": "07 Metasploit的核心模块modules",
+      "path": "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/07 Metasploit的核心模块modules.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Windows安装msf",
+      "path": "Cyber Security/Red Team/MSF+CS/04 Windows安装MSF课件/文档/Windows安装msf.md"
+    },
+    {
+      "basename": "08-09 msfvenom 常用参数",
+      "path": "Cyber Security/Red Team/MSF+CS/08-09 msfvenom 常用参数/08-09 msfvenom 常用参数.md"
+    },
+    {
       "basename": "生成木马反弹shell（Windows）",
       "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
     },
@@ -13,20 +73,12 @@
       "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "deeplocker python API development",
       "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
     },
     {
       "basename": "Deeplocker",
       "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
     },
     {
       "basename": "Running",
@@ -39,10 +91,6 @@
     {
       "basename": "Go Pro",
       "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "CVE 漏洞复现及渗透思路学习",
-      "path": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md"
     },
     {
       "basename": "Algorithm",
@@ -151,54 +199,6 @@
     {
       "basename": "Tips",
       "path": "Resume/Tips.md"
-    },
-    {
-      "basename": "Resume index",
-      "path": "Resume/Resume index.md"
-    },
-    {
-      "basename": "GORM(Object-Relationl Mapping)",
-      "path": "Coding/Go/GORM(Object-Relationl Mapping).md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "适配器模式",
-      "path": "Basic/设计模式/Go 设计模式/适配器模式.md"
-    },
-    {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "简单工厂模式",
-      "path": "Basic/设计模式/Go 设计模式/简单工厂模式.md"
-    },
-    {
-      "basename": "认知偏执脆弱性本子",
-      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
-    },
-    {
-      "basename": "冯诺依曼体系结构",
-      "path": "Basic/计算机组成原理/冯诺依曼体系结构.md"
-    },
-    {
-      "basename": "DLL",
-      "path": "Basic/计算机组成原理/DLL.md"
-    },
-    {
-      "basename": "Latex 常用包",
-      "path": "Math/Latex/Latex 常用包.md"
-    },
-    {
-      "basename": "Math index",
-      "path": "Math/Math index.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Math/Latex/Latex.md"
     }
   ],
   "omittedPaths": [],

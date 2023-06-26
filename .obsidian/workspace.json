@@ -73,8 +73,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -210,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -278,11 +277,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "e6685c110a4cdb8e",
   "lastOpenFiles": [
     "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
+    "Day3/Day3.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+    "Challenge/Habit Challenge/Summary.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
     "Cyber Security/代码审计/代码审计.md",
@@ -295,7 +297,6 @@
     "Cyber Security/代码审计/笔记/第08章-XSS 攻击的防御.pdf",
     "Cyber Security/代码审计/笔记/第06章-Java反序列化漏洞.pdf",
     "Cyber Security/代码审计/笔记/第05章-XXE漏洞.pdf",
-    "Day3/Day3.md",
     "Cyber Security/Red Team/MSF+CS/04 Windows安装MSF课件/文档/Windows安装msf.md",
     "Cyber Security/Red Team/MSF+CS/08-09 msfvenom 常用参数/08-09 msfvenom 常用参数.md",
     "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
@@ -308,13 +309,11 @@
     "Challenge/Habit Challenge/Go Pro.md",
     "Challenge/Habit Challenge/Algorithm.md",
     "Challenge/Habit Challenge/Leetcode 刷题.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
     "Cyber Security/CVE/Resource   Collection.md",
     "Cyber Security/Workflow/Occultation.md",
     "Cyber Security/渗透思路/通过复刻网站后台 getshell.md",
     "Cyber Security/暗月渗透测试/信息搜集.md",
-    "Basic/Unicode 与 utf-8.md",
     "Basic/Snipaste/Pasted image 20230625104224.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202307.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202301.png",

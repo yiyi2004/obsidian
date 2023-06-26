@@ -72,8 +72,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a772683c55db6ef8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/windows 安装 ssh.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/windows 安装 ssh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Basic/windows 安装 ssh.md"
               }
             }
           },
@@ -209,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/windows 安装 ssh.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +248,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/windows 安装 ssh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,8 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5,
-    "collapsed": true
+    "width": 363.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -277,12 +290,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e6685c110a4cdb8e",
+  "active": "a772683c55db6ef8",
   "lastOpenFiles": [
+    "Tasks/实习/第一份寒假实习.md",
+    "Day3/Day3.md",
+    "Basic/windows 安装 ssh.md",
     "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
     "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
-    "Day3/Day3.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/HW/01-HW介绍/HW 介绍.md",
     "Challenge/Habit Challenge/Summary.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",

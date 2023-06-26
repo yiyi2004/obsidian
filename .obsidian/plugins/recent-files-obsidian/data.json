@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "windows 安装 ssh",
+      "path": "Basic/windows 安装 ssh.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "第07章-越权漏洞",
       "path": "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "HW 介绍",
@@ -195,10 +199,6 @@
     {
       "basename": "Resume",
       "path": "Resume/Resume.md"
-    },
-    {
-      "basename": "Tips",
-      "path": "Resume/Tips.md"
     }
   ],
   "omittedPaths": [],

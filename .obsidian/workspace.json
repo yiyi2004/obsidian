@@ -92,7 +92,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/算法总结.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法总结.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/算法总结.md"
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
               }
             }
           },
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法总结.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +261,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/算法总结.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,6 +305,10 @@
   },
   "active": "0cd786118138c13a",
   "lastOpenFiles": [
+    "Coding/Go/Go 处理 wav 文件.md",
+    "Cyber Security/CVE/CVE-2019-0708 EXP.md",
+    "Cyber Security/CVE/CVE-2020-0796.md",
+    "Algorithm/算法总结.md",
     "Algorithm/Algorithm index.md",
     "Day3/Day3.md",
     "Basic/windows 安装 ssh.md",
@@ -337,10 +341,6 @@
     "Challenge/Habit Challenge/Go Pro.md",
     "Challenge/Habit Challenge/Algorithm.md",
     "Challenge/Habit Challenge/Leetcode 刷题.md",
-    "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
-    "Cyber Security/CVE/Resource   Collection.md",
-    "Cyber Security/Workflow/Occultation.md",
-    "Cyber Security/渗透思路/通过复刻网站后台 getshell.md",
     "Basic/Snipaste/Pasted image 20230625104224.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202307.png",
     "Resume/面试题/Go/Snipaste/Pasted image 20230624202301.png",

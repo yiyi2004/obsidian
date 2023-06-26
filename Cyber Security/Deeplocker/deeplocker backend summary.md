@@ -110,6 +110,8 @@ workspace/model/{{key}}/xxx
 
 #### 5️⃣Windows Install or Script
 
+#### 6️⃣如何实现自启动和权限提升
+
 ## ℹ️指标
 
 - [ ] 可以获取目标的照片

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Go 处理 wav 文件",
+      "path": "Coding/Go/Go 处理 wav 文件.md"
+    },
+    {
+      "basename": "CVE-2019-0708 EXP",
+      "path": "Cyber Security/CVE/CVE-2019-0708 EXP.md"
+    },
+    {
+      "basename": "CVE-2020-0796",
+      "path": "Cyber Security/CVE/CVE-2020-0796.md"
+    },
+    {
       "basename": "算法总结",
       "path": "Algorithm/算法总结.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Go 面试题",
       "path": "Resume/面试题/Go/Go 面试题.md"
-    },
-    {
-      "basename": "Gin 面试题",
-      "path": "Resume/面试题/Go/Gin 面试题.md"
-    },
-    {
-      "basename": "面经收集",
-      "path": "Resume/面试题/Go/面经收集.md"
-    },
-    {
-      "basename": "面试技能",
-      "path": "Resume/面试技能.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Resume/面试题.md"
     }
   ],
   "omittedPaths": [],

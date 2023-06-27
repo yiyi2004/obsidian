@@ -3,6 +3,8 @@
 
 ## Abstract
 
+抄写 + **高亮** 的模式是可靠的。加油捏。
+
 ## Content
 
 ### 数组、字符串和切片
@@ -245,6 +247,215 @@ Go 的接口类型是对其它类型行为的抽象和概括；因为接口类�
 
 > 我只能说，这里面的每段内容都在给我震撼。
 
+```go
+func Fprintf(w io.Writer, format string, args ...interface{}) (int, error)
+```
 
+其中 `io.Writer` 用于输出的接口，`error` 是内置的错误接口，它们的定义如下：
+
+```go
+type io.Writer interface {
+    Write(p []byte) (n int, err error)
+}
+
+type error interface {
+    Error() string
+}
+```
+
+我们可以通过定制自己的输出对象，将每个字符转为大写字符后输出：
+
+```go
+type UpperWriter struct {
+    io.Writer
+}
+
+// io.Writer 接口底层有实现对象
+func (p *UpperWriter) Write(data []byte) (n int, err error) {
+    return p.Writer.Write(bytes.ToUpper(data))
+}
+
+func main() {
+    fmt.Fprintln(&UpperWriter{os.Stdout}, "hello, world")
+}
+```
+
+当然，我们也可以定义自己的打印格式来实现将每个字符转为大写字符后输出的效果。对于每个要打印的对象，如果满足了 `fmt.Stringer` 接口，则默认使用对象的 `String` 方法返回的结果打印：
+
+```go
+type UpperString string
+
+func (s UpperString) String() string {
+    return strings.ToUpper(string(s))
+}
+
+type fmt.Stringer interface {
+    String() string
+}
+
+func main() {
+    fmt.Fprintln(os.Stdout, UpperString("hello, world"))
+}
+```
+
+Go 语言中，对于基础类型（非接口类型）**不支持隐式的转换**，我们无法将一个 `int` 类型的值直接赋值给 `int64` 类型的变量，也无法将 `int` 类型的值赋值给底层是 `int` 类型的新定义命名类型的变量。Go 语言对**基础类型**的类型一致性要求可谓是**非常的严格**，但是 Go 语言对于**接口类型**的转换则**非常的灵活**。  
+
+对象和接口之间的转换、接口和接口之间的转换都可能是隐式的转换。可以看下面的例子：
+
+接口和对象之间的转换是灵活的。
+
+```go
+var (
+    a io.ReadCloser = (*os.File)(f) // 隐式转换, *os.File 满足 io.ReadCloser 接口
+    b io.Reader     = a             // 隐式转换, io.ReadCloser 满足 io.Reader 接口
+    c io.Closer     = a             // 隐式转换, io.ReadCloser 满足 io.Closer 接口
+    d io.Reader     = c.(io.Reader) // 显式转换, io.Closer 不满足 io.Reader 接口
+)
+```
+
+有时候对象和接口之间太灵活了，导致我们需要人为地限制这种**无意之间的适配**。常见的做法是定义一个含**特殊方法**来区分接口。比如 `runtime` 包中的 `Error` 接口就定义了一个特有的 `RuntimeError` 方法，用于避免其它类型无意中适配了该接口：
+
+```go
+type runtime.Error interface {
+    error
+
+    // RuntimeError is a no-op function but
+    // serves to distinguish types that are run time
+    // errors from ordinary errors: a type is a
+    // run time error if it has a RuntimeError method.
+    RuntimeError()
+}
+```
+
+在 protobuf 中，`Message` 接口也采用了类似的方法，也定义了一个特有的 `ProtoMessage`，用于避免其它类型无意中适配了该接口：
+
+```go
+type proto.Message interface {
+    Reset()
+    String() string
+    ProtoMessage()
+}
+```
+
+> 因为这上面介绍了 proto.Message 接口中有一个 ProtoMessage 方法，那你为什么不直接复制粘贴过来呢？
+
+不过这种做法只是君子协定，如果有人刻意伪造一个 `proto.Message` 接口也是很容易的。再严格一点的做法是给接口定义一个私有方法。只有满足了这个**私有方法**的对象才可能满足这个接口，**而私有方法的名字是包含包的绝对路径名的**，因此只能在包内部实现这个私有方法才能满足这个接口。测试包中的 `testing.TB` 接口就是采用类似的技术：
+
+> 我推测应该是编译的时候会将私有方法的变量名替换成“绝对路径 + 私有方法名”。这样是有效实现的。
+
+```go
+type testing.TB interface {
+    Error(args ...interface{})
+    Errorf(format string, args ...interface{})
+    ...
+
+    // A private method to prevent users implementing the
+    // interface and so future additions to it will not
+    // violate Go 1 compatibility.
+    private()
+}
+```
+
+不过这种通过私有方法禁止外部对象实现接口的做法也是有代价的：首先是这个接口只能**包内部使用**，外部包正常情况下是无法直接创建满足该接口对象的；其次，这种**防护措施也不是绝对的**，恶意的用户依然可以绕过这种保护机制。
+
+在前面的方法一节中我们讲到，通过在结构体中嵌入匿名类型成员，可以继承匿名类型的方法。其实这个被嵌入的匿名成员不一定是普通类型，也可以是接口类型。我们可以通过嵌入匿名的 `testing.TB` 接口来伪造私有的 `private` 方法，因为接口方法是延迟绑定，编译时 `private` 方法是否真的存在并不重要。
+
+```go
+package main
+
+import (
+    "fmt"
+    "testing"
+)
+
+type TB struct {
+    testing.TB
+}
+
+func (p *TB) Fatal(args ...interface{}) {
+    fmt.Println("TB.Fatal disabled!")
+}
+
+func main() {
+    var tb testing.TB = new(TB)
+    tb.Fatal("Hello, playground")
+}
+```
+
+这段代码的输出是：
+
+```text
+TB.Fatal disabled!
+```
+
+我们在自己的 `TB` 结构体类型中重新实现了 `Fatal` 方法，然后通过将对象隐式转换为 `testing.TB` 接口类型（因为内嵌了匿名的 `testing.TB` 对象，因此是满足 `testing.TB` 接口的），然后通过 `testing.TB` 接口来调用我们自己的 `Fatal` 方法。
+
+> 那么这样实现到底有什么意义呢？—— 意义在于可以用于在外部实现这种接口，用在其他地方。
+
+这种通过嵌入匿名接口或嵌入匿名指针对象来实现继承的做法其实是一种**纯虚继承**，我们继承的只是接口指定的规范，真正的实现在运行的时候才被注入。比如，我们可以模拟实现一个 gRPC 的插件：
+
+```go
+type grpcPlugin struct {
+    *generator.Generator
+}
+
+func (p *grpcPlugin) Name() string { return "grpc" }
+
+func (p *grpcPlugin) Init(g *generator.Generator) {
+    p.Generator = g
+}
+
+func (p *grpcPlugin) GenerateImports(file *generator.FileDescriptor) {
+    if len(file.Service) == 0 {
+        return
+    }
+
+    p.P(`import "google.golang.org/grpc"`)
+    // ...
+}
+```
+
+构造的 `grpcPlugin` 类型对象必须满足 `generate.Plugin` 接口（在 "github.com/golang/protobuf/protoc-gen-go/generator" 包中）：
+
+```go
+type Plugin interface {
+    // Name identifies the plugin.
+    Name() string
+    // Init is called once after data structures are built but before
+    // code generation begins.
+    Init(g *Generator)
+    // Generate produces the code generated by the plugin for this file,
+    // except for the imports, by calling the generator's methods
+    // P, In, and Out.
+    Generate(file *FileDescriptor)
+    // GenerateImports produces the import declarations for this file.
+    // It is called after Generate.
+    GenerateImports(file *FileDescriptor)
+}
+```
+
+`generate.Plugin` 接口对应的 `grpcPlugin` 类型的 `GenerateImports` 方法中使用的 `p.P(…)` 函数却是通过 `Init` 函数注入的 `generator.Generator` 对象实现。这里的 `generator.Generator` 对应一个**具体类型**，但是如果 `generator.Generator` 是**接口类型**的话我们甚至可以**传入直接的实现**。
+
+Go 语言通过几种简单特性的组合，就轻易就实现了鸭子面向对象和虚拟继承等高级特性，真的是不可思议。
+
+### 面向并发的内存模型
+
+这部分内容还需要和并发模型进行对比。我只能说，完全一致的。
+
+#### Goroutine 和系统线程
+
+#### 原子操作
+
+#### 顺序一致性内存模型
+
+#### 初始化的顺序
+
+#### Goroutine 的创建
+
+#### 基于 Channel 的通信
+
+#### 不靠谱的同步
+
+有时候真的能当人而让嘛？
 
 ## Reference

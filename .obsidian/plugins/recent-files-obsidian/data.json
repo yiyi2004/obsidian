@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Go 基础",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Ubuntu Network",
+      "path": "Cloud Native/Linux/Ubuntu/Ubuntu Network.md"
+    },
+    {
+      "basename": "CVE-2023-21839 Weblogic未授权远程代码执行漏洞",
+      "path": "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md"
+    },
+    {
+      "basename": "CVE-2019-0708 EXP",
+      "path": "Cyber Security/CVE/CVE-2019-0708 EXP.md"
+    },
+    {
+      "basename": "CVE-2020-0796",
+      "path": "Cyber Security/CVE/CVE-2020-0796.md"
+    },
+    {
+      "basename": "Ubuntu",
+      "path": "Cloud Native/Linux/Ubuntu/Ubuntu.md"
+    },
+    {
+      "basename": "Go 基础（这可不基础）",
+      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
     },
     {
       "basename": "写作素材",
       "path": "Write/Material for Writing/写作素材/写作素材.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "编译原理入门",
@@ -67,14 +87,6 @@
     {
       "basename": "Go 处理 wav 文件",
       "path": "Coding/Go/Go 处理 wav 文件.md"
-    },
-    {
-      "basename": "CVE-2019-0708 EXP",
-      "path": "Cyber Security/CVE/CVE-2019-0708 EXP.md"
-    },
-    {
-      "basename": "CVE-2020-0796",
-      "path": "Cyber Security/CVE/CVE-2020-0796.md"
     },
     {
       "basename": "算法总结",
@@ -169,10 +181,6 @@
       "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
     },
     {
-      "basename": "CVE-2023-21839 Weblogic未授权远程代码执行漏洞",
-      "path": "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md"
-    },
-    {
       "basename": "Resource   Collection",
       "path": "Cyber Security/CVE/Resource   Collection.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Unicode 与 utf-8",
       "path": "Basic/Unicode 与 utf-8.md"
-    },
-    {
-      "basename": "Go IM",
-      "path": "Project/Golang IM/Go IM.md"
-    },
-    {
-      "basename": "百度网盘",
-      "path": "Project/百度云盘/百度网盘.md"
     }
   ],
   "omittedPaths": [],

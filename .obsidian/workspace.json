@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+                "file": "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,12 +47,12 @@
             }
           },
           {
-            "id": "c0946f555bfb2cb4",
+            "id": "9785eb39801c9fa0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/编译原理/编译原理入门.md",
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +133,22 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "ed28cc0f70c03a7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "57e4348f904b2bd1",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -154,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -172,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,13 +255,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "318b05ae05570216",
+  "active": "9785eb39801c9fa0",
   "lastOpenFiles": [
-    "Write/Material for Writing/写作素材/写作素材.md",
+    "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
     "Day3/Day3.md",
+    "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
+    "Cyber Security/CVE/CVE-2019-0708 EXP.md",
+    "Cyber Security/CVE/CVE-2020-0796.md",
+    "Cloud Native/Linux/Ubuntu/Ubuntu.md",
+    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+    "Write/Material for Writing/写作素材/写作素材.md",
     "Basic/编译原理/编译原理入门.md",
+    "Cyber Security/靶场攻击实验/NVD/CVE 复现.md",
     "Basic/编译原理",
-    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste/Pasted image 20230627104741.png",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
@@ -273,8 +295,6 @@
     "Coding/Go/Third-party library/工具库搜集.md",
     "Algorithm/算法体系学习/堆.md",
     "Coding/Go/Go 处理 wav 文件.md",
-    "Cyber Security/CVE/CVE-2019-0708 EXP.md",
-    "Cyber Security/CVE/CVE-2020-0796.md",
     "Algorithm/算法总结.md",
     "Algorithm/Algorithm index.md",
     "Challenge/Habit Challenge/Summary.md",
@@ -283,10 +303,6 @@
     "Cyber Security/代码审计/代码审计.md",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",
     "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf",
-    "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/代码审计.md",
-    "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/07 Metasploit的核心模块modules.md",
-    "Cyber Security/Red Team/MSF+CS/04 Windows安装MSF课件/文档/Windows安装msf.md",
-    "Cyber Security/Red Team/MSF+CS/08-09 msfvenom 常用参数/08-09 msfvenom 常用参数.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

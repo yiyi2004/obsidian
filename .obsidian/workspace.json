@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
               }
             }
           },
@@ -171,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,15 +239,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "97d9be0726a9ed8c",
+  "active": "318b05ae05570216",
   "lastOpenFiles": [
     "Write/Material for Writing/写作素材/写作素材.md",
+    "Day3/Day3.md",
     "Basic/编译原理/编译原理入门.md",
     "Basic/编译原理",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste/Pasted image 20230627104741.png",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
-    "Day3/Day3.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100222.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100121.png",

@@ -4,13 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9f84aedb9f968bff",
+        "id": "3be50e025b9d367b",
         "type": "tabs",
         "children": [
           {
-            "id": "e6685c110a4cdb8e",
+            "id": "97d9be0726a9ed8c",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -18,32 +17,16 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "1634825c06d920df",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/实习/第一份寒假实习.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "b20dc3949a5a22c4",
+            "id": "cbf475ff5d28fb0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
+                "file": "Write/Material for Writing/写作素材/写作素材.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -51,22 +34,12 @@
             }
           },
           {
-            "id": "60b2d3a9ac7a36eb",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf"
-              }
-            }
-          },
-          {
-            "id": "2987e59b662d9141",
+            "id": "318b05ae05570216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,33 +47,19 @@
             }
           },
           {
-            "id": "a772683c55db6ef8",
+            "id": "c0946f555bfb2cb4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/windows 安装 ssh.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0cd786118138c13a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Basic/编译原理/编译原理入门.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +88,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(堆)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -144,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,14 +112,6 @@
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "710019ca732354d5",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
             }
           },
           {
@@ -175,26 +126,10 @@
             }
           },
           {
-            "id": "76bb340ba2b85061",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
             "id": "dd033378146af3f6",
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
-            "id": "575c93b4864300f2",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
               "state": {}
             }
           }
@@ -218,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -236,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,54 +238,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0cd786118138c13a",
+  "active": "97d9be0726a9ed8c",
   "lastOpenFiles": [
+    "Write/Material for Writing/写作素材/写作素材.md",
+    "Basic/编译原理/编译原理入门.md",
+    "Basic/编译原理",
+    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md",
+    "Coding/Go/Go Pro/Go 基础重新理解/Snipaste/Pasted image 20230627104741.png",
+    "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
+    "Day3/Day3.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100222.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100121.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627095550.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094312.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094112.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627093656.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627092907.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627092035.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627091537.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste",
+    "Algorithm/算法体系学习/二叉树",
+    "Algorithm/算法体系学习/链表",
+    "Resume/Resume.md",
+    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
+    "Cyber Security/基础知识/溢出攻击.md",
+    "Notebook/青年大学习/20221102.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
+    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
+    "Basic/windows 安装 ssh.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/Go/Third-party library/工具库搜集.md",
+    "Algorithm/算法体系学习/堆.md",
     "Coding/Go/Go 处理 wav 文件.md",
     "Cyber Security/CVE/CVE-2019-0708 EXP.md",
     "Cyber Security/CVE/CVE-2020-0796.md",
     "Algorithm/算法总结.md",
     "Algorithm/Algorithm index.md",
-    "Day3/Day3.md",
-    "Basic/windows 安装 ssh.md",
-    "Tasks/实习/第一份寒假实习.md",
-    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
-    "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
-    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
     "Challenge/Habit Challenge/Summary.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
     "Cyber Security/代码审计/代码审计.md",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",
     "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf",
-    "Cyber Security/代码审计/笔记/第03章-javaWeb前置知识.pdf",
     "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/代码审计.md",
     "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/07 Metasploit的核心模块modules.md",
-    "Cyber Security/代码审计/笔记/第09章-CSRF原理.pdf",
-    "Cyber Security/代码审计/笔记/第08章-XSS 攻击的防御.pdf",
-    "Cyber Security/代码审计/笔记/第06章-Java反序列化漏洞.pdf",
-    "Cyber Security/代码审计/笔记/第05章-XXE漏洞.pdf",
     "Cyber Security/Red Team/MSF+CS/04 Windows安装MSF课件/文档/Windows安装msf.md",
     "Cyber Security/Red Team/MSF+CS/08-09 msfvenom 常用参数/08-09 msfvenom 常用参数.md",
-    "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md",
-    "Cyber Security/Red Team/MSF+CS/30 MSF进阶/MSF.md",
-    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Cyber Security/调研/Deeplocker.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Challenge/Habit Challenge/Algorithm.md",
-    "Challenge/Habit Challenge/Leetcode 刷题.md",
-    "Basic/Snipaste/Pasted image 20230625104224.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202307.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202301.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202254.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202249.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202245.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202240.png",
-    "Resume/面试题/Go/Snipaste/Pasted image 20230624202234.png",
-    "Basic/计算机组成原理/Snipaste/Pasted image 20230624192017.png",
-    "Basic/计算机组成原理/Snipaste/Pasted image 20230624192013.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

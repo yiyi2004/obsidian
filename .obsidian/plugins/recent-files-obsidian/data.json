@@ -1,8 +1,68 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "写作素材",
+      "path": "Write/Material for Writing/写作素材/写作素材.md"
+    },
+    {
+      "basename": "编译原理入门",
+      "path": "Basic/编译原理/编译原理入门.md"
+    },
+    {
+      "basename": "Go 基础",
+      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础.md"
+    },
+    {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
+    },
+    {
+      "basename": "CVE 漏洞复现及渗透思路学习",
+      "path": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md"
+    },
+    {
+      "basename": "溢出攻击",
+      "path": "Cyber Security/基础知识/溢出攻击.md"
+    },
+    {
+      "basename": "20221102",
+      "path": "Notebook/青年大学习/20221102.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "第07章-越权漏洞",
+      "path": "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf"
+    },
+    {
+      "basename": "HW 介绍",
+      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
+    },
+    {
+      "basename": "windows 安装 ssh",
+      "path": "Basic/windows 安装 ssh.md"
+    },
+    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "工具库搜集",
+      "path": "Coding/Go/Third-party library/工具库搜集.md"
+    },
+    {
+      "basename": "堆",
+      "path": "Algorithm/算法体系学习/堆.md"
     },
     {
       "basename": "Go 处理 wav 文件",
@@ -23,30 +83,6 @@
     {
       "basename": "Algorithm index",
       "path": "Algorithm/Algorithm index.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "windows 安装 ssh",
-      "path": "Basic/windows 安装 ssh.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "CVE 漏洞复现及渗透思路学习",
-      "path": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md"
-    },
-    {
-      "basename": "第07章-越权漏洞",
-      "path": "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf"
-    },
-    {
-      "basename": "HW 介绍",
-      "path": "Cyber Security/HW/01-HW介绍/HW 介绍.md"
     },
     {
       "basename": "Summary",
@@ -163,42 +199,6 @@
     {
       "basename": "百度网盘",
       "path": "Project/百度云盘/百度网盘.md"
-    },
-    {
-      "basename": "Golang JSON omitempty",
-      "path": "Coding/Go/基础知识/Golang JSON omitempty.md"
-    },
-    {
-      "basename": "Go 错误处理",
-      "path": "Coding/Go/基础知识/Go 错误处理.md"
-    },
-    {
-      "basename": "error",
-      "path": "Coding/Go/标准库的使用/error.md"
-    },
-    {
-      "basename": "OpenHarmony",
-      "path": "Eassay/讲座/OpenHarmony.md"
-    },
-    {
-      "basename": "Golang 面试资料搜集",
-      "path": "Resume/Golang 面试资料搜集.md"
-    },
-    {
-      "basename": "GopherChina2023",
-      "path": "Eassay/讲座/2023/GopherChina2023.md"
-    },
-    {
-      "basename": "研究生安全竞赛",
-      "path": "Eassay/讲座/研究生安全竞赛.md"
-    },
-    {
-      "basename": "Go 编程题目",
-      "path": "Resume/面试题/Go/Go 编程题目.md"
-    },
-    {
-      "basename": "Go 面试题",
-      "path": "Resume/面试题/Go/Go 面试题.md"
     }
   ],
   "omittedPaths": [],

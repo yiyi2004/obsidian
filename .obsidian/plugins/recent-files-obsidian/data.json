@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
+    },
+    {
+      "basename": "Go Audio",
+      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "测试结果截图",
       "path": "Cyber Security/Deeplocker/测试结果截图.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "deeplocker test",
       "path": "Cyber Security/Deeplocker/deeplocker test.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Ubuntu Network",
@@ -191,14 +199,6 @@
     {
       "basename": "Leetcode 刷题",
       "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
-    },
-    {
-      "basename": "Resource   Collection",
-      "path": "Cyber Security/CVE/Resource   Collection.md"
-    },
-    {
-      "basename": "Occultation",
-      "path": "Cyber Security/Workflow/Occultation.md"
     }
   ],
   "omittedPaths": [],

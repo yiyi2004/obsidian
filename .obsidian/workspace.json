@@ -71,9 +71,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6a0431d10f600578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/测试结果截图.md",
+                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/测试结果截图.md"
+                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
               }
             }
           },
@@ -201,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/测试结果截图.md",
+                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/测试结果截图.md",
+                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,12 +281,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3096d55a9d583755",
+  "active": "6a0431d10f600578",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
-    "Cyber Security/Deeplocker/测试结果截图.md",
-    "Cyber Security/Deeplocker/deeplocker test.md",
+    "Coding/Go/Third-party library/audio/Go Audio.md",
     "Day3/Day3.md",
+    "Cyber Security/Deeplocker/测试结果截图.md",
+    "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
+    "Cyber Security/Deeplocker/deeplocker test.md",
     "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
     "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
     "Cyber Security/CVE/CVE-2019-0708 EXP.md",
@@ -311,7 +325,6 @@
     "Coding/Go/Third-party library/工具库搜集.md",
     "Algorithm/算法体系学习/堆.md",
     "Coding/Go/Go 处理 wav 文件.md",
-    "Algorithm/算法总结.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",

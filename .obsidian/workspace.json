@@ -58,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3096d55a9d583755",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/测试结果截图.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -104,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/测试结果截图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cyber Security/Deeplocker/测试结果截图.md"
               }
             }
           },
@@ -188,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/测试结果截图.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/测试结果截图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -255,10 +268,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9785eb39801c9fa0",
+  "active": "3096d55a9d583755",
   "lastOpenFiles": [
-    "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
+    "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
+    "Cyber Security/Deeplocker/测试结果截图.md",
+    "Cyber Security/Deeplocker/deeplocker test.md",
     "Day3/Day3.md",
+    "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
     "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
     "Cyber Security/CVE/CVE-2019-0708 EXP.md",
     "Cyber Security/CVE/CVE-2020-0796.md",
@@ -296,11 +312,8 @@
     "Algorithm/算法体系学习/堆.md",
     "Coding/Go/Go 处理 wav 文件.md",
     "Algorithm/算法总结.md",
-    "Algorithm/Algorithm index.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
-    "Cyber Security/代码审计/代码审计.md",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",
     "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf",
     "AI/未命名.canvas",

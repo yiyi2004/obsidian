@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "测试结果截图",
+      "path": "Cyber Security/Deeplocker/测试结果截图.md"
+    },
+    {
+      "basename": "deeplocker 工具构建",
+      "path": "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md"
+    },
+    {
+      "basename": "deeplocker test",
+      "path": "Cyber Security/Deeplocker/deeplocker test.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Occultation",
       "path": "Cyber Security/Workflow/Occultation.md"
-    },
-    {
-      "basename": "通过复刻网站后台 getshell",
-      "path": "Cyber Security/渗透思路/通过复刻网站后台 getshell.md"
-    },
-    {
-      "basename": "信息搜集",
-      "path": "Cyber Security/暗月渗透测试/信息搜集.md"
-    },
-    {
-      "basename": "Unicode 与 utf-8",
-      "path": "Basic/Unicode 与 utf-8.md"
     }
   ],
   "omittedPaths": [],

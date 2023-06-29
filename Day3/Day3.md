@@ -419,6 +419,11 @@ deeplocker 音频格式的转换
 ### 第一天
 
 - [ ] 完成演习测试
+- [ ] 解决 deeplocker 音频转浮点数的功能，其实后面的都好实现
+	- [ ] 确定了三个函数
+		- [ ] `frames = self._check_frames(frames, fill_value)`
+		- [ ] `out = self._create_empty_array(frames, always_2d, dtype)`
+		- [ ] `frames = self._array_io('read', out, frames)`
 
 ### 第二天
 

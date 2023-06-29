@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -214,7 +214,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +239,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,20 +281,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a0431d10f600578",
+  "active": "9785eb39801c9fa0",
   "lastOpenFiles": [
+    "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
+    "Write/Material for Writing/写作素材/写作素材.md",
+    "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Day3/Day3.md",
     "Cyber Security/Deeplocker/测试结果截图.md",
     "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
     "Cyber Security/Deeplocker/deeplocker test.md",
     "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
-    "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
     "Cyber Security/CVE/CVE-2019-0708 EXP.md",
     "Cyber Security/CVE/CVE-2020-0796.md",
     "Cloud Native/Linux/Ubuntu/Ubuntu.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
-    "Write/Material for Writing/写作素材/写作素材.md",
     "Basic/编译原理/编译原理入门.md",
     "Cyber Security/靶场攻击实验/NVD/CVE 复现.md",
     "Basic/编译原理",
@@ -324,7 +325,6 @@
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Coding/Go/Third-party library/工具库搜集.md",
     "Algorithm/算法体系学习/堆.md",
-    "Coding/Go/Go 处理 wav 文件.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",

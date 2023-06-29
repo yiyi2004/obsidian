@@ -18,6 +18,11 @@
 2. 然后演示不同的人坐在相机前、或者麦克风前进行测试 —— 结果是打咩
 3. 然后请 **目标** 进行测试，结果是释放载荷
 
+两个核心：
+
+1. 我们要测试什么
+2. 怎么测试
+
 ## Content
 
 ### Video
@@ -73,5 +78,7 @@ go run main.go --test audio --kind wav
 ```powershell
 go run main.go --test audio --kind mp4
 ```
+
+### 脚本
 
 ## Reference

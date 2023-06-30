@@ -26,14 +26,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f934d6ef528df0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
               }
             }
           },
@@ -161,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,10 +242,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6a0431d10f600578",
+  "active": "7f934d6ef528df0a",
   "lastOpenFiles": [
+    "Coding/Go/Go Pro/Go 语言基础.md",
+    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+    "Challenge/Habit Challenge/Go Pro.md",
     "Day3/Day3.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630164514.png",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161114.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161041.png",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
@@ -244,22 +265,17 @@
     "Cyber Security/CVE/CVE-2019-0708 EXP.md",
     "Cyber Security/CVE/CVE-2020-0796.md",
     "Cloud Native/Linux/Ubuntu/Ubuntu.md",
-    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
     "Basic/编译原理/编译原理入门.md",
     "Cyber Security/靶场攻击实验/NVD/CVE 复现.md",
     "Basic/编译原理",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste/Pasted image 20230627104741.png",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100222.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100121.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627095550.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094312.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094112.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627093656.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627092907.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627092035.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627091537.png",
     "Algorithm/算法体系学习/二叉树/Snipaste",
     "Algorithm/算法体系学习/二叉树",
     "Algorithm/算法体系学习/链表",
@@ -270,8 +286,6 @@
     "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
     "Cyber Security/HW/01-HW介绍/HW 介绍.md",
-    "Basic/windows 安装 ssh.md",
-    "Coding/Go/Third-party library/工具库搜集.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",

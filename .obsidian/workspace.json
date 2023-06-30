@@ -45,9 +45,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c9ebb1dc1ff73b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -175,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -242,13 +255,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7f934d6ef528df0a",
+  "active": "9c9ebb1dc1ff73b4",
   "lastOpenFiles": [
-    "Coding/Go/Go Pro/Go 语言基础.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+    "Coding/Go/Go Pro/Go 语言基础.md",
     "Challenge/Habit Challenge/Go Pro.md",
     "Day3/Day3.md",
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630164514.png",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161114.png",

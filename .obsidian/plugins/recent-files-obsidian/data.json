@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
       "basename": "Go 基础（这可不基础）",
       "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "Go Pro",
       "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
     },
     {
       "basename": "deeplocker backend summary",

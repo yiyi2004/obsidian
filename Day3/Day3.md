@@ -461,7 +461,7 @@ Deeplocker 计划
 	- [ ] CVE
 	- [ ] English Practice
 	- [x] Go Pro ✅ 2023-06-30
-	- [ ] Leetcode
+	- [x] Leetcode ✅ 2023-06-30
 	- [ ] Reading
 	- [ ] Running
 	- [ ] Summary

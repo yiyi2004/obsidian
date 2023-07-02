@@ -474,7 +474,7 @@ Deeplocker 计划
 
 今天不管怎么样，一定要去跑步哦
 
-- [ ] 总结稀土掘金 AICG 的内容，稀土掘金的 PPT 和回放是否会放出来呢？——话说你 GopherChina 还没有完成呢，是时候更新一波公众号了。
+- [x] 总结稀土掘金 AICG 的内容，稀土掘金的 PPT 和回放是否会放出来呢？——话说你 GopherChina 还没有完成呢，是时候更新一波公众号了。 ✅ 2023-07-02
 - [ ] Challenge
 	- [ ] Algorithm
 	- [ ] English Practice
@@ -484,4 +484,6 @@ Deeplocker 计划
 	- [ ] Running
 	- [ ] Summary
 - [ ] Deeplocker 问题总结
-- [ ] GoLibrosa 的方法读取
+- [x] GoLibrosa 的方法读取 ✅ 2023-07-02
+	- [ ] go-wav
+	- [ ] waveform ---> 既然转成了 float 形式，中间一定有一步是转换的。

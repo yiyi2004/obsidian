@@ -8,20 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6a0431d10f600578",
+            "id": "ea3d8a48ca1c8377",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "c4041ccb51e7883a",
+            "id": "b6885ec4a35f1139",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,48 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7f934d6ef528df0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c9ebb1dc1ff73b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/活动/稀土掘金开发者大会.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4a73c6a03f5ce9eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/Day3.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
               }
             }
           },
@@ -201,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -226,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,24 +231,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4a73c6a03f5ce9eb",
+  "active": "b6885ec4a35f1139",
   "lastOpenFiles": [
+    "Day3/Day3.md",
+    "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+    "Challenge/Habit Challenge/费曼学习法.md",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230702165025.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230702164827.png",
+    "Life/活动/稀土掘金开发者大会.md",
     "Challenge/Habit Challenge/Algorithm.md",
     "Challenge/Habit Challenge/English Practice.md",
     "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
-    "Day3/Day3.md",
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
-    "Life/活动/稀土掘金开发者大会.md",
     "Life/活动/Snipaste/4c19b3ad691025be1f5e1eb80bb220c 1.jpg",
     "Life/活动/Snipaste/4c19b3ad691025be1f5e1eb80bb220c.jpg",
     "Life/活动/Snipaste",
     "Life/活动/GopherChina2023.md",
     "Life/活动/准备一下去安全公司需要问的问题.md",
-    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
     "Challenge/Habit Challenge/Go Pro.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630164514.png",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161114.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161041.png",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
@@ -299,16 +266,11 @@
     "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
     "Cyber Security/CVE/CVE-2019-0708 EXP.md",
     "Cyber Security/CVE/CVE-2020-0796.md",
-    "Cloud Native/Linux/Ubuntu/Ubuntu.md",
-    "Basic/编译原理/编译原理入门.md",
-    "Cyber Security/靶场攻击实验/NVD/CVE 复现.md",
     "Basic/编译原理",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste/Pasted image 20230627104741.png",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100222.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100121.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627095550.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094312.png",
     "Algorithm/算法体系学习/二叉树/Snipaste",
     "Algorithm/算法体系学习/二叉树",
     "Algorithm/算法体系学习/链表",

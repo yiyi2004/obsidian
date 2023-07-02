@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "每天早上阅读并反馈自己的原则",
+      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Go 基础（这可不基础）",
+      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "Challenge/Habit Challenge/费曼学习法.md"
+    },
+    {
+      "basename": "稀土掘金开发者大会",
+      "path": "Life/活动/稀土掘金开发者大会.md"
     },
     {
       "basename": "Algorithm",
@@ -13,14 +37,6 @@
       "path": "Challenge/Habit Challenge/English Practice.md"
     },
     {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
-    },
-    {
-      "basename": "稀土掘金开发者大会",
-      "path": "Life/活动/稀土掘金开发者大会.md"
-    },
-    {
       "basename": "GopherChina2023",
       "path": "Life/活动/GopherChina2023.md"
     },
@@ -29,20 +45,12 @@
       "path": "Life/活动/准备一下去安全公司需要问的问题.md"
     },
     {
-      "basename": "Go 基础（这可不基础）",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
-    },
-    {
       "basename": "Go 语言基础",
       "path": "Coding/Go/Go Pro/Go 语言基础.md"
     },
     {
       "basename": "Go Pro",
       "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "deeplocker 测试",
@@ -191,14 +199,6 @@
     {
       "basename": "生成木马反弹shell（Windows）",
       "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
-    },
-    {
-      "basename": "MSF",
-      "path": "Cyber Security/Red Team/MSF+CS/30 MSF进阶/MSF.md"
-    },
-    {
-      "basename": "deeplocker python API development",
-      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
     }
   ],
   "omittedPaths": [],

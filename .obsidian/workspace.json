@@ -34,9 +34,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7c9ce966731e9c20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e17e9c5445afda49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/go select 使用范式.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "08aae2f31a6c452d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reading Notes/AIGC 未来已来/AIGC 未来已来.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8eb48d52d63e90df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Game/王者荣耀/发育路.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5fdf29cc829edccb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -80,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
               }
             }
           },
@@ -164,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,53 +296,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6885ec4a35f1139",
+  "active": "5fdf29cc829edccb",
   "lastOpenFiles": [
+    "Cyber Security/调研/Deeplocker.md",
+    "Game/王者荣耀/发育路.md",
+    "Coding/Go/go select 使用范式.md",
     "Day3/Day3.md",
-    "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702214734.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702214629.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702214528.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702214426.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702214230.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702213950.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702213845.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702213740.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702213507.png",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702213401.png",
+    "Game/王者荣耀/Snipaste",
+    "Game/未命名.md",
+    "Game/王者荣耀",
+    "Game",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+    "Coding/Go/GUI/GUI fyne in Go.md",
+    "Coding/Go/GUI/Snipaste",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/Go/GUI",
+    "Reading Notes/AIGC 未来已来/AIGC 未来已来.md",
+    "Reading Notes/Reading Notes index.md",
+    "Reading Notes/AIGC 未来已来",
+    "Coding/Go/Go Pro/Go 基础重新理解/未命名.md",
+    "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
     "Challenge/Habit Challenge/费曼学习法.md",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230702165025.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230702164827.png",
     "Life/活动/稀土掘金开发者大会.md",
     "Challenge/Habit Challenge/Algorithm.md",
     "Challenge/Habit Challenge/English Practice.md",
     "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
-    "Life/活动/Snipaste/4c19b3ad691025be1f5e1eb80bb220c 1.jpg",
-    "Life/活动/Snipaste/4c19b3ad691025be1f5e1eb80bb220c.jpg",
     "Life/活动/Snipaste",
     "Life/活动/GopherChina2023.md",
     "Life/活动/准备一下去安全公司需要问的问题.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
     "Challenge/Habit Challenge/Go Pro.md",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630164514.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161114.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161041.png",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Cyber Security/Deeplocker/测试结果截图.md",
-    "Cloud Native/Linux/Ubuntu/Ubuntu Network.md",
-    "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md",
-    "Write/Material for Writing/写作素材/写作素材.md",
-    "Coding/Go/Third-party library/audio/Go Audio.md",
-    "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md",
-    "Cyber Security/CVE/CVE-2019-0708 EXP.md",
-    "Cyber Security/CVE/CVE-2020-0796.md",
     "Basic/编译原理",
-    "Coding/Go/Go Pro/Go 基础重新理解/Snipaste/Pasted image 20230627104741.png",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100222.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100121.png",
     "Algorithm/算法体系学习/二叉树/Snipaste",
-    "Algorithm/算法体系学习/二叉树",
-    "Algorithm/算法体系学习/链表",
-    "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
-    "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
-    "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
-    "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

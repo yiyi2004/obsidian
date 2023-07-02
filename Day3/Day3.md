@@ -476,12 +476,12 @@ Deeplocker 计划
 
 - [x] 总结稀土掘金 AICG 的内容，稀土掘金的 PPT 和回放是否会放出来呢？——话说你 GopherChina 还没有完成呢，是时候更新一波公众号了。 ✅ 2023-07-02
 - [ ] Challenge
-	- [ ] Algorithm
-	- [ ] English Practice
-	- [ ] Go Pro
+	- [x] Algorithm ✅ 2023-07-02
+	- [x] English Practice ✅ 2023-07-02
+	- [x] Go Pro ✅ 2023-07-02
 	- [ ] Leetcode
-	- [ ] Reading
-	- [ ] Running
+	- [x] Reading ✅ 2023-07-02
+	- [x] Running ✅ 2023-07-02
 	- [ ] Summary
 - [ ] Deeplocker 问题总结
 - [x] GoLibrosa 的方法读取 ✅ 2023-07-02

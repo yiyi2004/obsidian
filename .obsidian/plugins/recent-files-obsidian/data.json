@@ -1,24 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "发育路",
+      "path": "Game/王者荣耀/发育路.md"
+    },
+    {
+      "basename": "go select 使用范式",
+      "path": "Coding/Go/go select 使用范式.md"
     },
     {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
     {
-      "basename": "每天早上阅读并反馈自己的原则",
-      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
     },
     {
       "basename": "Go 基础（这可不基础）",
       "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
+    },
+    {
+      "basename": "GUI fyne in Go",
+      "path": "Coding/Go/GUI/GUI fyne in Go.md"
+    },
+    {
+      "basename": "AIGC 未来已来",
+      "path": "Reading Notes/AIGC 未来已来/AIGC 未来已来.md"
+    },
+    {
+      "basename": "Reading Notes index",
+      "path": "Reading Notes/Reading Notes index.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Coding/Go/Go Pro/Go 基础重新理解/未命名.md"
+    },
+    {
+      "basename": "每天早上阅读并反馈自己的原则",
+      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
     },
     {
       "basename": "费曼学习法",
@@ -171,34 +199,6 @@
     {
       "basename": "第10章-文件上传",
       "path": "Cyber Security/代码审计/笔记/第10章-文件上传.pdf"
-    },
-    {
-      "basename": "第04章-SQL注入漏洞",
-      "path": "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf"
-    },
-    {
-      "basename": "第03章-javaWeb前置知识",
-      "path": "Cyber Security/代码审计/笔记/第03章-javaWeb前置知识.pdf"
-    },
-    {
-      "basename": "代码审计",
-      "path": "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/代码审计.md"
-    },
-    {
-      "basename": "07 Metasploit的核心模块modules",
-      "path": "Cyber Security/Red Team/MSF+CS/07 Metasploit的核心模块modules/07 Metasploit的核心模块modules.md"
-    },
-    {
-      "basename": "Windows安装msf",
-      "path": "Cyber Security/Red Team/MSF+CS/04 Windows安装MSF课件/文档/Windows安装msf.md"
-    },
-    {
-      "basename": "08-09 msfvenom 常用参数",
-      "path": "Cyber Security/Red Team/MSF+CS/08-09 msfvenom 常用参数/08-09 msfvenom 常用参数.md"
-    },
-    {
-      "basename": "生成木马反弹shell（Windows）",
-      "path": "Cyber Security/Red Team/MSF+CS/17 通过木马反弹shell（Windows）/生成木马反弹shell（Windows）.md"
     }
   ],
   "omittedPaths": [],

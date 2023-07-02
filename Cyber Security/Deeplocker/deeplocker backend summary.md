@@ -40,7 +40,7 @@ It's a a summary of deeplocker
 
 目前 deeplocker 开发主要分为 5 个部分
 
-1. 前端的开发 | react + antd(web) or [[../../Coding/Go/Third-party library/fyne/fyne-old|fyne-old]]
+1. 前端的开发 | react + antd(web) or [[../../Coding/Go/GUI/fyne/fyne-old|fyne-old]]
 2. 服务端开发，配置模板，打包载荷 + 模板 + 应用 | Go
 3. 模板的开发 | Go
 4. 包装深度学习模型 API | [[../../Coding/Python/Repository/Flask/Flask Quickstart|Flask Quickstart]]
@@ -62,7 +62,7 @@ It's a a summary of deeplocker
 - [x] 接入载荷模板开发 ---> 完成 80% 因为还没有联测过 ✅ 2023-06-04
 	- [x] 人脸识别模型接入结束 ✅ 2023-06-30
 	- [ ] 声音识别模型接入 | 这周完成
-- [ ] Python API Flask，API + 有验证的文件服务器
+- [ ] Python API Flask，API + 有验证的文件服务器 | 这个实现起来还是比较简单的
 - [ ] 接入模块的开发 ---> API ---> 打包成 APP
 - [ ] 项目前端开发
 - [ ] 安装程序的开发 | 安装脚本

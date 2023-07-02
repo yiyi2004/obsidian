@@ -17,7 +17,7 @@
 - [[Go/Gin+Vue+微服务/Gin 笔记.md|Gin 笔记]]
 - [[Go/Gin+Vue+微服务/gin框架教程v4.0.pdf|gin框架教程v4.0]]
 - [[Go/Go 恢复训练/Go development note.md|Go development note]]
-- [[Go/Third-party library/fyne/fyne-old|fyne-old]]
+- [[Go/GUI/fyne/fyne-old|fyne-old]]
 - [[Go/Third-party library/gocv/gocv examples.md|gocv examples]]
 - [[Go/Third-party library/gocv/gocv.Mat.md|gocv.Mat]]
 - [[Go/Third-party library/gocv/Resize.md|Resize]]

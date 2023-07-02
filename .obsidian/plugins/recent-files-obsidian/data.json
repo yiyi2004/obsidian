@@ -5,8 +5,28 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
       "basename": "二叉树基础",
       "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
+      "basename": "稀土掘金开发者大会",
+      "path": "Life/活动/稀土掘金开发者大会.md"
+    },
+    {
+      "basename": "GopherChina2023",
+      "path": "Life/活动/GopherChina2023.md"
+    },
+    {
+      "basename": "准备一下去安全公司需要问的问题",
+      "path": "Life/活动/准备一下去安全公司需要问的问题.md"
     },
     {
       "basename": "Go 基础（这可不基础）",
@@ -79,10 +99,6 @@
     {
       "basename": "Resume",
       "path": "Resume/Resume.md"
-    },
-    {
-      "basename": "CVE 漏洞复现及渗透思路学习",
-      "path": "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md"
     },
     {
       "basename": "溢出攻击",
@@ -183,22 +199,6 @@
     {
       "basename": "deeplocker python API development",
       "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
-    },
-    {
-      "basename": "Deeplocker",
-      "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
     }
   ],
   "omittedPaths": [],

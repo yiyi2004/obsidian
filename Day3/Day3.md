@@ -462,13 +462,26 @@ Deeplocker 计划
 	- [ ] English Practice
 	- [x] Go Pro ✅ 2023-06-30
 	- [x] Leetcode ✅ 2023-06-30
-	- [ ] Reading
+	- [x] Reading ✅ 2023-07-02
 	- [ ] Running
 	- [ ] Summary
 
 ### 第二天
 
-- [ ] 参加掘金开发者大会，掘金开发者大会
-- [ ] 总结学到的内容，我估计会花费大量的时间捏 —— 你 GopherChina 的内容还没有总结完成呢
+- [x] 参加掘金开发者大会，掘金开发者大会 ✅ 2023-07-02
 
 ### 第三天
+
+今天不管怎么样，一定要去跑步哦
+
+- [ ] 总结稀土掘金 AICG 的内容，稀土掘金的 PPT 和回放是否会放出来呢？——话说你 GopherChina 还没有完成呢，是时候更新一波公众号了。
+- [ ] Challenge
+	- [ ] Algorithm
+	- [ ] English Practice
+	- [ ] Go Pro
+	- [ ] Leetcode
+	- [ ] Reading
+	- [ ] Running
+	- [ ] Summary
+- [ ] Deeplocker 问题总结
+- [ ] GoLibrosa 的方法读取

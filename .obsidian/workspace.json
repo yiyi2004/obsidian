@@ -52,6 +52,19 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Life/活动/稀土掘金开发者大会.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4a73c6a03f5ce9eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Day3/Day3.md",
                 "mode": "source",
                 "backlinks": false,
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -255,13 +268,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c9ebb1dc1ff73b4",
+  "active": "4a73c6a03f5ce9eb",
   "lastOpenFiles": [
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
+    "Day3/Day3.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Life/活动/稀土掘金开发者大会.md",
+    "Life/活动/Snipaste/4c19b3ad691025be1f5e1eb80bb220c 1.jpg",
+    "Life/活动/Snipaste/4c19b3ad691025be1f5e1eb80bb220c.jpg",
+    "Life/活动/Snipaste",
+    "Life/活动/GopherChina2023.md",
+    "Life/活动/准备一下去安全公司需要问的问题.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
     "Challenge/Habit Challenge/Go Pro.md",
-    "Day3/Day3.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630164514.png",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230630161114.png",
@@ -287,22 +309,13 @@
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627100121.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627095550.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094312.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627094112.png",
-    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230627093656.png",
     "Algorithm/算法体系学习/二叉树/Snipaste",
     "Algorithm/算法体系学习/二叉树",
     "Algorithm/算法体系学习/链表",
-    "Resume/Resume.md",
-    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
-    "Cyber Security/基础知识/溢出攻击.md",
-    "Notebook/青年大学习/20221102.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/代码审计/笔记/第07章-越权漏洞.pdf",
-    "Cyber Security/HW/01-HW介绍/HW 介绍.md",
     "Cyber Security/代码审计/笔记/第01章-初识代码审计.pdf",
     "Cyber Security/代码审计/笔记/第02章-Java代码审计环境搭建.pdf",
     "Cyber Security/代码审计/笔记/第10章-文件上传.pdf",
-    "Cyber Security/代码审计/笔记/第04章-SQL注入漏洞.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -73,9 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "059a7ac4ab3db37b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+                "file": "Coding/Go/GUI/GUI fyne in Go.md"
               }
             }
           },
@@ -203,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,19 +283,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b6885ec4a35f1139",
+  "active": "059a7ac4ab3db37b",
   "lastOpenFiles": [
+    "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
+    "Coding/Go/GUI/fyne/fyne-new.md",
+    "Coding/Go/GUI/fyne/fyne-old.md",
+    "Day3/Day3.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Challenge/Habit Challenge/费曼学习法.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703135212.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703133914.png",
+    "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703132455.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703104926.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703104627.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703104526.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703104444.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703095955.png",
-    "Day3/Day3.md",
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Challenge/Habit Challenge/费曼学习法.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Game/王者荣耀/发育路.md",
     "Coding/Go/go select 使用范式.md",
     "Challenge/Habit Challenge/Running.md",
@@ -296,10 +315,6 @@
     "Cyber Security/调研/Deeplocker.md",
     "Game/王者荣耀/Snipaste/Pasted image 20230702214734.png",
     "Game/王者荣耀/Snipaste/Pasted image 20230702214629.png",
-    "Game/王者荣耀/Snipaste/Pasted image 20230702214528.png",
-    "Game/王者荣耀/Snipaste/Pasted image 20230702214426.png",
-    "Game/王者荣耀/Snipaste/Pasted image 20230702214230.png",
-    "Game/王者荣耀/Snipaste/Pasted image 20230702213950.png",
     "Game/王者荣耀/Snipaste",
     "Game/未命名.md",
     "Game/王者荣耀",
@@ -313,8 +328,6 @@
     "Life/活动/稀土掘金开发者大会.md",
     "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
     "Life/活动/Snipaste",
-    "Life/活动/GopherChina2023.md",
-    "Life/活动/准备一下去安全公司需要问的问题.md",
     "Basic/编译原理",
     "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
     "Algorithm/算法体系学习/二叉树/Snipaste",

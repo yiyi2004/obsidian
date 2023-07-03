@@ -475,11 +475,11 @@ Deeplocker 计划
 今天不管怎么样，一定要去跑步哦
 
 - [x] 总结稀土掘金 AICG 的内容，稀土掘金的 PPT 和回放是否会放出来呢？——话说你 GopherChina 还没有完成呢，是时候更新一波公众号了。 ✅ 2023-07-02
-- [ ] Challenge
+- [x] Challenge ✅ 2023-07-03
 	- [x] Algorithm ✅ 2023-07-02
 	- [x] English Practice ✅ 2023-07-02
 	- [x] Go Pro ✅ 2023-07-02
-	- [ ] Leetcode
+	- [x] Leetcode ✅ 2023-07-03
 	- [x] Reading ✅ 2023-07-02
 	- [x] Running ✅ 2023-07-02
 	- [ ] Summary
@@ -504,7 +504,7 @@ Deeplocker 计划
 	- [ ] Reading
 	- [ ] Summary —— 晚上和费曼方法结合在一起效果更佳喔！
 - [ ] 先把优秀学长的东西学会，然后再进一步精进 | 你要意识到，你学习的东西对于他们来说不过是一点点而已，你还有很多东西需要学习
-- [ ] fyne 的学习
+- [x] fyne 的学习 ✅ 2023-07-03
 
 ### 第二天
 

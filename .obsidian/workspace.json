@@ -87,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/GUI/GUI fyne in Go.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/GUI/GUI fyne in Go.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -216,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/GUI/GUI fyne in Go.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/GUI/GUI fyne in Go.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,13 +282,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "059a7ac4ab3db37b",
+  "active": "ea3d8a48ca1c8377",
   "lastOpenFiles": [
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Coding/Go/GUI/GUI fyne in Go.md",
     "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
     "Coding/Go/GUI/fyne/fyne-new.md",
     "Coding/Go/GUI/fyne/fyne-old.md",
     "Day3/Day3.md",
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Challenge/Habit Challenge/费曼学习法.md",
     "Challenge/Habit Challenge/Summary.md",
@@ -314,12 +314,10 @@
     "Reading Notes/AIGC 未来已来/AIGC 未来已来.md",
     "Cyber Security/调研/Deeplocker.md",
     "Game/王者荣耀/Snipaste/Pasted image 20230702214734.png",
-    "Game/王者荣耀/Snipaste/Pasted image 20230702214629.png",
     "Game/王者荣耀/Snipaste",
     "Game/未命名.md",
     "Game/王者荣耀",
     "Game",
-    "Coding/Go/GUI/GUI fyne in Go.md",
     "Coding/Go/GUI/Snipaste",
     "Coding/Go/GUI",
     "Reading Notes/Reading Notes index.md",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
       "basename": "GUI fyne in Go",
       "path": "Coding/Go/GUI/GUI fyne in Go.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "fyne-old",
       "path": "Coding/Go/GUI/fyne/fyne-old.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
     },
     {
       "basename": "deeplocker backend summary",

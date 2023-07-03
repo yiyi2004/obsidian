@@ -799,8 +799,306 @@ func main() {
 > 需要注意的是，在使用 `select{}` 时应确保至少有一个通道的读写操作能够触发，否则会导致永久阻塞。在某些情况下，可能需要结合使用超时或退出信号等机制，以避免无限阻塞的情况发生。
 >
 
-**好的，先到这里叭，今天学不下去了捏**
+在循环创建 `Goroutine` 过程中，使用了匿名函数并在函数中引用了循环变量 `w`，由于 `w` 是引用传递的而非值传递，因此无法保证 `Goroutine` 在运行时调用的 `w` 与循环创建时的 `w` 是同一个值，为了解决这个问题，我们可以利用函数传参的值复制来为每个 `Goroutine` 单独复制一份 `w`。
+
+循环创建结束后，在 `main` 函数中最后一句 `select{}` 是一个空的管道选择语句，该语句会导致 `main` 线程阻塞，从而避免程序过早退出。还有 `for{}`、`<-make(chan int)` 等诸多方法可以达到类似的效果。因为 `main` 线程被阻塞了，如果需要程序正常退出的话可以通过调用 **`os.Exit(0)`** 实现。
 
 #### 不靠谱的同步
+
+前面我们已经分析过，下面代码无法保证正常打印结果。实际的运行效果也是大概率不能正常输出结果。
+
+```go
+func main() {
+    go println("你好, 世界")
+}
+```
+
+刚接触 Go 语言的话，可能希望通过加入一个随机的休眠时间来保证正常的输出：
+
+```go
+func main() {
+    go println("hello, world")
+    time.Sleep(time.Second)
+}
+```
+
+因为主线程休眠了 1 秒钟，因此这个程序大概率是可以正常输出结果的。因此，很多人会觉得这个程序已经没有问题了。但是这个程序是不稳健的，依然有失败的可能性。我们先假设程序是可以稳定输出结果的。因为 Go 线程的启动是非阻塞的，`main` 线程显式休眠了 1 秒钟退出导致程序结束，我们可以近似地认为程序总共执行了 1 秒多时间。现在假设 `println` 函数内部实现休眠的时间大于 `main` 线程休眠的时间的话，就会导致矛盾：后台线程既然先于 `main` 线程完成打印，那么执行时间肯定是小于 `main` 线程执行时间的。当然这是不可能的。
+
+严谨的并发程序的正确性不应该是依赖于 CPU 的执行速度和休眠时间等**不靠谱的因素**的。严谨的并发也应该是可以静态推导出结果的：**根据线程内顺序一致性**，结合 Channel 或 `sync` 同步事件的**可排序性**来推导，最终完成各个线程各段代码的**偏序关系排序**。如果两个事件无法根据此规则来排序，那么它们就是并发的，也就是执行先后顺序不可靠的。
+
+解决同步问题的思路是相同的：**使用显式的同步**。
+
+#### 小结
+
+可以的，已经快忘没来，今天晚上 8.30 要总结一下
+
+### 常见的并发模式
+
+Go 语言最吸引人的地方是它内建的并发支持。Go 语言并发体系的理论是 _C.A.R Hoare_ 在 1978 年提出的 CSP（Communicating Sequential Process，通讯顺序进程）。CSP 有着精确的数学模型，并实际应用在了 Hoare 参与设计的 T9000 通用计算机上。从 NewSqueak、Alef、Limbo 到现在的 Go 语言，对于对 CSP 有着 20 多年实战经验的 _Rob Pike_ 来说，他更关注的是将 CSP 应用在通用编程语言上产生的潜力。作为 Go 并发编程核心的 CSP 理论的核心概念只有一个：同步通信。关于同步通信的话题我们在前面一节已经讲过，本节我们将简单介绍下 Go 语言中常见的并发模式。
+
+首先要明确一个概念：并发不是并行。**并发更关注的是程序的设计层面，并发的程序完全是可以顺序执行的**，只有在真正的多核 CPU 上才可能真正地同时运行。并行更关注的是程序的运行层面，并行一般是简单的大量重复，例如 GPU 中对图像处理都会有大量的并行运算。为更好的编写并发程序，从设计之初 Go 语言就注重如何在编程语言层级上设计一个简洁安全高效的抽象模型，让程序员专注于**分解问题和组合方案**，**而且不用被线程管理和信号互斥这些繁琐的操作分散精力**。
+
+在并发编程中，对共享资源的正确访问需要精确的控制，在目前的绝大多数语言中，都是通过加锁等线程同步方案来解决这一困难问题，而 Go 语言却另辟蹊径，它将共享的值通过 Channel 传递 (实际上多个独立执行的线程很少主动共享资源)。在任意给定的时刻，最好**只有一个 Goroutine 能够拥有该资源**。**数据竞争从设计层面上就被杜绝了**。为了提倡这种思考方式，Go 语言将其并发编程哲学化为一句口号：
+
+> Do not communicate by sharing memory; instead, share memory by communicating.
+
+> 不要通过共享内存来通信，而应通过通信来共享内存。
+
+这是更高层次的并发编程哲学 (通过管道来传值是 Go 语言推荐的做法)。虽然像引用计数这类简单的并发问题通过原子操作或互斥锁就能很好地实现，但是通过 Channel 来控制访问能够让你**写出更简洁正确的**程序。
+
+#### 并发版本的 Hello, World
+
+```go
+func main() {
+    done := make(chan int, 10) // 带 10 个缓存
+
+    // 开 N 个后台打印线程
+    for i := 0; i < cap(done); i++ {
+        go func(){
+            fmt.Println("你好, 世界")
+            done <- 1
+        }()
+    }
+
+    // 等待 N 个后台线程完成
+    for i := 0; i < cap(done); i++ {
+        <-done
+    }
+}
+```
+
+WaitGroup 重写上述代码
+
+```go
+func main() {
+    var wg sync.WaitGroup
+
+    // 开 N 个后台打印线程
+    for i := 0; i < 10; i++ {
+        wg.Add(1)
+
+        go func() {
+            fmt.Println("你好, 世界")
+            wg.Done()
+        }()
+    }
+
+    // 等待 N 个后台线程完成
+    wg.Wait()
+}
+```
+
+#### 生产者消费者模型
+
+并发编程中最常见的例子就是**生产者消费者模式**，该模式主要通过**平衡**生产线程和消费线程的工作能力来提高程序的整体处理数据的速度。简单地说，就是生产者生产一些数据，然后放到成果队列中，同时消费者从成果队列中来取这些数据。这样就让生产消费变成了异步的两个过程。当成果队列中没有数据时，消费者就进入饥饿的等待中；而当成果队列中数据已满时，生产者则面临因产品挤压导致 CPU 被剥夺的下岗问题。
+
+```go
+// 生产者: 生成 factor 整数倍的序列
+func Producer(factor int, out chan<- int) {
+    for i := 0; ; i++ {
+        out <- i*factor
+    }
+}
+
+// 消费者
+func Consumer(in <-chan int) {
+    for v := range in {
+        fmt.Println(v)
+    }
+}
+func main() {
+    ch := make(chan int, 64) // 成果队列
+
+    go Producer(3, ch) // 生成 3 的倍数的序列
+    go Producer(5, ch) // 生成 5 的倍数的序列
+    go Consumer(ch)    // 消费生成的队列
+
+    // 运行一定时间后退出
+    time.Sleep(5 * time.Second)
+	// 这种睡眠的方式是不可靠的
+}
+
+func main() {
+    ch := make(chan int, 64) // 成果队列
+
+    go Producer(3, ch) // 生成 3 的倍数的序列
+    go Producer(5, ch) // 生成 5 的倍数的序列
+    go Consumer(ch)    // 消费 生成的队列
+
+    // Ctrl+C 退出
+    sig := make(chan os.Signal, 1)
+    signal.Notify(sig, syscall.SIGINT, syscall.SIGTERM)
+    fmt.Printf("quit (%v)\n", <-sig)
+}
+```
+
+#### 发布订阅模型
+
+发布订阅（publish-and-subscribe）模型通常被简写为 pub/sub 模型。在这个模型中，消息生产者成为发布者（publisher），而消息消费者则成为订阅者（subscriber），生产者和消费者是 **M:N** 的关系。在传统生产者和消费者模型中，是将消息发送到**一个队列**中，而发布订阅模型则是将消息发布给**一个主题**。
+
+为此，我们构建了一个名为 `pubsub` 的发布订阅模型支持包：
+
+```go
+// Package pubsub implements a simple multi-topic pub-sub library.
+package pubsub
+
+import (
+    "sync"
+    "time"
+)
+
+type (
+    subscriber chan interface{}         // 订阅者为一个管道
+    topicFunc  func(v interface{}) bool // 主题为一个过滤器
+)
+
+// 发布者对象
+type Publisher struct {
+    m           sync.RWMutex             // 读写锁
+    buffer      int                      // 订阅队列的缓存大小
+    timeout     time.Duration            // 发布超时时间
+    subscribers map[subscriber]topicFunc // 订阅者信息
+}
+
+// 构建一个发布者对象, 可以设置发布超时时间和缓存队列的长度
+func NewPublisher(publishTimeout time.Duration, buffer int) *Publisher {
+    return &Publisher{
+        buffer:      buffer,
+        timeout:     publishTimeout,
+        subscribers: make(map[subscriber]topicFunc),
+    }
+}
+
+// 添加一个新的订阅者，订阅全部主题
+func (p *Publisher) Subscribe() chan interface{} {
+    return p.SubscribeTopic(nil)
+}
+
+// 添加一个新的订阅者，订阅过滤器筛选后的主题
+func (p *Publisher) SubscribeTopic(topic topicFunc) chan interface{} {
+    ch := make(chan interface{}, p.buffer)
+    p.m.Lock()
+    p.subscribers[ch] = topic
+    p.m.Unlock()
+    return ch
+}
+
+// 退出订阅
+func (p *Publisher) Evict(sub chan interface{}) {
+    p.m.Lock()
+    defer p.m.Unlock()
+
+    delete(p.subscribers, sub)
+    close(sub)
+}
+
+// 发布一个主题
+func (p *Publisher) Publish(v interface{}) {
+    p.m.RLock()
+    defer p.m.RUnlock()
+
+    var wg sync.WaitGroup
+    for sub, topic := range p.subscribers {
+        wg.Add(1)
+        go p.sendTopic(sub, topic, v, &wg)
+    }
+    wg.Wait()
+}
+
+// 关闭发布者对象，同时关闭所有的订阅者管道。
+func (p *Publisher) Close() {
+    p.m.Lock()
+    defer p.m.Unlock()
+
+    for sub := range p.subscribers {
+        delete(p.subscribers, sub)
+        close(sub)
+    }
+}
+
+// 发送主题，可以容忍一定的超时
+func (p *Publisher) sendTopic(
+    sub subscriber, topic topicFunc, v interface{}, wg *sync.WaitGroup,
+) {
+    defer wg.Done()
+    if topic != nil && !topic(v) {
+        return
+    }
+
+    select {
+    case sub <- v:
+    case <-time.After(p.timeout):
+    }
+}
+```
+
+> 过早的顶层抽象是不好的，而且很多时候是不必要的。
+
+下面的例子中，有两个订阅者分别订阅了全部主题和含有 "golang" 的主题：
+
+```go
+import "path/to/pubsub"
+
+func main() {
+    p := pubsub.NewPublisher(100*time.Millisecond, 10)
+    defer p.Close()
+
+    all := p.Subscribe()
+    golang := p.SubscribeTopic(func(v interface{}) bool {
+        if s, ok := v.(string); ok {
+            return strings.Contains(s, "golang")
+        }
+        return false
+    })
+
+    p.Publish("hello,  world!")
+    p.Publish("hello, golang!")
+
+    go func() {
+        for  msg := range all {
+            fmt.Println("all:", msg)
+        }
+    } ()
+
+    go func() {
+        for  msg := range golang {
+            fmt.Println("golang:", msg)
+        }
+    } ()
+
+    // 运行一定时间后退出
+    time.Sleep(3 * time.Second)
+}
+```
+
+在发布订阅模型中，每条消息都会传送给多个订阅者。**发布者通常不会知道、也不关心哪一个订阅者正在接收主题消息**。订阅者和发布者可以在运行时动态添加，是一种**松散的耦合关系**，这使得系统的复杂性可以随时间的推移而增长。在现实生活中，像天气预报之类的应用就可以应用这个并发模式。
+
+> 仅仅是因为当初我并不知道怎么学习而已
+
+#### 控制并发数
+
+#### 赢者为王
+
+#### 素数筛
+
+#### 并发的安全退出
+
+#### Context 包 (这个包是一个重点内容，需要扩种)
+
+#### 小结
+
+这部分内容需要结合 golang 并发编程食用更佳。
+
+### 错误和异常
+
+#### 错误处理策略
+
+#### 获取错误的上下文
+
+#### 错误的错误返回
+
+#### 刨析异常
+
+#### 小结
 
 ## Reference

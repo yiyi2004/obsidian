@@ -144,5 +144,8 @@ function call: detect_faces ---> MtcnnWrapper.detect_face ---> face_detector.det
 
 实现的难点在于实现 numpy 的内容。
 
-[[arcface_preprocessing]]  
-[[../../Coding/Python/Basic/Python Basic|Python Basic]]
+## Reference
+
+- [[arcface_preprocessing]]  
+- [[../../Coding/Python/Basic/Python Basic|Python Basic]]
+- [人脸识别合集 | 10 ArcFace解析 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/76541084)

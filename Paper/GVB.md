@@ -2,9 +2,9 @@
 
 ![[Pasted image 20220502104543.png]]
 
-其实你在文献综述中可以混很多的论文呢。
-![[Pasted image 20220502105444.png]]
-transfer loss
+其实你在文献综述中可以混很多的论文呢。  
+![[Pasted image 20220502105444.png]]  
+transfer loss  
 ![[Pasted image 20220502105444.png]]
 
 pipeline and baseline
@@ -21,4 +21,3 @@ pipeline and baseline
 
 - [ ] 5 月 18 号完成初稿，DDL
 - [ ] 然后一个星期定稿，搞完所有内容哦。
-

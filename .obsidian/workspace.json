@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "b6885ec4a35f1139",
+            "id": "a8646c91c5075b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,58 +36,20 @@
             }
           },
           {
-            "id": "5fdf29cc829edccb",
+            "id": "2af3b065f9ac8c2d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e39a2d226905aae0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/费曼学习法.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6c7f0a249ae67735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "059a7ac4ab3db37b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/GUI/GUI fyne in Go.md",
+                "file": "AI/LLM/Prompt/Prompt 如何编写.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(堆)",
+                "query": "tag:#App",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
               }
             }
           },
@@ -215,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,17 +244,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ea3d8a48ca1c8377",
+  "active": "a8646c91c5075b0b",
   "lastOpenFiles": [
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
-    "Coding/Go/GUI/GUI fyne in Go.md",
-    "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
-    "Coding/Go/GUI/fyne/fyne-new.md",
-    "Coding/Go/GUI/fyne/fyne-old.md",
+    "AI/LLM/Prompt/Prompt 如何编写.md",
+    "AI/LLM/Chatgpt/ChatGPT.md",
+    "AI/LLM/Prompt",
+    "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+    "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
+    "Cyber Security/Deeplocker/APP 搜集",
     "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Challenge/Habit Challenge/费曼学习法.md",
     "Challenge/Habit Challenge/Summary.md",
+    "Coding/Go/GUI/GUI fyne in Go.md",
+    "Coding/Go/Third-party library/gocv/gocv + opencv + ffmpeg.md",
+    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
+    "Coding/Go/GUI/robotgo/robotgo.md",
+    "Coding/Go/GUI/robotgo",
+    "AI/Arcface/arcface.md",
+    "AI/Arcface/deepface.md",
+    "AI/Arcface/mtcnn.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Paper/GVB.md",
+    "Paper/DANN.md",
+    "Paper/0. 期刊和会议.md",
+    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
+    "Basic/Anaconda/Conda 基本命令.md",
+    "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
+    "Coding/Go/GUI/fyne/fyne-new.md",
+    "Coding/Go/GUI/fyne/fyne-old.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703135212.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703133914.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703132455.png",
@@ -304,31 +284,14 @@
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
     "Game/王者荣耀/发育路.md",
     "Coding/Go/go select 使用范式.md",
-    "Challenge/Habit Challenge/Running.md",
-    "Challenge/Habit Challenge/Morning Reading.md",
-    "Challenge/Habit Challenge/Leetcode 刷题.md",
-    "Challenge/Habit Challenge/Go Pro.md",
-    "Challenge/Habit Challenge/English Practice.md",
-    "Challenge/Habit Challenge/Algorithm.md",
-    "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
-    "Reading Notes/AIGC 未来已来/AIGC 未来已来.md",
-    "Cyber Security/调研/Deeplocker.md",
     "Game/王者荣耀/Snipaste/Pasted image 20230702214734.png",
     "Game/王者荣耀/Snipaste",
-    "Game/未命名.md",
     "Game/王者荣耀",
     "Game",
     "Coding/Go/GUI/Snipaste",
     "Coding/Go/GUI",
-    "Reading Notes/Reading Notes index.md",
     "Reading Notes/AIGC 未来已来",
-    "Coding/Go/Go Pro/Go 基础重新理解/未命名.md",
-    "Life/活动/稀土掘金开发者大会.md",
-    "Challenge/Habit Challenge/CVE 漏洞复现及渗透思路学习.md",
     "Life/活动/Snipaste",
-    "Basic/编译原理",
-    "Coding/Go/Go Pro/Go 基础重新理解/Snipaste",
-    "Algorithm/算法体系学习/二叉树/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -508,23 +508,23 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 
 - [ ] Challenge
 	- [ ] 费曼学习法 + Summary
-	- [ ] 每天早上反馈自己的原则
-	- [ ] Algorithm
-	- [ ] 练习英语
+	- [x] 每天早上反馈自己的原则 ✅ 2023-07-04
+	- [x] Algorithm：整理之前的 memos ---> obsidian ---> XMind ✅ 2023-07-04
+	- [x] 练习英语 ✅ 2023-07-04
 	- [x] Go Pro ✅ 2023-07-04
-	- [ ] Leetcode 刷题 + 数据结构整理
+	- [ ] Leetcode 刷题
+	- [x] 数据结构整理 ✅ 2023-07-04
 	- [ ] Reading
-	- [ ] Running
-- [ ] 规划一下 deeplocker 的事情
-- [ ] 先把优秀学长的东西学会，然后再进一步精进 | 你要意识到，你学习的东西对于他们来说不过是一点点而已，你还有很多东西需要学习
-- [ ] 整理标签页
-- [ ] Golang 泛型编程整理 —— 参考 GopherChina | 两个分会场
-- [ ] 声音的接入代码完成了，接下来就是读取麦克风并存储成 wav 格式的了。
-- [ ] CGO 的一些问题
-	- [ ] 什么是函数的链接符号——不理解捏
-	- [ ] 什么是桥接代码呢？如何自动生成呢？
-	- [ ] 重新理解今天的 CGO 内容
-- [ ] fyne 的学习
-	- [ ] 解决中文乱码的问题 [Creating a Custom Theme | Develop using Fyne](https://developer.fyne.io/extend/custom-theme)
+	- [x] Running ✅ 2023-07-04
+- [x] 规划一下 deeplocker 的事情 | 这周完成后端的操作，下周完成前端任务 ✅ 2023-07-04
+- [x] Golang 泛型编程整理 —— 参考 GopherChina | 两个分会场 ✅ 2023-07-04
+- [x] 找到读取为 float 类型的方法 go-wav ✅ 2023-07-04
 
 ### 第三天
+
+- [ ] fyne 的学习
+	- [ ] 解决中文乱码的问题 [Creating a Custom Theme | Develop using Fyne](https://developer.fyne.io/extend/custom-theme)  
+- [ ] CGO 的一些问题
+	- [ ] 什么是函数的链接符号——不理解捏
+	- [x] 什么是桥接代码呢？如何自动生成呢？ ✅ 2023-07-04
+	- [ ] 重新理解今天的 CGO 内容

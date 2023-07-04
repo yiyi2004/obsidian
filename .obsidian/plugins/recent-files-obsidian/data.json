@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Makefile Examples",
-      "path": "Coding/C&CPP/入门/Makefile Examples.md"
-    },
-    {
-      "basename": "Makefile",
-      "path": "Coding/C&CPP/入门/Makefile.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Golang 泛型编程基础",
+      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
+    },
+    {
+      "basename": "快速入门",
+      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
+    },
+    {
+      "basename": "CGO 概括",
+      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
+    },
+    {
+      "basename": "堆",
+      "path": "Algorithm/算法体系学习/堆.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
+      "basename": "链表问题",
+      "path": "Algorithm/算法体系学习/链表/链表问题.md"
+    },
+    {
+      "basename": "两个有序链表合并",
+      "path": "Algorithm/算法体系学习/链表/两个有序链表合并.md"
+    },
+    {
+      "basename": "二分法",
+      "path": "Algorithm/算法体系学习/二叉树/二分法.md"
+    },
+    {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
+      "basename": "CGO 简易教程",
+      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
+    },
+    {
+      "basename": "队列",
+      "path": "Algorithm/算法体系学习/栈和队列/队列.md"
+    },
+    {
+      "basename": "栈",
+      "path": "Algorithm/算法体系学习/栈和队列/栈.md"
+    },
+    {
+      "basename": "亦或操作",
+      "path": "Algorithm/算法体系学习/位运算/亦或操作.md"
+    },
+    {
+      "basename": "位图",
+      "path": "Algorithm/算法体系学习/位运算/位图.md"
+    },
+    {
+      "basename": "对数器",
+      "path": "Algorithm/算法体系学习/对数器.md"
+    },
+    {
+      "basename": "swap",
+      "path": "Algorithm/算法体系学习/数学基础/swap.md"
+    },
+    {
+      "basename": "Index",
+      "path": "Algorithm/算法体系学习/Index.md"
+    },
+    {
+      "basename": "random",
+      "path": "Coding/Go/标准库的使用/random.md"
+    },
+    {
+      "basename": "等差数列",
+      "path": "Algorithm/算法体系学习/数学基础/等差数列.md"
+    },
+    {
+      "basename": "归并排序",
+      "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
     },
     {
       "basename": "deeplocker backend summary",
@@ -21,8 +93,12 @@
       "path": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md"
     },
     {
-      "basename": "快速入门",
-      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
+      "basename": "Makefile Examples",
+      "path": "Coding/C&CPP/入门/Makefile Examples.md"
+    },
+    {
+      "basename": "Makefile",
+      "path": "Coding/C&CPP/入门/Makefile.md"
     },
     {
       "basename": "go-wav",
@@ -51,18 +127,6 @@
     {
       "basename": "Prompt 如何编写",
       "path": "AI/LLM/Prompt/Prompt 如何编写.md"
-    },
-    {
-      "basename": "Golang 泛型编程",
-      "path": "Coding/Go/泛型编程/Golang 泛型编程.md"
-    },
-    {
-      "basename": "CGO 概括",
-      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
-    },
-    {
-      "basename": "CGO 简易教程",
-      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
     },
     {
       "basename": "English Practice",
@@ -129,76 +193,8 @@
       "path": "AI/Arcface/mtcnn.md"
     },
     {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
-    },
-    {
       "basename": "GVB",
       "path": "Paper/GVB.md"
-    },
-    {
-      "basename": "DANN",
-      "path": "Paper/DANN.md"
-    },
-    {
-      "basename": "0. 期刊和会议",
-      "path": "Paper/0. 期刊和会议.md"
-    },
-    {
-      "basename": "The recent trends in cyber security A review",
-      "path": "Paper/Cyber Security/Review/The recent trends in cyber security A review.md"
-    },
-    {
-      "basename": "Conda 基本命令",
-      "path": "Basic/Anaconda/Conda 基本命令.md"
-    },
-    {
-      "basename": "fyne-new",
-      "path": "Coding/Go/GUI/fyne/fyne-new.md"
-    },
-    {
-      "basename": "fyne-old",
-      "path": "Coding/Go/GUI/fyne/fyne-old.md"
-    },
-    {
-      "basename": "Go 基础（这可不基础）",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
-    },
-    {
-      "basename": "发育路",
-      "path": "Game/王者荣耀/发育路.md"
-    },
-    {
-      "basename": "go select 使用范式",
-      "path": "Coding/Go/go select 使用范式.md"
-    },
-    {
-      "basename": "AIGC 未来已来",
-      "path": "Reading Notes/AIGC 未来已来/AIGC 未来已来.md"
-    },
-    {
-      "basename": "Deeplocker",
-      "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "Reading Notes index",
-      "path": "Reading Notes/Reading Notes index.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/未命名.md"
-    },
-    {
-      "basename": "稀土掘金开发者大会",
-      "path": "Life/活动/稀土掘金开发者大会.md"
-    },
-    {
-      "basename": "GopherChina2023",
-      "path": "Life/活动/GopherChina2023.md"
-    },
-    {
-      "basename": "准备一下去安全公司需要问的问题",
-      "path": "Life/活动/准备一下去安全公司需要问的问题.md"
     }
   ],
   "omittedPaths": [],

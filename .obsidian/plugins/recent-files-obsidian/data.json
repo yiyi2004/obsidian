@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "快速入门",
+      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
+    },
+    {
+      "basename": "CGO 概括",
+      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
+    },
+    {
+      "basename": "CGO 简易教程",
+      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
+    },
+    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Deeplocker APP with Go",
+      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
+    },
+    {
+      "basename": "go-wav",
+      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "Summary",
@@ -15,14 +39,6 @@
     {
       "basename": "Golang 泛型编程",
       "path": "Coding/Go/泛型编程/Golang 泛型编程.md"
-    },
-    {
-      "basename": "Deeplocker APP with Go",
-      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Go Pro",
@@ -183,22 +199,6 @@
     {
       "basename": "测试结果截图",
       "path": "Cyber Security/Deeplocker/测试结果截图.md"
-    },
-    {
-      "basename": "Ubuntu Network",
-      "path": "Cloud Native/Linux/Ubuntu/Ubuntu Network.md"
-    },
-    {
-      "basename": "CVE-2023-21839 Weblogic未授权远程代码执行漏洞",
-      "path": "Cyber Security/CVE/CVE-2023-21839 Weblogic未授权远程代码执行漏洞.md"
-    },
-    {
-      "basename": "写作素材",
-      "path": "Write/Material for Writing/写作素材/写作素材.md"
-    },
-    {
-      "basename": "Go Audio",
-      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
     }
   ],
   "omittedPaths": [],

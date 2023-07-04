@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Makefile Examples",
+      "path": "Coding/C&CPP/入门/Makefile Examples.md"
+    },
+    {
+      "basename": "Makefile",
+      "path": "Coding/C&CPP/入门/Makefile.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "准备一下去安全公司需要问的问题",
       "path": "Life/活动/准备一下去安全公司需要问的问题.md"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "deeplocker 测试",
-      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
     }
   ],
   "omittedPaths": [],

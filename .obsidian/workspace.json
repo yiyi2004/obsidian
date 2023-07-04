@@ -73,8 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e77d82ac78266218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/C&CPP/入门/Makefile Examples.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/C&CPP/入门/Makefile Examples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/C&CPP/入门/Makefile Examples.md"
               }
             }
           },
@@ -202,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/C&CPP/入门/Makefile Examples.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/C&CPP/入门/Makefile Examples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,13 +283,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "e77d82ac78266218",
   "lastOpenFiles": [
+    "Coding/C&CPP/入门/Makefile.md",
+    "Coding/C&CPP/入门/Makefile Examples.md",
+    "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
     "Coding/Go/Go Pro/CGO/快速入门.md",
     "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
-    "Day3/Day3.md",
     "Coding/C&CPP/入门/C++编译基础.md",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Challenge/Habit Challenge/Go Pro.md",
@@ -300,8 +316,6 @@
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Cyber Security/Deeplocker/APP 搜集",
     "Coding/Go/GUI/GUI fyne in Go.md",
-    "Coding/Go/Third-party library/gocv/gocv + opencv + ffmpeg.md",
-    "Coding/Go/Third-party library/gocv/gocv.Mat.md",
     "Coding/Go/GUI/robotgo",
     "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703135212.png",

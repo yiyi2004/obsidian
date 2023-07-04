@@ -1,12 +1,64 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
+    },
+    {
+      "basename": "Golang 泛型编程",
+      "path": "Coding/Go/泛型编程/Golang 泛型编程.md"
+    },
+    {
       "basename": "Deeplocker APP with Go",
       "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
     },
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
       "basename": "Prompt 如何编写",
       "path": "AI/LLM/Prompt/Prompt 如何编写.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
+      "basename": "Morning Reading",
+      "path": "Challenge/Habit Challenge/Morning Reading.md"
+    },
+    {
+      "basename": "Leetcode 刷题",
+      "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "每天早上阅读并反馈自己的原则",
+      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "Challenge/Habit Challenge/费曼学习法.md"
     },
     {
       "basename": "ChatGPT",
@@ -15,22 +67,6 @@
     {
       "basename": "deeplocker 信息整合(memos)",
       "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "费曼学习法",
-      "path": "Challenge/Habit Challenge/费曼学习法.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
     },
     {
       "basename": "GUI fyne in Go",
@@ -105,34 +141,6 @@
       "path": "Coding/Go/go select 使用范式.md"
     },
     {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
-      "basename": "Morning Reading",
-      "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
-      "basename": "Leetcode 刷题",
-      "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "每天早上阅读并反馈自己的原则",
-      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
-    },
-    {
       "basename": "AIGC 未来已来",
       "path": "Reading Notes/AIGC 未来已来/AIGC 未来已来.md"
     },
@@ -173,10 +181,6 @@
       "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
     },
     {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
-    },
-    {
       "basename": "测试结果截图",
       "path": "Cyber Security/Deeplocker/测试结果截图.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Go Audio",
       "path": "Coding/Go/Third-party library/audio/Go Audio.md"
-    },
-    {
-      "basename": "deeplocker 工具构建",
-      "path": "Cyber Security/Deeplocker/工具开发/deeplocker 工具构建.md"
     }
   ],
   "omittedPaths": [],

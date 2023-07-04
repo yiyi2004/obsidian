@@ -47,9 +47,74 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9901916276c8b026",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "02d08b1d29a16821",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Go Pro.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9cc38cf822d0c3c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/泛型编程/Golang 泛型编程.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0d71a09bd1091463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "325d5fb4758dbf83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -93,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
               }
             }
           },
@@ -177,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +267,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,18 +309,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a8646c91c5075b0b",
+  "active": "325d5fb4758dbf83",
   "lastOpenFiles": [
+    "Challenge/Habit Challenge/Summary.md",
+    "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+    "Coding/Go/Third-party library/audio/waveform",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/Go/泛型编程/Golang 泛型编程.md",
+    "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+    "Day3/Day3.md",
+    "Coding/Go/泛型编程",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/English Practice.md",
     "AI/LLM/Prompt/Prompt 如何编写.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Leetcode 刷题.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
+    "Challenge/Habit Challenge/费曼学习法.md",
     "AI/LLM/Chatgpt/ChatGPT.md",
     "AI/LLM/Prompt",
-    "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
     "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md",
     "Cyber Security/Deeplocker/APP 搜集",
-    "Day3/Day3.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Challenge/Habit Challenge/费曼学习法.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Coding/Go/GUI/GUI fyne in Go.md",
     "Coding/Go/Third-party library/gocv/gocv + opencv + ffmpeg.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
@@ -266,13 +342,7 @@
     "AI/Arcface/mtcnn.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Paper/GVB.md",
-    "Paper/DANN.md",
-    "Paper/0. 期刊和会议.md",
-    "Paper/Cyber Security/Review/The recent trends in cyber security A review.md",
-    "Basic/Anaconda/Conda 基本命令.md",
     "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
-    "Coding/Go/GUI/fyne/fyne-new.md",
-    "Coding/Go/GUI/fyne/fyne-old.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703135212.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703133914.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703132455.png",
@@ -281,17 +351,12 @@
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703104526.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703104444.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703095955.png",
-    "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
-    "Game/王者荣耀/发育路.md",
-    "Coding/Go/go select 使用范式.md",
     "Game/王者荣耀/Snipaste/Pasted image 20230702214734.png",
     "Game/王者荣耀/Snipaste",
     "Game/王者荣耀",
     "Game",
     "Coding/Go/GUI/Snipaste",
     "Coding/Go/GUI",
-    "Reading Notes/AIGC 未来已来",
-    "Life/活动/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

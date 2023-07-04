@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "什么是链接符号",
+      "path": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md"
     },
     {
       "basename": "快速入门",
@@ -15,10 +19,6 @@
     {
       "basename": "go-wav",
       "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
-    },
-    {
-      "basename": "什么是链接符号",
-      "path": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md"
     },
     {
       "basename": "C++编译基础",

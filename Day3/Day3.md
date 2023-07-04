@@ -524,5 +524,7 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 	- [ ] 什么是函数的链接符号——不理解捏
 	- [ ] 什么是桥接代码呢？如何自动生成呢？
 	- [ ] 重新理解今天的 CGO 内容
+- [ ] fyne 的学习
+	- [ ] 解决中文乱码的问题 [Creating a Custom Theme | Develop using Fyne](https://developer.fyne.io/extend/custom-theme)
 
 ### 第三天

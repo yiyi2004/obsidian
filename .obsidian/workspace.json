@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,12 +269,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "20596e01ea0cc713",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Day3/Day3.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
     "Coding/Go/Go Pro/CGO/快速入门.md",
     "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
-    "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
+    "Day3/Day3.md",
     "Coding/C&CPP/入门/C++编译基础.md",
     "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Challenge/Habit Challenge/Go Pro.md",
@@ -285,7 +285,6 @@
     "Coding/Go/泛型编程/Golang 泛型编程.md",
     "Coding/Go/Go Pro/CGO/CGO 概括.md",
     "Coding/Go/Go Pro/CGO/CGO 简易教程.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Coding/Go/Third-party library/audio/go-wav",
     "Coding/Go/Third-party library/audio/waveform",
     "Coding/Go/泛型编程",

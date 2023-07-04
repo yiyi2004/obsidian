@@ -1,8 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "快速入门",
       "path": "Coding/Go/Go Pro/CGO/快速入门.md"
+    },
+    {
+      "basename": "go-wav",
+      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
+    },
+    {
+      "basename": "什么是链接符号",
+      "path": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md"
+    },
+    {
+      "basename": "C++编译基础",
+      "path": "Coding/C&CPP/入门/C++编译基础.md"
+    },
+    {
+      "basename": "basic go audio",
+      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "Deeplocker APP with Go",
+      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
+    },
+    {
+      "basename": "Prompt 如何编写",
+      "path": "AI/LLM/Prompt/Prompt 如何编写.md"
+    },
+    {
+      "basename": "Golang 泛型编程",
+      "path": "Coding/Go/泛型编程/Golang 泛型编程.md"
     },
     {
       "basename": "CGO 概括",
@@ -13,44 +57,8 @@
       "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "Deeplocker APP with Go",
-      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
-    },
-    {
-      "basename": "go-wav",
-      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
-    },
-    {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
-    },
-    {
-      "basename": "Golang 泛型编程",
-      "path": "Coding/Go/泛型编程/Golang 泛型编程.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
       "basename": "English Practice",
       "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Prompt 如何编写",
-      "path": "AI/LLM/Prompt/Prompt 如何编写.md"
     },
     {
       "basename": "Running",
@@ -191,14 +199,6 @@
     {
       "basename": "deeplocker 测试",
       "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
-    },
-    {
-      "basename": "Deeplocker 攻击流程",
-      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
-    },
-    {
-      "basename": "测试结果截图",
-      "path": "Cyber Security/Deeplocker/测试结果截图.md"
     }
   ],
   "omittedPaths": [],

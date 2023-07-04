@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea3d8a48ca1c8377",
+            "id": "e99dc25ff00fb4db",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -20,97 +20,6 @@
                 "source": false
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "a8646c91c5075b0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2af3b065f9ac8c2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI/LLM/Prompt/Prompt 如何编写.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9901916276c8b026",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/Summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02d08b1d29a16821",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/Habit Challenge/Go Pro.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cc38cf822d0c3c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/泛型编程/Golang 泛型编程.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d71a09bd1091463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "325d5fb4758dbf83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Go Pro/CGO/CGO 概括.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
             }
           },
           {
@@ -138,9 +47,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b25a13c5c8c31c37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20596e01ea0cc713",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/CGO/快速入门.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go Pro/CGO/快速入门.md"
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
               }
             }
           },
@@ -268,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/CGO/快速入门.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go Pro/CGO/快速入门.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -335,24 +270,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f63fbe7939aa2ec1",
+  "active": "20596e01ea0cc713",
   "lastOpenFiles": [
+    "Day3/Day3.md",
+    "Coding/Go/Go Pro/CGO/快速入门.md",
+    "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
+    "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
+    "Coding/C&CPP/入门/C++编译基础.md",
+    "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+    "AI/LLM/Prompt/Prompt 如何编写.md",
+    "Coding/Go/泛型编程/Golang 泛型编程.md",
     "Coding/Go/Go Pro/CGO/CGO 概括.md",
     "Coding/Go/Go Pro/CGO/CGO 简易教程.md",
-    "Coding/Go/Go Pro/CGO/快速入门.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
-    "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
-    "Day3/Day3.md",
     "Coding/Go/Third-party library/audio/go-wav",
-    "Challenge/Habit Challenge/Summary.md",
-    "Coding/Go/Third-party library/audio/go audio/basic go audio.md",
     "Coding/Go/Third-party library/audio/waveform",
-    "Coding/Go/泛型编程/Golang 泛型编程.md",
     "Coding/Go/泛型编程",
-    "Challenge/Habit Challenge/Go Pro.md",
     "Challenge/Habit Challenge/English Practice.md",
-    "AI/LLM/Prompt/Prompt 如何编写.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Morning Reading.md",
     "Challenge/Habit Challenge/Leetcode 刷题.md",
@@ -366,9 +303,7 @@
     "Coding/Go/GUI/GUI fyne in Go.md",
     "Coding/Go/Third-party library/gocv/gocv + opencv + ffmpeg.md",
     "Coding/Go/Third-party library/gocv/gocv.Mat.md",
-    "Coding/Go/GUI/robotgo/robotgo.md",
     "Coding/Go/GUI/robotgo",
-    "AI/Arcface/arcface.md",
     "Coding/Go/GUI/Snipaste/Pasted image 20230703150751.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703135212.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230703133914.png",

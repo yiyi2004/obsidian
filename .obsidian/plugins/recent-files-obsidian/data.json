@@ -1,20 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Go 基础（这可不基础）",
+      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
+    },
+    {
+      "basename": "CGO 简易教程",
+      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
+    },
+    {
+      "basename": "CGO 基础",
+      "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
+    },
+    {
+      "basename": "CGO 概括",
+      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
+    },
+    {
+      "basename": "基础知识",
+      "path": "Coding/Go/基础知识/基础知识.md"
+    },
+    {
+      "basename": "复数",
+      "path": "Coding/Go/基础知识/复数.md"
+    },
+    {
+      "basename": "Go 语言基础",
+      "path": "Coding/Go/Go Pro/Go 语言基础.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "快速入门",
+      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
+    },
+    {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
+      "basename": "程序的链接",
+      "path": "Coding/C&CPP/基础知识(黑马)/程序的链接.md"
+    },
+    {
+      "basename": "什么是链接符号",
+      "path": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md"
+    },
+    {
+      "basename": "http",
+      "path": "Coding/Go/标准库的使用/http.md"
+    },
+    {
+      "basename": "pprof",
+      "path": "Coding/Go/go tools/pprof.md"
     },
     {
       "basename": "Golang 泛型编程基础",
       "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
     },
     {
-      "basename": "pprof",
-      "path": "Coding/Go/go tools/pprof.md"
+      "basename": "GUI fyne in Go",
+      "path": "Coding/Go/GUI/GUI fyne in Go.md"
+    },
+    {
+      "basename": "go-bindata",
+      "path": "Coding/Go/Third-party library/bindata/go-bindata.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
     },
     {
       "basename": "testing",
@@ -37,20 +101,12 @@
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
     },
     {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
-    },
-    {
       "basename": "Running",
       "path": "Challenge/Habit Challenge/Running.md"
     },
     {
       "basename": "Morning Reading",
       "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
     },
     {
       "basename": "English Practice",
@@ -73,14 +129,6 @@
       "path": "Algorithm/算法体系学习/栈和队列/队列.md"
     },
     {
-      "basename": "快速入门",
-      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
-    },
-    {
-      "basename": "CGO 概括",
-      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
-    },
-    {
       "basename": "堆",
       "path": "Algorithm/算法体系学习/堆.md"
     },
@@ -95,14 +143,6 @@
     {
       "basename": "二分法",
       "path": "Algorithm/算法体系学习/二叉树/二分法.md"
-    },
-    {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
-    },
-    {
-      "basename": "CGO 简易教程",
-      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
     },
     {
       "basename": "栈",
@@ -141,10 +181,6 @@
       "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
     },
     {
-      "basename": "什么是链接符号",
-      "path": "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md"
-    },
-    {
       "basename": "Makefile Examples",
       "path": "Coding/C&CPP/入门/Makefile Examples.md"
     },
@@ -159,46 +195,6 @@
     {
       "basename": "C++编译基础",
       "path": "Coding/C&CPP/入门/C++编译基础.md"
-    },
-    {
-      "basename": "basic go audio",
-      "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
-    },
-    {
-      "basename": "Deeplocker APP with Go",
-      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
-    },
-    {
-      "basename": "Prompt 如何编写",
-      "path": "AI/LLM/Prompt/Prompt 如何编写.md"
-    },
-    {
-      "basename": "Leetcode 刷题",
-      "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/LLM/Chatgpt/ChatGPT.md"
-    },
-    {
-      "basename": "deeplocker 信息整合(memos)",
-      "path": "Cyber Security/Deeplocker/deeplocker 信息整合(memos).md"
-    },
-    {
-      "basename": "GUI fyne in Go",
-      "path": "Coding/Go/GUI/GUI fyne in Go.md"
-    },
-    {
-      "basename": "gocv + opencv + ffmpeg",
-      "path": "Coding/Go/Third-party library/gocv/gocv + opencv + ffmpeg.md"
-    },
-    {
-      "basename": "gocv.Mat",
-      "path": "Coding/Go/Third-party library/gocv/gocv.Mat.md"
-    },
-    {
-      "basename": "robotgo",
-      "path": "Coding/Go/GUI/robotgo/robotgo.md"
     }
   ],
   "omittedPaths": [],

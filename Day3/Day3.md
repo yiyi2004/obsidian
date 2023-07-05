@@ -485,7 +485,7 @@ Deeplocker 计划
 	- [ ] Summary
 - [x] Deeplocker 问题总结 ✅ 2023-07-03
 - [x] GoLibrosa 的方法读取 ✅ 2023-07-02
-	- [ ] go-wav
+	- [x] go-wav ✅ 2023-07-05
 	- [ ] waveform ---> 既然转成了 float 形式，中间一定有一步是转换的。
 
 ## 20230011
@@ -524,18 +524,35 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 
 - [x] fyne 的学习 ✅ 2023-07-05
 	- [x] 继续学习捏 ✅ 2023-07-05
-	- [ ] 解决中文乱码的问题 [Creating a Custom Theme | Develop using Fyne](https://developer.fyne.io/extend/custom-theme)  
-	- [ ] http transport 的作用，但是我现在有点怠惰了 [详解golang net之transport - charlieroro - 博客园 (cnblogs.com)](https://www.cnblogs.com/charlieroro/p/11409153.html)
+	- [x] http transport 的作用，但是我现在有点怠惰了 [详解golang net之transport - charlieroro - 博客园 (cnblogs.com)](https://www.cnblogs.com/charlieroro/p/11409153.html) ✅ 2023-07-05
 - [ ] CGO 的一些问题
 	- [ ] 什么是函数的链接符号——不理解捏
 	- [x] 什么是桥接代码呢？如何自动生成呢？ ✅ 2023-07-04
 	- [ ] 重新理解今天的 CGO 内容
 - [ ] Challenge
 	- [x] 反馈自己的原则 ✅ 2023-07-05
-	- [ ] Algorithm
+	- [x] Algorithm ✅ 2023-07-05
 	- [ ] 练习英语
 	- [ ] Go Pro
 	- [ ] Leetcode
 	- [ ] Reading
 	- [ ] 费曼学习法 + Summary
+		- [ ] 你要如何精简的将自己内容讲的清楚
+		- [ ] 如何将自己的方法讲清楚
+		- [ ] 算法
+		- [ ] fyne
+		- [ ] Go Pro
 - [ ] 开发后台程序 python flask 部分包装 APP
+
+## 20230012
+
+### 第一天
+
+- [ ] fyne 学习结束
+- [ ] MySQl
+- [ ] Redis
+- [ ] Challenge
+
+### 第二天
+
+### 第三天

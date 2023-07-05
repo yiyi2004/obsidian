@@ -1,9 +1,9 @@
 {
-  "theme": "moonstone",
+  "theme": "obsidian",
   "baseFontSize": 18,
   "cssTheme": "Things",
   "translucency": false,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Arial Black",
-  "accentColor": ""
+  "accentColor": "#b04ce6"
 }

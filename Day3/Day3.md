@@ -525,6 +525,7 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 - [x] fyne 的学习 ✅ 2023-07-05
 	- [x] 继续学习捏 ✅ 2023-07-05
 	- [ ] 解决中文乱码的问题 [Creating a Custom Theme | Develop using Fyne](https://developer.fyne.io/extend/custom-theme)  
+	- [ ] http transport 的作用，但是我现在有点怠惰了 [详解golang net之transport - charlieroro - 博客园 (cnblogs.com)](https://www.cnblogs.com/charlieroro/p/11409153.html)
 - [ ] CGO 的一些问题
 	- [ ] 什么是函数的链接符号——不理解捏
 	- [x] 什么是桥接代码呢？如何自动生成呢？ ✅ 2023-07-04

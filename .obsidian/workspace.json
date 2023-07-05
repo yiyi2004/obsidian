@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md",
+                "file": "Basic/Go 项目结构.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -74,7 +74,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -118,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/Go 项目结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Basic/Go 项目结构.md"
               }
             }
           },
@@ -202,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/Go 项目结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Basic/Go 项目结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,8 +270,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "fe4cea5470744546",
   "lastOpenFiles": [
+    "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md",
+    "Basic/Go 项目结构.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Write/Material for Writing/写作素材/写作素材.md",
+    "Write/Material for Writing/生活趣事/段子素材.md",
+    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
+    "Day3/Day3.md",
     "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Morning Reading.md",
@@ -279,13 +287,10 @@
     "Challenge/Habit Challenge/Algorithm.md",
     "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
     "Challenge/Habit Challenge/费曼学习法.md",
-    "Day3/Day3.md",
-    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
     "Algorithm/算法体系学习/栈和队列/队列.md",
     "Coding/Go/Go Pro/CGO/快速入门.md",
     "Coding/Go/Go Pro/CGO/CGO 概括.md",
     "Algorithm/算法体系学习/堆.md",
-    "Write/Material for Writing/生活趣事/段子素材.md",
     "Algorithm/算法体系学习/链表/链表问题.md",
     "Algorithm/算法体系学习/链表/两个有序链表合并.md",
     "Algorithm/算法体系学习/二叉树/二分法.md",
@@ -304,13 +309,9 @@
     "Algorithm/算法体系学习/栈和队列",
     "Algorithm/算法体系学习/链表/Snipaste/Pasted image 20230704195135.png",
     "Algorithm/算法体系学习/链表/Snipaste/Pasted image 20230704195130.png",
-    "Algorithm/算法体系学习/位运算/亦或操作.md",
     "Algorithm/算法体系学习/位运算/Snipaste/Pasted image 20230704194745.png",
     "Algorithm/算法体系学习/位运算/Snipaste/Pasted image 20230704194740.png",
     "Algorithm/算法体系学习/位运算/Snipaste",
-    "Algorithm/算法体系学习/位运算/位图.md",
-    "Algorithm/算法体系学习/对数器.md",
-    "Algorithm/算法体系学习/数学基础/swap.md",
     "Algorithm/算法体系学习/位运算",
     "Algorithm/算法体系学习/链表/Snipaste",
     "Algorithm/算法体系学习/数学基础/Snipaste",

@@ -78,7 +78,7 @@ It's a a summary of deeplocker
 2. 压缩之后再传输
 3. 搭建文件服务器，**但是要有验证**，因为你不能让任何人都可以下载你的模型 basic or token
 
-API
+API 需求文档，音频实际上已经开发结束了。
 
 - [ ] upload target image | target_name + image | + new line
 - [ ] get training info | get the info: loss, precision, epoch, completed, **key** and so on

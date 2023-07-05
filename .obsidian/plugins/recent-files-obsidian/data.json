@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Go 项目结构",
+      "path": "Basic/Go 项目结构.md"
+    },
+    {
+      "basename": "Windows, Linux 链接器加载动态库的搜索路径顺序",
+      "path": "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "写作素材",
+      "path": "Write/Material for Writing/写作素材/写作素材.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
+      "basename": "Golang 泛型编程基础",
+      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -37,10 +61,6 @@
       "path": "Challenge/Habit Challenge/费曼学习法.md"
     },
     {
-      "basename": "Golang 泛型编程基础",
-      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
-    },
-    {
       "basename": "队列",
       "path": "Algorithm/算法体系学习/栈和队列/队列.md"
     },
@@ -55,10 +75,6 @@
     {
       "basename": "堆",
       "path": "Algorithm/算法体系学习/堆.md"
-    },
-    {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
     },
     {
       "basename": "链表问题",
@@ -115,10 +131,6 @@
     {
       "basename": "归并排序",
       "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "什么是链接符号",
@@ -187,14 +199,6 @@
     {
       "basename": "deepface",
       "path": "AI/Arcface/deepface.md"
-    },
-    {
-      "basename": "mtcnn",
-      "path": "AI/Arcface/mtcnn.md"
-    },
-    {
-      "basename": "GVB",
-      "path": "Paper/GVB.md"
     }
   ],
   "omittedPaths": [],

@@ -23,32 +23,6 @@
             }
           },
           {
-            "id": "afb9f03e19d08a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Algorithm/算法体系学习/栈和队列/队列.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "216edb752794d9b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "c1203d7b407f5181",
             "type": "leaf",
             "state": {
@@ -81,6 +55,19 @@
               "type": "markdown",
               "state": {
                 "file": "Coding/Go/Go Pro/CGO/快速入门.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa12de60045c21d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -284,8 +271,17 @@
   },
   "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
+    "Challenge/Habit Challenge/Summary.md",
+    "Challenge/Habit Challenge/Running.md",
+    "Challenge/Habit Challenge/Morning Reading.md",
+    "Challenge/Habit Challenge/Go Pro.md",
+    "Challenge/Habit Challenge/English Practice.md",
+    "Challenge/Habit Challenge/Algorithm.md",
+    "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md",
+    "Challenge/Habit Challenge/费曼学习法.md",
     "Day3/Day3.md",
+    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
+    "Algorithm/算法体系学习/栈和队列/队列.md",
     "Coding/Go/Go Pro/CGO/快速入门.md",
     "Coding/Go/Go Pro/CGO/CGO 概括.md",
     "Algorithm/算法体系学习/堆.md",
@@ -300,7 +296,6 @@
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202918.png",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202846.png",
     "Coding/Go/泛型编程/Snipaste",
-    "Algorithm/算法体系学习/栈和队列/队列.md",
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704201302.png",
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704201135.png",
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704201109.png",
@@ -316,20 +311,12 @@
     "Algorithm/算法体系学习/位运算/位图.md",
     "Algorithm/算法体系学习/对数器.md",
     "Algorithm/算法体系学习/数学基础/swap.md",
-    "Algorithm/算法体系学习/Index.md",
-    "Coding/Go/标准库的使用/random.md",
     "Algorithm/算法体系学习/位运算",
     "Algorithm/算法体系学习/链表/Snipaste",
-    "Algorithm/算法体系学习/数学基础/等差数列.md",
     "Algorithm/算法体系学习/数学基础/Snipaste",
-    "Algorithm/算法体系学习/排序算法/归并排序.md",
     "Algorithm/算法体系学习/数学基础",
-    "Algorithm/算法体系学习/排序算法/未命名.md",
     "Algorithm/算法体系学习/排序算法",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "AI/AICG",
-    "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
-    "Coding/C&CPP/入门/Makefile Examples.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

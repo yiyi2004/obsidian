@@ -5,8 +5,44 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "Summary",
+      "path": "Challenge/Habit Challenge/Summary.md"
+    },
+    {
+      "basename": "Running",
+      "path": "Challenge/Habit Challenge/Running.md"
+    },
+    {
+      "basename": "Morning Reading",
+      "path": "Challenge/Habit Challenge/Morning Reading.md"
+    },
+    {
+      "basename": "Go Pro",
+      "path": "Challenge/Habit Challenge/Go Pro.md"
+    },
+    {
+      "basename": "English Practice",
+      "path": "Challenge/Habit Challenge/English Practice.md"
+    },
+    {
+      "basename": "Algorithm",
+      "path": "Challenge/Habit Challenge/Algorithm.md"
+    },
+    {
+      "basename": "每天早上阅读并反馈自己的原则",
+      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
+    },
+    {
+      "basename": "费曼学习法",
+      "path": "Challenge/Habit Challenge/费曼学习法.md"
+    },
+    {
       "basename": "Golang 泛型编程基础",
       "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
+    },
+    {
+      "basename": "队列",
+      "path": "Algorithm/算法体系学习/栈和队列/队列.md"
     },
     {
       "basename": "快速入门",
@@ -43,10 +79,6 @@
     {
       "basename": "CGO 简易教程",
       "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
-    },
-    {
-      "basename": "队列",
-      "path": "Algorithm/算法体系学习/栈和队列/队列.md"
     },
     {
       "basename": "栈",
@@ -113,14 +145,6 @@
       "path": "Coding/Go/Third-party library/audio/go audio/basic go audio.md"
     },
     {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
-    },
-    {
       "basename": "Deeplocker APP with Go",
       "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
     },
@@ -129,32 +153,8 @@
       "path": "AI/LLM/Prompt/Prompt 如何编写.md"
     },
     {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
-      "basename": "Morning Reading",
-      "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
       "basename": "Leetcode 刷题",
       "path": "Challenge/Habit Challenge/Leetcode 刷题.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "每天早上阅读并反馈自己的原则",
-      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
-    },
-    {
-      "basename": "费曼学习法",
-      "path": "Challenge/Habit Challenge/费曼学习法.md"
     },
     {
       "basename": "ChatGPT",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Golang 泛型编程基础",
+      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
+    },
+    {
+      "basename": "pprof",
+      "path": "Coding/Go/go tools/pprof.md"
+    },
+    {
+      "basename": "testing",
+      "path": "Coding/Go/标准库的使用/testing.md"
+    },
+    {
       "basename": "Go 项目结构",
       "path": "Basic/Go 项目结构.md"
     },
@@ -9,24 +29,12 @@
       "path": "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
       "basename": "写作素材",
       "path": "Write/Material for Writing/写作素材/写作素材.md"
     },
     {
       "basename": "段子素材",
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "Golang 泛型编程基础",
-      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Summary",
@@ -191,14 +199,6 @@
     {
       "basename": "robotgo",
       "path": "Coding/Go/GUI/robotgo/robotgo.md"
-    },
-    {
-      "basename": "arcface",
-      "path": "AI/Arcface/arcface.md"
-    },
-    {
-      "basename": "deepface",
-      "path": "AI/Arcface/deepface.md"
     }
   ],
   "omittedPaths": [],

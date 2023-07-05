@@ -522,18 +522,19 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 
 ### 第三天
 
-- [ ] fyne 的学习
-	- [ ] 继续学习捏
+- [x] fyne 的学习 ✅ 2023-07-05
+	- [x] 继续学习捏 ✅ 2023-07-05
 	- [ ] 解决中文乱码的问题 [Creating a Custom Theme | Develop using Fyne](https://developer.fyne.io/extend/custom-theme)  
 - [ ] CGO 的一些问题
 	- [ ] 什么是函数的链接符号——不理解捏
 	- [x] 什么是桥接代码呢？如何自动生成呢？ ✅ 2023-07-04
 	- [ ] 重新理解今天的 CGO 内容
 - [ ] Challenge
-	- [ ] 反馈自己的原则
+	- [x] 反馈自己的原则 ✅ 2023-07-05
 	- [ ] Algorithm
 	- [ ] 练习英语
 	- [ ] Go Pro
 	- [ ] Leetcode
 	- [ ] Reading
+	- [ ] 费曼学习法 + Summary
 - [ ] 开发后台程序 python flask 部分包装 APP

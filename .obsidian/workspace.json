@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Basic/Go 项目结构.md",
+                "file": "Coding/Go/go tools/pprof.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,9 +73,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e4d1b7ecd0a5f0c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/Go 项目结构.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/Go 项目结构.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -203,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/Go 项目结构.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +240,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic/Go 项目结构.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,15 +282,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "fe4cea5470744546",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md",
-    "Basic/Go 项目结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Day3/Day3.md",
+    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
+    "Coding/Go/go tools/pprof.md",
+    "Coding/Go/标准库的使用/testing.md",
+    "Basic/Go 项目结构.md",
+    "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md",
     "Write/Material for Writing/写作素材/写作素材.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
-    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
-    "Day3/Day3.md",
     "Challenge/Habit Challenge/Summary.md",
     "Challenge/Habit Challenge/Running.md",
     "Challenge/Habit Challenge/Morning Reading.md",
@@ -297,7 +311,6 @@
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Coding/Go/算法/01. 认识复杂度和简单的排序算法.md",
     "Coding/Python/数据分析",
-    "Coding/Go/Go Pro/CGO/CGO 简易教程.md",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202918.png",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202846.png",
     "Coding/Go/泛型编程/Snipaste",
@@ -305,7 +318,6 @@
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704201135.png",
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704201109.png",
     "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704195734.png",
-    "Algorithm/算法体系学习/栈和队列/栈.md",
     "Algorithm/算法体系学习/栈和队列",
     "Algorithm/算法体系学习/链表/Snipaste/Pasted image 20230704195135.png",
     "Algorithm/算法体系学习/链表/Snipaste/Pasted image 20230704195130.png",

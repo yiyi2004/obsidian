@@ -112,6 +112,8 @@ workspace/model/{{key}}/xxx
 
 #### 4️⃣Frontend
 
+开发的问题在于你要如何将数据接入，并且创建对应的窗口捏。
+
 #### 5️⃣Windows Install or Script
 
 #### 6️⃣如何实现自启动和权限提升

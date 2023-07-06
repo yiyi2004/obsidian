@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "GUI fyne in Go",
-      "path": "Coding/Go/GUI/GUI fyne in Go.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "CGO 基础",
+      "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
+    },
+    {
+      "basename": "CGO 概括",
+      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
+    },
+    {
+      "basename": "GUI fyne in Go",
+      "path": "Coding/Go/GUI/GUI fyne in Go.md"
     },
     {
       "basename": "Algorithm —— 每天至少 2 个小时",
@@ -31,14 +39,6 @@
     {
       "basename": "CGO 简易教程",
       "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
-    },
-    {
-      "basename": "CGO 基础",
-      "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
-    },
-    {
-      "basename": "CGO 概括",
-      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
     },
     {
       "basename": "基础知识",

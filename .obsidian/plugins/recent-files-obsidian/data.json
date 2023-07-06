@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Algorithm —— 每天至少 2 个小时",
+      "path": "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md"
+    },
+    {
+      "basename": "如何快速的了解一个行业的发展状况",
+      "path": "Cocinfo/行业报告/如何快速的了解一个行业的发展状况.md"
+    },
+    {
+      "basename": "Reading or Writing",
+      "path": "Challenge/Habit Challenge/Reading or Writing.md"
+    },
+    {
+      "basename": "每天阅读并反馈自己的原则",
+      "path": "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md"
+    },
+    {
       "basename": "Go 基础（这可不基础）",
       "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
     },
@@ -31,10 +51,6 @@
     {
       "basename": "Go Pro",
       "path": "Challenge/Habit Challenge/Go Pro.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "快速入门",
@@ -105,20 +121,8 @@
       "path": "Challenge/Habit Challenge/Running.md"
     },
     {
-      "basename": "Morning Reading",
-      "path": "Challenge/Habit Challenge/Morning Reading.md"
-    },
-    {
       "basename": "English Practice",
       "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "Algorithm",
-      "path": "Challenge/Habit Challenge/Algorithm.md"
-    },
-    {
-      "basename": "每天早上阅读并反馈自己的原则",
-      "path": "Challenge/Habit Challenge/每天早上阅读并反馈自己的原则.md"
     },
     {
       "basename": "费曼学习法",

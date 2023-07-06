@@ -28,15 +28,53 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Cocinfo/行业报告/如何快速的了解一个行业的发展状况.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc293990f2582af8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Reading or Writing.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "89ec05b83b4778cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4397e9fc96ba33e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -164,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,10 +269,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Coding/Go/Go Pro/Go 基础重新理解/未命名.md",
+    "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
+    "Day3/Day3.md",
+    "Cocinfo/行业报告/如何快速的了解一个行业的发展状况.md",
+    "Challenge/Habit Challenge/Reading or Writing.md",
+    "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md",
+    "Cocinfo/行业报告/Snipaste/Pasted image 20230706103636.png",
+    "Cocinfo/行业报告/Snipaste",
     "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md",
+    "Cocinfo/行业报告",
+    "Coding/Go/Go Pro/Go 基础重新理解/未命名.md",
     "Coding/Go/Go Pro/CGO/CGO 简易教程.md",
     "Coding/Go/Go Pro/CGO/CGO 基础.md",
     "Coding/Go/Go Pro/CGO/CGO 概括.md",
@@ -243,7 +288,6 @@
     "Coding/Go/基础知识/复数.md",
     "Coding/Go/Go Pro/Go 语言基础.md",
     "Challenge/Habit Challenge/Go Pro.md",
-    "Day3/Day3.md",
     "Coding/Go/Go Pro/CGO/快速入门.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230705190504.png",
@@ -265,21 +309,14 @@
     "Coding/Go/GUI/Snipaste/Pasted image 20230705180339.png",
     "Coding/Go/Third-party library/bindata",
     "Coding/Go/标准库的使用/testing.md",
-    "Basic/Go 项目结构.md",
-    "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md",
-    "Write/Material for Writing/写作素材/写作素材.md",
-    "Write/Material for Writing/生活趣事/段子素材.md",
     "Coding/Python/数据分析",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202918.png",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202846.png",
     "Coding/Go/泛型编程/Snipaste",
-    "Write/Material for Writing/生活趣事/Snipaste/Pasted image 20230704201302.png",
     "Algorithm/算法体系学习/栈和队列",
     "Algorithm/算法体系学习/位运算/Snipaste",
     "Algorithm/算法体系学习/位运算",
     "Algorithm/算法体系学习/链表/Snipaste",
-    "Algorithm/算法体系学习/数学基础/Snipaste",
-    "Algorithm/算法体系学习/数学基础",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

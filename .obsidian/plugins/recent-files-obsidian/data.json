@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "GUI fyne in Go",
+      "path": "Coding/Go/GUI/GUI fyne in Go.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Golang 泛型编程基础",
       "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
-    },
-    {
-      "basename": "GUI fyne in Go",
-      "path": "Coding/Go/GUI/GUI fyne in Go.md"
     },
     {
       "basename": "go-bindata",

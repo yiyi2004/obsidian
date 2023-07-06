@@ -73,8 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d4f537342f618e08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -118,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/Go/GUI/GUI fyne in Go.md"
               }
             }
           },
@@ -202,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/GUI/GUI fyne in Go.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,10 +283,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "d4f537342f618e08",
   "lastOpenFiles": [
-    "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
+    "Coding/Go/GUI/Snipaste/Pasted image 20230706151733.png",
     "Day3/Day3.md",
+    "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
     "Cocinfo/行业报告/如何快速的了解一个行业的发展状况.md",
     "Challenge/Habit Challenge/Reading or Writing.md",
     "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md",
@@ -308,7 +323,6 @@
     "Challenge/Habit Challenge/Summary.md",
     "Coding/Go/GUI/Snipaste/Pasted image 20230705180339.png",
     "Coding/Go/Third-party library/bindata",
-    "Coding/Go/标准库的使用/testing.md",
     "Coding/Python/数据分析",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202918.png",
     "Coding/Go/泛型编程/Snipaste/Pasted image 20230704202846.png",

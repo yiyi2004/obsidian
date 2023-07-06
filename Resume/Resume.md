@@ -48,12 +48,13 @@ github, gitlab 我都会使用，笔记系统的构建。**计算机行业向外
 	- 操作系统
 		- Linux
 	- 计算机组成原理
-	- 算法
+	- **算法**
 - 语言的掌握程度，关键在于能用他们做什么
-	- Go
+	- **Go**
 		- CGO
 		- 并发编程实践
 	- Python
+		- 爬虫
 	- TypeScript
 	- Shell
 	- GUI
@@ -74,6 +75,7 @@ github, gitlab 我都会使用，笔记系统的构建。**计算机行业向外
 	- PostgreSQL
 	- MySQL
 	- Redis
+	- SQLite
 	- Elasticsearch —— 分布式数据库
 - 云原生
 	- Docker 技术

@@ -99,8 +99,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0366020e216fcab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resume/Resume.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0beb4013596a64ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/需要整理的知识结构.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -144,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Resume/Resume.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.51103591918945
+    "width": 289.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -210,7 +237,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Resume/Resume.md"
               }
             }
           },
@@ -228,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Resume/Resume.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +280,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Resume/Resume.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -295,11 +322,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "0366020e216fcab8",
   "lastOpenFiles": [
+    "Tasks/需要整理的知识结构.md",
+    "Resume/Resume.md",
+    "Cloud Native/Database/MySQL/MySQL-基础篇.pdf",
     "Coding/Go/Go Pro/CGO/CGO 基础.md",
-    "Coding/Go/Go Pro/CGO/CGO 概括.md",
+    "Tasks/信息收集.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Tasks/APT Report.md",
+    "Tasks/Blog.md",
+    "Tasks/TODO.md",
     "Day3/Day3.md",
+    "Cloud Native/Database/MySQL/MySQL.md",
+    "Coding/Go/Go Pro/CGO/CGO 概括.md",
     "Coding/Go/GUI/GUI fyne in Go.md",
     "Coding/Go/GUI/Snipaste/Pasted image 20230706151733.png",
     "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
@@ -323,16 +359,8 @@
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230705185154.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230705184909.png",
     "Algorithm/算法体系学习/二叉树/Snipaste/Pasted image 20230705184246.png",
-    "Coding/C&CPP/基础知识(黑马)/程序的链接.md",
     "Coding/C&CPP/基础知识(黑马)/Snipaste/Pasted image 20230705183017.png",
     "Coding/C&CPP/基础知识(黑马)/Snipaste",
-    "Coding/C&CPP/基础知识(黑马)/什么是链接符号.md",
-    "Coding/Go/标准库的使用/http.md",
-    "Coding/Go/go tools/pprof.md",
-    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
-    "Coding/Go/Third-party library/bindata/go-bindata.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Challenge/Habit Challenge/Summary.md",
     "Coding/Go/GUI/Snipaste/Pasted image 20230705180339.png",
     "Coding/Go/Third-party library/bindata",
     "Coding/Python/数据分析",
@@ -341,7 +369,6 @@
     "Algorithm/算法体系学习/栈和队列",
     "Algorithm/算法体系学习/位运算/Snipaste",
     "Algorithm/算法体系学习/位运算",
-    "Algorithm/算法体系学习/链表/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

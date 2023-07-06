@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "MySQL-基础篇",
+      "path": "Cloud Native/Database/MySQL/MySQL-基础篇.pdf"
     },
     {
       "basename": "CGO 基础",
       "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
+    },
+    {
+      "basename": "信息收集",
+      "path": "Tasks/信息收集.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "APT Report",
+      "path": "Tasks/APT Report.md"
+    },
+    {
+      "basename": "Blog",
+      "path": "Tasks/Blog.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Tasks/TODO.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Cloud Native/Database/MySQL/MySQL.md"
     },
     {
       "basename": "CGO 概括",
@@ -163,42 +199,6 @@
     {
       "basename": "对数器",
       "path": "Algorithm/算法体系学习/对数器.md"
-    },
-    {
-      "basename": "swap",
-      "path": "Algorithm/算法体系学习/数学基础/swap.md"
-    },
-    {
-      "basename": "Index",
-      "path": "Algorithm/算法体系学习/Index.md"
-    },
-    {
-      "basename": "random",
-      "path": "Coding/Go/标准库的使用/random.md"
-    },
-    {
-      "basename": "等差数列",
-      "path": "Algorithm/算法体系学习/数学基础/等差数列.md"
-    },
-    {
-      "basename": "归并排序",
-      "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
-    },
-    {
-      "basename": "Makefile Examples",
-      "path": "Coding/C&CPP/入门/Makefile Examples.md"
-    },
-    {
-      "basename": "Makefile",
-      "path": "Coding/C&CPP/入门/Makefile.md"
-    },
-    {
-      "basename": "go-wav",
-      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
-    },
-    {
-      "basename": "C++编译基础",
-      "path": "Coding/C&CPP/入门/C++编译基础.md"
     }
   ],
   "omittedPaths": [],

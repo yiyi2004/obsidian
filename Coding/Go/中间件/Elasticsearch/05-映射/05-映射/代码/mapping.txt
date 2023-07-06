@@ -1,0 +1,357 @@
+#Dynamic mapping
+DELETE product_mapping
+GET product_mapping/_mapping
+PUT /product_mapping/_doc/1
+{
+  "name": "xiaomi phone",
+  "desc": "shouji zhong de zhandouji",
+  "count": 123456,
+  "price": 123.123,
+  "date": "2020-05-20",
+  "isdel": false,
+  "tags": [
+    "xingjiabi",
+    "fashao",
+    "buka"
+  ]
+}
+
+#手工创建mapping（fields的mapping只能创建，无法修改）
+#语法
+GET product/_mapping
+PUT /product
+{
+  "mappings": {
+    "properties": {
+      "date": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+GET product/_mapping
+#1 index
+
+#案例
+PUT /product
+{
+  "mappings": {
+    "properties": {
+      "date": {
+        "type": "text"
+      },
+      "desc": {
+        "type": "text",
+        "analyzer": "english"
+      },
+      "name": {
+        "type": "text",
+        "index": "false"
+      },
+      "price": {
+        "type": "long"
+      },
+      "tags": {
+        "type": "text",
+        "index": "true"
+      },
+      "parts": {
+        "type": "object"
+      },
+      "partlist": {
+        "type": "nested"
+      }
+    }
+  }
+}
+#插入数据
+GET product/_mapping
+PUT /product/_doc/1
+{
+  "name": "xiaomi phone",
+  "desc": "shouji zhong de zhandouji",
+  "count": 123456,
+  "price": 3999,
+  "date": "2020-05-20",
+  "isdel": false,
+  "tags": [
+    "xingjiabi",
+    "fashao",
+    "buka"
+  ],
+  "parts": {
+    "name": "adapter",
+    "desc": "5V 2A"
+  },
+  "partlist": [
+    {
+      "name": "adapter",
+      "desc": "5V 2A"
+    },
+    {
+      "name": "USB-C",
+      "desc": "5V 2A 1.5m"
+    },
+    {
+      "name": "erji",
+      "desc": "boom"
+    }
+  ]
+}
+#查看
+GET /product/_search
+{
+  "query": {
+    "match_all": {}
+  }
+}
+#验证
+GET /product/_search
+{
+  "query": {
+    "match": {
+      "name": "xiaomi"
+    }
+  }
+}
+
+#copy_to
+PUT copy_to
+{
+  "mappings": {
+    "properties": {
+      "field1": {
+        "type": "text",
+        "copy_to": "field_all" 
+      },
+      "field2": {
+        "type": "text",
+        "copy_to": "field_all" 
+      },
+      "field_all": {
+        "type": "text"
+      }
+    }
+  }
+}
+
+PUT copy_to/_doc/1
+{
+  "field1": "field1",
+  "field2": "field2"
+}
+GET copy_to/_search
+GET copy_to/_search
+{
+  "query": {
+    "match": {
+      "field_all": { 
+        "query": "field1 field2"
+      }
+    }
+  }
+}
+
+#coerce：是否允许强制类型转换
+PUT coerce
+{
+  "mappings": {
+    "properties": {
+      "number_one": {
+        "type": "integer"
+      },
+      "number_two": {
+        "type": "integer",
+        "coerce": false
+      }
+    }
+  }
+}
+PUT coerce/_doc/1
+{
+  "number_one": "10" 
+}
+#//拒绝，因为设置了false
+PUT coerce/_doc/2
+{
+  "number_two": "10" 
+}  
+
+DELETE coerce
+PUT coerce
+{
+  "settings": {
+    "index.mapping.coerce": false
+  },
+  "mappings": {
+    "properties": {
+      "number_one": {
+        "type": "integer",
+        "coerce": true
+      },
+      "number_two": {
+        "type": "integer"
+      }
+    }
+  }
+}
+PUT coerce/_doc/1
+{ 
+  "number_one": "10" 
+} 
+#拒绝，因为设置了false
+PUT coerce/_doc/2
+{
+  "number_two": "10" 
+  
+} 
+
+PUT /product/_mapping
+{
+  "properties": {
+    "date": {
+      "type": "text"
+    }
+  }
+}
+
+#7- 7 
+PUT dynamic
+{
+  "mappings": {
+    "dynamic": false,
+    "properties": {
+      "user": {
+        "properties": {
+          "date": {
+            "type": "text"
+          },
+          "desc": {
+            "type": "text",
+            "analyzer": "english"
+          },
+          "name": {
+            "type": "text",
+            "index": "false"
+          },
+          "price": {
+            "type": "long"
+          }
+        }
+      }
+    }
+  }
+}
+PUT /product/_mapping
+{
+  "properties": {
+    "date": {
+      "type": "text"
+    }
+  }
+}
+
+#7-11 
+GET /product/_mapping
+#给city创建一个keyword
+PUT fields_test
+{
+  "mappings": {
+    "properties": {
+      "city": {
+        "type": "text",
+        "fields": {
+          "raw": { 
+            "type":  "keyword"
+          }
+        }
+      }
+    }
+  }
+}
+
+PUT fields_test/_doc/1
+{
+  "city": "New York"
+}
+
+PUT fields_test/_doc/2
+{
+  "city": "York"
+}
+GET fields_test/_mapping
+GET fields_test/_search
+{
+  "query": {
+    "match": {
+      "city": "york" 
+    }
+  },
+  "sort": {
+    "city.raw": "asc" 
+  },
+  "aggs": {
+    "cities": {
+      "terms": {
+        "field": "city.raw" 
+      }
+    }
+  }
+}
+
+#忽略类型错误-常用于数据同步
+PUT ignore_malformed
+{
+  "mappings": {
+    "properties": {
+      "number_one": {
+        "type": "integer",
+        "ignore_malformed": true
+      },
+      "number_two": {
+        "type": "integer"
+      }
+    }
+  }}
+PUT ignore_malformed/_doc/1
+{
+  "text":       "Some text value",
+  "number_one": "foo" 
+  
+}   
+#//虽然有异常 但是不抛出
+PUT ignore_malformed/_doc/2
+{
+  "text":       "Some text value",
+  "number_two": "foo" 
+  
+}  
+GET my_index/_search
+#//数据格式不对	
+
+
+#fielddata
+#每个tag产品的数量   "size":0, 不显示原始结果
+GET /product/_search
+{
+  "aggs": {
+    "tag_agg_group": {
+      "terms": {
+        "field": "tags"
+      }
+    }
+  },
+  "size":0
+}
+GET /product/_mapping
+#将文本field的fielddata属性设置为true
+PUT /product/_mapping
+{
+  "properties": {
+    "tags": {
+      "type": "text",
+      "fielddata": true
+    }
+  }
+}

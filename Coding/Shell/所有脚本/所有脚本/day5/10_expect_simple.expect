@@ -1,0 +1,10 @@
+#!/usr/bin/expect
+# expect 使用
+
+# 设定一个环境变量
+set name zhangsan
+
+# 打印一个内容
+puts $name
+
+puts "hello world"

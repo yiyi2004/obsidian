@@ -66,5 +66,6 @@
   "readableLineLength": false,
   "fileSortOrder": "alphabetical",
   "newFileLocation": "current",
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "showUnsupportedFiles": true
 }

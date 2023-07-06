@@ -1,0 +1,26 @@
+#!/usr/bin/expect
+# 功能: 模拟手工ssh登录远程主机
+# 版本: v0.1
+# 作者: 书记
+# 联系: superopsmsb.com
+
+# 设定环境变量
+set login_user python
+set login_host 10.0.0.12
+set login_pass 123456
+
+# 发起子进程
+spawn ssh $login_user@$login_host
+
+# 获取手工干预关键字
+expect "yes/no"
+
+# 发送相关命令
+send "yes\r"
+# 其他的抓取和发送
+send "\r"
+expect ".*password.*"
+send "$login_pass\r"
+
+# 退出自动交互
+interact

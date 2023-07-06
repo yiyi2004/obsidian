@@ -1,12 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
+      "basename": "算法-第4版",
+      "path": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
+    },
+    {
+      "basename": "解压密码",
+      "path": "Coding/Go/Book/算法-第4版/解压密码.png"
+    },
+    {
+      "basename": "大话数据结构",
+      "path": "Coding/Go/Book/大话数据结构/大话数据结构.pdf"
+    },
+    {
+      "basename": "程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513",
+      "path": "Coding/Go/Book/程序员代码面试指南/程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513.pdf"
+    },
+    {
+      "basename": "编程之美",
+      "path": "Coding/Go/Book/编程之美/编程之美.pdf"
+    },
+    {
+      "basename": "如何学习数据结构与算法",
+      "path": "Algorithm/如何学习数据结构与算法.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "README",
+      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md"
+    },
+    {
+      "basename": "代码",
+      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/代码.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md"
+    },
+    {
+      "basename": "26-Docker安装nginx以及部署",
+      "path": "Cloud Native/DevOps/26-Docker安装nginx以及部署.pdf"
+    },
+    {
+      "basename": "容器化部署 java 项目",
+      "path": "Cloud Native/DevOps/容器化部署 java 项目.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "elasticsearch",
+      "path": "Cloud Native/ELK/elasticsearch.md"
     },
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
     },
     {
       "basename": "MySQL-基础篇",
@@ -35,10 +91,6 @@
     {
       "basename": "TODO",
       "path": "Tasks/TODO.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "MySQL",
@@ -147,58 +199,6 @@
     {
       "basename": "写作素材",
       "path": "Write/Material for Writing/写作素材/写作素材.md"
-    },
-    {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "Running",
-      "path": "Challenge/Habit Challenge/Running.md"
-    },
-    {
-      "basename": "English Practice",
-      "path": "Challenge/Habit Challenge/English Practice.md"
-    },
-    {
-      "basename": "费曼学习法",
-      "path": "Challenge/Habit Challenge/费曼学习法.md"
-    },
-    {
-      "basename": "队列",
-      "path": "Algorithm/算法体系学习/栈和队列/队列.md"
-    },
-    {
-      "basename": "堆",
-      "path": "Algorithm/算法体系学习/堆.md"
-    },
-    {
-      "basename": "链表问题",
-      "path": "Algorithm/算法体系学习/链表/链表问题.md"
-    },
-    {
-      "basename": "两个有序链表合并",
-      "path": "Algorithm/算法体系学习/链表/两个有序链表合并.md"
-    },
-    {
-      "basename": "二分法",
-      "path": "Algorithm/算法体系学习/二叉树/二分法.md"
-    },
-    {
-      "basename": "栈",
-      "path": "Algorithm/算法体系学习/栈和队列/栈.md"
-    },
-    {
-      "basename": "亦或操作",
-      "path": "Algorithm/算法体系学习/位运算/亦或操作.md"
-    },
-    {
-      "basename": "位图",
-      "path": "Algorithm/算法体系学习/位运算/位图.md"
-    },
-    {
-      "basename": "对数器",
-      "path": "Algorithm/算法体系学习/对数器.md"
     }
   ],
   "omittedPaths": [],

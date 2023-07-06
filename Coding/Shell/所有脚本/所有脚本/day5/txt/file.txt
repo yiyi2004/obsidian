@@ -1,0 +1,5 @@
+ac
+abbcd
+abbbce
+abbbbbc
+abcf

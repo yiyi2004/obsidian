@@ -1,0 +1,26 @@
+#!/usr/bin/expect
+# expect 脚本变量的使用
+
+# argc
+puts "脚本的参数总数量:  $argc"
+
+# argv
+puts "脚本的参数内容列表:  $argv"
+
+# argv0
+puts "脚本的文件名:  $argv0"
+
+# env
+puts "脚本获取系统变量信息:  $env(SHELL)"
+
+
+# tcl_version
+puts "脚本的参数总数量:  $tcl_version"
+
+# 设定一个环境变量
+set name zhangsan
+
+# 打印一个内容
+puts $name
+
+puts "hello world"

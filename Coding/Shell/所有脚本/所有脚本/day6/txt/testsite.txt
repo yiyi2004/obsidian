@@ -1,0 +1,5 @@
+http://www.baidu.com
+www.126.com
+163.com
+http.example.comcom
+ssh://www.baidu.com

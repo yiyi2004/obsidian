@@ -23,21 +23,16 @@
             }
           },
           {
-            "id": "8934637a68d955b4",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
-              }
-            }
-          },
-          {
             "id": "fec7fc113f6520a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/GUI/fyne/official document.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -85,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
+                "file": "Coding/Go/GUI/fyne/official document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
+                "file": "Coding/Go/GUI/fyne/official document.md"
               }
             }
           },
@@ -169,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
+                "file": "Coding/Go/GUI/fyne/official document.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
+                "file": "Coding/Go/GUI/fyne/official document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,20 +231,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8934637a68d955b4",
+  "active": "fec7fc113f6520a9",
   "lastOpenFiles": [
+    "Interesting/Fitness/健身.md",
+    "Interesting/Fitness/上肢训练.md",
+    "Coding/Go/GUI/fyne/official document.md",
+    "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707082835.png",
+    "Day3/Day3.md",
+    "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
+    "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707080216.png",
+    "Coding/Go/GUI/fyne/Snipaste",
+    "Coding/Go/GUI/GUI fyne in Go.md",
+    "Coding/Go/GUI/ocu.md",
     "Coding/Go/Book/算法-第4版/解压密码.png",
     "Coding/Go/Book/大话数据结构/大话数据结构.pdf",
     "Coding/Go/Book/程序员代码面试指南/程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513.pdf",
     "Coding/Go/Book/编程之美/编程之美.pdf",
     "Algorithm/如何学习数据结构与算法.md",
     "Coding/Go/Book/字节常见算法题/字节常见算法题.txt",
-    "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
     "Coding/Go/Book/算法导论_原书第3版_CHS/算法导论_原书第3版_CHS.pdf",
     "Coding/Go/Book/刷题笔记和面经/字节常见算法题.txt",
     "Coding/Go/Book/刷题笔记和面经/cookbook-LeetCode.pdf",
     "Coding/Go/Book/刷题笔记和面经/LeetCode 101 - A LeetCode Grinding Guide (C++ Version).pdf",
-    "Coding/Go/Book/刷题笔记和面经/Java面经.pdf",
     "Coding/Go/Book/刷题笔记和面经/解压密码.png",
     "Coding/Go/Book/数据结构与算法分析—C语言描述/解压密码.png",
     "Coding/Go/Book/剑指offer/解压密码.png",
@@ -257,10 +260,8 @@
     "Coding/Go/Book/字节常见算法题/解压密码.png",
     "Coding/Go/Book/大话数据结构/解压密码.png",
     "Coding/Go/Book/程序员代码面试指南/解压密码.png",
-    "Coding/Go/Book/编程之美/解压密码.png",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
     "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.assets/1653992462005.png",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
@@ -278,11 +279,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/资料/Redis安装说明.md",
-    "Coding/Python/爬虫/爬虫笔记/第一模块/极其重要.md",
-    "Coding/Python/爬虫/爬虫笔记/第五模块VIP爬虫课件(1)/13_直播第十三天-splash/课件/13_Scrapy_Splash的使用.md",
-    "Coding/Python/爬虫/爬虫笔记/第五模块VIP爬虫课件(1)/14_直播第十四天-scrapy案例/课件/14_Scrapy_实战案例.md",
-    "Coding/Python/爬虫/爬虫笔记/第五模块VIP爬虫课件(1)/12_直播第十二天-分布式爬虫/课件/12_Scarpy_分布式爬虫.md",
-    "Coding/Python/爬虫/爬虫笔记/第五模块VIP爬虫课件(1)/11_直播第十一天-CrawlSpider和redis/课件/11_Scrapy_全站数据抓取.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

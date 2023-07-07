@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "official document",
+      "path": "Coding/Go/GUI/fyne/official document.md"
+    },
+    {
+      "basename": "健身",
+      "path": "Interesting/Fitness/健身.md"
+    },
+    {
+      "basename": "上肢训练",
+      "path": "Interesting/Fitness/上肢训练.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "算法-第4版",
       "path": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
+    },
+    {
+      "basename": "GUI fyne in Go",
+      "path": "Coding/Go/GUI/GUI fyne in Go.md"
     },
     {
       "basename": "解压密码",
@@ -47,10 +67,6 @@
     {
       "basename": "容器化部署 java 项目",
       "path": "Cloud Native/DevOps/容器化部署 java 项目.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "elasticsearch",
@@ -99,10 +115,6 @@
     {
       "basename": "CGO 概括",
       "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
-    },
-    {
-      "basename": "GUI fyne in Go",
-      "path": "Coding/Go/GUI/GUI fyne in Go.md"
     },
     {
       "basename": "Algorithm —— 每天至少 2 个小时",
@@ -187,18 +199,6 @@
     {
       "basename": "testing",
       "path": "Coding/Go/标准库的使用/testing.md"
-    },
-    {
-      "basename": "Go 项目结构",
-      "path": "Basic/Go 项目结构.md"
-    },
-    {
-      "basename": "Windows, Linux 链接器加载动态库的搜索路径顺序",
-      "path": "Basic/操作系统/Windows, Linux 链接器加载动态库的搜索路径顺序.md"
-    },
-    {
-      "basename": "写作素材",
-      "path": "Write/Material for Writing/写作素材/写作素材.md"
     }
   ],
   "omittedPaths": [],

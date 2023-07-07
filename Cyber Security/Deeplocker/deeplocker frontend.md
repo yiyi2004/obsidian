@@ -73,4 +73,6 @@ Light and Dark
 3. 开发 GUI APP
 4. 最后打包 APP 的程序还没有找到呢。
 
+框架打好了，明天要做的就是填写内容了。
+
 ## Reference

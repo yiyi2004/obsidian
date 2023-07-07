@@ -55,6 +55,8 @@
 
 Light and Dark
 
+增加 config 功能 ---> 在 setting 里面 | 持久化一定要存储在数据库里面 sql.db。0 感知的数据库，
+
 ### 技术
 
 1. fyne

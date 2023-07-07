@@ -39,12 +39,9 @@
             "id": "afe0c033618cda4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Basic/计算机网络/前言.pdf"
               }
             }
           }
@@ -93,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Basic/计算机网络/前言.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +140,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5110321044922,
-    "collapsed": true
+    "width": 289.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -160,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md"
+                "file": "Basic/计算机网络/前言.pdf"
               }
             }
           },
@@ -178,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Basic/计算机网络/前言.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Basic/计算机网络/前言.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,8 +217,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5,
-    "collapsed": true
+    "width": 335.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,6 +243,8 @@
   },
   "active": "afe0c033618cda4c",
   "lastOpenFiles": [
+    "Basic/计算机网络/网络拓扑.md",
+    "Tasks/需要整理的知识结构.md",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc/3a375417f2d24ca7800e92c5928b80fc.pdf",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc",
     "Tasks/APT Report.md",
@@ -283,7 +280,6 @@
     "Coding/Go/Book/编程之美/编程之美.pdf",
     "Algorithm/如何学习数据结构与算法.md",
     "Coding/Go/Book/字节常见算法题/字节常见算法题.txt",
-    "Coding/Go/Book/算法导论_原书第3版_CHS/算法导论_原书第3版_CHS.pdf",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
     "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
@@ -293,7 +289,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

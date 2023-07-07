@@ -453,8 +453,6 @@ func main() {
 
 #### Grid
 
-- now, you are going to learn how to practice you fyne skills, following the tutorial video.
-
 #### Grid Wrap
 
 #### Border
@@ -469,17 +467,89 @@ func main() {
 
 ### Containers and Layouts
 
+#### Box
+
+#### Grid
+
+#### Grid Wrap
+
+#### Border
+
+#### Form
+
+#### Center
+
+#### Max
+
+#### AppTabs
+
 ### Widgets
+
+#### Label
+
+#### Button
+
+#### Entry
+
+#### Choices
+
+#### Form
+
+#### ProgressBar
+
+#### ToolBar
 
 ### Collections
 
+#### List
+
+#### Table
+
+#### Tree
+
 ### Data Binding
+
+#### Introduction
+
+#### Binding Simple Widgets
+
+#### Two-Way Binding
+
+#### Data Conversion
+
+#### List Data
 
 ### Extending Fyne
 
+#### Building a Layout
+
+#### Write a Custom Widget
+
+#### Bunding Resources
+
+#### Add a Custom Theme
+
+#### Extending Widgets
+
+#### Numerical Entry
+
 ### Architecture
 
+#### Geometry
+
+#### Scaling
+
+#### Widgets
+
+#### Organisation and Packages
+
 ### FAQ
+
+#### Layout and Widget Size
+
+#### Customisation
+
+#### Troubleshooting
 
 ### API Document
 

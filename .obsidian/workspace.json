@@ -34,8 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afe0c033618cda4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks/需要整理的知识结构.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -79,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5110321044922
+    "width": 289.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -145,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Tasks/需要整理的知识结构.md"
               }
             }
           },
@@ -163,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +203,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 335.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,10 +246,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "afe0c033618cda4c",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc/3a375417f2d24ca7800e92c5928b80fc.pdf",
+    "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc",
+    "Tasks/APT Report.md",
+    "Tasks/Blog.md",
+    "Tasks/Coding.md",
+    "Tasks/Review.md",
+    "Tasks/Tasks index.md",
+    "Tasks/TODO.md",
+    "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
+    "Coding/Go/Database/MySQL/MySQL.md",
     "Day3/Day3.md",
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161854.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161842.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161831.png",
@@ -258,8 +284,6 @@
     "Algorithm/如何学习数据结构与算法.md",
     "Coding/Go/Book/字节常见算法题/字节常见算法题.txt",
     "Coding/Go/Book/算法导论_原书第3版_CHS/算法导论_原书第3版_CHS.pdf",
-    "Coding/Go/Book/刷题笔记和面经/字节常见算法题.txt",
-    "Coding/Go/Book/刷题笔记和面经/cookbook-LeetCode.pdf",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
     "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
@@ -270,14 +294,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/案例导入说明.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/安装OpenResty.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/安装Canal.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

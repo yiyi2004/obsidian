@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "APT Report",
+      "path": "Tasks/APT Report.md"
+    },
+    {
+      "basename": "Blog",
+      "path": "Tasks/Blog.md"
+    },
+    {
+      "basename": "Coding",
+      "path": "Tasks/Coding.md"
+    },
+    {
+      "basename": "Review",
+      "path": "Tasks/Review.md"
+    },
+    {
+      "basename": "Tasks index",
+      "path": "Tasks/Tasks index.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Tasks/TODO.md"
+    },
+    {
+      "basename": "MySQL-基础篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -77,10 +113,6 @@
       "path": "Cloud Native/ELK/elasticsearch.md"
     },
     {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
       "basename": "Resume",
       "path": "Resume/Resume.md"
     },
@@ -99,18 +131,6 @@
     {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "APT Report",
-      "path": "Tasks/APT Report.md"
-    },
-    {
-      "basename": "Blog",
-      "path": "Tasks/Blog.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "Tasks/TODO.md"
     },
     {
       "basename": "MySQL",
@@ -179,26 +199,6 @@
     {
       "basename": "http",
       "path": "Coding/Go/标准库的使用/http.md"
-    },
-    {
-      "basename": "pprof",
-      "path": "Coding/Go/go tools/pprof.md"
-    },
-    {
-      "basename": "Golang 泛型编程基础",
-      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
-    },
-    {
-      "basename": "go-bindata",
-      "path": "Coding/Go/Third-party library/bindata/go-bindata.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "Summary",
-      "path": "Challenge/Habit Challenge/Summary.md"
     }
   ],
   "omittedPaths": [],

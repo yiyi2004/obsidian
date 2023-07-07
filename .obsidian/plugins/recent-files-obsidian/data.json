@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker frontend",
+      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "official document",
       "path": "Coding/Go/GUI/fyne/official document.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "上肢训练",
       "path": "Interesting/Fitness/上肢训练.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "算法-第4版",
@@ -195,10 +199,6 @@
     {
       "basename": "Summary",
       "path": "Challenge/Habit Challenge/Summary.md"
-    },
-    {
-      "basename": "testing",
-      "path": "Coding/Go/标准库的使用/testing.md"
     }
   ],
   "omittedPaths": [],

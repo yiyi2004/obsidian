@@ -57,8 +57,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "19b6ba6faaa6cf64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/标准库的使用/json.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/标准库的使用/json.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/Go/标准库的使用/json.md"
               }
             }
           },
@@ -186,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/标准库的使用/json.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +225,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/标准库的使用/json.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -253,13 +267,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "19b6ba6faaa6cf64",
   "lastOpenFiles": [
+    "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Eassay/随想.md",
     "Write/Material for Writing/写作素材/写作素材.md",
     "Basic/计算机网络/前言.pdf",
-    "Day3/Day3.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
     "Basic/计算机网络/网络拓扑.md",
     "Tasks/需要整理的知识结构.md",

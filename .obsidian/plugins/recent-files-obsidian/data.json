@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "json",
+      "path": "Coding/Go/标准库的使用/json.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Go 语言基础",
       "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "Go Pro",
-      "path": "Challenge/Habit Challenge/Go Pro.md"
     }
   ],
   "omittedPaths": [],

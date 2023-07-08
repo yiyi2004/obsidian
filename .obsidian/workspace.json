@@ -51,15 +51,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Material for Writing/写作素材/写作素材.md",
+                "file": "Eassay/随想.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Material for Writing/写作素材/写作素材.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/Material for Writing/写作素材/写作素材.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -187,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Material for Writing/写作素材/写作素材.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/Material for Writing/写作素材/写作素材.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,12 +253,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9c5aa3c0d1d2d705",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Write/Material for Writing/生活趣事/段子素材.md",
-    "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Eassay/随想.md",
+    "Write/Material for Writing/写作素材/写作素材.md",
     "Basic/计算机网络/前言.pdf",
+    "Day3/Day3.md",
+    "Write/Material for Writing/生活趣事/段子素材.md",
     "Basic/计算机网络/网络拓扑.md",
     "Tasks/需要整理的知识结构.md",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc/3a375417f2d24ca7800e92c5928b80fc.pdf",
@@ -300,8 +301,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

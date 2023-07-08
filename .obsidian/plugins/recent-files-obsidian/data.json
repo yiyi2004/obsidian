@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "写作素材",
+      "path": "Write/Material for Writing/写作素材/写作素材.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "deeplocker frontend",
+      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
       "basename": "前言",
       "path": "Basic/计算机网络/前言.pdf"
     },
@@ -43,14 +59,6 @@
     {
       "basename": "MySQL",
       "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "deeplocker frontend",
-      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
     },
     {
       "basename": "official document",
@@ -191,14 +199,6 @@
     {
       "basename": "快速入门",
       "path": "Coding/Go/Go Pro/CGO/快速入门.md"
-    },
-    {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
-    },
-    {
-      "basename": "程序的链接",
-      "path": "Coding/C&CPP/基础知识(黑马)/程序的链接.md"
     }
   ],
   "omittedPaths": [],

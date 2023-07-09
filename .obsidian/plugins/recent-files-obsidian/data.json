@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
       "basename": "冒泡排序",
       "path": "Algorithm/算法体系学习/排序算法/冒泡排序.md"
     },
     {
       "basename": "归并排序",
       "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
-    },
-    {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
     },
     {
       "basename": "SQLite 基础知识",

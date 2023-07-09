@@ -47,9 +47,61 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "abed42f229e8897a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Third-party library/bindata/go-bindata.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88fc083407c37a3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7823c436f1f3123d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/随想.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db9ea542fa1bddf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/deeplocker frontend.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -93,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Cyber Security/Deeplocker/deeplocker frontend.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md"
+                "file": "Cyber Security/Deeplocker/deeplocker frontend.md"
               }
             }
           },
@@ -177,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Cyber Security/Deeplocker/deeplocker frontend.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Cyber Security/Deeplocker/deeplocker frontend.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,18 +296,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "efbcc8c29f125cc4",
+  "active": "db9ea542fa1bddf5",
   "lastOpenFiles": [
-    "Resume/Resume.md",
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
-    "Coding/Go/标准库的使用/json.md",
     "Eassay/随想.md",
-    "Basic/计算机网络/前言.pdf",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
+    "Coding/Go/Third-party library/bindata/go-bindata.md",
+    "Tasks/需要整理的知识结构.md",
     "Day3/Day3.md",
+    "Coding/Python/Basic/Python Hash Table.md",
+    "Coding/Go/Third-party library/未命名",
+    "Coding/Python/爬虫/Python.md",
+    "Resume/Resume.md",
+    "Coding/Go/标准库的使用/json.md",
+    "Basic/计算机网络/前言.pdf",
     "Write/Material for Writing/写作素材/写作素材.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
     "Basic/计算机网络/网络拓扑.md",
-    "Tasks/需要整理的知识结构.md",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc/3a375417f2d24ca7800e92c5928b80fc.pdf",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc",
     "Tasks/APT Report.md",
@@ -286,12 +344,6 @@
     "Coding/Go/Book/算法-第4版/解压密码.png",
     "Coding/Go/Book/大话数据结构/大话数据结构.pdf",
     "Coding/Go/Book/程序员代码面试指南/程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513.pdf",
-    "Coding/Go/Book/编程之美/编程之美.pdf",
-    "Algorithm/如何学习数据结构与算法.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
-    "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

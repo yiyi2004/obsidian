@@ -1,32 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
-    },
-    {
       "basename": "deeplocker frontend",
       "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
-    },
-    {
-      "basename": "json",
-      "path": "Coding/Go/标准库的使用/json.md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
     {
-      "basename": "前言",
-      "path": "Basic/计算机网络/前言.pdf"
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Deeplocker 攻击流程",
+      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+    },
+    {
+      "basename": "go-bindata",
+      "path": "Coding/Go/Third-party library/bindata/go-bindata.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Python Hash Table",
+      "path": "Coding/Python/Basic/Python Hash Table.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Coding/Python/爬虫/Python.md"
+    },
+    {
+      "basename": "Resume",
+      "path": "Resume/Resume.md"
+    },
+    {
+      "basename": "json",
+      "path": "Coding/Go/标准库的使用/json.md"
+    },
+    {
+      "basename": "前言",
+      "path": "Basic/计算机网络/前言.pdf"
     },
     {
       "basename": "写作素材",
@@ -179,26 +199,6 @@
     {
       "basename": "每天阅读并反馈自己的原则",
       "path": "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md"
-    },
-    {
-      "basename": "Go 基础（这可不基础）",
-      "path": "Coding/Go/Go Pro/Go 基础重新理解/Go 基础（这可不基础）.md"
-    },
-    {
-      "basename": "CGO 简易教程",
-      "path": "Coding/Go/Go Pro/CGO/CGO 简易教程.md"
-    },
-    {
-      "basename": "基础知识",
-      "path": "Coding/Go/基础知识/基础知识.md"
-    },
-    {
-      "basename": "复数",
-      "path": "Coding/Go/基础知识/复数.md"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
     }
   ],
   "omittedPaths": [],

@@ -597,7 +597,10 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 
 ### 第一天 (0709)
 
-- [ ] Python API 的开发
+- [ ] 总结我身体上存在的各种各样的问题，有时间去医院进行一个全面的检查
+- [ ] Deeplocker
+	- [ ] Upload Payloads
+	- [ ] Config and Train Model
 
 ### 第二天
 

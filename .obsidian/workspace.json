@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+                "file": "Algorithm/算法体系学习/排序算法/冒泡排序.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+                "file": "Algorithm/算法体系学习/排序算法/冒泡排序.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
+                "file": "Algorithm/算法体系学习/排序算法/冒泡排序.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+                "file": "Algorithm/算法体系学习/排序算法/冒泡排序.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+                "file": "Algorithm/算法体系学习/排序算法/冒泡排序.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,8 +298,11 @@
   },
   "active": "7823c436f1f3123d",
   "lastOpenFiles": [
-    "Coding/Go/Database/数据库综述(MySQL).md",
+    "Algorithm/算法体系学习/排序算法/归并排序.md",
+    "Algorithm/算法体系学习/排序算法/冒泡排序.md",
+    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+    "Coding/Go/Database/数据库综述(MySQL).md",
     "Eassay/sqlite.md",
     "Coding/Go/Database/SQLite",
     "Eassay/随想.md",
@@ -327,7 +330,6 @@
     "Tasks/Tasks index.md",
     "Tasks/TODO.md",
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
-    "Coding/Go/Database/MySQL/MySQL.md",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161854.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161842.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161831.png",
@@ -336,8 +338,6 @@
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161652.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161642.png",
     "Cyber Security/Deeplocker/Snipaste",
-    "Coding/Go/GUI/fyne/official document.md",
-    "Interesting/Fitness/健身.md",
     "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707082835.png",
     "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
     "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707080216.png",

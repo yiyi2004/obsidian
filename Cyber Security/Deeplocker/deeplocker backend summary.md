@@ -80,6 +80,7 @@ It's a a summary of deeplocker
 
 不要模糊的表达，精准而优雅。
 
+- 还需要安装 sqlite 到 windows 上，但实际上根本就不需要，内置的数据库。  
 数据库表的字段
 
 - **密钥表**

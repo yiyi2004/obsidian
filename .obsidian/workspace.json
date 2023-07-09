@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
               }
             }
           },
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -296,11 +296,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "88fc083407c37a3c",
+  "active": "7823c436f1f3123d",
   "lastOpenFiles": [
+    "Coding/Go/Database/数据库综述(MySQL).md",
+    "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+    "Eassay/sqlite.md",
+    "Coding/Go/Database/SQLite",
     "Eassay/随想.md",
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
     "Coding/Go/Third-party library/bindata/go-bindata.md",
     "Tasks/需要整理的知识结构.md",
@@ -334,16 +338,12 @@
     "Cyber Security/Deeplocker/Snipaste",
     "Coding/Go/GUI/fyne/official document.md",
     "Interesting/Fitness/健身.md",
-    "Interesting/Fitness/上肢训练.md",
     "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707082835.png",
     "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
     "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707080216.png",
     "Coding/Go/GUI/fyne/Snipaste",
-    "Coding/Go/GUI/GUI fyne in Go.md",
-    "Coding/Go/GUI/ocu.md",
     "Coding/Go/Book/算法-第4版/解压密码.png",
     "Coding/Go/Book/大话数据结构/大话数据结构.pdf",
-    "Coding/Go/Book/程序员代码面试指南/程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

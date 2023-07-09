@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "SQLite 基础知识",
+      "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
+    },
+    {
+      "basename": "数据库综述(MySQL)",
+      "path": "Coding/Go/Database/数据库综述(MySQL).md"
+    },
+    {
+      "basename": "sqlite",
+      "path": "Eassay/sqlite.md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "deeplocker frontend",
@@ -187,18 +199,6 @@
     {
       "basename": "Algorithm —— 每天至少 2 个小时",
       "path": "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md"
-    },
-    {
-      "basename": "如何快速的了解一个行业的发展状况",
-      "path": "Cocinfo/行业报告/如何快速的了解一个行业的发展状况.md"
-    },
-    {
-      "basename": "Reading or Writing",
-      "path": "Challenge/Habit Challenge/Reading or Writing.md"
-    },
-    {
-      "basename": "每天阅读并反馈自己的原则",
-      "path": "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md"
     }
   ],
   "omittedPaths": [],

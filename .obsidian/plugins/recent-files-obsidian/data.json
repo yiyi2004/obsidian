@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "deeplocker frontend",
+      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
       "basename": "二叉树基础",
       "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "冒泡排序",
@@ -29,14 +45,6 @@
       "path": "Eassay/随想.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "deeplocker frontend",
-      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
-    },
-    {
       "basename": "Deeplocker 攻击流程",
       "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Python Hash Table",
@@ -75,10 +79,6 @@
     {
       "basename": "写作素材",
       "path": "Write/Material for Writing/写作素材/写作素材.md"
-    },
-    {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
     },
     {
       "basename": "网络拓扑",

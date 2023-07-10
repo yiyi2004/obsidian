@@ -1,7 +1,7 @@
 - [[Github 访问缓慢问题.md|Github 访问缓慢问题]]
 - [[index.md|index]]
 - [[命令行代理.md|命令行代理]]
-- [[学习陷阱.md|学习陷阱]]
+- [[../Be Yourself/学习陷阱|学习陷阱]]
 - [[正则表达式.md|正则表达式]]
 - [[Anaconda/Conda 基本命令.md|Conda 基本命令]]
 - [[VIM/vim 指令.md|vim 指令]]

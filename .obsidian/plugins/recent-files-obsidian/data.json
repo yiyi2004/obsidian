@@ -5,16 +5,120 @@
       "path": "Tasks/需要整理的知识结构.md"
     },
     {
-      "basename": "Solaris",
-      "path": "Basic/操作系统/Solaris.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
     {
       "basename": "deeplocker frontend",
       "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
+      "basename": "OpenHarmony",
+      "path": "Eassay/讲座/OpenHarmony.md"
+    },
+    {
+      "basename": "Be Yourself index",
+      "path": "Be Yourself/Be Yourself index.md"
+    },
+    {
+      "basename": "财富自由",
+      "path": "Be Yourself/财富自由.md"
+    },
+    {
+      "basename": "学习陷阱",
+      "path": "Be Yourself/学习陷阱.md"
+    },
+    {
+      "basename": "企划书",
+      "path": "Eassay/企划书/企划书.md"
+    },
+    {
+      "basename": "研究生安全竞赛",
+      "path": "Eassay/讲座/研究生安全竞赛.md"
+    },
+    {
+      "basename": "绿盟科技北京邮电大学技术沙龙",
+      "path": "Eassay/讲座/绿盟科技北京邮电大学技术沙龙.md"
+    },
+    {
+      "basename": "Eassay index",
+      "path": "Eassay/Eassay index.md"
+    },
+    {
+      "basename": "智能路障 你是一个不受欢迎的人嘛？",
+      "path": "Eassay/智能路障 你是一个不受欢迎的人嘛？.md"
+    },
+    {
+      "basename": "珍大户 未来 10 年的工作",
+      "path": "Eassay/珍大户 未来 10 年的工作.md"
+    },
+    {
+      "basename": "语句摘录",
+      "path": "Eassay/语句摘录.md"
+    },
+    {
+      "basename": "攸佳宁教授 调节情绪",
+      "path": "Eassay/攸佳宁教授 调节情绪.md"
+    },
+    {
+      "basename": "杨真直自律",
+      "path": "Eassay/杨真直自律.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "随便写点什么",
+      "path": "Eassay/随便写点什么.md"
+    },
+    {
+      "basename": "该如何学习呢",
+      "path": "Eassay/该如何学习呢.md"
+    },
+    {
+      "basename": "笔记本升级攻略",
+      "path": "Eassay/笔记本升级攻略.md"
+    },
+    {
+      "basename": "关于世界先进国家教育制度与课程设计的总结与思考",
+      "path": "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md"
+    },
+    {
+      "basename": "Telnet 协议",
+      "path": "Basic/计算机网络/Telnet 协议.md"
+    },
+    {
+      "basename": "QoS",
+      "path": "Basic/计算机网络/QoS.md"
+    },
+    {
+      "basename": "01.第一章计算机系统概述",
+      "path": "Basic/计算机组成原理/01.第一章计算机系统概述.pdf"
+    },
+    {
+      "basename": "03.第三章存储系统",
+      "path": "Basic/计算机组成原理/03.第三章存储系统.pdf"
+    },
+    {
+      "basename": "04.第四章 指令系统.xmind",
+      "path": "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg"
+    },
+    {
+      "basename": "03.第三章 存储系统.xmind",
+      "path": "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg"
+    },
+    {
+      "basename": "02.第二章 数据的表示和运算.xmind",
+      "path": "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg"
+    },
+    {
+      "basename": "01.第一章 计算机系统概述.xmind",
+      "path": "Basic/计算机组成原理/01.第一章 计算机系统概述.xmind.svg"
+    },
+    {
+      "basename": "Solaris",
+      "path": "Basic/操作系统/Solaris.md"
     },
     {
       "basename": "deeplocker backend summary",
@@ -85,10 +189,6 @@
       "path": "Coding/Go/Database/数据库综述(MySQL).md"
     },
     {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
       "basename": "Deeplocker 攻击流程",
       "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
     },
@@ -99,106 +199,6 @@
     {
       "basename": "Python Hash Table",
       "path": "Coding/Python/Basic/Python Hash Table.md"
-    },
-    {
-      "basename": "Python",
-      "path": "Coding/Python/爬虫/Python.md"
-    },
-    {
-      "basename": "Resume",
-      "path": "Resume/Resume.md"
-    },
-    {
-      "basename": "json",
-      "path": "Coding/Go/标准库的使用/json.md"
-    },
-    {
-      "basename": "前言",
-      "path": "Basic/计算机网络/前言.pdf"
-    },
-    {
-      "basename": "写作素材",
-      "path": "Write/Material for Writing/写作素材/写作素材.md"
-    },
-    {
-      "basename": "网络拓扑",
-      "path": "Basic/计算机网络/网络拓扑.md"
-    },
-    {
-      "basename": "APT Report",
-      "path": "Tasks/APT Report.md"
-    },
-    {
-      "basename": "Blog",
-      "path": "Tasks/Blog.md"
-    },
-    {
-      "basename": "Coding",
-      "path": "Tasks/Coding.md"
-    },
-    {
-      "basename": "Review",
-      "path": "Tasks/Review.md"
-    },
-    {
-      "basename": "Tasks index",
-      "path": "Tasks/Tasks index.md"
-    },
-    {
-      "basename": "TODO",
-      "path": "Tasks/TODO.md"
-    },
-    {
-      "basename": "MySQL-基础篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
-    },
-    {
-      "basename": "official document",
-      "path": "Coding/Go/GUI/fyne/official document.md"
-    },
-    {
-      "basename": "健身",
-      "path": "Interesting/Fitness/健身.md"
-    },
-    {
-      "basename": "上肢训练",
-      "path": "Interesting/Fitness/上肢训练.md"
-    },
-    {
-      "basename": "算法-第4版",
-      "path": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
-    },
-    {
-      "basename": "GUI fyne in Go",
-      "path": "Coding/Go/GUI/GUI fyne in Go.md"
-    },
-    {
-      "basename": "解压密码",
-      "path": "Coding/Go/Book/算法-第4版/解压密码.png"
-    },
-    {
-      "basename": "大话数据结构",
-      "path": "Coding/Go/Book/大话数据结构/大话数据结构.pdf"
-    },
-    {
-      "basename": "程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513",
-      "path": "Coding/Go/Book/程序员代码面试指南/程序员代码面试指南 IT名企算法与数据结构题目最优解 ,左程云著 ,P513.pdf"
-    },
-    {
-      "basename": "编程之美",
-      "path": "Coding/Go/Book/编程之美/编程之美.pdf"
-    },
-    {
-      "basename": "如何学习数据结构与算法",
-      "path": "Algorithm/如何学习数据结构与算法.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "README",
-      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md"
     }
   ],
   "omittedPaths": [],

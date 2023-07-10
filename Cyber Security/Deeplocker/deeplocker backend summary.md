@@ -117,7 +117,6 @@ It's a a summary of deeplocker
 
 - Name 名称 | 应该是带有扩展名的
 - Data []byte 存储载荷二进制信息 | 加密的过程在后面
-- 
 
 还有一部分是**激活程序的配置部分
 
@@ -125,7 +124,15 @@ It's a a summary of deeplocker
 
 所以反应到前端，**选择一个模型** ---> **选择多个目标**，之后进行打包。—— 模型配置部分
 
-- [ ] 学习一门新技术对于我来说是非常快的。
+- [x] 学习一门新技术对于我来说是非常快的。 ✅ 2023-07-10
+
+- info 模块包含几个内容
+	- irm info
+	- vrm info
+	- payload info
+	- target info
+
+bind delete function on button
 
 #### 1️⃣模板开发
 

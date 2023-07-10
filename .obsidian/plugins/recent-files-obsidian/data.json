@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -19,6 +11,50 @@
     {
       "basename": "deeplocker frontend",
       "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
+      "basename": "SQLite 基础知识",
+      "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
+    },
+    {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
+      "basename": "MySQL 配置文件",
+      "path": "Coding/Go/Database/MySQL/MySQL 配置文件/MySQL 配置文件.md"
+    },
+    {
+      "basename": "问题解决",
+      "path": "Coding/Go/Database/MySQL/问题解决.md"
+    },
+    {
+      "basename": "Go 连接 MySQL",
+      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
+    },
+    {
+      "basename": "Docker 安装",
+      "path": "Cloud Native/Docker/Docker 安装.md"
+    },
+    {
+      "basename": "Centos7安装Docker",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md"
+    },
+    {
+      "basename": "Docker Notebook",
+      "path": "Cloud Native/Docker/Docker Notebook.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "二叉树基础",
@@ -33,16 +69,8 @@
       "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
     },
     {
-      "basename": "SQLite 基础知识",
-      "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
-    },
-    {
       "basename": "数据库综述(MySQL)",
       "path": "Coding/Go/Database/数据库综述(MySQL).md"
-    },
-    {
-      "basename": "sqlite",
-      "path": "Eassay/sqlite.md"
     },
     {
       "basename": "随想",
@@ -113,10 +141,6 @@
       "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
     },
     {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
       "basename": "official document",
       "path": "Coding/Go/GUI/fyne/official document.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "26-Docker安装nginx以及部署",
       "path": "Cloud Native/DevOps/26-Docker安装nginx以及部署.pdf"
-    },
-    {
-      "basename": "容器化部署 java 项目",
-      "path": "Cloud Native/DevOps/容器化部署 java 项目.md"
-    },
-    {
-      "basename": "elasticsearch",
-      "path": "Cloud Native/ELK/elasticsearch.md"
-    },
-    {
-      "basename": "MySQL-基础篇",
-      "path": "Cloud Native/Database/MySQL/MySQL-基础篇.pdf"
-    },
-    {
-      "basename": "CGO 基础",
-      "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
-    },
-    {
-      "basename": "信息收集",
-      "path": "Tasks/信息收集.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
     }
   ],
   "omittedPaths": [],

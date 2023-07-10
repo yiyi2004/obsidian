@@ -80,15 +80,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md",
+                "file": "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b5962343870536",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/Docker/Docker 安装 MySQL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8686b72e0474e5a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Database/MySQL/MySQL 配置文件/MySQL 配置文件.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -216,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +266,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Write/Material for Writing/生活趣事/段子素材.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -283,19 +308,30 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cc1345230369970",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Tasks/需要整理的知识结构.md",
-    "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Coding/Go/Database/SQLite/SQLite 基础知识.md",
+    "Cloud Native/Docker/Docker 安装 MySQL.md",
+    "Coding/Go/Database/MySQL/MySQL 配置文件/MySQL 配置文件.md",
+    "Coding/Go/Database/MySQL/问题解决.md",
+    "Coding/Go/Database/MySQL/MySQL 配置文件",
+    "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
+    "Coding/Go/Database/MySQL/问题解决",
+    "Coding/Go/Database/MySQL/MySQL.md",
+    "Day3/Day3.md",
+    "Cloud Native/Docker/Docker 安装.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md",
+    "Cloud Native/Docker/Docker Notebook.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
+    "Eassay/未命名.md",
+    "Eassay/sqlite.md",
+    "Tasks/需要整理的知识结构.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Algorithm/算法体系学习/排序算法/冒泡排序.md",
     "Algorithm/算法体系学习/排序算法/归并排序.md",
-    "Coding/Go/Database/SQLite/SQLite 基础知识.md",
     "Coding/Go/Database/数据库综述(MySQL).md",
-    "Eassay/sqlite.md",
     "Coding/Go/Database/SQLite",
     "Eassay/随想.md",
     "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
@@ -304,18 +340,9 @@
     "Coding/Go/Third-party library/未命名",
     "Coding/Python/爬虫/Python.md",
     "Resume/Resume.md",
-    "Coding/Go/标准库的使用/json.md",
     "Basic/计算机网络/前言.pdf",
-    "Write/Material for Writing/写作素材/写作素材.md",
-    "Basic/计算机网络/网络拓扑.md",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc/3a375417f2d24ca7800e92c5928b80fc.pdf",
     "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc",
-    "Tasks/APT Report.md",
-    "Tasks/Blog.md",
-    "Tasks/Coding.md",
-    "Tasks/Review.md",
-    "Tasks/Tasks index.md",
-    "Tasks/TODO.md",
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161854.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161842.png",
@@ -328,9 +355,7 @@
     "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707082835.png",
     "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
     "Coding/Go/GUI/fyne/Snipaste/Pasted image 20230707080216.png",
-    "Coding/Go/GUI/fyne/Snipaste",
     "Coding/Go/Book/算法-第4版/解压密码.png",
-    "Coding/Go/Book/大话数据结构/大话数据结构.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

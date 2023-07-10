@@ -134,6 +134,8 @@ It's a a summary of deeplocker
 
 bind delete function on button
 
+- **文件名随机生成**
+
 #### 1️⃣模板开发
 
 - [ ] 整理模板

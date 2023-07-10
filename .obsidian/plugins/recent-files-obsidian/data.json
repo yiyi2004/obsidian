@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
@@ -13,12 +9,16 @@
       "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
     },
     {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
       "basename": "SQLite 基础知识",
       "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
     },
     {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "MySQL 配置文件",

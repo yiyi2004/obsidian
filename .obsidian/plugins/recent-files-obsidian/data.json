@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
@@ -9,20 +13,20 @@
       "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
     },
     {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
       "basename": "SQLite 基础知识",
       "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "MySQL 配置文件",
       "path": "Coding/Go/Database/MySQL/MySQL 配置文件/MySQL 配置文件.md"
+    },
+    {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "问题解决",
@@ -51,10 +55,6 @@
     {
       "basename": "段子素材",
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "二叉树基础",

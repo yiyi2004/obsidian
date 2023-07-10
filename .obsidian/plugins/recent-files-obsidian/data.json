@@ -5,12 +5,28 @@
       "path": "Tasks/需要整理的知识结构.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "Solaris",
+      "path": "Basic/操作系统/Solaris.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "deeplocker frontend",
       "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "alsa",
+      "path": "Basic/操作系统/alsa.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Archived/Second Interview/操作系统.md"
     },
     {
       "basename": "SQLite 基础知识",
@@ -23,10 +39,6 @@
     {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "问题解决",
@@ -187,18 +199,6 @@
     {
       "basename": "README",
       "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/elasticsearch-analysis-ik-7.10.0/README.md"
-    },
-    {
-      "basename": "代码",
-      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/代码.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md"
-    },
-    {
-      "basename": "26-Docker安装nginx以及部署",
-      "path": "Cloud Native/DevOps/26-Docker安装nginx以及部署.pdf"
     }
   ],
   "omittedPaths": [],

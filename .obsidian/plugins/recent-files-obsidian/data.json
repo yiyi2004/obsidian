@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Flask Demo",
+      "path": "Coding/Python/Repository/Flask/Flask Demo.md"
+    },
+    {
+      "basename": "Basic Flask",
+      "path": "Coding/Python/Repository/Flask/Basic Flask.md"
+    },
+    {
       "basename": "MySQL-基础篇",
       "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "MySQL",
@@ -39,10 +51,6 @@
     {
       "basename": "MySQL-进阶篇",
       "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "需要整理的知识结构",
@@ -191,14 +199,6 @@
     {
       "basename": "Centos7安装Docker",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md"
-    },
-    {
-      "basename": "Docker Notebook",
-      "path": "Cloud Native/Docker/Docker Notebook.md"
-    },
-    {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
     }
   ],
   "omittedPaths": [],

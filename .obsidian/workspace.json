@@ -52,9 +52,12 @@
             "id": "856ad1c8b9dfce2a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
+                "file": "Coding/Python/Repository/Flask/Flask Demo.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -103,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
+                "file": "Coding/Python/Repository/Flask/Flask Demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
+                "file": "Coding/Python/Repository/Flask/Flask Demo.md"
               }
             }
           },
@@ -187,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
+                "file": "Coding/Python/Repository/Flask/Flask Demo.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
+                "file": "Coding/Python/Repository/Flask/Flask Demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,8 +257,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "856ad1c8b9dfce2a",
   "lastOpenFiles": [
+    "Coding/Python/Repository/Flask/Basic Flask.md",
+    "Coding/Python/Repository/Flask/Flask Demo.md",
+    "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
+    "Day3/Day3.md",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 主从复制.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 日志.md",
@@ -265,8 +272,6 @@
     "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
     "Coding/Go/Database/MySQL/MySQL.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
-    "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
-    "Day3/Day3.md",
     "Tasks/需要整理的知识结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
@@ -283,8 +288,6 @@
     "Eassay/珍大户 未来 10 年的工作.md",
     "Eassay/语句摘录.md",
     "Eassay/攸佳宁教授 调节情绪.md",
-    "Eassay/杨真直自律.md",
-    "Eassay/随想.md",
     "Basic/计算机组成原理/01.第一章计算机系统概述.pdf",
     "Basic/计算机组成原理/03.第三章存储系统.pdf",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",

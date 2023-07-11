@@ -47,8 +47,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "856ad1c8b9dfce2a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
               }
             }
           },
@@ -176,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,11 +254,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
+    "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
+    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 主从复制.md",
+    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 日志.md",
+    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
+    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
+    "Coding/Go/Database/MySQL/问题解决.md",
+    "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
+    "Coding/Go/Database/MySQL/MySQL.md",
+    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
+    "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
+    "Day3/Day3.md",
     "Tasks/需要整理的知识结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Eassay/讲座/OpenHarmony.md",
     "Be Yourself/Be Yourself index.md",
@@ -264,27 +285,17 @@
     "Eassay/攸佳宁教授 调节情绪.md",
     "Eassay/杨真直自律.md",
     "Eassay/随想.md",
-    "Eassay/随便写点什么.md",
-    "Eassay/该如何学习呢.md",
-    "Eassay/笔记本升级攻略.md",
-    "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md",
-    "Basic/计算机网络/Telnet 协议.md",
-    "Basic/计算机网络/QoS.md",
     "Basic/计算机组成原理/01.第一章计算机系统概述.pdf",
     "Basic/计算机组成原理/03.第三章存储系统.pdf",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",
     "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg",
     "Basic/计算机组成原理/01.第一章 计算机系统概述.xmind.svg",
-    "Basic/操作系统/Solaris.md",
-    "Basic/操作系统/alsa.md",
     "Coding/Go/Database/MySQL/MySQL 配置文件",
     "Coding/Go/Database/MySQL/问题解决",
     "Coding/Go/Database/SQLite",
     "Coding/Go/Third-party library/未命名",
     "Basic/计算机网络/前言.pdf",
-    "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc/3a375417f2d24ca7800e92c5928b80fc.pdf",
-    "Coding/Go/Database/MySQL/82bf3117ecf14ae5b301a1c64fb2f3fc",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161854.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161842.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161831.png",

@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL-基础篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
+    },
+    {
+      "basename": "MySQL 主从复制",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 主从复制.md"
+    },
+    {
+      "basename": "MySQL 日志",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 日志.md"
+    },
+    {
+      "basename": "MySQL 分库分表",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md"
+    },
+    {
+      "basename": "MySQL 读写分离",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md"
+    },
+    {
+      "basename": "问题解决",
+      "path": "Coding/Go/Database/MySQL/问题解决.md"
+    },
+    {
+      "basename": "Go 连接 MySQL",
+      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
+    },
+    {
+      "basename": "MySQL-进阶篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -145,18 +185,6 @@
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
     },
     {
-      "basename": "问题解决",
-      "path": "Coding/Go/Database/MySQL/问题解决.md"
-    },
-    {
-      "basename": "Go 连接 MySQL",
-      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
       "basename": "Docker 安装",
       "path": "Cloud Native/Docker/Docker 安装.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "段子素材",
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "二叉树基础",
-      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
-    },
-    {
-      "basename": "冒泡排序",
-      "path": "Algorithm/算法体系学习/排序算法/冒泡排序.md"
-    },
-    {
-      "basename": "归并排序",
-      "path": "Algorithm/算法体系学习/排序算法/归并排序.md"
-    },
-    {
-      "basename": "数据库综述(MySQL)",
-      "path": "Coding/Go/Database/数据库综述(MySQL).md"
-    },
-    {
-      "basename": "Deeplocker 攻击流程",
-      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
-    },
-    {
-      "basename": "go-bindata",
-      "path": "Coding/Go/Third-party library/bindata/go-bindata.md"
-    },
-    {
-      "basename": "Python Hash Table",
-      "path": "Coding/Python/Basic/Python Hash Table.md"
     }
   ],
   "omittedPaths": [],

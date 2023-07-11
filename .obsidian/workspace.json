@@ -48,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,9 +243,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "77aad6d25725557a",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
     "Tasks/需要整理的知识结构.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Day3/Day3.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Eassay/讲座/OpenHarmony.md",
@@ -277,7 +277,6 @@
     "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg",
     "Basic/计算机组成原理/01.第一章 计算机系统概述.xmind.svg",
     "Basic/操作系统/Solaris.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Basic/操作系统/alsa.md",
     "Coding/Go/Database/MySQL/MySQL 配置文件",
     "Coding/Go/Database/MySQL/问题解决",

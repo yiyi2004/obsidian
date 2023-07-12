@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "语句摘录",
+      "path": "Eassay/语句摘录.md"
+    },
+    {
+      "basename": "珍大户未来 10 年的工作",
+      "path": "Eassay/珍大户未来 10 年的工作.md"
+    },
+    {
+      "basename": "智能路障 你是一个不受欢迎的人嘛？",
+      "path": "Eassay/智能路障 你是一个不受欢迎的人嘛？.md"
+    },
+    {
+      "basename": "攸佳宁教授 调节情绪",
+      "path": "Eassay/攸佳宁教授 调节情绪.md"
+    },
+    {
+      "basename": "杨真直自律",
+      "path": "Eassay/杨真直自律.md"
+    },
+    {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "关于世界先进国家教育制度与课程设计的总结与思考",
+      "path": "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md"
+    },
+    {
+      "basename": "该如何学习呢",
+      "path": "Eassay/该如何学习呢.md"
+    },
+    {
+      "basename": "笔记本升级攻略",
+      "path": "Eassay/笔记本升级攻略.md"
+    },
+    {
+      "basename": "人有一個很大的弱點",
+      "path": "Eassay/Youtube/老高/人有一個很大的弱點.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "Flask Demo",
       "path": "Coding/Python/Repository/Flask/Flask Demo.md"
     },
@@ -11,10 +55,6 @@
     {
       "basename": "MySQL-基础篇",
       "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "MySQL",
@@ -97,46 +137,6 @@
       "path": "Eassay/Eassay index.md"
     },
     {
-      "basename": "智能路障 你是一个不受欢迎的人嘛？",
-      "path": "Eassay/智能路障 你是一个不受欢迎的人嘛？.md"
-    },
-    {
-      "basename": "珍大户 未来 10 年的工作",
-      "path": "Eassay/珍大户 未来 10 年的工作.md"
-    },
-    {
-      "basename": "语句摘录",
-      "path": "Eassay/语句摘录.md"
-    },
-    {
-      "basename": "攸佳宁教授 调节情绪",
-      "path": "Eassay/攸佳宁教授 调节情绪.md"
-    },
-    {
-      "basename": "杨真直自律",
-      "path": "Eassay/杨真直自律.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "随便写点什么",
-      "path": "Eassay/随便写点什么.md"
-    },
-    {
-      "basename": "该如何学习呢",
-      "path": "Eassay/该如何学习呢.md"
-    },
-    {
-      "basename": "笔记本升级攻略",
-      "path": "Eassay/笔记本升级攻略.md"
-    },
-    {
-      "basename": "关于世界先进国家教育制度与课程设计的总结与思考",
-      "path": "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md"
-    },
-    {
       "basename": "Telnet 协议",
       "path": "Basic/计算机网络/Telnet 协议.md"
     },
@@ -195,10 +195,6 @@
     {
       "basename": "Docker 安装",
       "path": "Cloud Native/Docker/Docker 安装.md"
-    },
-    {
-      "basename": "Centos7安装Docker",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Centos7安装Docker和MySQL/Centos7安装Docker.md"
     }
   ],
   "omittedPaths": [],

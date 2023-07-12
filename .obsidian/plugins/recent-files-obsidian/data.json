@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "二叉树基础",
+      "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+    },
+    {
+      "basename": "二分法",
+      "path": "Algorithm/算法体系学习/二叉树/二分法.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "SQLite 基础知识",
       "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
-    },
-    {
-      "basename": "MySQL 配置文件",
-      "path": "Coding/Go/Database/MySQL/MySQL 配置文件/MySQL 配置文件.md"
-    },
-    {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "Docker 安装",
-      "path": "Cloud Native/Docker/Docker 安装.md"
     }
   ],
   "omittedPaths": [],

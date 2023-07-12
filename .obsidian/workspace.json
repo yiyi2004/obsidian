@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/Book/Go 推荐书籍.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/Book/Go 推荐书籍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
+                "file": "Coding/Go/Book/Go 推荐书籍.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/Book/Go 推荐书籍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+                "file": "Coding/Go/Book/Go 推荐书籍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,8 +285,8 @@
   },
   "active": "f206e029aee6ebe1",
   "lastOpenFiles": [
-    "Algorithm/算法体系学习/二叉树/二分法.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
+    "Algorithm/算法体系学习/二叉树/二分法.md",
     "Algorithm/算法总结.md",
     "Day3/Day3.md",
     "Basic/版本命名规范.md",

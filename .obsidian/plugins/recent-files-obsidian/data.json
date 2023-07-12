@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
       "basename": "二叉树基础",
       "path": "Algorithm/算法体系学习/二叉树/二叉树基础.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "操作系统",
       "path": "Archived/Second Interview/操作系统.md"
-    },
-    {
-      "basename": "SQLite 基础知识",
-      "path": "Coding/Go/Database/SQLite/SQLite 基础知识.md"
     }
   ],
   "omittedPaths": [],

@@ -74,8 +74,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/版本命名规范.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Basic/版本命名规范.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -203,7 +202,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Basic/版本命名规范.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Basic/版本命名规范.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,10 +269,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "698b36c33889a6a8",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Eassay/语句摘录.md",
     "Basic/版本命名规范.md",
+    "Eassay/语句摘录.md",
     "Eassay/珍大户未来 10 年的工作.md",
     "Eassay/智能路障 你是一个不受欢迎的人嘛？.md",
     "Eassay/攸佳宁教授 调节情绪.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "版本命名规范",
       "path": "Basic/版本命名规范.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "人有一個很大的弱點",
       "path": "Eassay/Youtube/老高/人有一個很大的弱點.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Flask Demo",

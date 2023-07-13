@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "go-wav",
-      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
-    },
-    {
-      "basename": "Record Voice",
-      "path": "Coding/Go/Third-party library/audio/record/Record Voice.md"
-    },
-    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "版本命名规范",
@@ -21,16 +21,20 @@
       "path": "Coding/Python/Repository/Flask/Flask Demo.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "oto",
+      "path": "Coding/Go/Third-party library/audio/oto/oto.md"
+    },
+    {
+      "basename": "go-wav",
+      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
+    },
+    {
+      "basename": "Record Voice",
+      "path": "Coding/Go/Third-party library/audio/record/Record Voice.md"
     },
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "二叉树基础",
@@ -195,10 +199,6 @@
     {
       "basename": "01.第一章 计算机系统概述.xmind",
       "path": "Basic/计算机组成原理/01.第一章 计算机系统概述.xmind.svg"
-    },
-    {
-      "basename": "Solaris",
-      "path": "Basic/操作系统/Solaris.md"
     }
   ],
   "omittedPaths": [],

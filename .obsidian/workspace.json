@@ -62,48 +62,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "856ad1c8b9dfce2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Python/Repository/Flask/Flask Demo.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "698b36c33889a6a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Basic/版本命名规范.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cf9d15a56e1ed7ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -231,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -298,17 +258,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cf9d15a56e1ed7ae",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Coding/Go/Third-party library/audio/record/Record Voice.md",
-    "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
-    "Coding/Go/Third-party library/audio/record",
-    "Day3/Day3.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Basic/版本命名规范.md",
     "Coding/Python/Repository/Flask/Flask Demo.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/Go/Third-party library/audio/oto/oto.md",
+    "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
+    "Coding/Go/Third-party library/audio/oto",
+    "Coding/Go/Third-party library/audio/record/Record Voice.md",
+    "Coding/Go/Third-party library/audio/record",
+    "Day3/Day3.md",
     "Tasks/需要整理的知识结构.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
     "Algorithm/算法体系学习/二叉树/二叉树基础.md",
     "Algorithm/算法体系学习/二叉树/二分法.md",
     "Algorithm/算法总结.md",
@@ -327,7 +289,6 @@
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 主从复制.md",
-    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 日志.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Economics/经济学/曼昆——经济学基础",
     "Basic/计算机组成原理/01.第一章计算机系统概述.pdf",
@@ -339,7 +300,6 @@
     "Coding/Go/Database/MySQL/MySQL 配置文件",
     "Coding/Go/Database/MySQL/问题解决",
     "Coding/Go/Database/SQLite",
-    "Coding/Go/Third-party library/未命名",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161854.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161842.png",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161831.png",

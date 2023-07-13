@@ -40,6 +40,7 @@
           {
             "id": "c2adce9776ec397a",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,7 +48,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -77,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/pkg-config.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools/pkg-config.md"
+                "file": "Tasks/需要整理的知识结构.md"
               }
             }
           },
@@ -205,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tools/pkg-config.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tools/pkg-config.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,16 +274,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aa0ccea851e9e2dd",
+  "active": "c2adce9776ec397a",
   "lastOpenFiles": [
-    "Tools/Tools index.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Day3/Day3.md",
     "Tools/pkg-config.md",
+    "Tools/Tools index.md",
     "Cyber Security/如何用 Go 破解程序.md",
     "Cyber Security/网络安全 Github 工具资料搜集.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
-    "Day3/Day3.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Basic/版本命名规范.md",
     "Coding/Python/Repository/Flask/Flask Demo.md",

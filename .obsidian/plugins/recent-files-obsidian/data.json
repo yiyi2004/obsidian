@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "pkg-config",
       "path": "Tools/pkg-config.md"
     },
@@ -25,14 +37,6 @@
       "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "Record Voice",
       "path": "Coding/Go/Third-party library/audio/record/Record Voice.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "二叉树基础",

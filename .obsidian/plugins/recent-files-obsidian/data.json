@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "pkg-config",
+      "path": "Tools/pkg-config.md"
+    },
+    {
+      "basename": "Tools index",
+      "path": "Tools/Tools index.md"
+    },
+    {
+      "basename": "如何用 Go 破解程序",
+      "path": "Cyber Security/如何用 Go 破解程序.md"
+    },
+    {
+      "basename": "网络安全 Github 工具资料搜集",
+      "path": "Cyber Security/网络安全 Github 工具资料搜集.md"
+    },
+    {
+      "basename": "Go Audio",
+      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
+    },
+    {
+      "basename": "短时傅里叶变换(STFT)",
+      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "QoS",
       "path": "Basic/计算机网络/QoS.md"
-    },
-    {
-      "basename": "01.第一章计算机系统概述",
-      "path": "Basic/计算机组成原理/01.第一章计算机系统概述.pdf"
-    },
-    {
-      "basename": "03.第三章存储系统",
-      "path": "Basic/计算机组成原理/03.第三章存储系统.pdf"
-    },
-    {
-      "basename": "04.第四章 指令系统.xmind",
-      "path": "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg"
-    },
-    {
-      "basename": "03.第三章 存储系统.xmind",
-      "path": "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg"
-    },
-    {
-      "basename": "02.第二章 数据的表示和运算.xmind",
-      "path": "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg"
-    },
-    {
-      "basename": "01.第一章 计算机系统概述.xmind",
-      "path": "Basic/计算机组成原理/01.第一章 计算机系统概述.xmind.svg"
     }
   ],
   "omittedPaths": [],

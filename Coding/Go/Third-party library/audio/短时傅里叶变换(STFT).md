@@ -3,12 +3,7 @@
 
 ## Abstract
 
-- 简要介绍什么是短时傅里叶变换
-- 增加你的精准
-
 ## Content
-
-s
 
 ## Reference
 

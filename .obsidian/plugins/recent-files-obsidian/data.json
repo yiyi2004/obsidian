@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "版本命名规范",
+      "path": "Basic/版本命名规范.md"
+    },
+    {
+      "basename": "Flask Demo",
+      "path": "Coding/Python/Repository/Flask/Flask Demo.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
@@ -15,14 +35,6 @@
     {
       "basename": "算法总结",
       "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "版本命名规范",
-      "path": "Basic/版本命名规范.md"
     },
     {
       "basename": "语句摘录",
@@ -63,10 +75,6 @@
     {
       "basename": "人有一個很大的弱點",
       "path": "Eassay/Youtube/老高/人有一個很大的弱點.md"
-    },
-    {
-      "basename": "Flask Demo",
-      "path": "Coding/Python/Repository/Flask/Flask Demo.md"
     },
     {
       "basename": "Basic Flask",
@@ -111,14 +119,6 @@
     {
       "basename": "MySQL-进阶篇",
       "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "deeplocker frontend",

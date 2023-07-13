@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "go-wav",
+      "path": "Coding/Go/Third-party library/audio/go-wav/go-wav.md"
+    },
+    {
+      "basename": "Record Voice",
+      "path": "Coding/Go/Third-party library/audio/record/Record Voice.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Solaris",
       "path": "Basic/操作系统/Solaris.md"
-    },
-    {
-      "basename": "alsa",
-      "path": "Basic/操作系统/alsa.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Archived/Second Interview/操作系统.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "np.pad",
+      "path": "Coding/Python/Repository/numpy/np.pad.md"
+    },
+    {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Telnet 协议",
       "path": "Basic/计算机网络/Telnet 协议.md"
-    },
-    {
-      "basename": "QoS",
-      "path": "Basic/计算机网络/QoS.md"
     }
   ],
   "omittedPaths": [],

@@ -626,11 +626,12 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 		- [x] Target 上传 ✅ 2023-07-12
 		- [ ] 修改
 		- [x] 删除 | 删除缺少删除云端的内容 ✅ 2023-07-12
-	- [ ] 模板音频部分的接入
+	- [x] 模板音频部分的接入 ✅ 2023-07-15
 		- [x] record voice from audio device ---> ✅ 2023-07-13
 		- [x] transfer structure []byte to float32 format ---> using go-wav package ✅ 2023-07-13
-		- [ ] stft
-		- [ ] mag and so on
+		- [x] stft ✅ 2023-07-15
+		- [x] mag and so on ✅ 2023-07-15
+		- [ ] 接入模型
 	- [x] 搭建一个数据库服务器，然后把数据都存储在上面 ✅ 2023-07-10
 		- [x] 数据都存储在 mysql 服务器上 ✅ 2023-07-12
 		- [x] mysql 慢查询问题，只能把 Payload 分离出来，不然查询速度太慢了。 ✅ 2023-07-12

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "np.pad",
       "path": "Coding/Python/Repository/numpy/np.pad.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "pkg-config",

@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/numpy/np.pad.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Python/Repository/numpy/np.pad.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -220,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Python/Repository/numpy/np.pad.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Python/Repository/numpy/np.pad.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,10 +286,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de87a7b8cf870fe6",
+  "active": "811215e87ba12079",
   "lastOpenFiles": [
-    "Tasks/需要整理的知识结构.md",
     "Coding/Python/Repository/numpy/np.pad.md",
+    "Tasks/需要整理的知识结构.md",
     "Coding/Python/Repository/numpy",
     "Coding/Go/Book/Go 推荐书籍.md",
     "Day3/Day3.md",

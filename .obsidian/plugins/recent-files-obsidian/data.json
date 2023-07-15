@@ -5,16 +5,16 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
       "basename": "np.pad",
       "path": "Coding/Python/Repository/numpy/np.pad.md"
     },
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "pkg-config",

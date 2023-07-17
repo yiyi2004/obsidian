@@ -652,3 +652,10 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 > 实际上都是约定好的
 
 - [ ] 今天还要买一下袜子
+
+WARNING:tensorflow:8 out of the last 8 calls to <function _make_execution_function.<locals>.distributed_function at  
+0x000001F17B88B620> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings is li  
+kely due to passing python objects instead of tensors. Also, tf.function has experimental_relax_shapes=True option t  
+hat relaxes argument shapes that can avoid unnecessary retracing. Please refer to https://www.tensorflow.org/tutoria  
+ls/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for mo  
+re details.

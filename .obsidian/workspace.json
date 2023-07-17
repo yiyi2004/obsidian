@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/随想.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -220,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,12 +286,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8b712d27e9d6136c",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
+    "Eassay/随想.md",
     "Coding/Python/Repository/numpy/np.pad.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Tools/pkg-config.md",
-    "Eassay/随想.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
     "Day3/Day3.md",
     "Coding/Go/Book/Go 推荐书籍.md",

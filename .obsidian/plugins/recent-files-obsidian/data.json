@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "np.pad",
+      "path": "Coding/Python/Repository/numpy/np.pad.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "pkg-config",
+      "path": "Tools/pkg-config.md"
+    },
+    {
+      "basename": "段子素材",
+      "path": "Write/Material for Writing/生活趣事/段子素材.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -9,16 +29,8 @@
       "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
-      "basename": "np.pad",
-      "path": "Coding/Python/Repository/numpy/np.pad.md"
-    },
-    {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "pkg-config",
-      "path": "Tools/pkg-config.md"
     },
     {
       "basename": "Tools index",
@@ -39,10 +51,6 @@
     {
       "basename": "短时傅里叶变换(STFT)",
       "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "版本命名规范",
@@ -95,10 +103,6 @@
     {
       "basename": "杨真直自律",
       "path": "Eassay/杨真直自律.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "关于世界先进国家教育制度与课程设计的总结与思考",
@@ -195,10 +199,6 @@
     {
       "basename": "Eassay index",
       "path": "Eassay/Eassay index.md"
-    },
-    {
-      "basename": "Telnet 协议",
-      "path": "Basic/计算机网络/Telnet 协议.md"
     }
   ],
   "omittedPaths": [],

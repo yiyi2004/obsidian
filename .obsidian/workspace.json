@@ -66,19 +66,6 @@
             }
           },
           {
-            "id": "aa0ccea851e9e2dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/pkg-config.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "de87a7b8cf870fe6",
             "type": "leaf",
             "state": {
@@ -90,8 +77,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8b712d27e9d6136c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/随想.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Eassay/随想.md"
               }
             }
           },
@@ -219,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +245,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Eassay/随想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,20 +287,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "8b712d27e9d6136c",
   "lastOpenFiles": [
-    "Coding/Go/Book/Go 推荐书籍.md",
-    "Day3/Day3.md",
     "Coding/Python/Repository/numpy/np.pad.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Tools/pkg-config.md",
+    "Eassay/随想.md",
+    "Write/Material for Writing/生活趣事/段子素材.md",
+    "Day3/Day3.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
     "Tasks/需要整理的知识结构.md",
     "Coding/Python/Repository/numpy",
-    "Tools/pkg-config.md",
     "Tools/Tools index.md",
     "Cyber Security/如何用 Go 破解程序.md",
     "Cyber Security/网络安全 Github 工具资料搜集.md",
     "Coding/Go/Third-party library/audio/Go Audio.md",
     "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Basic/版本命名规范.md",
     "Coding/Python/Repository/Flask/Flask Demo.md",
     "Coding/Go/Third-party library/audio/oto/oto.md",
@@ -315,8 +318,6 @@
     "Eassay/智能路障 你是一个不受欢迎的人嘛？.md",
     "Eassay/攸佳宁教授 调节情绪.md",
     "Eassay/杨真直自律.md",
-    "Eassay/随想.md",
-    "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md",
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Economics/经济学/曼昆——经济学基础",

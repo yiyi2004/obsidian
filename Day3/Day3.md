@@ -617,11 +617,17 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 				- [x] 训练过程中的指标存储在 redis 中 ✅ 2023-07-17
 				- [x] 训练进度指标 ✅ 2023-07-17
 				- [ ] 训练的最终结果直接返回 ---> 由 golang 客户端存储在 DB 中 ---> 不断的显示和更新
-				- [ ] API Server 获取数据的 ---> key_info 的信息要返回喔 ---> key_infos 应该在一开始就指定好了
+				- [ ] API Server 获取数据的 ---> key_info 的信息存储在 redis 中 ---> key_infos 应该在一开始就指定好了
+				- [ ] 将 keyinfo 在最后返回 ---> 通过逻辑实现
 			- [ ] vrm 部分还不知道代码在哪里呢
-		- [ ] 先改造一下 train 函数 ---> 找到表示训练进度
-			- [ ] 返回的信息包括 model + target info
-		- [ ] 完成 Golang Fyne + 数据库处理 | fyne 进度条 ---> irm 和 vrm 部分
+		- [x] 先改造一下 train 函数 ---> 找到表示训练进度 ✅ 2023-07-19
+			- [x] 返回的信息包括 model + target info ✅ 2023-07-19
+		- [x] 完成 Golang Fyne + 数据库处理 | fyne 进度条 ---> irm 和 vrm 部分 ✅ 2023-07-19
+	- [ ] template 模块
+		- [ ] 按照注释来写叭
+		- [ ] 将 payload ---> go file ---> 写入 config 里面
+		- [ ] 抽取出需要配置配置的信息 | 在生成的时候，如果本地有，那就不需要下载了。但是需要拷贝。
+		- [ ] 写自动编译成 dll 的程序
 	- [x] upload payload 的部分完成 2 —— UI ✅ 2023-07-12
 	- [x] Target 信息 Target 信息存储在云端 ✅ 2023-07-12
 		- [x] Target 上传 ✅ 2023-07-12
@@ -655,8 +661,30 @@ deeplocker 的内容提前了，8 月初要进行一个联调，要做的事情�
 
 - [ ] 今天还要买一下袜子
 
-WARNING:tensorflow:8 out of the last 8 calls to <function _make_execution_function.<locals>.distributed_function at  
-0x000001F17B88B620> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings is li  
 kely due to passing python objects instead of tensors. Also, tf.function has experimental_relax_shapes=True option t  
 hat relaxes argument shapes that can avoid unnecessary retracing. Please refer to https://www.tensorflow.org/tutoria  
 ls/customization/performance#python_or_tensor_args and https://www.tensorflow.org/api_docs/python/tf/function for more details.
+
+## 20230014
+
+### 第一天
+
+- [ ] 上午完成 deeplocker 的任务
+	- [x] 添加 model 的 insert 功能 ✅ 2023-07-20
+	- [ ] 整个项目写完之后要抽象出公共的接口内容，不然看上去会很晕。
+	- [x] download 函数 ✅ 2023-07-20
+	- [x] unzip 的程序的编写 ✅ 2023-07-20
+	- [ ] unzip 函数接入到 generate 模块
+	- [ ] download payload
+	- [ ] get target key
+	- [ ] encrypt the payload
+	- [ ] write activation config
+	- [ ] build deeplocker
+	- [ ] python 的代码改完 ---> insert model_info and key info successfully
+- [ ] 下午看算法的课程 + redis 内容
+- [ ] 晚上 golang 书籍 + 总结 XMind 内容
+- [ ] **规划一下组织的事情**
+
+### 第二天
+
+### 第三天

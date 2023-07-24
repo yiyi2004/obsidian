@@ -117,7 +117,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -161,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +228,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Eassay/随想.md"
               }
             }
           },
@@ -245,7 +246,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Eassay/随想.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +271,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Eassay/随想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,12 +313,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "8b712d27e9d6136c",
   "lastOpenFiles": [
-    "Challenge/马拉松比赛/马拉松比赛备赛.md",
-    "Day3/Day3.md",
-    "Challenge/马拉松比赛",
+    "Tasks/需要整理的知识结构.md",
     "Coding/Go/Book/Go 推荐书籍.md",
+    "Day3/Day3.md",
+    "Challenge/马拉松比赛/马拉松比赛备赛.md",
+    "Challenge/马拉松比赛",
     "AI/AIGC/AIGC.md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",
@@ -327,7 +329,6 @@
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Tools/pkg-config.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
-    "Tasks/需要整理的知识结构.md",
     "Coding/Python/Repository/numpy",
     "Tools/Tools index.md",
     "Cyber Security/如何用 Go 破解程序.md",

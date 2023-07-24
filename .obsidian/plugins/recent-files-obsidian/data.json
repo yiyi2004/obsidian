@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -9,20 +21,12 @@
       "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
     },
     {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
       "basename": "AIGC",
       "path": "AI/AIGC/AIGC.md"
     },
     {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "np.pad",
@@ -39,10 +43,6 @@
     {
       "basename": "段子素材",
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "Tools index",

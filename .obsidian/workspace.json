@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,16 +273,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82c6b4263298e8a",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
+    "Tasks/需要整理的知识结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Day3/Day3.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Eassay/随想.md",
     "Coding/Python/Repository/numpy/np.pad.md",
     "AI/AIGC/AIGC.md",
     "Challenge/马拉松比赛/马拉松比赛备赛.md",
-    "Day3/Day3.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
-    "Tasks/需要整理的知识结构.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",
@@ -307,7 +307,6 @@
     "Algorithm/算法体系学习/二叉树/二分法.md",
     "Algorithm/算法总结.md",
     "Eassay/语句摘录.md",
-    "Eassay/珍大户未来 10 年的工作.md",
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Economics/经济学/曼昆——经济学基础",

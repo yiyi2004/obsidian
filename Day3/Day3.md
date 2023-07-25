@@ -679,8 +679,8 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 	- [x] get target key ✅ 2023-07-25
 	- [x] encrypt the payload ✅ 2023-07-25
 	- [x] write activation config ✅ 2023-07-25
-	- [ ] build deeplocker
-	- [ ] python 的代码改完 ---> insert model_info and key info successfully
+	- [x] build deeplocker ✅ 2023-07-25
+	- [x] python 的代码改完 ---> insert model_info and key info successfully ✅ 2023-07-25
 	- [ ] 写 Android 的程序
 	- [ ] three template
 		- [ ] 2

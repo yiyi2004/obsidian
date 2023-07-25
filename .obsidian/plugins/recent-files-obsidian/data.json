@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker python API development",
+      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
       "basename": "随想",
       "path": "Eassay/随想.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "马拉松比赛备赛",
-      "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
-    },
-    {
-      "basename": "AIGC",
-      "path": "AI/AIGC/AIGC.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
     },
     {
       "basename": "np.pad",
       "path": "Coding/Python/Repository/numpy/np.pad.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "AIGC",
+      "path": "AI/AIGC/AIGC.md"
+    },
+    {
+      "basename": "马拉松比赛备赛",
+      "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
       "basename": "pkg-config",
@@ -195,10 +199,6 @@
     {
       "basename": "学习陷阱",
       "path": "Be Yourself/学习陷阱.md"
-    },
-    {
-      "basename": "企划书",
-      "path": "Eassay/企划书/企划书.md"
     }
   ],
   "omittedPaths": [],

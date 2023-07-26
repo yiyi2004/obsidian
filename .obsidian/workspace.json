@@ -78,8 +78,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -207,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +231,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,13 +273,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c82c6b4263298e8a",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Tasks/需要整理的知识结构.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
     "Day3/Day3.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Eassay/随想.md",
     "Coding/Python/Repository/numpy/np.pad.md",
     "AI/AIGC/AIGC.md",

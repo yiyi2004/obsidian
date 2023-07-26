@@ -694,5 +694,4 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 
 - [ ] 认真考虑面试的事情
 - [ ] 整理下你的标签页
-
-### 第三天
+- [ ] 仔细考虑一下眼睛手术的问题

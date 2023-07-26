@@ -693,9 +693,9 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 ### 第二天
 
 - [ ] 认真考虑面试的事情
-- [ ] 整理下你的标签页
+- [x] 整理下你的标签页 ✅ 2023-07-26
 - [ ] 仔细考虑一下眼睛手术的问题
 	- [ ] 先去找几个门诊挂号的问题
 - [ ] 准备 OpenHarmoney 的事情
 - [ ] deeplocker —— 晚上
-- [ ] 晚上吃完饭，先看书，然后出去跳绳运动 + 跑姿理论
+- [x] 晚上吃完饭，先看书，然后出去跳绳运动 + 跑姿理论 ✅ 2023-07-26

@@ -51,47 +51,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "77aad6d25725557a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c82c6b4263298e8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker python API development.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e23cad534d074d89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/随想.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#App",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +147,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 289.5110321044922
+    "width": 425.51103591918945,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -201,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Tasks/需要整理的知识结构.md"
               }
             }
           },
@@ -219,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Tasks/需要整理的知识结构.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,8 +221,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -287,45 +249,45 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1d9133ca19ac2c35",
+  "active": "c2adce9776ec397a",
   "lastOpenFiles": [
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
+    "Tasks/需要整理的知识结构.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Eassay/随想.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/资料/Redis安装说明.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
+    "Coding/Go/Database/Redis/Redis 基础/Redis文档.md",
+    "Coding/Go/Database/Redis/Redis 使用场景.md",
+    "Coding/Go/Database/Redis/go-redis.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
+    "Day3/Day3.md",
     "Write/Material for Writing/生活趣事/随笔.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
-    "Day3/Day3.md",
     "Coding/Go/Book/Go 推荐书籍.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Tasks/需要整理的知识结构.md",
     "Coding/Python/Repository/numpy/np.pad.md",
     "AI/AIGC/AIGC.md",
     "Challenge/马拉松比赛/马拉松比赛备赛.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",
-    "Day3/时间安排.md",
-    "Tools/pkg-config.md",
     "Coding/Python/Repository/numpy",
-    "Tools/Tools index.md",
-    "Cyber Security/如何用 Go 破解程序.md",
-    "Cyber Security/网络安全 Github 工具资料搜集.md",
-    "Coding/Go/Third-party library/audio/Go Audio.md",
-    "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md",
-    "Basic/版本命名规范.md",
-    "Coding/Python/Repository/Flask/Flask Demo.md",
-    "Coding/Go/Third-party library/audio/oto/oto.md",
-    "Coding/Go/Third-party library/audio/go-wav/go-wav.md",
     "Coding/Go/Third-party library/audio/oto",
-    "Coding/Go/Third-party library/audio/record/Record Voice.md",
     "Coding/Go/Third-party library/audio/record",
-    "Algorithm/算法体系学习/二叉树/二叉树基础.md",
-    "Algorithm/算法体系学习/二叉树/二分法.md",
-    "Algorithm/算法总结.md",
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Economics/经济学/曼昆——经济学基础",
     "Basic/计算机组成原理/01.第一章计算机系统概述.pdf",
-    "Basic/计算机组成原理/03.第三章存储系统.pdf",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",
     "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg",

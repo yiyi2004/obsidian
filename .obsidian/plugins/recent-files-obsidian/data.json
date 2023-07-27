@@ -1,12 +1,84 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "Redis高级篇之最佳实践",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md"
+    },
+    {
+      "basename": "Redis高级-分布式缓存",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md"
+    },
+    {
+      "basename": "多级缓存",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md"
+    },
+    {
+      "basename": "原理篇",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
+    },
+    {
+      "basename": "Redis高级篇之最佳实践",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md"
+    },
+    {
+      "basename": "多级缓存",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md"
+    },
+    {
+      "basename": "Redis高级-分布式缓存",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "deeplocker python API development",
+      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
     },
     {
       "basename": "随想",
       "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "Redis实战篇",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md"
+    },
+    {
+      "basename": "01.快速入门",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md"
+    },
+    {
+      "basename": "00.课程介绍",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md"
+    },
+    {
+      "basename": "Redis安装说明",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/资料/Redis安装说明.md"
+    },
+    {
+      "basename": "Redis文档",
+      "path": "Coding/Go/Database/Redis/Redis 基础/Redis文档.md"
+    },
+    {
+      "basename": "Redis 使用场景",
+      "path": "Coding/Go/Database/Redis/Redis 使用场景.md"
+    },
+    {
+      "basename": "go-redis",
+      "path": "Coding/Go/Database/Redis/go-redis.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "随笔",
@@ -19,18 +91,6 @@
     {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "deeplocker python API development",
-      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "np.pad",
@@ -139,66 +199,6 @@
     {
       "basename": "人有一個很大的弱點",
       "path": "Eassay/Youtube/老高/人有一個很大的弱點.md"
-    },
-    {
-      "basename": "Basic Flask",
-      "path": "Coding/Python/Repository/Flask/Basic Flask.md"
-    },
-    {
-      "basename": "MySQL-基础篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-基础篇.pdf"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
-    },
-    {
-      "basename": "MySQL 主从复制",
-      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 主从复制.md"
-    },
-    {
-      "basename": "MySQL 日志",
-      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 日志.md"
-    },
-    {
-      "basename": "MySQL 分库分表",
-      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md"
-    },
-    {
-      "basename": "MySQL 读写分离",
-      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md"
-    },
-    {
-      "basename": "问题解决",
-      "path": "Coding/Go/Database/MySQL/问题解决.md"
-    },
-    {
-      "basename": "Go 连接 MySQL",
-      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
-      "basename": "MySQL-进阶篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
-    },
-    {
-      "basename": "deeplocker frontend",
-      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
-    },
-    {
-      "basename": "OpenHarmony",
-      "path": "Eassay/讲座/OpenHarmony.md"
-    },
-    {
-      "basename": "Be Yourself index",
-      "path": "Be Yourself/Be Yourself index.md"
-    },
-    {
-      "basename": "财富自由",
-      "path": "Be Yourself/财富自由.md"
     }
   ],
   "omittedPaths": [],

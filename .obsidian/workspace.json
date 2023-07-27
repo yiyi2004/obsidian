@@ -258,7 +258,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -286,7 +287,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "1d9133ca19ac2c35",
   "lastOpenFiles": [
     "Eassay/随想.md",
     "Write/Material for Writing/生活趣事/随笔.md",

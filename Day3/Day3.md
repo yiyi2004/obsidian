@@ -699,3 +699,8 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [ ] 准备 OpenHarmoney 的事情
 - [ ] deeplocker —— 晚上
 - [x] 晚上吃完饭，先看书，然后出去跳绳运动 + 跑姿理论 ✅ 2023-07-26
+
+### 第三天
+
+- [ ] 跑步理论训练
+- [ ] Golang —— 这是你现在唯一需要提高的事情 + 八股文

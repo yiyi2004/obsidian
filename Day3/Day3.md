@@ -704,4 +704,4 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 
 - [ ] 跑步理论训练
 - [x] Golang —— 这是你现在唯一需要提高的事情 + 八股文 ✅ 2023-07-28
-- [ ] Deeplocker 的文档写一写
+- [ ] Deeplocker

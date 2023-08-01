@@ -65,8 +65,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/知识分享会/有的没的.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -194,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +218,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,10 +260,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a788a53f392b205",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Tasks/需要整理的知识结构.md",
     "Project/知识分享会/有的没的.md",
+    "Tasks/需要整理的知识结构.md",
     "Day3/Day3.md",
     "Project/知识分享会",
     "Coding/Go/Book/Go 推荐书籍.md",

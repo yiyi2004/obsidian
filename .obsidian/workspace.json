@@ -52,8 +52,7 @@
               "pinned": true
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -97,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.51103591918945,
-    "collapsed": true
+    "width": 425.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -164,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -182,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/需要整理的知识结构.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,8 +247,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c2adce9776ec397a",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
+    "Tasks/需要整理的知识结构.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Day3/Day3.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
@@ -258,7 +259,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
-    "Tasks/需要整理的知识结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Eassay/随想.md",
@@ -271,10 +271,8 @@
     "Coding/Go/Database/Redis/Redis 使用场景.md",
     "Coding/Go/Database/Redis/go-redis.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
-    "Day3/Day3.md",
     "Write/Material for Writing/生活趣事/随笔.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
     "Coding/Python/Repository/numpy/np.pad.md",
     "AI/AIGC/AIGC.md",
     "Challenge/马拉松比赛/马拉松比赛备赛.md",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "Redis高级篇之最佳实践",
@@ -77,20 +85,12 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
       "basename": "随笔",
       "path": "Write/Material for Writing/生活趣事/随笔.md"
     },
     {
       "basename": "段子素材",
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "np.pad",

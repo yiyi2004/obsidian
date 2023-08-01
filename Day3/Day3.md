@@ -703,4 +703,4 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 ### 第三天
 
 - [ ] 跑步理论训练
-- [ ] Golang —— 这是你现在唯一需要提高的事情 + 八股文
+- [x] Golang —— 这是你现在唯一需要提高的事情 + 八股文 ✅ 2023-07-28

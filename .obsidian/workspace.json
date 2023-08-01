@@ -51,8 +51,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "9a788a53f392b205",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project/知识分享会/有的没的.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Project/知识分享会/有的没的.md"
               }
             }
           },
@@ -180,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,11 +261,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "9a788a53f392b205",
   "lastOpenFiles": [
     "Tasks/需要整理的知识结构.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
+    "Project/知识分享会/有的没的.md",
     "Day3/Day3.md",
+    "Project/知识分享会",
+    "Coding/Go/Book/Go 推荐书籍.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
@@ -275,7 +291,6 @@
     "Write/Material for Writing/生活趣事/段子素材.md",
     "Coding/Python/Repository/numpy/np.pad.md",
     "AI/AIGC/AIGC.md",
-    "Challenge/马拉松比赛/马拉松比赛备赛.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",
@@ -285,7 +300,6 @@
     "Coding/Go/Database/MySQL/MySQL-基础篇.pdf",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Economics/经济学/曼昆——经济学基础",
-    "Basic/计算机组成原理/01.第一章计算机系统概述.pdf",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",
     "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg",

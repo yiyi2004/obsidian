@@ -64,8 +64,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "404b089e3f02112b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/Docker/Docker 安装.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Docker/Docker 安装.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cloud Native/Docker/Docker 安装.md"
               }
             }
           },
@@ -193,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Docker/Docker 安装.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cloud Native/Docker/Docker 安装.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,11 +274,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "404b089e3f02112b",
   "lastOpenFiles": [
+    "Cloud Native/Docker/Docker Notebook.md",
+    "Day3/Day3.md",
     "Project/知识分享会/有的没的.md",
     "Tasks/需要整理的知识结构.md",
-    "Day3/Day3.md",
     "Project/知识分享会",
     "Coding/Go/Book/Go 推荐书籍.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
@@ -289,7 +304,6 @@
     "Write/Material for Writing/生活趣事/随笔.md",
     "Write/Material for Writing/生活趣事/段子素材.md",
     "Coding/Python/Repository/numpy/np.pad.md",
-    "AI/AIGC/AIGC.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",

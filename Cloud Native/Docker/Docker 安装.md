@@ -30,3 +30,7 @@ vim /usr/lib/systemd/system/docker.service
 
 - 升级成 win 专业版
 - wsl2
+
+## 安装 Redis
+
+- [Docker安装Redis并配置文件启动-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1997596)

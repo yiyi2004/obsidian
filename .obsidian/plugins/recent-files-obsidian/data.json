@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker 安装",
+      "path": "Cloud Native/Docker/Docker 安装.md"
+    },
+    {
+      "basename": "Docker Notebook",
+      "path": "Cloud Native/Docker/Docker Notebook.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "关于世界先进国家教育制度与课程设计的总结与思考",
       "path": "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md"
-    },
-    {
-      "basename": "该如何学习呢",
-      "path": "Eassay/该如何学习呢.md"
-    },
-    {
-      "basename": "笔记本升级攻略",
-      "path": "Eassay/笔记本升级攻略.md"
     }
   ],
   "omittedPaths": [],

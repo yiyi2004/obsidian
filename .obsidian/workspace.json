@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Docker/Docker 安装.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Docker/Docker 安装.md"
+                "file": "Project/知识分享会/有的没的.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Docker/Docker 安装.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/Docker/Docker 安装.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,12 +274,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "404b089e3f02112b",
+  "active": "9a788a53f392b205",
   "lastOpenFiles": [
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
+    "Tasks/需要整理的知识结构.md",
+    "Project/知识分享会/有的没的.md",
+    "Cloud Native/Docker/Docker 安装.md",
     "Cloud Native/Docker/Docker Notebook.md",
     "Day3/Day3.md",
-    "Project/知识分享会/有的没的.md",
-    "Tasks/需要整理的知识结构.md",
     "Project/知识分享会",
     "Coding/Go/Book/Go 推荐书籍.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
@@ -296,14 +298,11 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/资料/Redis安装说明.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
     "Coding/Go/Database/Redis/Redis 基础/Redis文档.md",
     "Coding/Go/Database/Redis/Redis 使用场景.md",
     "Coding/Go/Database/Redis/go-redis.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
     "Write/Material for Writing/生活趣事/随笔.md",
-    "Write/Material for Writing/生活趣事/段子素材.md",
-    "Coding/Python/Repository/numpy/np.pad.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",

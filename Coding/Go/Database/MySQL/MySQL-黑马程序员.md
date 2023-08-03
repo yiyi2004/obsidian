@@ -832,6 +832,7 @@ MySQL 体系结构：
 ![层级描述](https://dhc.pythonanywhere.com/media/editor/MySQL体系结构层级含义_20220315034359342837.png "层级描述")
 
 存储引擎就是存储数据、建立索引、更新/查询数据等技术的实现方式。存储引擎是基于表而不是基于库的，所以存储引擎也可以被称为表引擎。  
+
 默认存储引擎是 InnoDB。
 
 相关操作：
@@ -1519,5 +1520,6 @@ GROUP BY table_schema;
 
 后续内容因为跟当前学习、工作计划有冲突，所以后续课程的学习计划会无限期推后。  
 目前的工作重点放在重做一个学习笔记网站，当然这是边做边学的，开发过程中遇到的难点和知识点我也会记录下来供大家学习。  
+
 **在此感谢 B 站同样爱学习的同学 @守心 - 人 提供的后续课程笔记，大家有条件一定要去给个 star，你的每一个 star 和点赞都是我们前进的动力**  
 **[https://github.com/Buildings-Lei/mysql_note/blob/main/README.md](https://github.com/Buildings-Lei/mysql_note/blob/main/README.md)**

@@ -713,8 +713,8 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [x] 算法的学习 ✅ 2023-08-03
 - [ ] 跟踪 deeplocker 项目的事情
 	- [ ] 写 deeplocker 的文档
-	- [ ] 静态资源处理
-		- [ ] dll 文件 tensorflow.dll
+	- [x] 静态资源处理 ✅ 2023-08-03
+		- [x] dll 文件 tensorflow.dll ✅ 2023-08-03
 	- [ ] 音频识别模型代码修改
 
 ### 第二天

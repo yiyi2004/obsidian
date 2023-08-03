@@ -1,3 +1,5 @@
+## Context
+
 ![[Snipaste/Pasted image 20220921172703.png]]
 
 - Background 在初始化的时候获得一个 context
@@ -28,3 +30,15 @@ http 中
 ![[Snipaste/Pasted image 20220921173725.png]]
 
 - 学完基本的语法之后就去看一个项目。模仿着去学习。
+
+## Example
+
+1. WaitGroup
+2. channel + select
+3. context
+	1. 取消多个 goroutine
+
+## Reference
+
+- [How To Use Contexts in Go | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-use-contexts-in-go)
+- [用 10 分鐘了解 Go 語言 context package 使用場景及介紹_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV17K411H7iw/?spm_id_from=333.337.search-card.all.click&vd_source=25509bb582bc4a25d86d871d5cdffca3)

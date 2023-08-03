@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "go context",
+      "path": "Coding/Go/go context.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
     },
     {
-      "basename": "Set",
-      "path": "Coding/Go/基础知识/Set.md"
-    },
-    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
+      "basename": "Deeplocker 文档整理(内部)",
+      "path": "Cyber Security/Deeplocker/Deeplocker 文档整理(内部).md"
+    },
+    {
+      "basename": "Docker 安装",
+      "path": "Cloud Native/Docker/Docker 安装.md"
+    },
+    {
+      "basename": "Deeplocker 攻击流程",
+      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "Set",
+      "path": "Coding/Go/基础知识/Set.md"
     },
     {
       "basename": "Golang 泛型编程基础",
@@ -27,10 +47,6 @@
     {
       "basename": "有的没的",
       "path": "Project/知识分享会/有的没的.md"
-    },
-    {
-      "basename": "Docker 安装",
-      "path": "Cloud Native/Docker/Docker 安装.md"
     },
     {
       "basename": "Docker Notebook",
@@ -183,22 +199,6 @@
     {
       "basename": "算法总结",
       "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "语句摘录",
-      "path": "Eassay/语句摘录.md"
-    },
-    {
-      "basename": "珍大户未来 10 年的工作",
-      "path": "Eassay/珍大户未来 10 年的工作.md"
-    },
-    {
-      "basename": "智能路障 你是一个不受欢迎的人嘛？",
-      "path": "Eassay/智能路障 你是一个不受欢迎的人嘛？.md"
-    },
-    {
-      "basename": "攸佳宁教授 调节情绪",
-      "path": "Eassay/攸佳宁教授 调节情绪.md"
     }
   ],
   "omittedPaths": [],

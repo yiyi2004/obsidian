@@ -53,16 +53,18 @@
             }
           },
           {
-            "id": "9a788a53f392b205",
+            "id": "66d50a08dd7e5345",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -78,8 +80,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/知识分享会/有的没的.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -207,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,16 +275,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9a788a53f392b205",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
     "Tasks/需要整理的知识结构.md",
+    "Coding/Go/基础知识/Set.md",
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Day3/Day3.md",
+    "Coding/Go/泛型编程/Golang 泛型编程基础.md",
     "Project/知识分享会/有的没的.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
     "Cloud Native/Docker/Docker 安装.md",
     "Cloud Native/Docker/Docker Notebook.md",
-    "Day3/Day3.md",
     "Project/知识分享会",
-    "Coding/Go/Book/Go 推荐书籍.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
@@ -291,7 +295,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Eassay/随想.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
@@ -302,7 +305,6 @@
     "Coding/Go/Database/Redis/Redis 使用场景.md",
     "Coding/Go/Database/Redis/go-redis.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
-    "Write/Material for Writing/生活趣事/随笔.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",

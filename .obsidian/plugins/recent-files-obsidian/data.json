@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "有的没的",
-      "path": "Project/知识分享会/有的没的.md"
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "Set",
+      "path": "Coding/Go/基础知识/Set.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "Golang 泛型编程基础",
+      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
+    },
+    {
+      "basename": "有的没的",
+      "path": "Project/知识分享会/有的没的.md"
     },
     {
       "basename": "Docker 安装",
@@ -15,14 +35,6 @@
     {
       "basename": "Docker Notebook",
       "path": "Cloud Native/Docker/Docker Notebook.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "Redis高级篇之最佳实践",
@@ -51,10 +63,6 @@
     {
       "basename": "Redis高级-分布式缓存",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "deeplocker python API development",
@@ -191,14 +199,6 @@
     {
       "basename": "攸佳宁教授 调节情绪",
       "path": "Eassay/攸佳宁教授 调节情绪.md"
-    },
-    {
-      "basename": "杨真直自律",
-      "path": "Eassay/杨真直自律.md"
-    },
-    {
-      "basename": "关于世界先进国家教育制度与课程设计的总结与思考",
-      "path": "Eassay/关于世界先进国家教育制度与课程设计的总结与思考.md"
     }
   ],
   "omittedPaths": [],

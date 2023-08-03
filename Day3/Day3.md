@@ -705,3 +705,18 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [ ] 跑步理论训练
 - [x] Golang —— 这是你现在唯一需要提高的事情 + 八股文 ✅ 2023-07-28
 - [ ] Deeplocker
+
+## 20230015
+
+### 第一天
+
+- [x] 算法的学习 ✅ 2023-08-03
+- [ ] 跟踪 deeplocker 项目的事情
+	- [ ] 写 deeplocker 的文档
+	- [ ] 静态资源处理
+		- [ ] dll 文件 tensorflow.dll
+	- [ ] 音频识别模型代码修改
+
+### 第二天
+
+### 第三天

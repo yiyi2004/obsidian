@@ -722,7 +722,8 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [x] 运动一下 ✅ 2023-08-04
 - [x] Go 底层原理 ✅ 2023-08-04
 - [x] MySQL ✅ 2023-08-04
-- [ ] Redis
+- [ ] Redis —— 今天的内容先总结一下
 - [ ] Deeplocker 文档 | 软件功能的划分
+- [ ] 制定训练计划
 
 ### 第三天

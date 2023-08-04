@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
     },
     {
       "basename": "有的没的",
       "path": "Project/知识分享会/有的没的.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Go 设计模式索引",
@@ -195,10 +199,6 @@
     {
       "basename": "短时傅里叶变换(STFT)",
       "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
-    },
-    {
-      "basename": "版本命名规范",
-      "path": "Basic/版本命名规范.md"
     }
   ],
   "omittedPaths": [],

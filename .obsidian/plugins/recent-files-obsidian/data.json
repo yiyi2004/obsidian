@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "MySQL-黑马程序员",
       "path": "Coding/Go/Database/MySQL/MySQL-黑马程序员.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "go context",
@@ -103,10 +107,6 @@
     {
       "basename": "deeplocker python API development",
       "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "Redis实战篇",

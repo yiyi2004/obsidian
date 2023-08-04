@@ -683,9 +683,9 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 	- [x] python 的代码改完 ---> insert model_info and key info successfully ✅ 2023-07-25
 	- [ ] 写 Android 的程序
 	- [ ] three template
-		- [ ] 2
-		- [ ] 1
-		- [ ] 1
+		- [ ] or, 这个修改一下就是 single
+		- [ ] and
+		- [ ] single
 - [ ] 下午看算法的课程 + redis 内容
 - [ ] 晚上 golang 书籍 + 总结 XMind 内容
 - [ ] **规划一下组织的事情**

@@ -683,8 +683,8 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 	- [x] python 的代码改完 ---> insert model_info and key info successfully ✅ 2023-07-25
 	- [ ] 写 Android 的程序
 	- [ ] three template
-		- [ ] or, 这个修改一下就是 single
-		- [ ] and
+		- [x] or, 这个修改一下就是 single ✅ 2023-08-04
+		- [x] and ✅ 2023-08-04
 		- [ ] single
 - [ ] 下午看算法的课程 + redis 内容
 - [ ] 晚上 golang 书籍 + 总结 XMind 内容
@@ -715,8 +715,10 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 	- [ ] 写 deeplocker 的文档
 	- [x] 静态资源处理 ✅ 2023-08-03
 		- [x] dll 文件 tensorflow.dll ✅ 2023-08-03
-	- [ ] 音频识别模型代码修改 —— 关键是他们的开发环境让我感觉非常的恶心
+	- [ ] 音频识别模型代码修改
 
 ### 第二天
+
+- [x] 运动一下 ✅ 2023-08-04
 
 ### 第三天

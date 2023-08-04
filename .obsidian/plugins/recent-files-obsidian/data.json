@@ -5,6 +5,10 @@
       "path": "Day3/Day3.md"
     },
     {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Flask Demo",
       "path": "Coding/Python/Repository/Flask/Flask Demo.md"
-    },
-    {
-      "basename": "oto",
-      "path": "Coding/Go/Third-party library/audio/oto/oto.md"
     }
   ],
   "omittedPaths": [],

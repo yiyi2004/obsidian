@@ -132,8 +132,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eassay/随想.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -261,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Eassay/随想.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,8 +327,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "769f0e6ea3b86d3a",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
+    "Eassay/随想.md",
     "Day3/Day3.md",
     "Coding/Go/Database/MySQL/MySQL-黑马程序员.md",
     "Coding/Go/Database/MySQL/MySQL.md",
@@ -358,7 +358,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Eassay/随想.md",
     "Challenge/马拉松比赛",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "AI/AIGC/Snipaste",

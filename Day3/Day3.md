@@ -715,13 +715,7 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 	- [ ] 写 deeplocker 的文档
 	- [x] 静态资源处理 ✅ 2023-08-03
 		- [x] dll 文件 tensorflow.dll ✅ 2023-08-03
-	- [ ] 音频识别模型代码修改
-	- [ ] 今天晚上去跑步
-		- [ ] 热身 
-		- [ ] 跑姿训练
-		- [ ] 肌肉训练
-		- [ ] 跑步
-		- [ ] 拉伸
+	- [ ] 音频识别模型代码修改 —— 关键是他们的开发环境让我感觉非常的恶心
 
 ### 第二天
 

@@ -683,7 +683,7 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 	- [x] python 的代码改完 ---> insert model_info and key info successfully ✅ 2023-07-25
 	- [ ] 写 Android 的程序
 	- [ ] three template
-		- [x] or, 这个修改一下就是 single ✅ 2023-08-04
+		- [x] or 这个修改一下就是 single ✅ 2023-08-04
 		- [x] and ✅ 2023-08-04
 		- [ ] single
 - [ ] 下午看算法的课程 + redis 内容
@@ -696,7 +696,7 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [x] 整理下你的标签页 ✅ 2023-07-26
 - [ ] 仔细考虑一下眼睛手术的问题
 	- [ ] 先去找几个门诊挂号的问题
-- [ ] 准备 OpenHarmoney 的事情
+- [ ] 准备 OpenHarmoney 的事情 | 这下不用准备了
 - [ ] deeplocker —— 晚上
 - [x] 晚上吃完饭，先看书，然后出去跳绳运动 + 跑姿理论 ✅ 2023-07-26
 
@@ -720,5 +720,9 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 ### 第二天
 
 - [x] 运动一下 ✅ 2023-08-04
+- [x] Go 底层原理 ✅ 2023-08-04
+- [x] MySQL ✅ 2023-08-04
+- [ ] Redis
+- [ ] Deeplocker 文档 | 软件功能的划分
 
 ### 第三天

@@ -7,11 +7,20 @@
 
 ```shell
 docker run \
- --name mysql \
- -e MYSQL_ROOT_PASSWORD=deeplocker \
+ --name mysql-redis \
+ -e MYSQL_ROOT_PASSWORD=123456 \
  -p 3306:3306 \
  -v /tmp/mysql/conf/my.cnf:/etc/mysql/conf.d/hmy.cnf \
  -v /tmp/mysql/data:/var/lib/mysql \
+ -d \
+ mysql:5.7
+```
+
+```
+docker run \
+ --name mysql-redis \
+ -e MYSQL_ROOT_PASSWORD=123456 \
+ -p 3306:3306 \
  -d \
  mysql:5.7
 ```

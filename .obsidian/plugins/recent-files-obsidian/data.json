@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
+      "basename": "有的没的",
+      "path": "Project/知识分享会/有的没的.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "Golang 泛型编程基础",
       "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
-    },
-    {
-      "basename": "有的没的",
-      "path": "Project/知识分享会/有的没的.md"
     },
     {
       "basename": "Docker Notebook",
@@ -195,10 +199,6 @@
     {
       "basename": "版本命名规范",
       "path": "Basic/版本命名规范.md"
-    },
-    {
-      "basename": "Flask Demo",
-      "path": "Coding/Python/Repository/Flask/Flask Demo.md"
     }
   ],
   "omittedPaths": [],

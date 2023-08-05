@@ -686,18 +686,18 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 		- [x] or 这个修改一下就是 single ✅ 2023-08-04
 		- [x] and ✅ 2023-08-04
 		- [ ] single
-- [ ] 下午看算法的课程 + redis 内容
-- [ ] 晚上 golang 书籍 + 总结 XMind 内容
-- [ ] **规划一下组织的事情**
+- [x] 下午看算法的课程 + redis 内容 ✅ 2023-08-05
+- [x] 晚上 golang 书籍 + 总结 XMind 内容 ✅ 2023-08-05
+- [x] **规划一下组织的事情** ✅ 2023-08-05
 
 ### 第二天
 
 - [ ] 认真考虑面试的事情
 - [x] 整理下你的标签页 ✅ 2023-07-26
-- [ ] 仔细考虑一下眼睛手术的问题
-	- [ ] 先去找几个门诊挂号的问题
-- [ ] 准备 OpenHarmoney 的事情 | 这下不用准备了
-- [ ] deeplocker —— 晚上
+- [x] 仔细考虑一下眼睛手术的问题 ✅ 2023-08-05
+	- [x] 先去找几个门诊挂号的问题 ✅ 2023-08-05
+- [x] 准备 OpenHarmoney 的事情 | 这下不用准备了 ✅ 2023-08-05
+- [x] deeplocker —— 晚上 ✅ 2023-08-05
 - [x] 晚上吃完饭，先看书，然后出去跳绳运动 + 跑姿理论 ✅ 2023-07-26
 
 ### 第三天
@@ -722,8 +722,10 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [x] 运动一下 ✅ 2023-08-04
 - [x] Go 底层原理 ✅ 2023-08-04
 - [x] MySQL ✅ 2023-08-04
-- [ ] Redis —— 今天的内容先总结一下
-- [ ] Deeplocker 文档 | 软件功能的划分
+- [x] Redis —— 今天的内容先总结一下 ✅ 2023-08-05
+- [x] Deeplocker 文档 | 软件功能的划分 ✅ 2023-08-05
 - [ ] 制定训练计划
 
 ### 第三天
+
+- [ ] 规划一下组织的事情

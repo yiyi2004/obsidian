@@ -79,22 +79,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "f86b25e77bd321a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,12 +161,20 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "51d25be41296f270",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 425.51103591918945
+    "width": 311.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -196,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -214,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -281,8 +275,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f86b25e77bd321a4",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Archived/Archived index.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Day3/Day3.md",
+    "Cloud Native/Docker/Docker 安装 MySQL.md",
+    "Tasks/需要整理的知识结构.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
     "Coding/Go/Database/MySQL/MySQL-运维篇.pdf",
@@ -290,15 +291,11 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cloud Native/Linux/firewalld 端口管理.md",
     "Cloud Native/Linux/Linux.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
     "Project/知识分享会/有的没的.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
-    "Cloud Native/Docker/Docker 安装 MySQL.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/~$02-Redis企业实战.pptx",
-    "Day3/Day3.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/UserServiceImpl.java",
@@ -313,12 +310,9 @@
     "Coding/Go/Database/MySQL/MySQL.md",
     "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
-    "Tasks/需要整理的知识结构.md",
     "Coding/Go/go context.md",
     "Cyber Security/Deeplocker/Deeplocker 文档整理(内部).md",
     "Cloud Native/Docker/Docker 安装.md",
-    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
-    "Cyber Security/调研/Deeplocker.md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",

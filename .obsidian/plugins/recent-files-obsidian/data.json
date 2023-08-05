@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Archived index",
+      "path": "Archived/Archived index.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
       "basename": "原理篇",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
     },
@@ -33,10 +57,6 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
       "basename": "firewalld 端口管理",
       "path": "Cloud Native/Linux/firewalld 端口管理.md"
     },
@@ -51,18 +71,6 @@
     {
       "basename": "有的没的",
       "path": "Project/知识分享会/有的没的.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Go 设计模式索引",
@@ -91,10 +99,6 @@
     {
       "basename": "MySQL",
       "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "go context",
@@ -195,10 +199,6 @@
     {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
-    },
-    {
-      "basename": "pkg-config",
-      "path": "Tools/pkg-config.md"
     }
   ],
   "omittedPaths": [],

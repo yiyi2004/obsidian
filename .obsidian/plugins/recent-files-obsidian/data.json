@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "原理篇",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
+    },
+    {
+      "basename": "MySQL 分库分表",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md"
+    },
+    {
+      "basename": "MySQL 读写分离",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md"
+    },
+    {
+      "basename": "MySQL-运维篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-运维篇.pdf"
+    },
+    {
+      "basename": "Redis高级篇之最佳实践",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md"
+    },
+    {
+      "basename": "多级缓存",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md"
+    },
+    {
+      "basename": "Redis高级-分布式缓存",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md"
     },
     {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "firewalld 端口管理",
@@ -113,22 +141,6 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md"
     },
     {
-      "basename": "原理篇",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
-    },
-    {
-      "basename": "Redis高级篇之最佳实践",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md"
-    },
-    {
-      "basename": "多级缓存",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md"
-    },
-    {
-      "basename": "Redis高级-分布式缓存",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md"
-    },
-    {
       "basename": "deeplocker python API development",
       "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "pkg-config",
       "path": "Tools/pkg-config.md"
-    },
-    {
-      "basename": "Tools index",
-      "path": "Tools/Tools index.md"
-    },
-    {
-      "basename": "如何用 Go 破解程序",
-      "path": "Cyber Security/如何用 Go 破解程序.md"
-    },
-    {
-      "basename": "网络安全 Github 工具资料搜集",
-      "path": "Cyber Security/网络安全 Github 工具资料搜集.md"
     }
   ],
   "omittedPaths": [],

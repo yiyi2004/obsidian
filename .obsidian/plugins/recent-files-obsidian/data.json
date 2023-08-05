@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+      "basename": "有的没的",
+      "path": "Project/知识分享会/有的没的.md"
     },
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
     },
     {
-      "basename": "有的没的",
-      "path": "Project/知识分享会/有的没的.md"
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
     },
     {
       "basename": "Go 设计模式索引",
@@ -47,10 +51,6 @@
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "go context",

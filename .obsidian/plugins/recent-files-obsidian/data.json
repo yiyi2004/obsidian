@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "firewalld 端口管理",
+      "path": "Cloud Native/Linux/firewalld 端口管理.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Cloud Native/Linux/Linux.md"
+    },
+    {
+      "basename": "Redis实战篇",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md"
+    },
+    {
       "basename": "有的没的",
       "path": "Project/知识分享会/有的没的.md"
     },
@@ -11,10 +31,6 @@
     {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
       "basename": "Day3",
@@ -55,10 +71,6 @@
     {
       "basename": "go context",
       "path": "Coding/Go/go context.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
     },
     {
       "basename": "Deeplocker 文档整理(内部)",
@@ -119,10 +131,6 @@
     {
       "basename": "deeplocker python API development",
       "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
-    },
-    {
-      "basename": "Redis实战篇",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md"
     },
     {
       "basename": "01.快速入门",
@@ -191,14 +199,6 @@
     {
       "basename": "网络安全 Github 工具资料搜集",
       "path": "Cyber Security/网络安全 Github 工具资料搜集.md"
-    },
-    {
-      "basename": "Go Audio",
-      "path": "Coding/Go/Third-party library/audio/Go Audio.md"
-    },
-    {
-      "basename": "短时傅里叶变换(STFT)",
-      "path": "Coding/Go/Third-party library/audio/短时傅里叶变换(STFT).md"
     }
   ],
   "omittedPaths": [],

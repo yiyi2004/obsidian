@@ -79,35 +79,9 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "54ede2c1d5de7a0c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55e6d56c7bc11525",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/知识分享会/有的没的.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/知识分享会/有的没的.md"
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md"
               }
             }
           },
@@ -227,7 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +226,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/知识分享会/有的没的.md",
+                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -294,14 +268,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55e6d56c7bc11525",
+  "active": "66d50a08dd7e5345",
   "lastOpenFiles": [
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
+    "Cloud Native/Linux/firewalld 端口管理.md",
+    "Cloud Native/Linux/Linux.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
+    "Project/知识分享会/有的没的.md",
     "Coding/Go/Book/Go 推荐书籍.md",
     "Cloud Native/Docker/Docker 安装 MySQL.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/~$02-Redis企业实战.pptx",
     "Day3/Day3.md",
-    "Project/知识分享会/有的没的.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/UserServiceImpl.java",
@@ -329,9 +306,6 @@
     "Cloud Native/Docker/Docker Notebook.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",

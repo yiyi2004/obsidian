@@ -92,8 +92,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "70be0fcea3d9c1e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -137,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
               }
             }
           },
@@ -221,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,15 +303,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "70be0fcea3d9c1e9",
   "lastOpenFiles": [
-    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Cyber Security/Deeplocker/deeplocker 测试.md",
-    "Day3/Day3.md",
-    "Cloud Native/Docker/Docker 安装 MySQL.md",
-    "Archived/Archived index.md",
+    "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+    "Cyber Security/Deeplocker/deeplocker frontend.md",
+    "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Coding/Go/Book/Go 推荐书籍.md",
+    "Cloud Native/Docker/Docker 安装 MySQL.md",
+    "Day3/Day3.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Cyber Security/Deeplocker/deeplocker 测试.md",
+    "Archived/Archived index.md",
     "Tasks/需要整理的知识结构.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
@@ -324,9 +341,6 @@
     "Eassay/随想.md",
     "Coding/Go/Database/MySQL/MySQL-黑马程序员.md",
     "Coding/Go/Database/MySQL/MySQL.md",
-    "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
-    "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
-    "Coding/Go/go context.md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",

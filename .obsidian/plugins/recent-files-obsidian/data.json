@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Deeplocker 文档(内部)",
+      "path": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "deeplocker frontend",
+      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+    },
+    {
+      "basename": "deeplocker python API development",
+      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
       "basename": "Day3",
       "path": "Day3/Day3.md"
     },
@@ -9,24 +33,12 @@
       "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
       "basename": "deeplocker 测试",
       "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
     },
     {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
       "basename": "Archived index",
       "path": "Archived/Archived index.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "需要整理的知识结构",
@@ -153,10 +165,6 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md"
     },
     {
-      "basename": "deeplocker python API development",
-      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
-    },
-    {
       "basename": "01.快速入门",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "段子素材",
       "path": "Write/Material for Writing/生活趣事/段子素材.md"
-    },
-    {
-      "basename": "np.pad",
-      "path": "Coding/Python/Repository/numpy/np.pad.md"
-    },
-    {
-      "basename": "AIGC",
-      "path": "AI/AIGC/AIGC.md"
     }
   ],
   "omittedPaths": [],

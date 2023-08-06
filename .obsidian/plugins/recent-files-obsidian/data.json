@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "deeplocker 测试",
       "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "Docker 安装 MySQL",

@@ -93,8 +93,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/实习/第一份寒假实习.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/实习/第一份寒假实习.md"
+                "file": "Day3/Day3.md"
               }
             }
           },
@@ -222,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/实习/第一份寒假实习.md",
+                "file": "Day3/Day3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/实习/第一份寒假实习.md",
+                "file": "Day3/Day3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,8 +289,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a79b58af2f589b85",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
+    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Day3/Day3.md",
@@ -327,7 +327,6 @@
     "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
     "Coding/Go/go context.md",
-    "Cyber Security/Deeplocker/Deeplocker 文档整理(内部).md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",

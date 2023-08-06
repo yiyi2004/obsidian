@@ -729,3 +729,9 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 ### 第三天
 
 - [ ] 规划一下组织的事情
+- [ ] deeplocker 相对路径的问题
+- [x] deeplocker 单独模型的问题 ✅ 2023-08-06
+- [ ] deeplocker target 问题
+- [ ] deeplocker mode 问题
+- [ ] deeplocker 文档
+- [ ] deeplocker hash 问题

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "deeplocker 测试",
+      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
     },
     {
       "basename": "Archived index",
@@ -15,10 +27,6 @@
     {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
     },
     {
       "basename": "需要整理的知识结构",
@@ -191,14 +199,6 @@
     {
       "basename": "AIGC",
       "path": "AI/AIGC/AIGC.md"
-    },
-    {
-      "basename": "马拉松比赛备赛",
-      "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
     }
   ],
   "omittedPaths": [],

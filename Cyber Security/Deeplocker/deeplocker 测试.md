@@ -59,7 +59,7 @@ Windows 激活程序测试这部分包含**两台笔记本**，一台是这个 W
 
 基于**人脸识别**模型的**图片**载荷激活程序
 
-- [ ] Video + Jpg
+- [x] Video + Jpg
 
 ```powershell
 go run main.go --test video --kind jpg
@@ -67,7 +67,7 @@ go run main.go --test video --kind jpg
 
 基于**人脸识别**模型的**文本**载荷激活程序
 
-- [ ] Video + Txt
+- [x] Video + Txt
 
 ```powershell
 go run main.go --test video --kind txt
@@ -75,7 +75,7 @@ go run main.go --test video --kind txt
 
 基于**人脸识别**模型的**音频**载荷激活程序
 
-- [ ] Video + Wav
+- [x] Video + Wav
 
 ```powershell
 go run main.go --test video --kind wav
@@ -83,7 +83,7 @@ go run main.go --test video --kind wav
 
 基于**人脸识别**模型的**视频**载荷激活程序
 
-- [ ] Video + Mp4
+- [x] Video + Mp4
 
 ```powershell
 go run main.go --test video --kind mp4
@@ -93,7 +93,7 @@ go run main.go --test video --kind mp4
 
 基于**声音识别**模型的**图片**载荷激活程序
 
-- [ ] Audio + Jpg
+- [x] Audio + Jpg
 
 ```powershell
 go run main.go --test audio --kind jpg
@@ -101,7 +101,7 @@ go run main.go --test audio --kind jpg
 
 基于**声音识别**模型的**文本**载荷激活程序
 
-- [ ] Audio + Txt
+- [x] Audio + Txt
 
 ```powershell
 go run main.go --test audio --kind txt
@@ -109,7 +109,7 @@ go run main.go --test audio --kind txt
 
 基于**声音识别**模型的**音频**载荷激活程序
 
-- [ ] Audio + Wav
+- [x] Audio + Wav
 
 ```powershell
 go run main.go --test audio --kind wav
@@ -117,7 +117,7 @@ go run main.go --test audio --kind wav
 
 基于**声音识别**模型的**视频**载荷激活程序
 
-- [ ] Audio + Mp4
+- [x] Audio + Mp4
 
 ```powershell
 go run main.go --test audio --kind mp4

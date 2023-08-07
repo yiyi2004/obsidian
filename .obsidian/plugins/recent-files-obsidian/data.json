@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Deeplocker 文档(内部)",
-      "path": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
+      "basename": "随想",
+      "path": "Eassay/随想.md"
+    },
+    {
+      "basename": "随笔",
+      "path": "Write/Material for Writing/生活趣事/随笔.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "Deeplocker 文档(内部)",
+      "path": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
     },
     {
       "basename": "deeplocker frontend",
@@ -29,20 +45,12 @@
       "path": "Day3/Day3.md"
     },
     {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
       "basename": "deeplocker 测试",
       "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
     },
     {
       "basename": "Archived index",
       "path": "Archived/Archived index.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     },
     {
       "basename": "原理篇",
@@ -95,10 +103,6 @@
     {
       "basename": "Go 设计模式索引",
       "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "随想",
-      "path": "Eassay/随想.md"
     },
     {
       "basename": "MySQL-黑马程序员",
@@ -191,10 +195,6 @@
     {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "随笔",
-      "path": "Write/Material for Writing/生活趣事/随笔.md"
     },
     {
       "basename": "段子素材",

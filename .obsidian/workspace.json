@@ -66,21 +66,6 @@
             }
           },
           {
-            "id": "66d50a08dd7e5345",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker backend summary.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "a79b58af2f589b85",
             "type": "leaf",
             "state": {
@@ -100,6 +85,19 @@
               "type": "markdown",
               "state": {
                 "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "10250c4cef4c5f3a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Eassay/随想.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+                "file": "Eassay/随想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +215,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
+                "file": "Eassay/随想.md"
               }
             }
           },
@@ -235,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+                "file": "Eassay/随想.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +258,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+                "file": "Eassay/随想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -303,19 +301,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "70be0fcea3d9c1e9",
+  "active": "10250c4cef4c5f3a",
   "lastOpenFiles": [
+    "Write/Material for Writing/生活趣事/随笔.md",
+    "Tasks/需要整理的知识结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
+    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
     "Coding/Go/Book/Go 推荐书籍.md",
     "Cloud Native/Docker/Docker 安装 MySQL.md",
     "Day3/Day3.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Archived/Archived index.md",
-    "Tasks/需要整理的知识结构.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
     "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
@@ -340,7 +339,6 @@
     "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Eassay/随想.md",
     "Coding/Go/Database/MySQL/MySQL-黑马程序员.md",
-    "Coding/Go/Database/MySQL/MySQL.md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",

@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "obsidian workflow",
-      "path": "Tools/obsidian workflow.md"
+      "basename": "有的没的",
+      "path": "Project/知识分享会/有的没的.md"
     },
     {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
+    },
+    {
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "Deeplocker 文档(内部)",
@@ -21,20 +29,20 @@
       "path": "Eassay/随想.md"
     },
     {
+      "basename": "obsidian workflow",
+      "path": "Tools/obsidian workflow.md"
+    },
+    {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "随笔",
       "path": "Write/Material for Writing/生活趣事/随笔.md"
     },
     {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
       "basename": "deeplocker backend summary",
       "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "deeplocker frontend",
@@ -43,10 +51,6 @@
     {
       "basename": "deeplocker python API development",
       "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
     },
     {
       "basename": "deeplocker 测试",
@@ -99,10 +103,6 @@
     {
       "basename": "Redis实战篇",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md"
-    },
-    {
-      "basename": "有的没的",
-      "path": "Project/知识分享会/有的没的.md"
     },
     {
       "basename": "Go 设计模式索引",

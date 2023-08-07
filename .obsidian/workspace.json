@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,45 +75,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "70be0fcea3d9c1e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "10250c4cef4c5f3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Eassay/随想.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aabd2a1f13c7f1ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tools/obsidian workflow.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -159,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Project/知识分享会/有的没的.md"
               }
             }
           },
@@ -243,7 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -268,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Project/知识分享会/有的没的.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,20 +271,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "811215e87ba12079",
+  "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Tools/obsidian workflow.md",
-    "Day3/Day3.md",
     "Cloud Native/Docker/Docker 安装 MySQL.md",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Tasks/需要整理的知识结构.md",
+    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
     "Eassay/随想.md",
+    "Tools/obsidian workflow.md",
+    "Project/知识分享会/有的没的.md",
+    "Day3/Day3.md",
     "Write/Material for Writing/生活趣事/随笔.md",
-    "Tasks/需要整理的知识结构.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Cyber Security/Deeplocker/deeplocker frontend.md",
     "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Archived/Archived index.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
@@ -337,7 +299,6 @@
     "Cloud Native/Linux/firewalld 端口管理.md",
     "Cloud Native/Linux/Linux.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
-    "Project/知识分享会/有的没的.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/~$02-Redis企业实战.pptx",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java",

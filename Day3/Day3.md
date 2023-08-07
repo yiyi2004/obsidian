@@ -735,3 +735,15 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [ ] deeplocker mode 问题
 - [ ] deeplocker 文档
 - [ ] deeplocker hash 问题
+
+## 20230807
+
+这一年已经快要过去了，你还有什么事情是没有去做的呢？
+
+### 第一天
+
+- [ ] 找个色卡 ---> 修改一下
+
+### 第二天
+
+### 第三天

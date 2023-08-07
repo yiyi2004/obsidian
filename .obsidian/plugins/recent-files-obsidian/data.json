@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
+      "basename": "obsidian workflow",
+      "path": "Tools/obsidian workflow.md"
+    },
+    {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
       "basename": "Deeplocker 文档(内部)",
       "path": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
     },
@@ -35,14 +47,6 @@
     {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "deeplocker 测试",
@@ -195,10 +199,6 @@
     {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "段子素材",
-      "path": "Write/Material for Writing/生活趣事/段子素材.md"
     }
   ],
   "omittedPaths": [],

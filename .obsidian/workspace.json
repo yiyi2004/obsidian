@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Day3/Day3-202302.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Day3/Day3-202302.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3.md"
+                "file": "Day3/Day3-202302.md"
               }
             }
           },
@@ -217,7 +217,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Day3/Day3-202302.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +242,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3.md",
+                "file": "Day3/Day3-202302.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,12 +286,14 @@
   },
   "active": "e99dc25ff00fb4db",
   "lastOpenFiles": [
-    "Project/知识分享会/有的没的.md",
-    "Day3/Day3.md",
     "Cloud Native/Docker/Docker 安装 MySQL.md",
     "Coding/Go/Book/Go 推荐书籍.md",
     "Tasks/需要整理的知识结构.md",
     "Tasks/实习/第一份寒假实习.md",
+    "Project/知识分享会/有的没的.md",
+    "Day3/Day3-202302.md",
+    "Day3/Day3-202301.md",
+    "Day3/时间安排.md",
     "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
     "Eassay/随想.md",
     "Tools/obsidian workflow.md",
@@ -311,7 +313,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Cloud Native/Linux/firewalld 端口管理.md",
     "Cloud Native/Linux/Linux.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/~$02-Redis企业实战.pptx",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java",
@@ -321,7 +322,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/SeckillVoucherServiceImpl.java",
     "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java",
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
     "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
     "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",

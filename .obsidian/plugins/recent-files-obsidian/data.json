@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
-    },
-    {
-      "basename": "有的没的",
-      "path": "Project/知识分享会/有的没的.md"
+      "basename": "Day3-202302",
+      "path": "Day3/Day3-202302.md"
     },
     {
       "basename": "Docker 安装 MySQL",
@@ -23,6 +19,18 @@
     {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
+    },
+    {
+      "basename": "有的没的",
+      "path": "Project/知识分享会/有的没的.md"
+    },
+    {
+      "basename": "Day3-202301",
+      "path": "Day3/Day3-202301.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
       "basename": "Deeplocker 文档(内部)",
@@ -191,14 +199,6 @@
     {
       "basename": "Redis 使用场景",
       "path": "Coding/Go/Database/Redis/Redis 使用场景.md"
-    },
-    {
-      "basename": "go-redis",
-      "path": "Coding/Go/Database/Redis/go-redis.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
     }
   ],
   "omittedPaths": [],

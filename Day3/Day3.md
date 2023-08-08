@@ -751,5 +751,7 @@ ls/customization/performance#python_or_tensor_args and https://www.tensorflow.or
 - [ ] 记得买车票
 - [ ] 文档再写的完善一点 —— 其实是要写文档的
 - [ ] 模块的划分
+- [ ] 把该优化的地方做出优化
+- [ ] 出一个概括图
 
 ### 第三天

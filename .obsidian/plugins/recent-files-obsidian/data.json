@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3",
+      "path": "Day3/Day3.md"
+    },
+    {
       "basename": "有的没的",
       "path": "Project/知识分享会/有的没的.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "obsidian workflow",
       "path": "Tools/obsidian workflow.md"
-    },
-    {
-      "basename": "Day3",
-      "path": "Day3/Day3.md"
     },
     {
       "basename": "随笔",

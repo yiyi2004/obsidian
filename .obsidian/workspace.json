@@ -8,7 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e99dc25ff00fb4db",
+            "id": "a3e6419c4a5d2f9e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/时间安排.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "984a0ef0cbb771dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/重症肌无力/资料搜集.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30524611393558f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/重症肌无力/北京地区医院.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4d2d3ad37c6808e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,77 +60,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "edcbf8a1a5028056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Native/Docker/Docker 安装 MySQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f206e029aee6ebe1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Book/Go 推荐书籍.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c2adce9776ec397a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/需要整理的知识结构.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a79b58af2f589b85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/实习/第一份寒假实习.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "313c1e4584739b93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project/知识分享会/有的没的.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -183,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.51103591918945
+    "width": 306.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -194,7 +167,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "811215e87ba12079",
+            "id": "6a020e4dd0b166fe",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -204,15 +177,15 @@
             }
           },
           {
-            "id": "24ec5dd69d73c45a",
+            "id": "6e89884ae49250e2",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "reminder-list",
               "state": {}
             }
           },
           {
-            "id": "5cf2fdffe7792622",
+            "id": "0786267144a6a41f",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -229,10 +202,10 @@
             }
           },
           {
-            "id": "6e89884ae49250e2",
+            "id": "590962806c8ec8c4",
             "type": "leaf",
             "state": {
-              "type": "reminder-list",
+              "type": "calendar",
               "state": {}
             }
           },
@@ -284,54 +257,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e99dc25ff00fb4db",
+  "active": "e4d2d3ad37c6808e",
   "lastOpenFiles": [
-    "Coding/Go/Book/Go 推荐书籍.md",
-    "Cloud Native/Docker/Docker 安装 MySQL.md",
-    "Tasks/需要整理的知识结构.md",
-    "Day3/Day3-202302.md",
-    "Tasks/实习/第一份寒假实习.md",
-    "Project/知识分享会/有的没的.md",
-    "Day3/Day3-202301.md",
     "Day3/时间安排.md",
-    "Cyber Security/Deeplocker/Deeplocker 文档(内部).md",
+    "Day3/Day3-202302.md",
+    "Life/重症肌无力/北京地区医院.md",
+    "Life/重症肌无力/资料搜集.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Life/重症肌无力",
     "Eassay/随想.md",
-    "Tools/obsidian workflow.md",
-    "Write/Material for Writing/生活趣事/随笔.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Cyber Security/Deeplocker/deeplocker frontend.md",
-    "Cyber Security/Deeplocker/deeplocker python API development.md",
-    "Cyber Security/Deeplocker/deeplocker 测试.md",
-    "Archived/Archived index.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
-    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md",
-    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
-    "Coding/Go/Database/MySQL/MySQL-运维篇.pdf",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Cloud Native/Linux/firewalld 端口管理.md",
-    "Cloud Native/Linux/Linux.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/~$02-Redis企业实战.pptx",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherOrderServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/VoucherServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/UserServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/UserInfoServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/ShopTypeServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/ShopServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/SeckillVoucherServiceImpl.java",
-    "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/资料/hm-dianping/src/main/java/com/hmdp/service/impl/FollowServiceImpl.java",
-    "AI/AIGC/Snipaste/Pasted image 20230719194225.png",
-    "Basic/计算机组成原理/04.第四章 指令系统.xmind.svg",
-    "Basic/计算机组成原理/03.第三章 存储系统.xmind.svg",
-    "Basic/计算机组成原理/02.第二章 数据的表示和运算.xmind.svg",
-    "Basic/计算机组成原理/01.第一章 计算机系统概述.xmind.svg",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161854.png",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161842.png",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161831.png",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161717.png",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230707161715.png",
+    "Challenge/马拉松比赛/马拉松比赛备赛.md",
+    "Challenge/Habit Challenge/费曼学习法.md",
+    "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md",
+    "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
+    "Master's degree/秋招.md",
+    "Master's degree/如何开组会.md",
+    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
+    "Algorithm/算法总结.md",
+    "Algorithm/Algorithm index.md",
+    "Algorithm/Raft 一致性算法.md",
+    "AI/PyTorch/7. Github 项目.md",
+    "AI/PyTorch/8. Data Set.md",
+    "AI/Python 机器学习笔记/1. Python 基本操作(Numpy 需要补充).md",
+    "AI/Python 机器学习笔记/3. matplotlib.md",
+    "AI/Python 机器学习笔记/2. Pandas.md",
+    "AI/Python 机器学习笔记/4. 机器学习.md",
+    "AI/Python 机器学习笔记/5. 机器学习数学基础.md",
+    "AI/Python 机器学习笔记/6. 矩阵求导.md",
+    "AI/Python 机器学习笔记/7. 线性回归.md",
+    "AI/Python 机器学习笔记/8. 逻辑回归.md",
+    "AI/Python 机器学习笔记/9. 贝叶斯算法.md",
+    "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
+    "Share",
+    "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810201854.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810203238.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810203205.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810202919.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810202910.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810202415.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810202401.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810201651.png",
+    "Course/所长林超/Snipaste/Pasted image 20230810201622.png",
+    "Course/所长林超/Snipaste",
+    "Course/所长林超",
+    "Course",
+    "AI/未命名",
+    "Challenge/表达能力训练/写作方法总结/Snipaste",
+    "Challenge/表达能力训练/写作方法总结",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

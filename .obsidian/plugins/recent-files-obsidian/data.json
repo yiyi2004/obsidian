@@ -5,200 +5,200 @@
       "path": "Day3/Day3-202302.md"
     },
     {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+      "basename": "北京地区医院",
+      "path": "Life/重症肌无力/北京地区医院.md"
     },
     {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
+      "basename": "资料搜集",
+      "path": "Life/重症肌无力/资料搜集.md"
     },
     {
       "basename": "第一份寒假实习",
       "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
-      "basename": "有的没的",
-      "path": "Project/知识分享会/有的没的.md"
-    },
-    {
-      "basename": "Day3-202301",
-      "path": "Day3/Day3-202301.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
-    },
-    {
-      "basename": "Deeplocker 文档(内部)",
-      "path": "Cyber Security/Deeplocker/Deeplocker 文档(内部).md"
-    },
-    {
       "basename": "随想",
       "path": "Eassay/随想.md"
     },
     {
-      "basename": "obsidian workflow",
-      "path": "Tools/obsidian workflow.md"
+      "basename": "马拉松比赛备赛",
+      "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
     },
     {
-      "basename": "随笔",
-      "path": "Write/Material for Writing/生活趣事/随笔.md"
+      "basename": "费曼学习法",
+      "path": "Challenge/Habit Challenge/费曼学习法.md"
     },
     {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+      "basename": "每天阅读并反馈自己的原则",
+      "path": "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md"
     },
     {
-      "basename": "deeplocker frontend",
-      "path": "Cyber Security/Deeplocker/deeplocker frontend.md"
+      "basename": "Algorithm —— 每天至少 2 个小时",
+      "path": "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md"
     },
     {
-      "basename": "deeplocker python API development",
-      "path": "Cyber Security/Deeplocker/deeplocker python API development.md"
+      "basename": "秋招",
+      "path": "Master's degree/秋招.md"
     },
     {
-      "basename": "deeplocker 测试",
-      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
-    },
-    {
-      "basename": "Archived index",
-      "path": "Archived/Archived index.md"
-    },
-    {
-      "basename": "原理篇",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
-    },
-    {
-      "basename": "MySQL 分库分表",
-      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 分库分表.md"
-    },
-    {
-      "basename": "MySQL 读写分离",
-      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md"
-    },
-    {
-      "basename": "MySQL-运维篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-运维篇.pdf"
-    },
-    {
-      "basename": "Redis高级篇之最佳实践",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/03-Redis最佳实践/Redis高级篇之最佳实践.md"
-    },
-    {
-      "basename": "多级缓存",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/02-多级缓存/多级缓存.md"
-    },
-    {
-      "basename": "Redis高级-分布式缓存",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/01-分布式缓存/Redis高级-分布式缓存.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "firewalld 端口管理",
-      "path": "Cloud Native/Linux/firewalld 端口管理.md"
-    },
-    {
-      "basename": "Linux",
-      "path": "Cloud Native/Linux/Linux.md"
-    },
-    {
-      "basename": "Redis实战篇",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/02-实战篇/讲义/Redis实战篇.md"
-    },
-    {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "MySQL-黑马程序员",
-      "path": "Coding/Go/Database/MySQL/MySQL-黑马程序员.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
-      "basename": "Go 连接 MySQL",
-      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
+      "basename": "如何开组会",
+      "path": "Master's degree/如何开组会.md"
     },
     {
       "basename": "MySQL-进阶篇",
       "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
     },
     {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
+      "basename": "Algorithm index",
+      "path": "Algorithm/Algorithm index.md"
+    },
+    {
+      "basename": "Raft 一致性算法",
+      "path": "Algorithm/Raft 一致性算法.md"
+    },
+    {
+      "basename": "7. Github 项目",
+      "path": "AI/PyTorch/7. Github 项目.md"
+    },
+    {
+      "basename": "8. Data Set",
+      "path": "AI/PyTorch/8. Data Set.md"
+    },
+    {
+      "basename": "1. Python 基本操作(Numpy 需要补充)",
+      "path": "AI/Python 机器学习笔记/1. Python 基本操作(Numpy 需要补充).md"
+    },
+    {
+      "basename": "3. matplotlib",
+      "path": "AI/Python 机器学习笔记/3. matplotlib.md"
+    },
+    {
+      "basename": "2. Pandas",
+      "path": "AI/Python 机器学习笔记/2. Pandas.md"
+    },
+    {
+      "basename": "4. 机器学习",
+      "path": "AI/Python 机器学习笔记/4. 机器学习.md"
+    },
+    {
+      "basename": "5. 机器学习数学基础",
+      "path": "AI/Python 机器学习笔记/5. 机器学习数学基础.md"
+    },
+    {
+      "basename": "6. 矩阵求导",
+      "path": "AI/Python 机器学习笔记/6. 矩阵求导.md"
+    },
+    {
+      "basename": "7. 线性回归",
+      "path": "AI/Python 机器学习笔记/7. 线性回归.md"
+    },
+    {
+      "basename": "8. 逻辑回归",
+      "path": "AI/Python 机器学习笔记/8. 逻辑回归.md"
+    },
+    {
+      "basename": "9. 贝叶斯算法",
+      "path": "AI/Python 机器学习笔记/9. 贝叶斯算法.md"
+    },
+    {
+      "basename": "10. 神经网络",
+      "path": "AI/Python 机器学习笔记/10. 神经网络.md"
+    },
+    {
+      "basename": "11. 贝叶斯算法实现哦",
+      "path": "AI/Python 机器学习笔记/11. 贝叶斯算法实现哦.md"
+    },
+    {
+      "basename": "A comprehensive review study of cyber-attacks and cyber security",
+      "path": "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf"
+    },
+    {
+      "basename": "原理篇",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
       "basename": "MySQL",
       "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
     },
     {
-      "basename": "go context",
-      "path": "Coding/Go/go context.md"
+      "basename": "Day3-202301",
+      "path": "Day3/Day3-202301.md"
     },
     {
-      "basename": "Deeplocker 文档整理(内部)",
-      "path": "Cyber Security/Deeplocker/Deeplocker 文档整理(内部).md"
+      "basename": "如何写好脚本捏？",
+      "path": "Share/如何写好脚本捏？.md"
     },
     {
-      "basename": "Docker 安装",
-      "path": "Cloud Native/Docker/Docker 安装.md"
+      "basename": "01 知识分享会的重要意义",
+      "path": "Challenge/表达能力训练/写作训练 800 字/01 知识分享会的重要意义.md"
     },
     {
-      "basename": "Deeplocker 攻击流程",
-      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+      "basename": "ChatGPT",
+      "path": "AI/LLM/Chatgpt/ChatGPT.md"
     },
     {
-      "basename": "Deeplocker",
-      "path": "Cyber Security/调研/Deeplocker.md"
+      "basename": "ChatGPT 商业价值",
+      "path": "AI/LLM/Chatgpt/ChatGPT 商业价值.md"
     },
     {
-      "basename": "Set",
-      "path": "Coding/Go/基础知识/Set.md"
+      "basename": "chatgpt memos summary",
+      "path": "AI/LLM/Chatgpt/chatgpt memos summary.md"
     },
     {
-      "basename": "Golang 泛型编程基础",
-      "path": "Coding/Go/泛型编程/Golang 泛型编程基础.md"
+      "basename": "成绩记录",
+      "path": "How to/成绩记录.md"
     },
     {
-      "basename": "Docker Notebook",
-      "path": "Cloud Native/Docker/Docker Notebook.md"
+      "basename": "Private 银行卡",
+      "path": "Private/Private 银行卡.md"
     },
     {
-      "basename": "Redis高级篇之最佳实践",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md"
+      "basename": "需要整理的知识结构",
+      "path": "Tasks/需要整理的知识结构.md"
     },
     {
-      "basename": "Redis高级-分布式缓存",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-分布式缓存/Redis高级-分布式缓存.md"
+      "basename": "熵和热力学第二定律",
+      "path": "Course/所长林超/熵和热力学第二定律.md"
     },
     {
-      "basename": "多级缓存",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-多级缓存/多级缓存.md"
+      "basename": "Pasted image 20230810201854 1",
+      "path": "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png"
     },
     {
-      "basename": "01.快速入门",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md"
+      "basename": "Pasted image 20230810201854",
+      "path": "Course/所长林超/Snipaste/Pasted image 20230810201854.png"
     },
     {
-      "basename": "00.课程介绍",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md"
+      "basename": "惯性定律",
+      "path": "Interesting/物理学/惯性定律.md"
     },
     {
-      "basename": "Redis安装说明",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/资料/Redis安装说明.md"
+      "basename": "02 如何充分利用 ChatGPT",
+      "path": "Challenge/表达能力训练/写作训练 800 字/02 如何充分利用 ChatGPT.md"
     },
     {
-      "basename": "Redis文档",
-      "path": "Coding/Go/Database/Redis/Redis 基础/Redis文档.md"
+      "basename": "议论文写作",
+      "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
     },
     {
-      "basename": "Redis 使用场景",
-      "path": "Coding/Go/Database/Redis/Redis 使用场景.md"
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "训练原则",
+      "path": "Challenge/表达能力训练/训练原则.md"
     }
   ],
   "omittedPaths": [],

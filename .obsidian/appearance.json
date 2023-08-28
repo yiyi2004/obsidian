@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "baseFontSize": 18,
-  "cssTheme": "Wasp",
+  "cssTheme": "Prism",
   "translucency": false,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Arial Black",

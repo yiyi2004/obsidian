@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "TS-从一个项目开始",
+      "path": "Coding/TypeScript/TS-从一个项目开始.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md"
+    },
+    {
       "basename": "Day3-202302",
       "path": "Day3/Day3-202302.md"
     },
@@ -9,12 +17,40 @@
       "path": "Day3/时间安排.md"
     },
     {
-      "basename": "北京地区医院",
-      "path": "Life/重症肌无力/北京地区医院.md"
+      "basename": "训练原则",
+      "path": "Challenge/表达能力训练/训练原则.md"
+    },
+    {
+      "basename": "03 某一天的工作复盘",
+      "path": "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md"
+    },
+    {
+      "basename": "math",
+      "path": "Coding/Go/标准库的使用/math.md"
+    },
+    {
+      "basename": "Golang 回顾",
+      "path": "Go/Golang 回顾.md"
+    },
+    {
+      "basename": "MySQL-进阶篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
     },
     {
       "basename": "资料搜集",
       "path": "Life/重症肌无力/资料搜集.md"
+    },
+    {
+      "basename": "北京地区医院",
+      "path": "Life/重症肌无力/北京地区医院.md"
+    },
+    {
+      "basename": "议论文写作",
+      "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
     },
     {
       "basename": "第一份寒假实习",
@@ -47,10 +83,6 @@
     {
       "basename": "如何开组会",
       "path": "Master's degree/如何开组会.md"
-    },
-    {
-      "basename": "MySQL-进阶篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
     },
     {
       "basename": "算法总结",
@@ -167,38 +199,6 @@
     {
       "basename": "需要整理的知识结构",
       "path": "Tasks/需要整理的知识结构.md"
-    },
-    {
-      "basename": "熵和热力学第二定律",
-      "path": "Course/所长林超/熵和热力学第二定律.md"
-    },
-    {
-      "basename": "Pasted image 20230810201854 1",
-      "path": "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png"
-    },
-    {
-      "basename": "Pasted image 20230810201854",
-      "path": "Course/所长林超/Snipaste/Pasted image 20230810201854.png"
-    },
-    {
-      "basename": "惯性定律",
-      "path": "Interesting/物理学/惯性定律.md"
-    },
-    {
-      "basename": "02 如何充分利用 ChatGPT",
-      "path": "Challenge/表达能力训练/写作训练 800 字/02 如何充分利用 ChatGPT.md"
-    },
-    {
-      "basename": "议论文写作",
-      "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
-    },
-    {
-      "basename": "Go 推荐书籍",
-      "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "训练原则",
-      "path": "Challenge/表达能力训练/训练原则.md"
     }
   ],
   "omittedPaths": [],

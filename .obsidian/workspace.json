@@ -23,38 +23,12 @@
             }
           },
           {
-            "id": "984a0ef0cbb771dc",
+            "id": "6ffbde99c4208b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/重症肌无力/资料搜集.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30524611393558f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Life/重症肌无力/北京地区医院.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4d2d3ad37c6808e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Coding/TypeScript/TS-从一个项目开始.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -62,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Coding/TypeScript/TS-从一个项目开始.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202302.md"
+                "file": "Coding/TypeScript/TS-从一个项目开始.md"
               }
             }
           },
@@ -190,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Coding/TypeScript/TS-从一个项目开始.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Coding/TypeScript/TS-从一个项目开始.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,12 +231,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e4d2d3ad37c6808e",
+  "active": "6ffbde99c4208b62",
   "lastOpenFiles": [
-    "Day3/时间安排.md",
+    "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md",
     "Day3/Day3-202302.md",
-    "Life/重症肌无力/北京地区医院.md",
+    "Coding/TypeScript/TS-从一个项目开始.md",
+    "Day3/时间安排.md",
+    "Challenge/表达能力训练/训练原则.md",
+    "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md",
+    "Coding/Go/标准库的使用/math.md",
+    "Go/Golang 回顾.md",
+    "Go",
+    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
+    "Coding/Go/Database/MySQL/MySQL.md",
     "Life/重症肌无力/资料搜集.md",
+    "Life/重症肌无力/北京地区医院.md",
+    "Challenge/表达能力训练/写作方法总结/议论文写作.md",
     "Tasks/实习/第一份寒假实习.md",
     "Life/重症肌无力",
     "Eassay/随想.md",
@@ -272,21 +256,12 @@
     "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
     "Master's degree/秋招.md",
     "Master's degree/如何开组会.md",
-    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Algorithm/算法总结.md",
     "Algorithm/Algorithm index.md",
     "Algorithm/Raft 一致性算法.md",
     "AI/PyTorch/7. Github 项目.md",
     "AI/PyTorch/8. Data Set.md",
     "AI/Python 机器学习笔记/1. Python 基本操作(Numpy 需要补充).md",
-    "AI/Python 机器学习笔记/3. matplotlib.md",
-    "AI/Python 机器学习笔记/2. Pandas.md",
-    "AI/Python 机器学习笔记/4. 机器学习.md",
-    "AI/Python 机器学习笔记/5. 机器学习数学基础.md",
-    "AI/Python 机器学习笔记/6. 矩阵求导.md",
-    "AI/Python 机器学习笔记/7. 线性回归.md",
-    "AI/Python 机器学习笔记/8. 逻辑回归.md",
-    "AI/Python 机器学习笔记/9. 贝叶斯算法.md",
     "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
     "Share",
     "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png",
@@ -304,7 +279,6 @@
     "Course",
     "AI/未命名",
     "Challenge/表达能力训练/写作方法总结/Snipaste",
-    "Challenge/表达能力训练/写作方法总结",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

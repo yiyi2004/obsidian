@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8071a1c78ddfaa37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3-202302.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/TypeScript/TS-从一个项目开始.md",
+                "file": "Day3/Day3-202302.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/TypeScript/TS-从一个项目开始.md"
+                "file": "Day3/Day3-202302.md"
               }
             }
           },
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/TypeScript/TS-从一个项目开始.md",
+                "file": "Day3/Day3-202302.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/TypeScript/TS-从一个项目开始.md",
+                "file": "Day3/Day3-202302.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,12 +244,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6ffbde99c4208b62",
+  "active": "8071a1c78ddfaa37",
   "lastOpenFiles": [
+    "Day3/时间安排.md",
+    "Coding/TypeScript/TS-从一个项目开始.md",
     "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md",
     "Day3/Day3-202302.md",
-    "Coding/TypeScript/TS-从一个项目开始.md",
-    "Day3/时间安排.md",
     "Challenge/表达能力训练/训练原则.md",
     "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md",
     "Coding/Go/标准库的使用/math.md",

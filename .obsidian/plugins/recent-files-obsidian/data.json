@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Deeplocker 文档",
+      "path": "Cyber Security/Deeplocker/Deeplocker 文档.md"
+    },
+    {
       "basename": "Day3-202302",
       "path": "Day3/Day3-202302.md"
     },
     {
-      "basename": "Day3-202301",
-      "path": "Day3/Day3-202301.md"
-    },
-    {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
+    },
+    {
+      "basename": "Deeplocker 攻击流程",
+      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+    },
+    {
+      "basename": "deeplocker 测试",
+      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
+    },
+    {
+      "basename": "Deeplocker",
+      "path": "Cyber Security/调研/Deeplocker.md"
+    },
+    {
+      "basename": "Day3-202301",
+      "path": "Day3/Day3-202301.md"
     },
     {
       "basename": "TS-从一个项目开始",
@@ -183,22 +199,6 @@
     {
       "basename": "ChatGPT 商业价值",
       "path": "AI/LLM/Chatgpt/ChatGPT 商业价值.md"
-    },
-    {
-      "basename": "chatgpt memos summary",
-      "path": "AI/LLM/Chatgpt/chatgpt memos summary.md"
-    },
-    {
-      "basename": "成绩记录",
-      "path": "How to/成绩记录.md"
-    },
-    {
-      "basename": "Private 银行卡",
-      "path": "Private/Private 银行卡.md"
-    },
-    {
-      "basename": "需要整理的知识结构",
-      "path": "Tasks/需要整理的知识结构.md"
     }
   ],
   "omittedPaths": [],

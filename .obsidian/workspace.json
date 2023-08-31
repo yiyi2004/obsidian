@@ -23,7 +23,7 @@
             }
           },
           {
-            "id": "8071a1c78ddfaa37",
+            "id": "002ccff12a27484f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8071a1c78ddfaa37",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202302.md"
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档.md"
               }
             }
           },
@@ -164,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Cyber Security/Deeplocker/Deeplocker 文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,9 +246,16 @@
   },
   "active": "8071a1c78ddfaa37",
   "lastOpenFiles": [
-    "Day3/Day3-202301.md",
     "Day3/Day3-202302.md",
+    "Cyber Security/Deeplocker/Deeplocker 文档.md",
+    "Cyber Security/Deeplocker/Snipaste/Deeplocker.svg",
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831080429.png",
     "Day3/时间安排.md",
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831065834.png",
+    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
+    "Cyber Security/Deeplocker/deeplocker 测试.md",
+    "Cyber Security/调研/Deeplocker.md",
+    "Day3/Day3-202301.md",
     "Coding/TypeScript/TS-从一个项目开始.md",
     "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md",
     "Challenge/表达能力训练/训练原则.md",
@@ -257,11 +277,6 @@
     "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
     "Master's degree/秋招.md",
     "Master's degree/如何开组会.md",
-    "Algorithm/算法总结.md",
-    "Algorithm/Algorithm index.md",
-    "Algorithm/Raft 一致性算法.md",
-    "AI/PyTorch/7. Github 项目.md",
-    "AI/PyTorch/8. Data Set.md",
     "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
     "Share",
     "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png",
@@ -271,9 +286,6 @@
     "Course/所长林超/Snipaste/Pasted image 20230810202919.png",
     "Course/所长林超/Snipaste/Pasted image 20230810202910.png",
     "Course/所长林超/Snipaste/Pasted image 20230810202415.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810202401.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810201651.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810201622.png",
     "Course/所长林超/Snipaste",
     "Course/所长林超",
     "Course",

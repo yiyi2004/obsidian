@@ -156,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922
+    "width": 326.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -258,7 +259,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "6e3e4852dc7752d2",
   "lastOpenFiles": [
     "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
     "Day3/Day3-202303.md",

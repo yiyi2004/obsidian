@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "002ccff12a27484f",
+            "id": "1b2bf24d3591bff6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202302.md",
+                "file": "Frontend/CSS 仓库.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,19 +36,33 @@
             }
           },
           {
-            "id": "8071a1c78ddfaa37",
+            "id": "53e4c8012c67cd44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/Deeplocker 文档.md",
+                "file": "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e3e4852dc7752d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3-202303.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -92,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/时间安排.md",
+                "file": "Day3/Day3-202303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +145,7 @@
             }
           },
           {
-            "id": "51d25be41296f270",
+            "id": "19794726af9f01f7",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -142,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.51103591918945
+    "width": 326.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -158,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/时间安排.md"
+                "file": "Day3/Day3-202303.md"
               }
             }
           },
@@ -176,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/时间安排.md",
+                "file": "Day3/Day3-202303.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/时间安排.md",
+                "file": "Day3/Day3-202303.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 336.5
+    "width": 336.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,39 +258,42 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3e6419c4a5d2f9e",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
-    "Day3/Day3-202302.md",
-    "Cyber Security/Deeplocker/Deeplocker 文档.md",
-    "Cyber Security/Deeplocker/Snipaste/Deeplocker.svg",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831080429.png",
+    "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
+    "Day3/Day3-202303.md",
+    "Frontend/CSS 仓库.md",
+    "Eight-part essay/Eight-part essay index.md",
+    "Eight-part essay/资料收集.md",
     "Day3/时间安排.md",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831065834.png",
-    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
+    "Tasks/实习/第一份寒假实习.md",
+    "Frontend/未命名.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/调研/Deeplocker.md",
+    "Cyber Security/Deeplocker/文档/详细设计.md",
+    "Cyber Security/Deeplocker/文档/需求文档.md",
+    "Cyber Security/Deeplocker/文档/概要设计.md",
+    "Day3/Day3-202302.md",
     "Day3/Day3-202301.md",
+    "未命名.md",
+    "Go/Golang 回顾.md",
+    "Game/王者荣耀/Snipaste/Pasted image 20230702213019.png",
+    "Cyber Security/Deeplocker/Deeplocker 文档.md",
+    "Cyber Security/Deeplocker/文档",
+    "Cyber Security/Deeplocker/Snipaste/Deeplocker.svg",
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831080429.png",
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831065834.png",
+    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
     "Coding/TypeScript/TS-从一个项目开始.md",
     "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md",
     "Challenge/表达能力训练/训练原则.md",
     "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md",
     "Coding/Go/标准库的使用/math.md",
-    "Go/Golang 回顾.md",
     "Go",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Coding/Go/Database/MySQL/MySQL.md",
     "Life/重症肌无力/资料搜集.md",
-    "Life/重症肌无力/北京地区医院.md",
-    "Challenge/表达能力训练/写作方法总结/议论文写作.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Life/重症肌无力",
-    "Eassay/随想.md",
-    "Challenge/马拉松比赛/马拉松比赛备赛.md",
-    "Challenge/Habit Challenge/费曼学习法.md",
-    "Challenge/Habit Challenge/每天阅读并反馈自己的原则.md",
-    "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md",
-    "Master's degree/秋招.md",
-    "Master's degree/如何开组会.md",
     "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
     "Share",
     "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png",
@@ -284,12 +302,10 @@
     "Course/所长林超/Snipaste/Pasted image 20230810203205.png",
     "Course/所长林超/Snipaste/Pasted image 20230810202919.png",
     "Course/所长林超/Snipaste/Pasted image 20230810202910.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810202415.png",
     "Course/所长林超/Snipaste",
     "Course/所长林超",
     "Course",
     "AI/未命名",
-    "Challenge/表达能力训练/写作方法总结/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

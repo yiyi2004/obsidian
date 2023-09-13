@@ -5,5 +5,16 @@
   "things-style@@h5-color": "#FF7043",
   "things-style@@h1-color": "#42A5F5",
   "things-style@@h2-color": "#26C6DA",
-  "things-style@@active-line": true
+  "things-style@@active-line": true,
+  "obsidian-prism-theme@@color-schemes-dt": "pt-color-scheme-mocha-dt",
+  "obsidian-prism-theme@@accent-style-dt": "pt-accent-style-borderandfilled-dt",
+  "obsidian-prism-theme@@highlight-text-accent-dt": "pt-highlight-text-accent-dt",
+  "obsidian-prism-theme@@pt-icons-accent": true,
+  "minimal-style@@bg1@@light": "#190DD4",
+  "minimal-style@@base@@light": "#FF007F",
+  "file-tree-alternative-plugin@@oz-fta-folder-font-size": 16,
+  "file-tree-alternative-plugin@@oz-fta-folder-indendation-guide-color": "#EDEDEB",
+  "file-tree-alternative-plugin@@oz-fta-folder-pane-file-name-color": "#DF00FF",
+  "file-tree-alternative-plugin@@oz-fta-file-font-size": 14,
+  "Blue-Topaz-Codebox-Highlight@@code-theme-selection": "code-theme-bt-default"
 }

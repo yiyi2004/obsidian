@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3-202303",
+      "path": "Day3/Day3-202303.md"
+    },
+    {
+      "basename": "9 月份任务 Deeplocker",
+      "path": "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md"
+    },
+    {
+      "basename": "CSS 仓库",
+      "path": "Frontend/CSS 仓库.md"
+    },
+    {
+      "basename": "Eight-part essay index",
+      "path": "Eight-part essay/Eight-part essay index.md"
+    },
+    {
+      "basename": "资料收集",
+      "path": "Eight-part essay/资料收集.md"
+    },
+    {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
     },
     {
-      "basename": "Day3-202302",
-      "path": "Day3/Day3-202302.md"
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
-      "basename": "Deeplocker 文档",
-      "path": "Cyber Security/Deeplocker/Deeplocker 文档.md"
-    },
-    {
-      "basename": "Deeplocker 攻击流程",
-      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+      "basename": "未命名",
+      "path": "Frontend/未命名.md"
     },
     {
       "basename": "deeplocker 测试",
@@ -25,8 +41,40 @@
       "path": "Cyber Security/调研/Deeplocker.md"
     },
     {
+      "basename": "详细设计",
+      "path": "Cyber Security/Deeplocker/文档/详细设计.md"
+    },
+    {
+      "basename": "需求文档",
+      "path": "Cyber Security/Deeplocker/文档/需求文档.md"
+    },
+    {
+      "basename": "概要设计",
+      "path": "Cyber Security/Deeplocker/文档/概要设计.md"
+    },
+    {
+      "basename": "Day3-202302",
+      "path": "Day3/Day3-202302.md"
+    },
+    {
       "basename": "Day3-202301",
       "path": "Day3/Day3-202301.md"
+    },
+    {
+      "basename": "Golang 回顾",
+      "path": "Go/Golang 回顾.md"
+    },
+    {
+      "basename": "Pasted image 20230702213019",
+      "path": "Game/王者荣耀/Snipaste/Pasted image 20230702213019.png"
+    },
+    {
+      "basename": "Deeplocker 文档",
+      "path": "Cyber Security/Deeplocker/Deeplocker 文档.md"
+    },
+    {
+      "basename": "Deeplocker 攻击流程",
+      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
     },
     {
       "basename": "TS-从一个项目开始",
@@ -49,10 +97,6 @@
       "path": "Coding/Go/标准库的使用/math.md"
     },
     {
-      "basename": "Golang 回顾",
-      "path": "Go/Golang 回顾.md"
-    },
-    {
       "basename": "MySQL-进阶篇",
       "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
     },
@@ -71,10 +115,6 @@
     {
       "basename": "议论文写作",
       "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "随想",
@@ -155,50 +195,6 @@
     {
       "basename": "8. 逻辑回归",
       "path": "AI/Python 机器学习笔记/8. 逻辑回归.md"
-    },
-    {
-      "basename": "9. 贝叶斯算法",
-      "path": "AI/Python 机器学习笔记/9. 贝叶斯算法.md"
-    },
-    {
-      "basename": "10. 神经网络",
-      "path": "AI/Python 机器学习笔记/10. 神经网络.md"
-    },
-    {
-      "basename": "11. 贝叶斯算法实现哦",
-      "path": "AI/Python 机器学习笔记/11. 贝叶斯算法实现哦.md"
-    },
-    {
-      "basename": "A comprehensive review study of cyber-attacks and cyber security",
-      "path": "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf"
-    },
-    {
-      "basename": "原理篇",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
-    },
-    {
-      "basename": "如何写好脚本捏？",
-      "path": "Share/如何写好脚本捏？.md"
-    },
-    {
-      "basename": "01 知识分享会的重要意义",
-      "path": "Challenge/表达能力训练/写作训练 800 字/01 知识分享会的重要意义.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/LLM/Chatgpt/ChatGPT.md"
-    },
-    {
-      "basename": "ChatGPT 商业价值",
-      "path": "AI/LLM/Chatgpt/ChatGPT 商业价值.md"
     }
   ],
   "omittedPaths": [],

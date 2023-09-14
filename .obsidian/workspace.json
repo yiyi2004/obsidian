@@ -229,6 +229,16 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "1e32f0af2d2953ad",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
           }
         ]
       }
@@ -264,9 +274,9 @@
     "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
     "Day3/Day3-202303.md",
     "Frontend/CSS 仓库.md",
+    "Day3/时间安排.md",
     "Eight-part essay/Eight-part essay index.md",
     "Eight-part essay/资料收集.md",
-    "Day3/时间安排.md",
     "Tasks/实习/第一份寒假实习.md",
     "Frontend/未命名.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",

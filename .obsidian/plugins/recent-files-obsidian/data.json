@@ -1,14 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "MySQL-进阶篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
-    },
-    {
       "basename": "Day3-202303",
       "path": "Day3/Day3-202303.md"
     },
@@ -17,12 +9,20 @@
       "path": "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md"
     },
     {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
+    },
+    {
       "basename": "CSS 仓库",
       "path": "Frontend/CSS 仓库.md"
     },
     {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
+      "basename": "MySQL-进阶篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
     },
     {
       "basename": "Eight-part essay index",

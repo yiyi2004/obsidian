@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
+                "file": "Day3/Day3-202303.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
+                "file": "Day3/Day3-202303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
+                "file": "Day3/Day3-202303.md"
               }
             }
           },
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
+                "file": "Day3/Day3-202303.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
+                "file": "Day3/Day3-202303.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,13 +264,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e3e4852dc7752d2",
+  "active": "53e4c8012c67cd44",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
+    "Day3/时间安排.md",
+    "Frontend/CSS 仓库.md",
+    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
     "Day3/Day3-202303.md",
-    "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
-    "Frontend/CSS 仓库.md",
-    "Day3/时间安排.md",
     "Eight-part essay/Eight-part essay index.md",
     "Eight-part essay/资料收集.md",
     "Tasks/实习/第一份寒假实习.md",
@@ -297,8 +298,6 @@
     "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md",
     "Coding/Go/标准库的使用/math.md",
     "Go",
-    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
-    "Coding/Go/Database/MySQL/MySQL.md",
     "Life/重症肌无力",
     "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
     "Share",

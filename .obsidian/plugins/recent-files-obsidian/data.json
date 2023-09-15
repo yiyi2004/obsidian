@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL-进阶篇",
+      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md"
+    },
+    {
       "basename": "Day3-202303",
       "path": "Day3/Day3-202303.md"
     },
@@ -95,10 +103,6 @@
     {
       "basename": "math",
       "path": "Coding/Go/标准库的使用/math.md"
-    },
-    {
-      "basename": "MySQL-进阶篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
     },
     {
       "basename": "MySQL",

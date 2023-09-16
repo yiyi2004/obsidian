@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202303.md"
+                "file": "Coding/Go/Database/MySQL/MySQL.md"
               }
             }
           },
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,12 +236,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 336.5,
-    "collapsed": true
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -268,12 +267,12 @@
   },
   "active": "53e4c8012c67cd44",
   "lastOpenFiles": [
+    "Day3/Day3-202303.md",
     "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
     "Day3/时间安排.md",
     "Frontend/CSS 仓库.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
-    "Day3/Day3-202303.md",
     "Eight-part essay/Eight-part essay index.md",
     "Eight-part essay/资料收集.md",
     "Tasks/实习/第一份寒假实习.md",

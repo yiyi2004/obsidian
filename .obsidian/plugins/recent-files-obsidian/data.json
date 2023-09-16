@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
+    },
+    {
       "basename": "Day3-202303",
       "path": "Day3/Day3-202303.md"
     },
@@ -103,10 +107,6 @@
     {
       "basename": "math",
       "path": "Coding/Go/标准库的使用/math.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
     },
     {
       "basename": "资料搜集",

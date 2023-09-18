@@ -61,8 +61,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Day3/时间安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202303.md"
+                "file": "Day3/时间安排.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Day3/时间安排.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Day3/时间安排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -268,10 +267,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5e8df003cd21ce9a",
+  "active": "a3e6419c4a5d2f9e",
   "lastOpenFiles": [
-    "Coding/Go/Database/MySQL/MySQL.md",
     "Day3/Day3-202303.md",
+    "Coding/Go/Database/MySQL/MySQL.md",
     "Frontend/CSS 仓库.md",
     "Day3/时间安排.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",

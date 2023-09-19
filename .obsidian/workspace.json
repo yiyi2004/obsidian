@@ -61,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/时间安排.md",
+                "file": "Day3/Day3-202303.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 326.5110321044922,
-    "collapsed": true
+    "width": 326.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/时间安排.md"
+                "file": "Day3/Day3-202303.md"
               }
             }
           },
@@ -191,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/时间安排.md",
+                "file": "Day3/Day3-202303.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/时间安排.md",
+                "file": "Day3/Day3-202303.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 425.5,
-    "collapsed": true
+    "width": 425.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,12 +268,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a3e6419c4a5d2f9e",
+  "active": "5e8df003cd21ce9a",
   "lastOpenFiles": [
-    "Day3/Day3-202303.md",
     "Coding/Go/Database/MySQL/MySQL.md",
     "Frontend/CSS 仓库.md",
     "Day3/时间安排.md",
+    "Day3/Day3-202303.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",

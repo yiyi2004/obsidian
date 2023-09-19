@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
-    },
-    {
       "basename": "Day3-202303",
       "path": "Day3/Day3-202303.md"
     },
@@ -15,6 +11,10 @@
     {
       "basename": "CSS 仓库",
       "path": "Frontend/CSS 仓库.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
       "basename": "MySQL-进阶篇",

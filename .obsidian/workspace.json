@@ -36,19 +36,6 @@
             }
           },
           {
-            "id": "53e4c8012c67cd44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5e8df003cd21ce9a",
             "type": "leaf",
             "state": {
@@ -62,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -152,8 +139,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,10 +256,10 @@
   },
   "active": "5e8df003cd21ce9a",
   "lastOpenFiles": [
-    "Coding/Go/Database/MySQL/MySQL.md",
     "Frontend/CSS 仓库.md",
-    "Day3/时间安排.md",
+    "Coding/Go/Database/MySQL/MySQL.md",
     "Day3/Day3-202303.md",
+    "Day3/时间安排.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md",
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",

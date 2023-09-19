@@ -5,12 +5,12 @@
       "path": "Day3/Day3-202303.md"
     },
     {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
       "basename": "CSS 仓库",
       "path": "Frontend/CSS 仓库.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
     },
     {
       "basename": "时间安排",

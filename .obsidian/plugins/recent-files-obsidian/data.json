@@ -5,16 +5,20 @@
       "path": "Day3/Day3-202303.md"
     },
     {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
+    },
+    {
+      "basename": "穿搭",
+      "path": "Day3/穿搭.md"
+    },
+    {
       "basename": "CSS 仓库",
       "path": "Frontend/CSS 仓库.md"
     },
     {
       "basename": "MySQL",
       "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
     },
     {
       "basename": "MySQL-进阶篇",
@@ -195,10 +199,6 @@
     {
       "basename": "7. 线性回归",
       "path": "AI/Python 机器学习笔记/7. 线性回归.md"
-    },
-    {
-      "basename": "8. 逻辑回归",
-      "path": "AI/Python 机器学习笔记/8. 逻辑回归.md"
     }
   ],
   "omittedPaths": [],

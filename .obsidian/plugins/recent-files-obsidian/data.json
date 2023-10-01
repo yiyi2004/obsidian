@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "20230930",
+      "path": "Be Yourself/反思/20230930.md"
+    },
+    {
       "basename": "Day3-202303",
       "path": "Day3/Day3-202303.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6. 矩阵求导",
       "path": "AI/Python 机器学习笔记/6. 矩阵求导.md"
-    },
-    {
-      "basename": "7. 线性回归",
-      "path": "AI/Python 机器学习笔记/7. 线性回归.md"
     }
   ],
   "omittedPaths": [],

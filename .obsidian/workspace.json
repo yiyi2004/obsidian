@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Be Yourself/反思/20230930.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Be Yourself/反思/20230930.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202303.md"
+                "file": "Be Yourself/反思/20230930.md"
               }
             }
           },
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Be Yourself/反思/20230930.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202303.md",
+                "file": "Be Yourself/反思/20230930.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +269,11 @@
   },
   "active": "9bcc1833eac53ea3",
   "lastOpenFiles": [
+    "Day3/Day3-202303.md",
+    "Be Yourself/反思/20230930.md",
+    "Be Yourself/反思",
     "Day3/时间安排.md",
     "Day3/穿搭.md",
-    "Day3/Day3-202303.md",
     "Frontend/CSS 仓库.md",
     "Coding/Go/Database/MySQL/MySQL.md",
     "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
@@ -300,7 +302,6 @@
     "Coding/TypeScript/TS-从一个项目开始.md",
     "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md",
     "Challenge/表达能力训练/训练原则.md",
-    "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md",
     "Go",
     "Life/重症肌无力",
     "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
@@ -314,7 +315,6 @@
     "Course/所长林超/Snipaste",
     "Course/所长林超",
     "Course",
-    "AI/未命名",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "20230930",
-      "path": "Be Yourself/反思/20230930.md"
+      "basename": "Day3-202304",
+      "path": "Day3/Day3-202304.md"
+    },
+    {
+      "basename": "Day3-202302",
+      "path": "Day3/Day3-202302.md"
     },
     {
       "basename": "Day3-202303",
@@ -13,12 +17,16 @@
       "path": "Day3/时间安排.md"
     },
     {
+      "basename": "CSS 仓库",
+      "path": "Frontend/CSS 仓库.md"
+    },
+    {
       "basename": "穿搭",
       "path": "Day3/穿搭.md"
     },
     {
-      "basename": "CSS 仓库",
-      "path": "Frontend/CSS 仓库.md"
+      "basename": "20230930",
+      "path": "Be Yourself/反思/20230930.md"
     },
     {
       "basename": "MySQL",
@@ -71,10 +79,6 @@
     {
       "basename": "概要设计",
       "path": "Cyber Security/Deeplocker/文档/概要设计.md"
-    },
-    {
-      "basename": "Day3-202302",
-      "path": "Day3/Day3-202302.md"
     },
     {
       "basename": "Day3-202301",
@@ -195,10 +199,6 @@
     {
       "basename": "5. 机器学习数学基础",
       "path": "AI/Python 机器学习笔记/5. 机器学习数学基础.md"
-    },
-    {
-      "basename": "6. 矩阵求导",
-      "path": "AI/Python 机器学习笔记/6. 矩阵求导.md"
     }
   ],
   "omittedPaths": [],

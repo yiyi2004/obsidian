@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "不会内容记录",
+      "path": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
       "basename": "Day3-202304",
       "path": "Day3/Day3-202304.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2. Pandas",
       "path": "AI/Python 机器学习笔记/2. Pandas.md"
-    },
-    {
-      "basename": "4. 机器学习",
-      "path": "AI/Python 机器学习笔记/4. 机器学习.md"
-    },
-    {
-      "basename": "5. 机器学习数学基础",
-      "path": "AI/Python 机器学习笔记/5. 机器学习数学基础.md"
     }
   ],
   "omittedPaths": [],

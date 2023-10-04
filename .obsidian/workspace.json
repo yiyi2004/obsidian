@@ -60,9 +60,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5a5ff4fcfeea67c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3-202304.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
+                "file": "Day3/Day3-202304.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.50418853759766,
-    "collapsed": true
+    "width": 347.50418853759766
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md"
+                "file": "Day3/Day3-202304.md"
               }
             }
           },
@@ -191,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
+                "file": "Day3/Day3-202304.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
+                "file": "Day3/Day3-202304.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,18 +280,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e363894182a296db",
+  "active": "5a5ff4fcfeea67c5",
   "lastOpenFiles": [
+    "Day3/穿搭.md",
+    "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
     "Coding/Go/Database/Redis/黑马程序员/Snipaste/Pasted image 20231003201529.png",
     "Coding/Go/Database/Redis/黑马程序员/Snipaste/Pasted image 20231003200455.png",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
     "Day3/Day3-202304.md",
     "Day3/Day3-202302.md",
     "Day3/Day3-202303.md",
     "Day3/时间安排.md",
     "Frontend/CSS 仓库.md",
-    "Day3/穿搭.md",
     "Be Yourself/反思/20230930.md",
     "Be Yourself/反思",
     "Coding/Go/Database/MySQL/MySQL.md",
@@ -313,7 +324,6 @@
     "Course/所长林超/Snipaste/Pasted image 20230810201854.png",
     "Course/所长林超/Snipaste/Pasted image 20230810203238.png",
     "Course/所长林超/Snipaste/Pasted image 20230810203205.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810202919.png",
     "Course/所长林超/Snipaste",
     "Course/所长林超",
     "Course",

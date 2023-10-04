@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3-202304",
+      "path": "Day3/Day3-202304.md"
+    },
+    {
+      "basename": "穿搭",
+      "path": "Day3/穿搭.md"
+    },
+    {
       "basename": "不会内容记录",
       "path": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md"
     },
     {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "Day3-202304",
-      "path": "Day3/Day3-202304.md"
     },
     {
       "basename": "Day3-202302",
@@ -27,10 +31,6 @@
     {
       "basename": "CSS 仓库",
       "path": "Frontend/CSS 仓库.md"
-    },
-    {
-      "basename": "穿搭",
-      "path": "Day3/穿搭.md"
     },
     {
       "basename": "20230930",

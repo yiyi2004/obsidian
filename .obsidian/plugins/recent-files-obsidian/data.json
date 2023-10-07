@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "日志后端开发",
+      "path": "Cyber Security/Deeplocker/日志后端开发.md"
+    },
+    {
+      "basename": "deeplocker 测试",
+      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
+    },
+    {
       "basename": "Day3-202304",
       "path": "Day3/Day3-202304.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "未命名",
       "path": "Frontend/未命名.md"
-    },
-    {
-      "basename": "deeplocker 测试",
-      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
     },
     {
       "basename": "Deeplocker",
@@ -195,10 +199,6 @@
     {
       "basename": "3. matplotlib",
       "path": "AI/Python 机器学习笔记/3. matplotlib.md"
-    },
-    {
-      "basename": "2. Pandas",
-      "path": "AI/Python 机器学习笔记/2. Pandas.md"
     }
   ],
   "omittedPaths": [],

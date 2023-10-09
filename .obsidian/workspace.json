@@ -139,11 +139,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 347.50418853759766
+    "width": 347.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -226,11 +228,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,7 +258,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a5ff4fcfeea67c5",
+  "active": "6e89884ae49250e2",
   "lastOpenFiles": [
     "Cyber Security/Deeplocker/日志后端开发.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",

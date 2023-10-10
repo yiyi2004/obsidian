@@ -144,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.50418853759766,
-    "collapsed": true
+    "width": 388.50418853759766
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -233,8 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,12 +256,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6e89884ae49250e2",
+  "active": "5a5ff4fcfeea67c5",
   "lastOpenFiles": [
+    "Day3/时间安排.md",
+    "Day3/Day3-202304.md",
     "Cyber Security/Deeplocker/日志后端开发.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
-    "Day3/Day3-202304.md",
-    "Day3/时间安排.md",
     "Frontend/CSS 仓库.md",
     "Day3/穿搭.md",
     "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",

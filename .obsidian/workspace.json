@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a6befd2b264930c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202304.md",
+                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.50418853759766,
-    "collapsed": true
+    "width": 388.50418853759766
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202304.md"
+                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md"
               }
             }
           },
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202304.md",
+                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202304.md",
+                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,13 +226,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,12 +254,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5a5ff4fcfeea67c5",
+  "active": "a6befd2b264930c3",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/日志后端开发.md",
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
     "Day3/Day3-202304.md",
-    "Day3/时间安排.md",
+    "Cyber Security/Deeplocker/认知域XX生成文档.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
+    "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
+    "Day3/时间安排.md",
+    "Cyber Security/Deeplocker/日志后端开发.md",
     "Frontend/CSS 仓库.md",
     "Day3/穿搭.md",
     "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
@@ -273,10 +286,7 @@
     "Cyber Security/Deeplocker/文档/需求文档.md",
     "Cyber Security/Deeplocker/文档/概要设计.md",
     "Day3/Day3-202301.md",
-    "未命名.md",
-    "Go/Golang 回顾.md",
     "Game/王者荣耀/Snipaste/Pasted image 20230702213019.png",
-    "Cyber Security/Deeplocker/Deeplocker 文档.md",
     "Cyber Security/Deeplocker/文档",
     "Cyber Security/Deeplocker/Snipaste/Deeplocker.svg",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831080429.png",

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "认知域XX生成文档",
+      "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
+    },
+    {
       "basename": "Day3-202304",
       "path": "Day3/Day3-202304.md"
     },
     {
-      "basename": "日志后端开发",
-      "path": "Cyber Security/Deeplocker/日志后端开发.md"
+      "basename": "deeplocker 测试",
+      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
+    },
+    {
+      "basename": "Deeplocker APP with Go",
+      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
     },
     {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
     },
     {
-      "basename": "deeplocker 测试",
-      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
+      "basename": "日志后端开发",
+      "path": "Cyber Security/Deeplocker/日志后端开发.md"
     },
     {
       "basename": "CSS 仓库",
@@ -191,14 +199,6 @@
     {
       "basename": "8. Data Set",
       "path": "AI/PyTorch/8. Data Set.md"
-    },
-    {
-      "basename": "1. Python 基本操作(Numpy 需要补充)",
-      "path": "AI/Python 机器学习笔记/1. Python 基本操作(Numpy 需要补充).md"
-    },
-    {
-      "basename": "3. matplotlib",
-      "path": "AI/Python 机器学习笔记/3. matplotlib.md"
     }
   ],
   "omittedPaths": [],

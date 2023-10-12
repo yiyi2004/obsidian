@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md"
+                "file": "Day3/Day3-202304.md"
               }
             }
           },
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,11 +254,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6befd2b264930c3",
+  "active": "5a5ff4fcfeea67c5",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/认知域XX生成文档.md",
     "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
     "Day3/Day3-202304.md",
-    "Cyber Security/Deeplocker/认知域XX生成文档.md",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
     "Day3/时间安排.md",
@@ -298,7 +298,6 @@
     "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png",
     "Course/所长林超/Snipaste/Pasted image 20230810201854.png",
     "Course/所长林超/Snipaste/Pasted image 20230810203238.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810203205.png",
     "Course/所长林超/Snipaste",
     "Course/所长林超",
     "Course",

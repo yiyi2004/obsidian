@@ -73,6 +73,8 @@ Future Development
 
 #### 2.3 对称加密算法
 
+**对称密钥算法**（Symmetric key algorithms，Symmetric key algorithms，Symmetric key algorithms）也称为单密钥、单密钥和私钥加密，是一类用于密码学的算法，它使用私钥（shared secret）和公钥（non secret）算法来执行加密/解密过程。一些流行且广受尊重的对称算法包括 DES、TDES、Blowfish、CAST5、IDEA、TEA、AES（aka Rijndael）、Twofish、RC6、Serpent 和 MARS。
+
 #### 2.4 认知域 XX 隐蔽技术
 
 ### 3. 技术方案

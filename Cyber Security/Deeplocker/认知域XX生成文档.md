@@ -57,6 +57,8 @@ Future Development
 
 基于当前的趋势，可以对数据压缩的未来做出一些预测。如 PAQ 及其变种的上下文混合算法开始受到欢迎，它们往往可以实现最高的压缩比，但速度通常较慢。随着硬件速度呈指数级增长，遵循摩尔定律，上下文混合算法将很可能在高压缩比的情况下大放异彩，因为速度惩罚将被更快的硬件所克服。PAQ 旨在改进的预测部分匹配（PPM）算法也可能会出现新的变种。最后，Lempel-Ziv Markov Chain 算法（LZMA）一直表现出优秀的速度和高压缩比之间的平衡，将很可能产生更多的变种。随着 LZMA 自从在 7-Zip 格式中推出以来，已经被广泛采用于许多竞争的压缩格式中，它甚至可能成为“赢家”。另一个潜在的发展方向是使用子串枚举压缩（CSE），这是一种新兴的压缩技术，尚未看到许多软件实现。在其朴素形式下，它的表现类似于 bzip2 和 PPM，并且研究人员一直在努力提高其效率。[12]
 
+- [Test/常用数据无损压缩.md at master · HUANGSITAO/Test (github.com)](https://github.com/HUANGSITAO/Test/blob/master/%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E6%97%A0%E6%8D%9F%E5%8E%8B%E7%BC%A9.md)
+
 #### 2.2 文本哈希算法
 
 哈希算法是密码学和信息安全领域的重要组成部分，用于将数据转化为固定长度的哈希值或摘要，以确保数据的完整性、验证身份、密码存储和数字签名等用途。以下是哈希算法的研究现状：
@@ -105,9 +107,16 @@ Future Development
 
 ##### 代码混淆技术
 
-- 可以出一篇博客的
+- [关于代码混淆，看这篇就够了 - 掘金 (juejin.cn)](https://juejin.cn/post/7198809411161686071)
+- [常见的源代码混淆技术有哪些？ - FreeBuf网络安全行业门户](https://www.freebuf.com/company-information/282020.html)
+- [代码混淆的原理是什么？常见代码混淆方法介绍_网易易盾 (163.com)](https://dun.163.com/news/p/243b87d73daf4e00987161d163d37903)
 
 ##### 反调试技术
+
+- [加壳原理06：反调试技术入门 (nnnewb.github.io)](https://nnnewb.github.io/blog/p/learning-packer-06/)
+- [CTF-All-In-One/doc/3.2.4_pe_anti_debugging.md at master · firmianay/CTF-All-In-One (github.com)](https://github.com/firmianay/CTF-All-In-One/blob/master/doc/3.2.4_pe_anti_debugging.md)
+- [[原创]反调试技术总结-软件逆向-看雪-安全社区|安全招聘|kanxue.com](https://bbs.kanxue.com/thread-225740.htm)
+- [4.3 反调试技术 · GitBook (hitzhangjie.pro)](https://www.hitzhangjie.pro/debugger101.io/4-basics/3-countertactics.html)
 
 ##### 代码隐藏技术
 
@@ -121,6 +130,10 @@ Future Development
 	2. 文件哈希算法
 	3. 载荷加密算法
 
+载荷压缩算法
+
 ### 4. 载荷装载技术仿真实验
 
 ## Reference
+
+- 可以整理出几篇博客

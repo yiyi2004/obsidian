@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3-202304",
-      "path": "Day3/Day3-202304.md"
-    },
-    {
       "basename": "认知域XX生成文档",
       "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
+    },
+    {
+      "basename": "Day3-202304",
+      "path": "Day3/Day3-202304.md"
     },
     {
       "basename": "deeplocker 测试",
@@ -15,10 +19,6 @@
     {
       "basename": "Deeplocker APP with Go",
       "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
     },
     {
       "basename": "日志后端开发",

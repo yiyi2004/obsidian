@@ -138,16 +138,18 @@ Future Development
 ##### 载荷压缩算法
 
 - DEFLATE 无损压缩算法
+- [Gzip 格式和 DEFLATE 压缩算法 - Luyu Huang's Blog](https://luyuhuang.tech/2020/04/28/gzip-and-deflate.html)
 
 ##### 文件哈希算法
 
 - SHA256
+- [sha256算法原理 - Practical - 博客园 (cnblogs.com)](https://www.cnblogs.com/ustc-anmin/p/11506528.html)
 
 ##### 载荷加密算法
 
 - [高级加密标准-AES | 二又三 (zengrx.github.io)](https://zengrx.github.io/2020/02/09/AES-study-based-on-FIPS-197/)
 
-载荷压缩算法
+
 
 ### 4. 载荷装载技术仿真实验
 

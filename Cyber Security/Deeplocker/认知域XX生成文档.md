@@ -117,6 +117,7 @@ Future Development
 - [CTF-All-In-One/doc/3.2.4_pe_anti_debugging.md at master · firmianay/CTF-All-In-One (github.com)](https://github.com/firmianay/CTF-All-In-One/blob/master/doc/3.2.4_pe_anti_debugging.md)
 - [[原创]反调试技术总结-软件逆向-看雪-安全社区|安全招聘|kanxue.com](https://bbs.kanxue.com/thread-225740.htm)
 - [4.3 反调试技术 · GitBook (hitzhangjie.pro)](https://www.hitzhangjie.pro/debugger101.io/4-basics/3-countertactics.html)
+- [详解反调试技术-CSDN博客](https://blog.csdn.net/qq_32400847/article/details/52798050?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522169724850416800184192004%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=169724850416800184192004&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-52798050-null-null.142^v96^pc_search_result_base3&utm_term=%E5%8F%8D%E8%B0%83%E8%AF%95%E6%8A%80%E6%9C%AF&spm=1018.2226.3001.4187)
 
 ##### 代码隐藏技术
 
@@ -130,10 +131,24 @@ Future Development
 	2. 文件哈希算法
 	3. 载荷加密算法
 
+#### 鲁棒性密钥生成技术
+
+#### 基于激活向量的认知域 XX 生成技术
+
+##### 载荷压缩算法
+
+- DEFLATE 无损压缩算法
+
+##### 文件哈希算法
+
+- SHA256
+
+##### 载荷加密算法
+
+- [高级加密标准-AES | 二又三 (zengrx.github.io)](https://zengrx.github.io/2020/02/09/AES-study-based-on-FIPS-197/)
+
 载荷压缩算法
 
 ### 4. 载荷装载技术仿真实验
 
 ## Reference
-
-- 可以整理出几篇博客

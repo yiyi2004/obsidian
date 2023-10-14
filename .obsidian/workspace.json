@@ -130,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.50418853759766
+    "width": 388.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -217,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,10 +245,10 @@
   },
   "active": "a6befd2b264930c3",
   "lastOpenFiles": [
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
+    "Cyber Security/Deeplocker/认知域XX生成文档.md",
     "Day3/时间安排.md",
     "Day3/Day3-202304.md",
-    "Cyber Security/Deeplocker/认知域XX生成文档.md",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
     "Cyber Security/Deeplocker/日志后端开发.md",

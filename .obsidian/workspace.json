@@ -28,7 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "30981e3359728d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI/LLM/Chatgpt/ChatGPT4.0.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +139,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md"
+                "file": "Day3/Day3-202304.md"
               }
             }
           },
@@ -165,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/Deeplocker/认知域XX生成文档.md",
+                "file": "Day3/Day3-202304.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,10 +256,18 @@
   },
   "active": "a6befd2b264930c3",
   "lastOpenFiles": [
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
+    "AI/LLM/Chatgpt/ChatGPT 商业价值.md",
+    "AI/LLM/Chatgpt/如何绕过 Cloudflare.md",
     "Cyber Security/Deeplocker/认知域XX生成文档.md",
     "Day3/时间安排.md",
+    "AI/LLM/Chatgpt/ChatGPT4.0.md",
+    "AI/LLM/Chatgpt/ChatGPT.md",
     "Day3/Day3-202304.md",
+    "Challenge/奇怪的爱好/手相.md",
+    "Challenge/奇怪的爱好/Snipaste/Pasted image 20231016175001.png",
+    "Challenge/奇怪的爱好/Snipaste",
+    "Challenge/奇怪的爱好",
+    "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
     "Cyber Security/Deeplocker/日志后端开发.md",
@@ -270,10 +290,6 @@
     "Tasks/实习/第一份寒假实习.md",
     "Frontend/未命名.md",
     "Cyber Security/调研/Deeplocker.md",
-    "Cyber Security/Deeplocker/文档/详细设计.md",
-    "Cyber Security/Deeplocker/文档/需求文档.md",
-    "Cyber Security/Deeplocker/文档/概要设计.md",
-    "Day3/Day3-202301.md",
     "Game/王者荣耀/Snipaste/Pasted image 20230702213019.png",
     "Cyber Security/Deeplocker/文档",
     "Cyber Security/Deeplocker/Snipaste/Deeplocker.svg",
@@ -285,10 +301,7 @@
     "Share",
     "Course/所长林超/Snipaste/Pasted image 20230810201854 1.png",
     "Course/所长林超/Snipaste/Pasted image 20230810201854.png",
-    "Course/所长林超/Snipaste/Pasted image 20230810203238.png",
     "Course/所长林超/Snipaste",
-    "Course/所长林超",
-    "Course",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

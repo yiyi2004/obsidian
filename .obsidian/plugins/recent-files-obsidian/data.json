@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "认知域XX生成文档",
-      "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
+      "basename": "Day3-202304",
+      "path": "Day3/Day3-202304.md"
     },
     {
-      "basename": "Pasted image 20231012160827",
-      "path": "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png"
+      "basename": "ChatGPT 商业价值",
+      "path": "AI/LLM/Chatgpt/ChatGPT 商业价值.md"
+    },
+    {
+      "basename": "如何绕过 Cloudflare",
+      "path": "AI/LLM/Chatgpt/如何绕过 Cloudflare.md"
+    },
+    {
+      "basename": "认知域XX生成文档",
+      "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
     },
     {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
     },
     {
-      "basename": "Day3-202304",
-      "path": "Day3/Day3-202304.md"
+      "basename": "ChatGPT4.0",
+      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "AI/LLM/Chatgpt/ChatGPT.md"
+    },
+    {
+      "basename": "手相",
+      "path": "Challenge/奇怪的爱好/手相.md"
+    },
+    {
+      "basename": "Pasted image 20231012160827",
+      "path": "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png"
     },
     {
       "basename": "deeplocker 测试",
@@ -179,26 +199,6 @@
     {
       "basename": "秋招",
       "path": "Master's degree/秋招.md"
-    },
-    {
-      "basename": "如何开组会",
-      "path": "Master's degree/如何开组会.md"
-    },
-    {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "Algorithm index",
-      "path": "Algorithm/Algorithm index.md"
-    },
-    {
-      "basename": "Raft 一致性算法",
-      "path": "Algorithm/Raft 一致性算法.md"
-    },
-    {
-      "basename": "7. Github 项目",
-      "path": "AI/PyTorch/7. Github 项目.md"
     }
   ],
   "omittedPaths": [],

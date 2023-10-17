@@ -5,6 +5,10 @@
       "path": "Day3/Day3-202304.md"
     },
     {
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
       "basename": "ChatGPT4.0",
       "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Algorithm —— 每天至少 2 个小时",
       "path": "Challenge/Habit Challenge/Algorithm —— 每天至少 2 个小时.md"
-    },
-    {
-      "basename": "秋招",
-      "path": "Master's degree/秋招.md"
     }
   ],
   "omittedPaths": [],

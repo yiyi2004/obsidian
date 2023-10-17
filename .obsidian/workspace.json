@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388.50418853759766
+    "width": 388.50418853759766,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -230,7 +231,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,7 +256,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6befd2b264930c3",
+  "active": "6a020e4dd0b166fe",
   "lastOpenFiles": [
     "AI/LLM/Chatgpt/ChatGPT4.0.md",
     "Day3/Day3-202304.md",

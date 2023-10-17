@@ -5,6 +5,10 @@
       "path": "Day3/Day3-202304.md"
     },
     {
+      "basename": "ChatGPT4.0",
+      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
+    },
+    {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "认知域XX生成文档",
       "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
-    },
-    {
-      "basename": "ChatGPT4.0",
-      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
     {
       "basename": "ChatGPT",

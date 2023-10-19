@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ChatGPT4.0",
+      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
       "basename": "Day3-202305",
       "path": "Day3/Day3-202305.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "ChatGPT4.0",
-      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
     {
       "basename": "时间安排",
@@ -67,10 +71,6 @@
     {
       "basename": "不会内容记录",
       "path": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
       "basename": "Day3-202302",

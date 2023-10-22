@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Life/拍照/人像拍摄.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Life/拍照/人像拍摄.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,12 +152,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.50418853759766
+    "width": 360.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202305.md"
+                "file": "Life/拍照/人像拍摄.md"
               }
             }
           },
@@ -191,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Life/拍照/人像拍摄.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Life/拍照/人像拍摄.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -244,7 +243,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 355.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,14 +270,23 @@
   },
   "active": "a6befd2b264930c3",
   "lastOpenFiles": [
+    "Day3/Day3-202305.md",
+    "Life/拍照/人像拍摄.md",
+    "Life/拍照",
+    "Day3/Snipaste/Pasted image 20231021205033.png",
+    "Day3/Snipaste/Pasted image 20231021204256.png",
+    "Day3/Snipaste/Pasted image 20231021201655.png",
+    "Day3/Snipaste/Pasted image 20231021201633.png",
+    "Day3/Snipaste/Pasted image 20231021201604.png",
+    "Day3/Snipaste/Pasted image 20231021201545.png",
+    "Day3/Snipaste/Pasted image 20231021200542.png",
+    "Day3/Snipaste/Pasted image 20231021200541.png",
+    "Day3/Snipaste/Pasted image 20231021200007.png",
     "Day3/Snipaste/Pasted image 20231021195750.png",
-    "Day3/Snipaste/Pasted image 20231021195625.png",
     "Cloud Native/Docker/Docker 安装 MySQL.md",
     "AI/LLM/Chatgpt/ChatGPT4.0.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Day3/Day3-202305.md",
     "Day3/Day3-202304.md",
-    "Day3/Snipaste/Pasted image 20231018151756.png",
     "Day3/Snipaste",
     "Day3/时间安排.md",
     "AI/LLM/Chatgpt/ChatGPT 商业价值.md",
@@ -285,18 +294,14 @@
     "Cyber Security/Deeplocker/认知域XX生成文档.md",
     "AI/LLM/Chatgpt/ChatGPT.md",
     "Challenge/奇怪的爱好/手相.md",
-    "Challenge/奇怪的爱好/Snipaste/Pasted image 20231016175001.png",
     "Challenge/奇怪的爱好/Snipaste",
     "Challenge/奇怪的爱好",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
     "Cyber Security/Deeplocker/日志后端开发.md",
     "Frontend/CSS 仓库.md",
     "Day3/穿搭.md",
     "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
-    "Coding/Go/Database/Redis/黑马程序员/Snipaste/Pasted image 20231003201529.png",
-    "Coding/Go/Database/Redis/黑马程序员/Snipaste/Pasted image 20231003200455.png",
     "Day3/Day3-202302.md",
     "Day3/Day3-202303.md",
     "Be Yourself/反思/20230930.md",
@@ -307,15 +312,10 @@
     "Coding/Go/Database/MySQL/MySQL 黑马程序员/MySQL.md",
     "Eight-part essay/Eight-part essay index.md",
     "Eight-part essay/资料收集.md",
-    "Game/王者荣耀/Snipaste/Pasted image 20230702213019.png",
     "Cyber Security/Deeplocker/文档",
-    "Cyber Security/Deeplocker/Snipaste/Deeplocker.svg",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831080429.png",
-    "Cyber Security/Deeplocker/Snipaste/Pasted image 20230831065834.png",
     "Go",
     "Life/重症肌无力",
     "Paper_Backup/A comprehensive review study of cyber-attacks and cyber security.pdf",
-    "Share",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Life/拍照/人像拍摄.md",
+                "file": "Day3/Day3-202305.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/拍照/人像拍摄.md",
+                "file": "Day3/Day3-202305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -172,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Life/拍照/人像拍摄.md"
+                "file": "Day3/Day3-202305.md"
               }
             }
           },
@@ -190,7 +191,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Life/拍照/人像拍摄.md",
+                "file": "Day3/Day3-202305.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +216,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Life/拍照/人像拍摄.md",
+                "file": "Day3/Day3-202305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +244,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5,
-    "collapsed": true
+    "width": 355.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,8 +270,8 @@
   },
   "active": "a6befd2b264930c3",
   "lastOpenFiles": [
-    "Day3/Day3-202305.md",
     "Life/拍照/人像拍摄.md",
+    "Day3/Day3-202305.md",
     "Life/拍照",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",

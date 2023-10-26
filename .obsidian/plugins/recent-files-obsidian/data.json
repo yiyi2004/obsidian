@@ -5,12 +5,8 @@
       "path": "Day3/Day3-202305.md"
     },
     {
-      "basename": "人像拍摄",
-      "path": "Life/拍照/人像拍摄.md"
-    },
-    {
-      "basename": "Docker 安装 MySQL",
-      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
       "basename": "ChatGPT4.0",
@@ -21,12 +17,16 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
-      "basename": "Day3-202304",
-      "path": "Day3/Day3-202304.md"
+      "basename": "人像拍摄",
+      "path": "Life/拍照/人像拍摄.md"
     },
     {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
+      "basename": "Docker 安装 MySQL",
+      "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
+    },
+    {
+      "basename": "Day3-202304",
+      "path": "Day3/Day3-202304.md"
     },
     {
       "basename": "ChatGPT 商业价值",

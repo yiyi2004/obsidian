@@ -152,8 +152,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -270,8 +269,11 @@
   },
   "active": "a6befd2b264930c3",
   "lastOpenFiles": [
-    "Life/拍照/人像拍摄.md",
+    "Day3/时间安排.md",
     "Day3/Day3-202305.md",
+    "AI/LLM/Chatgpt/ChatGPT4.0.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
+    "Life/拍照/人像拍摄.md",
     "Life/拍照",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
@@ -284,11 +286,8 @@
     "Day3/Snipaste/Pasted image 20231021200007.png",
     "Day3/Snipaste/Pasted image 20231021195750.png",
     "Cloud Native/Docker/Docker 安装 MySQL.md",
-    "AI/LLM/Chatgpt/ChatGPT4.0.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Day3/Day3-202304.md",
     "Day3/Snipaste",
-    "Day3/时间安排.md",
     "AI/LLM/Chatgpt/ChatGPT 商业价值.md",
     "AI/LLM/Chatgpt/如何绕过 Cloudflare.md",
     "Cyber Security/Deeplocker/认知域XX生成文档.md",

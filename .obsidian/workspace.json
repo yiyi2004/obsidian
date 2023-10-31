@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "30981e3359728d30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3-202305.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "a6befd2b264930c3",
             "type": "leaf",
             "state": {
@@ -42,19 +55,6 @@
               "type": "markdown",
               "state": {
                 "file": "每日不会清单/不会清单2023-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "30981e3359728d30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/Day3-202305.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202305.md"
+                "file": "每日学习内容总结/学习清单2023-10.md"
               }
             }
           },
@@ -216,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -293,19 +293,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30981e3359728d30",
+  "active": "a6befd2b264930c3",
   "lastOpenFiles": [
+    "每日不会清单/不会清单2023-10.md",
+    "Day3/Day3-202305.md",
+    "每日学习内容总结/学习清单2023-10.md",
     "AI/LLM/Chatgpt/ChatGPT4.0.md",
     "Day3/时间安排.md",
-    "每日不会清单/不会清单2023-10.md",
-    "每日学习内容总结/学习清单2023-10.md",
     "Interesting/写小说/角色本子.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "每日学习内容总结/原则.md",
     "每日学习内容总结",
     "每日不会清单/原则.md",
     "每日不会清单/未命名",
-    "Day3/Day3-202305.md",
     "每日不会清单",
     "Interesting/写小说",
     "Life/拍照/人像拍摄.md",

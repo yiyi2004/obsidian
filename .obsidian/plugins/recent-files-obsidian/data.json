@@ -1,28 +1,100 @@
 {
   "recentFiles": [
     {
+      "basename": "03.1 sort",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md"
+    },
+    {
+      "basename": "03.0 数据结构与算法",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md"
+    },
+    {
+      "basename": "03.0",
+      "path": "chapter03/03.0.md"
+    },
+    {
+      "basename": "13.0",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter13/13.0.md"
+    },
+    {
+      "basename": "10.0 进程、线程和 Goroutine",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter10/10.0 进程、线程和 Goroutine.md"
+    },
+    {
+      "basename": "09.0 测试",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter09/09.0 测试.md"
+    },
+    {
+      "basename": "08.0 数据压缩与归档",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter08/08.0 数据压缩与归档.md"
+    },
+    {
+      "basename": "07.0 数据持久存储与交换",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter07/07.0 数据持久存储与交换.md"
+    },
+    {
+      "basename": "06.0 文件系统",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter06/06.0 文件系统.md"
+    },
+    {
+      "basename": "05.1 Math",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter05/05.1 Math.md"
+    },
+    {
+      "basename": "04.0 日期与时间",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter04/04.0 日期与时间.md"
+    },
+    {
+      "basename": "01.0 输入输出",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md"
+    },
+    {
+      "basename": "02.0 文本操作",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md"
+    },
+    {
+      "basename": "03.3 container",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md"
+    },
+    {
+      "basename": "01.3",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.3.md"
+    },
+    {
+      "basename": "01.2 ioutil",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md"
+    },
+    {
+      "basename": "01.1 io",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
       "basename": "不会清单2023-10",
       "path": "每日不会清单/不会清单2023-10.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
       "basename": "学习清单2023-10",
       "path": "每日学习内容总结/学习清单2023-10.md"
     },
     {
-      "basename": "角色本子",
-      "path": "Interesting/写小说/角色本子.md"
-    },
-    {
       "basename": "Day3-202305",
       "path": "Day3/Day3-202305.md"
     },
     {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+      "basename": "角色本子",
+      "path": "Interesting/写小说/角色本子.md"
     },
     {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
       "basename": "ChatGPT4.0",
@@ -127,78 +199,6 @@
     {
       "basename": "Eight-part essay index",
       "path": "Eight-part essay/Eight-part essay index.md"
-    },
-    {
-      "basename": "资料收集",
-      "path": "Eight-part essay/资料收集.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Frontend/未命名.md"
-    },
-    {
-      "basename": "Deeplocker",
-      "path": "Cyber Security/调研/Deeplocker.md"
-    },
-    {
-      "basename": "详细设计",
-      "path": "Cyber Security/Deeplocker/文档/详细设计.md"
-    },
-    {
-      "basename": "需求文档",
-      "path": "Cyber Security/Deeplocker/文档/需求文档.md"
-    },
-    {
-      "basename": "概要设计",
-      "path": "Cyber Security/Deeplocker/文档/概要设计.md"
-    },
-    {
-      "basename": "Day3-202301",
-      "path": "Day3/Day3-202301.md"
-    },
-    {
-      "basename": "Golang 回顾",
-      "path": "Go/Golang 回顾.md"
-    },
-    {
-      "basename": "Pasted image 20230702213019",
-      "path": "Game/王者荣耀/Snipaste/Pasted image 20230702213019.png"
-    },
-    {
-      "basename": "Deeplocker 文档",
-      "path": "Cyber Security/Deeplocker/Deeplocker 文档.md"
-    },
-    {
-      "basename": "Deeplocker 攻击流程",
-      "path": "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
-    },
-    {
-      "basename": "TS-从一个项目开始",
-      "path": "Coding/TypeScript/TS-从一个项目开始.md"
-    },
-    {
-      "basename": "CHANGELOG",
-      "path": "Coding/Go/Project/Golang 运维项目/open-devops_4项目全/open-devops/5天课程/项目4_分布式ping探测/xprober/CHANGELOG.md"
-    },
-    {
-      "basename": "训练原则",
-      "path": "Challenge/表达能力训练/训练原则.md"
-    },
-    {
-      "basename": "03 某一天的工作复盘",
-      "path": "Challenge/表达能力训练/写作训练 800 字/03 某一天的工作复盘.md"
-    },
-    {
-      "basename": "math",
-      "path": "Coding/Go/标准库的使用/math.md"
-    },
-    {
-      "basename": "资料搜集",
-      "path": "Life/重症肌无力/资料搜集.md"
     }
   ],
   "omittedPaths": [],

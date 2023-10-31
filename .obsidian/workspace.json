@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日不会清单/不会清单2023-10.md",
+                "file": "Day3/Day3-202305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日不会清单/不会清单2023-10.md"
+                "file": "Day3/Day3-202305.md"
               }
             }
           },
@@ -209,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日不会清单/不会清单2023-10.md",
+                "file": "Day3/Day3-202305.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日不会清单/不会清单2023-10.md",
+                "file": "Day3/Day3-202305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,11 +286,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "faf6656ea1499998",
+  "active": "30981e3359728d30",
   "lastOpenFiles": [
+    "Coding/Go/Database/MySQL/8c414a919c9748b9a8bdd92e85b4b2e1/dd2e47e0e8ac486da8c95c5d0051c0ff.pdf",
+    "Coding/Go/Database/MySQL/8c414a919c9748b9a8bdd92e85b4b2e1",
+    "Coding/Go/Database/MySQL/75a152961b5b475186acf178fc139256/90def3b1e4fd4b1393a1e6ae7291ab9e.pdf",
+    "Coding/Go/Database/MySQL/75a152961b5b475186acf178fc139256",
     "每日学习内容总结/学习清单2023-10.md",
-    "Day3/Day3-202305.md",
     "每日不会清单/不会清单2023-10.md",
+    "Day3/Day3-202305.md",
     "Interesting/写小说/角色本子.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Day3/时间安排.md",
@@ -322,7 +326,6 @@
     "AI/LLM/Chatgpt/ChatGPT.md",
     "Challenge/奇怪的爱好/手相.md",
     "Challenge/奇怪的爱好/Snipaste",
-    "Challenge/奇怪的爱好",
     "Cyber Security/Deeplocker/deeplocker 测试.md",
     "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md",
     "Cyber Security/Deeplocker/日志后端开发.md",
@@ -331,9 +334,6 @@
     "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md",
     "Day3/Day3-202302.md",
     "Day3/Day3-202303.md",
-    "Be Yourself/反思/20230930.md",
-    "Be Yourself/反思",
-    "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

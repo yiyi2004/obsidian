@@ -25,6 +25,7 @@
           {
             "id": "30981e3359728d30",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -32,12 +33,14 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "a6befd2b264930c3",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -45,12 +48,14 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
             "id": "faf6656ea1499998",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -58,20 +63,8 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "ed06b683f8bbb6cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
@@ -88,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -132,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-10.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5110321044922
+    "width": 299.0110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -198,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-10.md"
+                "file": "每日不会清单/不会清单2023-10.md"
               }
             }
           },
@@ -216,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-10.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-10.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 355.5
+    "width": 319
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -293,15 +286,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a6befd2b264930c3",
+  "active": "faf6656ea1499998",
   "lastOpenFiles": [
-    "每日不会清单/不会清单2023-10.md",
     "每日学习内容总结/学习清单2023-10.md",
     "Day3/Day3-202305.md",
-    "AI/LLM/Chatgpt/ChatGPT4.0.md",
-    "Day3/时间安排.md",
+    "每日不会清单/不会清单2023-10.md",
     "Interesting/写小说/角色本子.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
+    "Day3/时间安排.md",
+    "AI/LLM/Chatgpt/ChatGPT4.0.md",
     "每日学习内容总结/原则.md",
     "每日学习内容总结",
     "每日不会清单/原则.md",

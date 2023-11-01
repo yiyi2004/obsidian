@@ -38,13 +38,13 @@
             }
           },
           {
-            "id": "a6befd2b264930c3",
+            "id": "c39e01581e3e15e5",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-10.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -53,13 +53,13 @@
             }
           },
           {
-            "id": "faf6656ea1499998",
+            "id": "7fca3ca7916919eb",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "每日不会清单/不会清单2023-10.md",
+                "file": "每日不会清单/不会清单2023-11.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -92,9 +92,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a58421f56c5301d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md"
+                "file": "每日学习内容总结/学习清单2023-11.md"
               }
             }
           },
@@ -222,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,11 +312,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1a2ac959b514a2d9",
+  "active": "c39e01581e3e15e5",
   "lastOpenFiles": [
+    "每日不会清单/不会清单2023-10.md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "每日不会清单/不会清单2023-11.md",
+    "Day3/Day3-202305.md",
+    "每日学习内容总结/学习清单2023-10.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter03/未命名.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
     "chapter03/03.0.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
     "chapter03",
     "Go/The-Golang-Standard-Library-by-Example/chapter13/13.0.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter10/10.0 进程、线程和 Goroutine.md",
@@ -320,7 +339,6 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md",
     "README.md",
-    "每日不会清单/不会清单2023-10.md",
     "Day3/时间安排.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
@@ -332,11 +350,6 @@
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/httptest/server.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/httptest/server_test.go",
     "Go/The-Golang-Standard-Library-by-Example/chapter10/10.4.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter10/10.3.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter10/10.1.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter10/10.2.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter09/09.7.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter09/09.6.md",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",

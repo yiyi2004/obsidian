@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202305.md"
+                "file": "每日学习内容总结/学习清单2023-11.md"
               }
             }
           },
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,10 +274,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30981e3359728d30",
+  "active": "c39e01581e3e15e5",
   "lastOpenFiles": [
-    "每日学习内容总结/学习清单2023-11.md",
     "Day3/Day3-202305.md",
+    "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
     "每日不会清单/不会清单2023-10.md",

@@ -5,8 +5,28 @@
       "path": "Day3/Day3-202305.md"
     },
     {
+      "basename": "学习清单2023-11",
+      "path": "每日学习内容总结/学习清单2023-11.md"
+    },
+    {
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
+    },
+    {
+      "basename": "03.1 sort",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md"
+    },
+    {
       "basename": "不会清单2023-10",
       "path": "每日不会清单/不会清单2023-10.md"
+    },
+    {
+      "basename": "定期检查",
+      "path": "Life/日常生活/定期检查.md"
+    },
+    {
+      "basename": "打完九价的注意事项",
+      "path": "Life/日常生活/打完九价的注意事项.md"
     },
     {
       "basename": "Golang 回顾",
@@ -23,18 +43,6 @@
     {
       "basename": "01.0 输入输出",
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md"
-    },
-    {
-      "basename": "学习清单2023-11",
-      "path": "每日学习内容总结/学习清单2023-11.md"
-    },
-    {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
-    },
-    {
-      "basename": "03.1 sort",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md"
     },
     {
       "basename": "角色本子",
@@ -191,14 +199,6 @@
     {
       "basename": "20230930",
       "path": "Be Yourself/反思/20230930.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
-      "basename": "MySQL-进阶篇",
-      "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
     }
   ],
   "omittedPaths": [],

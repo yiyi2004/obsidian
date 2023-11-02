@@ -66,45 +66,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "1a2ac959b514a2d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8a58421f56c5301d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9180705f44fadb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日不会清单/不会清单2023-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -315,15 +276,18 @@
   },
   "active": "30981e3359728d30",
   "lastOpenFiles": [
+    "每日学习内容总结/学习清单2023-11.md",
+    "Day3/Day3-202305.md",
+    "每日不会清单/不会清单2023-11.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
     "每日不会清单/不会清单2023-10.md",
+    "Life/日常生活/定期检查.md",
+    "Life/日常生活/打完九价的注意事项.md",
+    "Life/日常生活",
     "Go/Golang 回顾.md",
     "Day3/时间安排.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md",
-    "Day3/Day3-202305.md",
-    "每日学习内容总结/学习清单2023-11.md",
-    "每日不会清单/不会清单2023-11.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
     "Interesting/写小说/角色本子.md",
     "每日学习内容总结/学习清单2023-10.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/未命名.md",
@@ -340,8 +304,6 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter04/04.0 日期与时间.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.3.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",
@@ -350,7 +312,6 @@
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter13/flag/nginx.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/parallel_test.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/httptest/server.go",
-    "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/httptest/server_test.go",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",

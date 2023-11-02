@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "eab2cf2f7c5fa945",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "每日不会清单/不会清单2023-10.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "7fca3ca7916919eb",
             "type": "leaf",
             "pinned": true,
@@ -68,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -120,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md"
+                "file": "每日不会清单/不会清单2023-10.md"
               }
             }
           },
@@ -196,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,13 +289,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c39e01581e3e15e5",
+  "active": "eab2cf2f7c5fa945",
   "lastOpenFiles": [
-    "Day3/Day3-202305.md",
-    "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
     "每日不会清单/不会清单2023-10.md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "Day3/Day3-202305.md",
     "Life/日常生活/定期检查.md",
     "Life/日常生活/打完九价的注意事项.md",
     "Life/日常生活",
@@ -291,7 +308,6 @@
     "Interesting/写小说/角色本子.md",
     "每日学习内容总结/学习清单2023-10.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/未命名.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
     "chapter03/03.0.md",
     "chapter03",
     "Go/The-Golang-Standard-Library-by-Example/chapter13/13.0.md",
@@ -303,7 +319,6 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter05/05.1 Math.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter04/04.0 日期与时间.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",

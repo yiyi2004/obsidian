@@ -15,7 +15,7 @@
   "editor-status": true,
   "starred": true,
   "markdown-importer": true,
-  "zk-prefixer": false,
+  "zk-prefixer": true,
   "random-note": true,
   "outline": true,
   "word-count": true,

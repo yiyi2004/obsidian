@@ -131,12 +131,20 @@
             }
           },
           {
+            "id": "19794726af9f01f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
+          },
+          {
             "id": "5794a320267150b5",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Public",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,14 +194,6 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "19794726af9f01f7",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
               "state": {}
             }
           }
@@ -309,16 +309,21 @@
       "audio-recorder:开始/结束录音": false,
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
+      "zk-prefixer:创建时间戳笔记": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "30981e3359728d30",
   "lastOpenFiles": [
     "每日不会清单/不会清单2023-10.md",
-    "每日不会清单/不会清单2023-11.md",
-    "每日学习内容总结/学习清单2023-11.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
+    "Go/Golang 回顾.md",
+    "Day3/时间安排.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md",
     "Day3/Day3-202305.md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "每日不会清单/不会清单2023-11.md",
+    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
     "Interesting/写小说/角色本子.md",
     "每日学习内容总结/学习清单2023-10.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/未命名.md",
@@ -333,14 +338,10 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter06/06.0 文件系统.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter05/05.1 Math.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter04/04.0 日期与时间.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter01/01.3.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md",
-    "README.md",
-    "Day3/时间安排.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",

@@ -1,9 +1,12 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 23,
-  "cssTheme": "Cybertron",
-  "translucency": false,
+  "baseFontSize": 17,
+  "cssTheme": "Dracula for Obsidian",
+  "translucency": true,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Arial Black",
-  "accentColor": "#b04ce6"
+  "interfaceFontFamily": "Inter",
+  "accentColor": "#356ef3",
+  "textFontFamily": "Ink Free",
+  "showViewHeader": false,
+  "nativeMenus": false
 }

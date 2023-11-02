@@ -9,12 +9,28 @@
       "path": "每日不会清单/不会清单2023-10.md"
     },
     {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
+      "basename": "Golang 回顾",
+      "path": "Go/Golang 回顾.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
+    },
+    {
+      "basename": "01.1 io",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md"
+    },
+    {
+      "basename": "01.0 输入输出",
+      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md"
     },
     {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
+    },
+    {
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
     },
     {
       "basename": "03.1 sort",
@@ -69,10 +85,6 @@
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter04/04.0 日期与时间.md"
     },
     {
-      "basename": "01.0 输入输出",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md"
-    },
-    {
       "basename": "02.0 文本操作",
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md"
     },
@@ -89,16 +101,8 @@
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md"
     },
     {
-      "basename": "01.1 io",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md"
-    },
-    {
       "basename": "README",
       "path": "README.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
     },
     {
       "basename": "Redis",
@@ -195,10 +199,6 @@
     {
       "basename": "MySQL-进阶篇",
       "path": "Coding/Go/Database/MySQL/MySQL-进阶篇.pdf"
-    },
-    {
-      "basename": "9 月份任务 Deeplocker",
-      "path": "Cyber Security/Deeplocker/9 月份任务 Deeplocker.md"
     }
   ],
   "omittedPaths": [],

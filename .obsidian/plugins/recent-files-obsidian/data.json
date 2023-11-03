@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3-202305",
+      "path": "Day3/Day3-202305.md"
+    },
+    {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "03.1 sort",
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md"
-    },
-    {
-      "basename": "Day3-202305",
-      "path": "Day3/Day3-202305.md"
     },
     {
       "basename": "定期检查",

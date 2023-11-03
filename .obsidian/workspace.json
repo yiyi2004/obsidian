@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202305.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md"
+                "file": "Day3/Day3-202305.md"
               }
             }
           },
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202305.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -236,7 +236,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202305.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,14 +289,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c39e01581e3e15e5",
+  "active": "30981e3359728d30",
   "lastOpenFiles": [
+    "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-10.md",
     "每日不会清单/不会清单2023-11.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
-    "每日学习内容总结/学习清单2023-11.md",
     "Day3/Day3-202305.md",
     "Life/日常生活/定期检查.md",
     "Life/日常生活/打完九价的注意事项.md",

@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Day3-202305",
-      "path": "Day3/Day3-202305.md"
-    },
-    {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
+    },
+    {
+      "basename": "不会清单2023-10",
+      "path": "每日不会清单/不会清单2023-10.md"
     },
     {
       "basename": "不会清单2023-11",
       "path": "每日不会清单/不会清单2023-11.md"
     },
     {
-      "basename": "不会清单2023-10",
-      "path": "每日不会清单/不会清单2023-10.md"
+      "basename": "Day3-202305",
+      "path": "Day3/Day3-202305.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "tqdm",
+      "path": "Coding/Python/Repository/tqdm.md"
+    },
+    {
+      "basename": "量化交易",
+      "path": "Coding/Python/Repository/量化交易.md"
+    },
+    {
+      "basename": "Python Web",
+      "path": "Coding/Python/Repository/Python Web.md"
+    },
+    {
+      "basename": "议论文写作",
+      "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
     },
     {
       "basename": "时间安排",
@@ -109,10 +129,6 @@
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "穿搭",
       "path": "Day3/穿搭.md"
-    },
-    {
-      "basename": "不会内容记录",
-      "path": "Coding/Go/Database/Redis/黑马程序员/不会内容记录.md"
-    },
-    {
-      "basename": "Day3-202302",
-      "path": "Day3/Day3-202302.md"
-    },
-    {
-      "basename": "Day3-202303",
-      "path": "Day3/Day3-202303.md"
-    },
-    {
-      "basename": "20230930",
-      "path": "Be Yourself/反思/20230930.md"
     }
   ],
   "omittedPaths": [],

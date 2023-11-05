@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202305.md"
+                "file": "每日学习内容总结/学习清单2023-11.md"
               }
             }
           },
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +237,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,12 +290,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30981e3359728d30",
+  "active": "c39e01581e3e15e5",
   "lastOpenFiles": [
+    "每日不会清单/不会清单2023-10.md",
+    "每日不会清单/不会清单2023-11.md",
     "每日学习内容总结/学习清单2023-11.md",
     "Day3/Day3-202305.md",
-    "每日不会清单/不会清单2023-11.md",
-    "每日不会清单/不会清单2023-10.md",
+    "README.md",
+    "Coding/Python/Repository/tqdm.md",
+    "Coding/Python/Repository/量化交易.md",
+    "Coding/Python/Repository/Python Web.md",
+    "Challenge/表达能力训练/写作方法总结/议论文写作.md",
     "Day3/时间安排.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
@@ -315,11 +320,6 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter10/10.0 进程、线程和 Goroutine.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter09/09.0 测试.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter08/08.0 数据压缩与归档.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter07/07.0 数据持久存储与交换.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter06/06.0 文件系统.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter05/05.1 Math.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter04/04.0 日期与时间.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",

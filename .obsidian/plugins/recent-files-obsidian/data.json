@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3-202306",
+      "path": "Day3/Day3-202306.md"
+    },
+    {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
     {
-      "basename": "Day3-202306",
-      "path": "Day3/Day3-202306.md"
+      "basename": "Day3-202305",
+      "path": "Day3/Day3-202305.md"
+    },
+    {
+      "basename": "Redis集群",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md"
+    },
+    {
+      "basename": "ipad",
+      "path": "Life/ipad.md"
+    },
+    {
+      "basename": "Life index",
+      "path": "Life/Life index.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
     },
     {
       "basename": "不会清单2023-10",
@@ -15,10 +35,6 @@
     {
       "basename": "不会清单2023-11",
       "path": "每日不会清单/不会清单2023-11.md"
-    },
-    {
-      "basename": "Day3-202305",
-      "path": "Day3/Day3-202305.md"
     },
     {
       "basename": "README",
@@ -39,10 +55,6 @@
     {
       "basename": "议论文写作",
       "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
     },
     {
       "basename": "03.0 数据结构与算法",
@@ -187,18 +199,6 @@
     {
       "basename": "deeplocker 测试",
       "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
-    },
-    {
-      "basename": "Deeplocker APP with Go",
-      "path": "Cyber Security/Deeplocker/APP 搜集/Deeplocker APP with Go.md"
-    },
-    {
-      "basename": "日志后端开发",
-      "path": "Cyber Security/Deeplocker/日志后端开发.md"
-    },
-    {
-      "basename": "CSS 仓库",
-      "path": "Frontend/CSS 仓库.md"
     }
   ],
   "omittedPaths": [],

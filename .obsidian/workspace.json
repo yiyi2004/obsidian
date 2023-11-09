@@ -96,9 +96,22 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "c47adcb05fe78741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -150,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -226,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +264,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,19 +317,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c39e01581e3e15e5",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
-    "Day3/Day3-202306.md",
-    "每日不会清单/不会清单2023-10.md",
     "每日学习内容总结/学习清单2023-11.md",
-    "每日不会清单/不会清单2023-11.md",
     "Day3/Day3-202305.md",
+    "Day3/Day3-202306.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
+    "Life/ipad.md",
+    "Life/Life index.md",
+    "Day3/时间安排.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
+    "每日不会清单/不会清单2023-10.md",
+    "每日不会清单/不会清单2023-11.md",
     "README.md",
     "Coding/Python/Repository/tqdm.md",
     "Coding/Python/Repository/量化交易.md",
     "Coding/Python/Repository/Python Web.md",
     "Challenge/表达能力训练/写作方法总结/议论文写作.md",
-    "Day3/时间安排.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
@@ -331,9 +348,6 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter03/未命名.md",
     "chapter03/03.0.md",
     "chapter03",
-    "Go/The-Golang-Standard-Library-by-Example/chapter13/13.0.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter10/10.0 进程、线程和 Goroutine.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter09/09.0 测试.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",
@@ -341,7 +355,6 @@
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/server_test.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter13/flag/nginx.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/parallel_test.go",
-    "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/httptest/server.go",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",

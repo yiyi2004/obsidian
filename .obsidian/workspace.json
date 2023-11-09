@@ -38,6 +38,21 @@
             }
           },
           {
+            "id": "65da746bfa7bfb08",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/Day3-202306.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "c39e01581e3e15e5",
             "type": "leaf",
             "pinned": true,
@@ -83,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -135,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +188,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202305.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -212,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -237,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202305.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,12 +304,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30981e3359728d30",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
-    "每日学习内容总结/学习清单2023-11.md",
     "Day3/Day3-202305.md",
-    "每日不会清单/不会清单2023-10.md",
+    "Day3/Day3-202306.md",
     "每日不会清单/不会清单2023-11.md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "每日不会清单/不会清单2023-10.md",
     "README.md",
     "Coding/Python/Repository/tqdm.md",
     "Coding/Python/Repository/量化交易.md",
@@ -319,7 +334,6 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter13/13.0.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter10/10.0 进程、线程和 Goroutine.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter09/09.0 测试.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter08/08.0 数据压缩与归档.md",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",

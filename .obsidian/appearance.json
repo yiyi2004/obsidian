@@ -7,6 +7,6 @@
   "interfaceFontFamily": "Inter",
   "accentColor": "#356ef3",
   "textFontFamily": "Ink Free",
-  "showViewHeader": false,
+  "showViewHeader": true,
   "nativeMenus": false
 }

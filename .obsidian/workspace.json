@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202306.md"
+                "file": "每日不会清单/不会清单2023-10.md"
               }
             }
           },
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -251,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "每日不会清单/不会清单2023-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -304,13 +304,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65da746bfa7bfb08",
+  "active": "eab2cf2f7c5fa945",
   "lastOpenFiles": [
     "每日学习内容总结/学习清单2023-11.md",
+    "每日不会清单/不会清单2023-10.md",
+    "每日不会清单/不会清单2023-11.md",
     "Day3/Day3-202306.md",
     "Day3/Day3-202305.md",
-    "每日不会清单/不会清单2023-11.md",
-    "每日不会清单/不会清单2023-10.md",
     "README.md",
     "Coding/Python/Repository/tqdm.md",
     "Coding/Python/Repository/量化交易.md",

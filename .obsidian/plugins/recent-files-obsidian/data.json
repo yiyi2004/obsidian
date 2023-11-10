@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3-202306",
+      "path": "Day3/Day3-202306.md"
+    },
+    {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
     {
-      "basename": "Day3-202306",
-      "path": "Day3/Day3-202306.md"
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
+    },
+    {
+      "basename": "不会清单2023-10",
+      "path": "每日不会清单/不会清单2023-10.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "01.快速入门",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md"
+    },
+    {
+      "basename": "00.课程介绍",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md"
     },
     {
       "basename": "Day3-202305",
@@ -27,14 +47,6 @@
     {
       "basename": "时间安排",
       "path": "Day3/时间安排.md"
-    },
-    {
-      "basename": "不会清单2023-10",
-      "path": "每日不会清单/不会清单2023-10.md"
-    },
-    {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
     },
     {
       "basename": "README",
@@ -145,10 +157,6 @@
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.2 ioutil.md"
     },
     {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
-    },
-    {
       "basename": "ChatGPT4.0",
       "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "手相",
       "path": "Challenge/奇怪的爱好/手相.md"
-    },
-    {
-      "basename": "Pasted image 20231012160827",
-      "path": "Cyber Security/Deeplocker/Snipaste/Pasted image 20231012160827.png"
-    },
-    {
-      "basename": "deeplocker 测试",
-      "path": "Cyber Security/Deeplocker/deeplocker 测试.md"
     }
   ],
   "omittedPaths": [],

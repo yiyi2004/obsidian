@@ -122,9 +122,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "33767fea1c6cb464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/最佳实践(重要的是如何行动).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Life/最佳实践(重要的是如何行动).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +247,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202306.md"
+                "file": "Life/最佳实践(重要的是如何行动).md"
               }
             }
           },
@@ -252,7 +265,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Life/最佳实践(重要的是如何行动).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +290,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Life/最佳实践(重要的是如何行动).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -330,8 +343,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65da746bfa7bfb08",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
+    "Life/最佳实践",
+    "Life/饮食健康.md",
+    "Life/最佳实践(重要的是如何行动).md",
+    "Life/Snipaste/Pasted image 20231112102255.png",
+    "Life/Snipaste/Pasted image 20231112101606.png",
+    "Life/Snipaste/Pasted image 20231112101451.png",
+    "Life/Snipaste",
+    "Day3/Day3-202306.md",
     "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
     "每日不会清单/不会清单2023-10.md",
@@ -339,7 +360,6 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/~$Redis原理篇.pptx",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
-    "Day3/Day3-202306.md",
     "Day3/Day3-202305.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
     "Life/ipad.md",
@@ -358,15 +378,12 @@
     "Life/日常生活/打完九价的注意事项.md",
     "Life/日常生活",
     "Go/Golang 回顾.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md",
     "chapter03",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/filepath/walk/main.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t_test.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/t.go",
     "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter09/testing/server_test.go",
-    "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter13/flag/nginx.go",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",
@@ -374,9 +391,6 @@
     "Day3/Snipaste/Pasted image 20231021201604.png",
     "Day3/Snipaste/Pasted image 20231021201545.png",
     "Day3/Snipaste/Pasted image 20231021200542.png",
-    "Day3/Snipaste/Pasted image 20231021200541.png",
-    "Day3/Snipaste/Pasted image 20231021200007.png",
-    "Day3/Snipaste/Pasted image 20231021195750.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

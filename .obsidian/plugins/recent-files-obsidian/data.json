@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "最佳实践(重要的是如何行动)",
+      "path": "Life/最佳实践(重要的是如何行动).md"
+    },
+    {
+      "basename": "饮食健康",
+      "path": "Life/饮食健康.md"
+    },
+    {
       "basename": "Day3-202306",
       "path": "Day3/Day3-202306.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "认知域XX生成文档",
       "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
-    },
-    {
-      "basename": "ChatGPT",
-      "path": "AI/LLM/Chatgpt/ChatGPT.md"
-    },
-    {
-      "basename": "手相",
-      "path": "Challenge/奇怪的爱好/手相.md"
     }
   ],
   "omittedPaths": [],

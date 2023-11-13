@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3e6419c4a5d2f9e",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/时间安排.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "65da746bfa7bfb08",
             "type": "leaf",
             "pinned": true,
@@ -53,21 +38,6 @@
             }
           },
           {
-            "id": "eab2cf2f7c5fa945",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "每日不会清单/不会清单2023-10.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "7fca3ca7916919eb",
             "type": "leaf",
             "pinned": true,
@@ -88,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
+                "file": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -107,9 +77,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d028312164c3b3b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/节省时间/如何节省时间.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,8 +182,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -221,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "每日学习内容总结/学习清单2023-11.md"
               }
             }
           },
@@ -239,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "每日学习内容总结/学习清单2023-11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -318,19 +300,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "639d8bb77a0c9b79",
+  "active": "c39e01581e3e15e5",
   "lastOpenFiles": [
-    "Day3/时间安排.md",
-    "Life/最佳实践(重要的是如何行动).md",
+    "Day3/Day3-202306.md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
     "Algorithm/HOT100/算法题目总结.md",
+    "每日不会清单/不会清单2023-11.md",
+    "每日不会清单/不会清单2023-10.md",
+    "Day3/时间安排.md",
+    "Be Yourself/节省时间/如何节省时间.md",
+    "Be Yourself/节省时间",
+    "Life/最佳实践(重要的是如何行动).md",
     "Algorithm/HOT100",
     "Algorithm/未命名.md",
-    "Day3/Day3-202306.md",
     "Day3/Day3-202305.md",
     "Life/self-improvement/吸引力法则.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "每日学习内容总结/学习清单2023-11.md",
     "Life/self-improvement/未命名",
     "Life/self-improvement",
     "Life/最佳实践",
@@ -339,8 +325,6 @@
     "Life/Snipaste/Pasted image 20231112101606.png",
     "Life/Snipaste/Pasted image 20231112101451.png",
     "Life/Snipaste",
-    "每日不会清单/不会清单2023-11.md",
-    "每日不会清单/不会清单2023-10.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/~$Redis原理篇.pptx",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
@@ -355,10 +339,8 @@
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md",
     "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md",
-    "Life/日常生活/定期检查.md",
     "Life/日常生活",
     "chapter03",
-    "Go/The-Golang-Standard-Library-by-Example/code/chapter08/result/src/chapter06/os/dirtree/main.go",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",

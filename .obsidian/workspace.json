@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -144,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,13 +181,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 299.0110321044922,
-    "collapsed": true
+    "width": 299.0110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -204,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -222,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +244,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "每日学习内容总结/学习清单2023-11.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,8 +272,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319,
-    "collapsed": true
+    "width": 319
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -301,13 +297,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c39e01581e3e15e5",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
-    "Day3/Day3-202306.md",
     "每日学习内容总结/学习清单2023-11.md",
+    "每日不会清单/不会清单2023-11.md",
+    "Day3/Day3-202306.md",
     "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/节省时间/如何节省时间.md",
-    "每日不会清单/不会清单2023-11.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
     "每日不会清单/不会清单2023-10.md",

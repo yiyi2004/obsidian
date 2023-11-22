@@ -91,7 +91,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -143,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0110321044922
+    "width": 299.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -202,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202306.md"
+                "file": "Algorithm/HOT100/算法题目总结.md"
               }
             }
           },
@@ -220,7 +222,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -245,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,7 +275,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 319,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -298,12 +301,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65da746bfa7bfb08",
+  "active": "639d8bb77a0c9b79",
   "lastOpenFiles": [
+    "Day3/Day3-202306.md",
     "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
     "Algorithm/HOT100/算法题目总结.md",
-    "Day3/Day3-202306.md",
     "Be Yourself/节省时间/如何节省时间.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",

@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
       "basename": "Day3-202306",
       "path": "Day3/Day3-202306.md"
     },
@@ -13,12 +9,16 @@
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
     {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
-    },
-    {
       "basename": "如何节省时间",
       "path": "Be Yourself/节省时间/如何节省时间.md"
+    },
+    {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
     },
     {
       "basename": "Redis",

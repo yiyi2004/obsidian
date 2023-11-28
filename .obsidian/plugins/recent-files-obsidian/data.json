@@ -5,6 +5,10 @@
       "path": "Day3/Day3-202306.md"
     },
     {
+      "basename": "未命名",
+      "path": "Day3/未命名.md"
+    },
+    {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Docker 安装 MySQL",
       "path": "Cloud Native/Docker/Docker 安装 MySQL.md"
-    },
-    {
-      "basename": "Day3-202304",
-      "path": "Day3/Day3-202304.md"
     }
   ],
   "omittedPaths": [],

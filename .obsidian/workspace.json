@@ -79,19 +79,6 @@
             }
           },
           {
-            "id": "d78a166919aa5cd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "53853298098ee18b",
             "type": "leaf",
             "state": {
@@ -103,8 +90,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b312bfdf403232c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/微服务/极客时间/服务注册与发现.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -156,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Coding/Go/微服务/极客时间/服务注册与发现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0110321044922
+    "width": 299.0110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -214,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202306.md"
+                "file": "Coding/Go/微服务/极客时间/服务注册与发现.md"
               }
             }
           },
@@ -232,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Coding/Go/微服务/极客时间/服务注册与发现.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Coding/Go/微服务/极客时间/服务注册与发现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -285,7 +287,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,16 +313,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65da746bfa7bfb08",
+  "active": "b312bfdf403232c9",
   "lastOpenFiles": [
-    "Algorithm/HOT100/算法题目总结.md",
-    "Be Yourself/反思/问题.md",
+    "Coding/Go/微服务/极客时间/Snipaste/Pasted image 20231130101814.png",
+    "Coding/Go/微服务/极客时间/Snipaste",
+    "Coding/Go/微服务/微服务架构-笔记.md",
+    "Coding/Go/微服务/极客时间/服务注册与发现.md",
+    "Coding/Go/微服务/极客时间",
     "Day3/Day3-202306.md",
     "每日学习内容总结/学习清单2023-11.md",
-    "Day3/未命名.md",
-    "每日不会清单/不会清单2023-11.md",
+    "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/节省时间/如何节省时间.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
+    "Be Yourself/反思/问题.md",
+    "Be Yourself/记录/2023.md",
+    "Be Yourself/记录",
+    "Day3/未命名.md",
+    "每日不会清单/不会清单2023-11.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
     "每日不会清单/不会清单2023-10.md",
     "Day3/时间安排.md",
@@ -342,15 +352,8 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md",
     "Life/ipad.md",
     "Life/Life index.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/~$01-Redis快速入门.pptx",
     "README.md",
     "Coding/Python/Repository/tqdm.md",
-    "Coding/Python/Repository/量化交易.md",
-    "Coding/Python/Repository/Python Web.md",
-    "Challenge/表达能力训练/写作方法总结/议论文写作.md",
-    "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md",
-    "Life/日常生活",
-    "chapter03",
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",

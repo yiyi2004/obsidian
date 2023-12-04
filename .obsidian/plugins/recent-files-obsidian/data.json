@@ -5,6 +5,10 @@
       "path": "Day3/Day3-202306.md"
     },
     {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
       "basename": "投资大师得思维模型",
       "path": "Be Yourself/投资/投资大师得思维模型.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "微服务架构-笔记",
       "path": "Coding/Go/微服务/微服务架构-笔记.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
       "basename": "如何节省时间",

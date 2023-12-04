@@ -130,8 +130,7 @@
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/投资/投资大师得思维模型.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,8 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.0110321044922,
-    "collapsed": true
+    "width": 299.0110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -242,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/投资/投资大师得思维模型.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -260,7 +258,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/投资/投资大师得思维模型.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/投资/投资大师得思维模型.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,8 +311,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -339,14 +336,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f540a0761d526ebc",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
+    "Be Yourself/投资/投资大师得思维模型.md",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105627.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204104549.png",
     "Be Yourself/投资/Snipaste",
     "Day3/Day3-202306.md",
-    "Be Yourself/投资/投资大师得思维模型.md",
     "Be Yourself/投资",
     "Cyber Security/学术论文/开题报告.md",
     "Cyber Security/学术论文",
@@ -386,7 +383,6 @@
     "Day3/Snipaste/Pasted image 20231021205033.png",
     "Day3/Snipaste/Pasted image 20231021204256.png",
     "Day3/Snipaste/Pasted image 20231021201655.png",
-    "Day3/Snipaste/Pasted image 20231021201633.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

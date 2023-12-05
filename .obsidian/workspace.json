@@ -143,8 +143,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -273,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,12 +351,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "639d8bb77a0c9b79",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
+    "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/副业/咸鱼.md",
     "Day3/Day3-202306.md",
     "Be Yourself/副业",
-    "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/投资/投资大师得思维模型.md",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105627.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",

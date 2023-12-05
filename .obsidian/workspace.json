@@ -123,7 +123,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Course/极客时间/极客时间学习课程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Course/极客时间/极客时间学习课程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +241,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历.md"
+                "file": "Course/极客时间/极客时间学习课程.md"
               }
             }
           },
@@ -259,7 +259,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Course/极客时间/极客时间学习课程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +284,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Course/极客时间/极客时间学习课程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,15 +339,17 @@
   },
   "active": "ec53c6387ac44b5c",
   "lastOpenFiles": [
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
+    "Coding/Go/微服务/极客时间/服务注册与发现.md",
+    "Course/极客时间/极客时间学习课程.md",
+    "Course/极客时间",
     "Be Yourself/简历/简历.md",
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
     "Be Yourself/简历",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
     "Day3/Day3-202306.md",
     "Be Yourself/反思/问题.md",
-    "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Cyber Security/学术论文/开题报告.md",
     "Be Yourself/投资/投资大师得思维模型.md",
     "Be Yourself/副业/咸鱼.md",
@@ -374,11 +376,9 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
     "每日不会清单/不会清单2023-10.md",
     "Day3/时间安排.md",
-    "Be Yourself/节省时间",
     "Life/最佳实践(重要的是如何行动).md",
     "Algorithm/未命名.md",
     "Day3/Day3-202305.md",
-    "Life/self-improvement/吸引力法则.md",
     "Life/Snipaste/Pasted image 20231112102255.png",
     "Life/Snipaste/Pasted image 20231112101606.png",
     "Life/Snipaste/Pasted image 20231112101451.png",

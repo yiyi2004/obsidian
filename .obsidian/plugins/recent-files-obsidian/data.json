@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "极客时间学习课程",
+      "path": "Course/极客时间/极客时间学习课程.md"
+    },
+    {
+      "basename": "服务注册与发现",
+      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
+    },
+    {
       "basename": "简历",
       "path": "Be Yourself/简历/简历.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "问题",
       "path": "Be Yourself/反思/问题.md"
-    },
-    {
-      "basename": "服务注册与发现",
-      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
     },
     {
       "basename": "开题报告",
@@ -195,10 +199,6 @@
     {
       "basename": "09.0 测试",
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter09/09.0 测试.md"
-    },
-    {
-      "basename": "08.0 数据压缩与归档",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter08/08.0 数据压缩与归档.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "咸鱼",
+      "path": "Be Yourself/副业/咸鱼.md"
+    },
+    {
       "basename": "Day3-202306",
       "path": "Day3/Day3-202306.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "02.0 文本操作",
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter02/02.0 文本操作.md"
-    },
-    {
-      "basename": "01.3",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.3.md"
     }
   ],
   "omittedPaths": [],

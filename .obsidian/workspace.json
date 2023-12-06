@@ -129,8 +129,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60374b22e93d9cb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Security/学术论文/开题报告.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -182,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Cyber Security/学术论文/开题报告.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -242,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202306.md"
+                "file": "Cyber Security/学术论文/开题报告.md"
               }
             }
           },
@@ -260,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Cyber Security/学术论文/开题报告.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -285,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202306.md",
+                "file": "Cyber Security/学术论文/开题报告.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,11 +353,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "65da746bfa7bfb08",
+  "active": "60374b22e93d9cb4",
   "lastOpenFiles": [
+    "Day3/Day3-202306.md",
     "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
-    "Day3/Day3-202306.md",
     "Course/极客时间/极客时间学习课程.md",
     "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Course/极客时间",

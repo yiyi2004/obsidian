@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "开题报告",
-      "path": "Cyber Security/学术论文/开题报告.md"
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
+      "basename": "如何节省时间",
+      "path": "Be Yourself/节省时间/如何节省时间.md"
     },
     {
       "basename": "Day3-202306",
       "path": "Day3/Day3-202306.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Algorithm/HOT100/未命名.md"
+    },
+    {
+      "basename": "开题报告",
+      "path": "Cyber Security/学术论文/开题报告.md"
+    },
+    {
+      "basename": "服务注册与发现",
+      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
+    },
+    {
+      "basename": "问题",
+      "path": "Be Yourself/反思/问题.md"
     },
     {
       "basename": "学习清单2023-11",
@@ -19,10 +39,6 @@
     {
       "basename": "极客时间学习课程",
       "path": "Course/极客时间/极客时间学习课程.md"
-    },
-    {
-      "basename": "服务注册与发现",
-      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
     },
     {
       "basename": "简历",
@@ -45,10 +61,6 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
-      "basename": "问题",
-      "path": "Be Yourself/反思/问题.md"
-    },
-    {
       "basename": "投资大师得思维模型",
       "path": "Be Yourself/投资/投资大师得思维模型.md"
     },
@@ -61,16 +73,8 @@
       "path": "202312051508.md"
     },
     {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
       "basename": "微服务架构-笔记",
       "path": "Coding/Go/微服务/微服务架构-笔记.md"
-    },
-    {
-      "basename": "如何节省时间",
-      "path": "Be Yourself/节省时间/如何节省时间.md"
     },
     {
       "basename": "2023",
@@ -195,10 +199,6 @@
     {
       "basename": "10.0 进程、线程和 Goroutine",
       "path": "Go/The-Golang-Standard-Library-by-Example/chapter10/10.0 进程、线程和 Goroutine.md"
-    },
-    {
-      "basename": "09.0 测试",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter09/09.0 测试.md"
     }
   ],
   "omittedPaths": [],

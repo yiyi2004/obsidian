@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -239,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -256,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md"
+                "file": "Algorithm/HOT100/算法题目总结.md"
               }
             }
           },
@@ -274,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -353,13 +352,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "60374b22e93d9cb4",
+  "active": "639d8bb77a0c9b79",
   "lastOpenFiles": [
+    "Be Yourself/节省时间/如何节省时间.md",
     "Day3/Day3-202306.md",
+    "Algorithm/HOT100/算法题目总结.md",
+    "Algorithm/HOT100/未命名.md",
+    "Cyber Security/学术论文/开题报告.md",
+    "Coding/Go/微服务/极客时间/服务注册与发现.md",
+    "Be Yourself/反思/问题.md",
     "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
     "Course/极客时间/极客时间学习课程.md",
-    "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Course/极客时间",
     "Be Yourself/简历/简历.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
@@ -367,12 +371,9 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md",
-    "Be Yourself/反思/问题.md",
-    "Cyber Security/学术论文/开题报告.md",
     "Be Yourself/投资/投资大师得思维模型.md",
     "Be Yourself/副业/咸鱼.md",
     "202312051508.md",
-    "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/副业",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105627.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",
@@ -385,7 +386,6 @@
     "Coding/Go/微服务/极客时间/Snipaste",
     "Coding/Go/微服务/微服务架构-笔记.md",
     "Coding/Go/微服务/极客时间",
-    "Be Yourself/节省时间/如何节省时间.md",
     "Be Yourself/记录/2023.md",
     "Be Yourself/记录",
     "Day3/未命名.md",
@@ -394,7 +394,6 @@
     "Day3/时间安排.md",
     "Life/最佳实践(重要的是如何行动).md",
     "Algorithm/未命名.md",
-    "Day3/Day3-202305.md",
     "Life/Snipaste/Pasted image 20231112102255.png",
     "Life/Snipaste/Pasted image 20231112101606.png",
     "Life/Snipaste/Pasted image 20231112101451.png",

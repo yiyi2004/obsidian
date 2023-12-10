@@ -143,8 +143,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +254,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -273,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +297,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,11 +351,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "639d8bb77a0c9b79",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
+    "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/节省时间/如何节省时间.md",
     "Day3/Day3-202306.md",
-    "Algorithm/HOT100/算法题目总结.md",
     "Algorithm/HOT100/未命名.md",
     "Cyber Security/学术论文/开题报告.md",
     "Coding/Go/微服务/极客时间/服务注册与发现.md",

@@ -144,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -196,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,7 +238,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922
+    "width": 368.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -254,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md"
+                "file": "Algorithm/HOT100/算法题目总结.md"
               }
             }
           },
@@ -272,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -297,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,7 +326,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -350,14 +352,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "88f6ce4024a04314",
+  "active": "639d8bb77a0c9b79",
   "lastOpenFiles": [
     "Day3/Day3-202306.md",
+    "Cyber Security/学术论文/开题报告.md",
     "每日学习内容总结/学习清单2023-11.md",
     "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/节省时间/如何节省时间.md",
     "Algorithm/HOT100/未命名.md",
-    "Cyber Security/学术论文/开题报告.md",
     "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Be Yourself/反思/问题.md",
     "每日不会清单/不会清单2023-11.md",

@@ -144,9 +144,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b9d481efad533ccd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -198,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -240,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Coding/Go/Database/MySQL/MySQL.md"
               }
             }
           },
@@ -275,7 +287,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +312,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Coding/Go/Database/MySQL/MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,7 +366,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "639d8bb77a0c9b79",
+  "active": "697acbfa6887713c",
   "lastOpenFiles": [
     "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Algorithm/HOT100/算法题目总结.md",

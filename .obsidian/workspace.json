@@ -53,6 +53,21 @@
             }
           },
           {
+            "id": "c6ceeffbcf1beb96",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/紧急安排/准备面试(最后一个星期).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
             "id": "639d8bb77a0c9b79",
             "type": "leaf",
             "state": {
@@ -129,22 +144,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "60374b22e93d9cb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -238,8 +239,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Day3/Day3-202306.md"
               }
             }
           },
@@ -273,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -298,7 +298,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Day3/Day3-202306.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -326,8 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,18 +351,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "639d8bb77a0c9b79",
+  "active": "65da746bfa7bfb08",
   "lastOpenFiles": [
-    "Day3/Day3-202306.md",
+    "Be Yourself/反思/问题.md",
+    "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Cyber Security/学术论文/开题报告.md",
-    "每日学习内容总结/学习清单2023-11.md",
+    "Course/极客时间/极客时间学习课程.md",
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "Day3/Day3-202306.md",
     "Algorithm/HOT100/算法题目总结.md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "Challenge/马拉松比赛/马拉松比赛备赛.md",
+    "Challenge/奇怪的爱好/手相.md",
+    "Challenge/紧急安排",
     "Be Yourself/节省时间/如何节省时间.md",
     "Algorithm/HOT100/未命名.md",
-    "Coding/Go/微服务/极客时间/服务注册与发现.md",
-    "Be Yourself/反思/问题.md",
     "每日不会清单/不会清单2023-11.md",
-    "Course/极客时间/极客时间学习课程.md",
     "Course/极客时间",
     "Be Yourself/简历/简历.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
@@ -387,13 +390,9 @@
     "Coding/Go/微服务/微服务架构-笔记.md",
     "Coding/Go/微服务/极客时间",
     "Be Yourself/记录/2023.md",
-    "Be Yourself/记录",
     "Day3/未命名.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
     "每日不会清单/不会清单2023-10.md",
-    "Day3/时间安排.md",
-    "Life/最佳实践(重要的是如何行动).md",
-    "Algorithm/未命名.md",
     "Life/Snipaste/Pasted image 20231112102255.png",
     "Life/Snipaste/Pasted image 20231112101606.png",
     "Life/Snipaste/Pasted image 20231112101451.png",

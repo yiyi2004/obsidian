@@ -159,7 +159,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -211,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL.md",
+                "file": "Challenge/紧急安排/准备面试(最后一个星期).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922
+    "width": 368.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -269,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL.md"
+                "file": "Challenge/紧急安排/准备面试(最后一个星期).md"
               }
             }
           },
@@ -287,7 +288,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL.md",
+                "file": "Challenge/紧急安排/准备面试(最后一个星期).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -312,7 +313,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Database/MySQL/MySQL.md",
+                "file": "Challenge/紧急安排/准备面试(最后一个星期).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -366,10 +367,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "c6ceeffbcf1beb96",
   "lastOpenFiles": [
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Algorithm/HOT100/算法题目总结.md",
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "Coding/Go/Database/MySQL/MySQL.md",
     "Day3/Day3-202306.md",
     "Be Yourself/反思/问题.md",
     "Coding/Go/微服务/极客时间/服务注册与发现.md",
@@ -407,7 +409,6 @@
     "Be Yourself/记录/2023.md",
     "Day3/未命名.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md",
-    "每日不会清单/不会清单2023-10.md",
     "Life/Snipaste/Pasted image 20231112102255.png",
     "Life/Snipaste/Pasted image 20231112101606.png",
     "Life/Snipaste/Pasted image 20231112101451.png",

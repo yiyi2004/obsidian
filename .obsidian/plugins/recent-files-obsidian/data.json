@@ -13,6 +13,34 @@
       "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
+      "basename": "如何节省时间",
+      "path": "Be Yourself/节省时间/如何节省时间.md"
+    },
+    {
+      "basename": "问题",
+      "path": "Be Yourself/反思/问题.md"
+    },
+    {
+      "basename": "服务注册与发现",
+      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
+    },
+    {
+      "basename": "认知偏执脆弱性本子",
+      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
+    },
+    {
+      "basename": "自动交互的持续部署技术(Chart)",
+      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md"
+    },
+    {
+      "basename": "自动交互的持续诱捕技术(优化)",
+      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
+    },
+    {
+      "basename": "自动交互的持续诱捕技术.excalidraw",
+      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md"
+    },
+    {
       "basename": "极客时间学习课程",
       "path": "Course/极客时间/极客时间学习课程.md"
     },
@@ -33,14 +61,6 @@
       "path": "Day3/Day3-202306.md"
     },
     {
-      "basename": "问题",
-      "path": "Be Yourself/反思/问题.md"
-    },
-    {
-      "basename": "服务注册与发现",
-      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
-    },
-    {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
@@ -51,10 +71,6 @@
     {
       "basename": "手相",
       "path": "Challenge/奇怪的爱好/手相.md"
-    },
-    {
-      "basename": "如何节省时间",
-      "path": "Be Yourself/节省时间/如何节省时间.md"
     },
     {
       "basename": "未命名",
@@ -183,22 +199,6 @@
     {
       "basename": "打完九价的注意事项",
       "path": "Life/日常生活/打完九价的注意事项.md"
-    },
-    {
-      "basename": "Golang 回顾",
-      "path": "Go/Golang 回顾.md"
-    },
-    {
-      "basename": "01.1 io",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.1 io.md"
-    },
-    {
-      "basename": "01.0 输入输出",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter01/01.0 输入输出.md"
-    },
-    {
-      "basename": "角色本子",
-      "path": "Interesting/写小说/角色本子.md"
     }
   ],
   "omittedPaths": [],

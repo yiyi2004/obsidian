@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "开题报告",
-      "path": "Cyber Security/学术论文/开题报告.md"
-    },
-    {
       "basename": "准备面试(最后一个星期)",
       "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
+    },
+    {
+      "basename": "Day3-202306",
+      "path": "Day3/Day3-202306.md"
+    },
+    {
+      "basename": "学习清单2023-11",
+      "path": "每日学习内容总结/学习清单2023-11.md"
+    },
+    {
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
+    },
+    {
+      "basename": "开题报告",
+      "path": "Cyber Security/学术论文/开题报告.md"
     },
     {
       "basename": "算法题目总结",
@@ -57,14 +69,6 @@
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     },
     {
-      "basename": "Day3-202306",
-      "path": "Day3/Day3-202306.md"
-    },
-    {
-      "basename": "学习清单2023-11",
-      "path": "每日学习内容总结/学习清单2023-11.md"
-    },
-    {
       "basename": "马拉松比赛备赛",
       "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "未命名",
       "path": "Algorithm/HOT100/未命名.md"
-    },
-    {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
     },
     {
       "basename": "简历",

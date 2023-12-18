@@ -5,32 +5,84 @@
       "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
-      "basename": "Day3-202306",
-      "path": "Day3/Day3-202306.md"
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
-      "basename": "学习清单2023-11",
-      "path": "每日学习内容总结/学习清单2023-11.md"
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
     },
     {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
+      "basename": "Latex 常用包",
+      "path": "Math/Latex/Latex 常用包.md"
     },
     {
       "basename": "开题报告",
       "path": "Cyber Security/学术论文/开题报告.md"
     },
     {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
+    },
+    {
+      "basename": "学习清单2023-11",
+      "path": "每日学习内容总结/学习清单2023-11.md"
+    },
+    {
+      "basename": "Day3-202306",
+      "path": "Day3/Day3-202306.md"
+    },
+    {
+      "basename": "如何保持高能量",
+      "path": "Be Yourself/如何保持高能量.md"
+    },
+    {
+      "basename": "0. 项目行为习惯分析",
+      "path": "Be Yourself/0. 项目行为习惯分析.md"
+    },
+    {
+      "basename": "2023-12-17",
+      "path": "Daily/2023-12-17.md"
+    },
+    {
+      "basename": "2023-12-16",
+      "path": "Daily/2023-12-16.md"
     },
     {
       "basename": "如何节省时间",
       "path": "Be Yourself/节省时间/如何节省时间.md"
     },
     {
+      "basename": "Latex",
+      "path": "Math/Latex/Latex.md"
+    },
+    {
+      "basename": "Math index",
+      "path": "Math/Math index.md"
+    },
+    {
+      "basename": "我的问题",
+      "path": "Be Yourself/反思/我的问题.md"
+    },
+    {
       "basename": "问题",
       "path": "Be Yourself/反思/问题.md"
+    },
+    {
+      "basename": "20230930",
+      "path": "Be Yourself/反思/20230930.md"
+    },
+    {
+      "basename": "2023",
+      "path": "Be Yourself/记录/2023.md"
+    },
+    {
+      "basename": "学习陷阱",
+      "path": "Be Yourself/学习陷阱.md"
+    },
+    {
+      "basename": "突然的想法",
+      "path": "Be Yourself/突然的想法.md"
     },
     {
       "basename": "服务注册与发现",
@@ -109,10 +161,6 @@
       "path": "Coding/Go/微服务/微服务架构-笔记.md"
     },
     {
-      "basename": "2023",
-      "path": "Be Yourself/记录/2023.md"
-    },
-    {
       "basename": "未命名",
       "path": "Day3/未命名.md"
     },
@@ -151,54 +199,6 @@
     {
       "basename": "00.课程介绍",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md"
-    },
-    {
-      "basename": "ipad",
-      "path": "Life/ipad.md"
-    },
-    {
-      "basename": "Life index",
-      "path": "Life/Life index.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
-      "basename": "tqdm",
-      "path": "Coding/Python/Repository/tqdm.md"
-    },
-    {
-      "basename": "量化交易",
-      "path": "Coding/Python/Repository/量化交易.md"
-    },
-    {
-      "basename": "Python Web",
-      "path": "Coding/Python/Repository/Python Web.md"
-    },
-    {
-      "basename": "议论文写作",
-      "path": "Challenge/表达能力训练/写作方法总结/议论文写作.md"
-    },
-    {
-      "basename": "03.0 数据结构与算法",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.0 数据结构与算法.md"
-    },
-    {
-      "basename": "03.3 container",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.3 container.md"
-    },
-    {
-      "basename": "03.1 sort",
-      "path": "Go/The-Golang-Standard-Library-by-Example/chapter03/03.1 sort.md"
-    },
-    {
-      "basename": "定期检查",
-      "path": "Life/日常生活/定期检查.md"
-    },
-    {
-      "basename": "打完九价的注意事项",
-      "path": "Life/日常生活/打完九价的注意事项.md"
     }
   ],
   "omittedPaths": [],

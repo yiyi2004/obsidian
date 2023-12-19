@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -244,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202307.md"
+                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md"
               }
             }
           },
@@ -262,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -342,8 +341,11 @@
   },
   "active": "4e29755a26ea1334",
   "lastOpenFiles": [
-    "Day3/Day3-202306.md",
+    "Paper/Paper index.md",
+    "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
+    "Paper/攻击行为预测",
     "Day3/Day3-202307.md",
+    "Day3/Day3-202306.md",
     "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Algorithm/HOT100/算法题目总结.md",
     "Algorithm/算法总结.md",
@@ -368,8 +370,6 @@
     "Be Yourself/学习陷阱.md",
     "Be Yourself/突然的想法.md",
     "Coding/Go/微服务/极客时间/服务注册与发现.md",
-    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
-    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093018.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093012.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093010.png",
@@ -386,7 +386,6 @@
     "Cyber Security/学术论文",
     "未命名",
     "Coding/Go/微服务/极客时间/Snipaste/Pasted image 20231130101814.png",
-    "Coding/Go/微服务/极客时间/Snipaste",
     "Life/Snipaste/Pasted image 20231112102255.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",

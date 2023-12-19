@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Attacker Behavior Analysis in Multi-stage Attack Detection System",
+      "path": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md"
+    },
+    {
+      "basename": "Paper index",
+      "path": "Paper/Paper index.md"
+    },
+    {
       "basename": "Day3-202307",
       "path": "Day3/Day3-202307.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "吸引力法则",
       "path": "Life/self-improvement/吸引力法则.md"
-    },
-    {
-      "basename": "饮食健康",
-      "path": "Life/饮食健康.md"
-    },
-    {
-      "basename": "01.快速入门",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Day3-202307",
+      "path": "Day3/Day3-202307.md"
+    },
+    {
+      "basename": "Day3-202306",
+      "path": "Day3/Day3-202306.md"
+    },
+    {
       "basename": "准备面试(最后一个星期)",
       "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "学习清单2023-11",
       "path": "每日学习内容总结/学习清单2023-11.md"
-    },
-    {
-      "basename": "Day3-202306",
-      "path": "Day3/Day3-202306.md"
     },
     {
       "basename": "如何保持高能量",
@@ -195,10 +199,6 @@
     {
       "basename": "01.快速入门",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/01.快速入门.md"
-    },
-    {
-      "basename": "00.课程介绍",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/00.课程介绍.md"
     }
   ],
   "omittedPaths": [],

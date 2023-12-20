@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Security/学术论文/开题报告.md",
+                "file": "Day3/Day3-202307.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -125,7 +125,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
+                "file": "创业/淘宝店/存在问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4781e3be44cbe866",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -185,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
+                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md"
+                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md"
               }
             }
           },
@@ -261,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
+                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
+                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,37 +352,40 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e29755a26ea1334",
+  "active": "4781e3be44cbe866",
   "lastOpenFiles": [
-    "Paper/Paper index.md",
+    "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md",
+    "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
     "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
-    "Paper/攻击行为预测",
+    "Paper/攻击行为预测/Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey).md",
+    "Paper/Paper index.md",
+    "创业/淘宝店/存在问题.md",
     "Day3/Day3-202307.md",
     "Day3/Day3-202306.md",
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "Be Yourself/0. 项目行为习惯分析.md",
+    "Be Yourself/如何保持高能量.md",
     "Algorithm/HOT100/算法题目总结.md",
-    "Algorithm/算法总结.md",
-    "Math/Latex/Latex 常用包.md",
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "Daily/2023-12-16.md",
+    "Daily/2023-12-17.md",
     "Cyber Security/学术论文/开题报告.md",
     "每日不会清单/不会清单2023-11.md",
     "每日学习内容总结/学习清单2023-11.md",
-    "Be Yourself/如何保持高能量.md",
+    "创业/淘宝店",
+    "创业/未命名.md",
+    "创业",
+    "每日学习内容总结/床架",
+    "Paper/攻击行为预测",
+    "Algorithm/算法总结.md",
+    "Math/Latex/Latex 常用包.md",
     "Be Yourself/Snipaste/Pasted image 20231217153855.png",
     "Be Yourself/Snipaste/Pasted image 20231217153132.png",
     "Be Yourself/未命名.md",
-    "Be Yourself/0. 项目行为习惯分析.md",
-    "Daily/2023-12-17.md",
-    "Daily/2023-12-16.md",
     "Be Yourself/节省时间/如何节省时间.md",
     "Math/Latex/Latex.md",
     "Math/Math index.md",
     "Be Yourself/反思/我的问题.md",
     "Be Yourself/反思/问题.md",
-    "Be Yourself/反思/20230930.md",
-    "Be Yourself/记录/2023.md",
-    "Be Yourself/学习陷阱.md",
-    "Be Yourself/突然的想法.md",
-    "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093018.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093012.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093010.png",
@@ -382,9 +398,6 @@
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204104549.png",
     "Be Yourself/投资/Snipaste",
-    "Be Yourself/投资",
-    "Cyber Security/学术论文",
-    "未命名",
     "Coding/Go/微服务/极客时间/Snipaste/Pasted image 20231130101814.png",
     "Life/Snipaste/Pasted image 20231112102255.png",
     "AI/未命名.canvas",

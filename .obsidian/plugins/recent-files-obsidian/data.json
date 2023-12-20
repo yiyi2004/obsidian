@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Real-Time Multistep Attack Prediction Based on Hidden Markov Models",
+      "path": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md"
+    },
+    {
+      "basename": "DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning",
+      "path": "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md"
+    },
+    {
       "basename": "Attacker Behavior Analysis in Multi-stage Attack Detection System",
       "path": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md"
     },
     {
+      "basename": "Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey)",
+      "path": "Paper/攻击行为预测/Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey).md"
+    },
+    {
       "basename": "Paper index",
       "path": "Paper/Paper index.md"
+    },
+    {
+      "basename": "存在问题",
+      "path": "创业/淘宝店/存在问题.md"
     },
     {
       "basename": "Day3-202307",
@@ -17,20 +33,28 @@
       "path": "Day3/Day3-202306.md"
     },
     {
-      "basename": "准备面试(最后一个星期)",
-      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
+      "basename": "0. 项目行为习惯分析",
+      "path": "Be Yourself/0. 项目行为习惯分析.md"
+    },
+    {
+      "basename": "如何保持高能量",
+      "path": "Be Yourself/如何保持高能量.md"
     },
     {
       "basename": "算法题目总结",
       "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
+      "basename": "准备面试(最后一个星期)",
+      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
-      "basename": "Latex 常用包",
-      "path": "Math/Latex/Latex 常用包.md"
+      "basename": "2023-12-16",
+      "path": "Daily/2023-12-16.md"
+    },
+    {
+      "basename": "2023-12-17",
+      "path": "Daily/2023-12-17.md"
     },
     {
       "basename": "开题报告",
@@ -45,20 +69,12 @@
       "path": "每日学习内容总结/学习清单2023-11.md"
     },
     {
-      "basename": "如何保持高能量",
-      "path": "Be Yourself/如何保持高能量.md"
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
     },
     {
-      "basename": "0. 项目行为习惯分析",
-      "path": "Be Yourself/0. 项目行为习惯分析.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "Daily/2023-12-17.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "Daily/2023-12-16.md"
+      "basename": "Latex 常用包",
+      "path": "Math/Latex/Latex 常用包.md"
     },
     {
       "basename": "如何节省时间",
@@ -183,22 +199,6 @@
     {
       "basename": "不会清单2023-10",
       "path": "每日不会清单/不会清单2023-10.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "Day3/时间安排.md"
-    },
-    {
-      "basename": "最佳实践(重要的是如何行动)",
-      "path": "Life/最佳实践(重要的是如何行动).md"
-    },
-    {
-      "basename": "Day3-202305",
-      "path": "Day3/Day3-202305.md"
-    },
-    {
-      "basename": "吸引力法则",
-      "path": "Life/self-improvement/吸引力法则.md"
     }
   ],
   "omittedPaths": [],

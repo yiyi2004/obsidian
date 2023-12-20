@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "Go 编程题目",
+      "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
+    },
+    {
       "basename": "简历",
       "path": "Be Yourself/简历/简历.md"
+    },
+    {
+      "basename": "简历(1)",
+      "path": "Be Yourself/简历/简历(1).pdf"
+    },
+    {
+      "basename": "简历",
+      "path": "Be Yourself/简历/简历.pdf"
+    },
+    {
+      "basename": "如何保持高能量",
+      "path": "Be Yourself/如何保持高能量.md"
+    },
+    {
+      "basename": "Resume(规划)",
+      "path": "Be Yourself/简历/Resume(规划).md"
+    },
+    {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
+      "basename": "Golang 面试资料搜集",
+      "path": "Be Yourself/简历/Golang 面试资料搜集.md"
+    },
+    {
+      "basename": "面试技能",
+      "path": "Be Yourself/简历/面试技能.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "三年后的自己要是什么样的呢？",
+      "path": "Be Yourself/简历/三年后的自己要是什么样的呢？.md"
+    },
+    {
+      "basename": "准备面试(最后一个星期)",
+      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
       "basename": "简历",
@@ -43,18 +95,6 @@
     {
       "basename": "0. 项目行为习惯分析",
       "path": "Be Yourself/0. 项目行为习惯分析.md"
-    },
-    {
-      "basename": "如何保持高能量",
-      "path": "Be Yourself/如何保持高能量.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
-      "basename": "准备面试(最后一个星期)",
-      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
       "basename": "2023-12-16",
@@ -159,46 +199,6 @@
     {
       "basename": "马拉松比赛备赛",
       "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
-    },
-    {
-      "basename": "手相",
-      "path": "Challenge/奇怪的爱好/手相.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Algorithm/HOT100/未命名.md"
-    },
-    {
-      "basename": "Redis高级篇之最佳实践",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/Redis高级篇之最佳实践.md"
-    },
-    {
-      "basename": "投资大师得思维模型",
-      "path": "Be Yourself/投资/投资大师得思维模型.md"
-    },
-    {
-      "basename": "咸鱼",
-      "path": "Be Yourself/副业/咸鱼.md"
-    },
-    {
-      "basename": "202312051508",
-      "path": "202312051508.md"
-    },
-    {
-      "basename": "微服务架构-笔记",
-      "path": "Coding/Go/微服务/微服务架构-笔记.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "Day3/未命名.md"
-    },
-    {
-      "basename": "Redis集群",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/资料/Redis集群.md"
-    },
-    {
-      "basename": "不会清单2023-10",
-      "path": "每日不会清单/不会清单2023-10.md"
     }
   ],
   "omittedPaths": [],

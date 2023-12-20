@@ -7,7 +7,7 @@
 - [[Go/go tools/go mod|go mod]]
 - [[Go/go-plugin.md|go-plugin]]
 - [[Go/Golang 回顾.md|Golang 回顾]]
-- [[../Resume/面试题/Go/Go 面试题|Go 面试题]]
+- [[../Be Yourself/简历/面试题/Go/Go 面试题|Go 面试题]]
 - [[Go/GORM(Object-Relationl Mapping).md|GORM(Object-Relationl Mapping)]]
 - [[Go/Micro Service with Go!.md|Micro Service with Go!]]
 - [[Go/protobuf.md|protobuf]]

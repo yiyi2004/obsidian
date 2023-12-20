@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
+                "file": "Day3/Day3-202307.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md"
+                "file": "Day3/Day3-202307.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
+                "file": "Day3/Day3-202307.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
+                "file": "Day3/Day3-202307.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -352,10 +352,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4781e3be44cbe866",
+  "active": "8cbc7a02f808d14d",
   "lastOpenFiles": [
-    "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md",
     "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
+    "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md",
     "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
     "Paper/攻击行为预测/Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey).md",
     "Paper/Paper index.md",

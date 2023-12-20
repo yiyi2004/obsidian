@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Be Yourself/简历/简历.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -198,7 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Be Yourself/简历/简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -256,7 +256,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/Day3-202307.md"
+                "file": "Be Yourself/简历/简历.md"
               }
             }
           },
@@ -274,7 +274,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Be Yourself/简历/简历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -299,7 +299,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Be Yourself/简历/简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -354,13 +354,14 @@
   },
   "active": "8cbc7a02f808d14d",
   "lastOpenFiles": [
+    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
+    "Day3/Day3-202307.md",
     "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
     "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md",
     "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
     "Paper/攻击行为预测/Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey).md",
     "Paper/Paper index.md",
     "创业/淘宝店/存在问题.md",
-    "Day3/Day3-202307.md",
     "Day3/Day3-202306.md",
     "Be Yourself/0. 项目行为习惯分析.md",
     "Be Yourself/如何保持高能量.md",
@@ -385,7 +386,6 @@
     "Math/Latex/Latex.md",
     "Math/Math index.md",
     "Be Yourself/反思/我的问题.md",
-    "Be Yourself/反思/问题.md",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093018.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093012.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093010.png",

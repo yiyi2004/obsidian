@@ -94,9 +94,12 @@
             "id": "d028312164c3b3b9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历_笔记.pdf"
+                "file": "Be Yourself/简历/简历.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           },
@@ -192,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历_笔记.pdf",
+                "file": "Be Yourself/简历/简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -250,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历_笔记.pdf"
+                "file": "Be Yourself/简历/简历.md"
               }
             }
           },
@@ -268,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历_笔记.pdf",
+                "file": "Be Yourself/简历/简历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -293,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历_笔记.pdf",
+                "file": "Be Yourself/简历/简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -348,9 +351,10 @@
   },
   "active": "d028312164c3b3b9",
   "lastOpenFiles": [
+    "Coding/Go/Database/MySQL/MySQL.md",
+    "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.md",
     "Be Yourself/简历/面试题/Go/Go 编程题目.md",
-    "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/Resume(规划).md",
     "Be Yourself/简历/简历(1).pdf",
     "Be Yourself/简历/面试题/Go/Gin 面试题.md",

@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "简历_笔记",
-      "path": "Be Yourself/简历/简历_笔记.pdf"
-    },
-    {
       "basename": "简历",
       "path": "Be Yourself/简历/简历.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
+    },
+    {
+      "basename": "简历_笔记",
+      "path": "Be Yourself/简历/简历_笔记.pdf"
     },
     {
       "basename": "Go 编程题目",
@@ -183,10 +187,6 @@
     {
       "basename": "极客时间学习课程",
       "path": "Course/极客时间/极客时间学习课程.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
     },
     {
       "basename": "原理篇",

@@ -143,7 +143,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Be Yourself/简历/Resume(规划).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历.md"
+                "file": "Be Yourself/简历/Resume(规划).md"
               }
             }
           },
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Be Yourself/简历/Resume(规划).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Be Yourself/简历/Resume(规划).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -349,16 +349,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d028312164c3b3b9",
+  "active": "8cbc7a02f808d14d",
   "lastOpenFiles": [
+    "Be Yourself/简历/简历.pdf",
+    "Be Yourself/简历/简历.md",
     "Coding/Go/Database/MySQL/MySQL.md",
     "Be Yourself/简历/简历_笔记.pdf",
-    "Be Yourself/简历/简历.md",
     "Be Yourself/简历/面试题/Go/Go 编程题目.md",
     "Be Yourself/简历/Resume(规划).md",
     "Be Yourself/简历/简历(1).pdf",
     "Be Yourself/简历/面试题/Go/Gin 面试题.md",
-    "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
     "Be Yourself/如何保持高能量.md",
     "Algorithm/HOT100/算法题目总结.md",
@@ -379,7 +379,6 @@
     "Be Yourself/0. 项目行为习惯分析.md",
     "Daily/2023-12-16.md",
     "Daily/2023-12-17.md",
-    "Cyber Security/学术论文/开题报告.md",
     "创业/淘宝店",
     "创业",
     "每日学习内容总结/床架",

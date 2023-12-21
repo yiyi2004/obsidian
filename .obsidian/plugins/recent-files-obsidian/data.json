@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Resume(规划)",
+      "path": "Be Yourself/简历/Resume(规划).md"
+    },
+    {
+      "basename": "简历",
+      "path": "Be Yourself/简历/简历.pdf"
+    },
+    {
       "basename": "简历",
       "path": "Be Yourself/简历/简历.md"
     },
@@ -17,16 +25,8 @@
       "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
     },
     {
-      "basename": "Resume(规划)",
-      "path": "Be Yourself/简历/Resume(规划).md"
-    },
-    {
       "basename": "Gin 面试题",
       "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.pdf"
     },
     {
       "basename": "Go 面试题",

@@ -73,20 +73,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试之路/日常实习.md",
+                "file": "Be Yourself/简历/简历.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "639d8bb77a0c9b79",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Be Yourself/简历/简历.pdf"
               }
             }
           },
@@ -96,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Be Yourself/简历/Tips.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -135,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
+                "file": "Basic/设计模式/Java 设计模式/Java 设计模式.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试之路/日常实习.md",
+                "file": "Be Yourself/简历/简历.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +223,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -253,7 +244,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试之路/日常实习.md"
+                "file": "Be Yourself/简历/简历.md"
               }
             }
           },
@@ -271,7 +262,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试之路/日常实习.md",
+                "file": "Be Yourself/简历/简历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +287,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试之路/日常实习.md",
+                "file": "Be Yourself/简历/简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,36 +342,36 @@
   },
   "active": "8cbc7a02f808d14d",
   "lastOpenFiles": [
-    "Be Yourself/简历/Resume(规划).md",
-    "Be Yourself/简历/面试之路/日常实习.md",
-    "Be Yourself/简历/面试之路",
-    "Be Yourself/简历/简历.pdf",
-    "Be Yourself/简历/简历.md",
-    "Coding/Go/Database/MySQL/MySQL.md",
-    "Be Yourself/简历/简历_笔记.pdf",
-    "Be Yourself/简历/面试题/Go/Go 编程题目.md",
-    "Be Yourself/简历/简历(1).pdf",
-    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
-    "Be Yourself/简历/面试题/Go/Go 面试题.md",
-    "Be Yourself/如何保持高能量.md",
-    "Algorithm/HOT100/算法题目总结.md",
-    "Be Yourself/简历/Golang 面试资料搜集.md",
-    "Be Yourself/简历/面试技能.md",
-    "Be Yourself/简历/面试题.md",
-    "Be Yourself/简历/三年后的自己要是什么样的呢？.md",
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
+    "Coding/Python/爬虫/requests.md",
+    "Be Yourself/简历/Tips.md",
     "Day3/Day3-202307.md",
-    "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
-    "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md",
-    "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md",
-    "Paper/攻击行为预测/Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey).md",
-    "Paper/Paper index.md",
     "创业/淘宝店/存在问题.md",
-    "Day3/Day3-202306.md",
-    "Be Yourself/0. 项目行为习惯分析.md",
-    "Daily/2023-12-16.md",
-    "Daily/2023-12-17.md",
+    "Basic/设计模式/Java 设计模式/Java 设计模式.md",
+    "Be Yourself/简历/简历.md",
+    "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
+    "Basic/设计模式/Go 设计模式/适配器模式.md",
+    "Be Yourself/简历/Resume(规划).md",
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "每日学习内容总结/学习清单2023-11.md",
+    "每日不会清单/不会清单2023-11.md",
+    "Coding/Python/爬虫/Python.md",
+    "Coding/Python/爬虫/Java 开发基础.md",
+    "Coding/Python/爬虫/Flask 服务.md",
+    "Coding/Python/爬虫/APP 逆向入门.md",
+    "Coding/Python/爬虫/异步爬虫.md",
+    "Coding/Python/爬虫/爬虫实战总结.md",
+    "Coding/Python/爬虫/爬虫基础总结.md",
+    "Coding/Python/爬虫/逆向爬虫.md",
+    "Coding/Python/爬虫/安卓和 JNI 开发.md",
+    "Cloud Native/ELK/elasticsearch.md",
+    "Cloud Native/ELK/ELK.md",
+    "Cloud Native/Github Project/okteto——change local, sync cloud.md",
+    "Be Yourself/简历/简历_笔记.pdf",
+    "Be Yourself/简历/简历.pdf",
+    "Be Yourself/简历/面试之路",
+    "Be Yourself/简历/简历(1).pdf",
     "创业/淘宝店",
     "创业",
     "每日学习内容总结/床架",

@@ -1,8 +1,10 @@
-# Docker 部署 ELK
+## Docker 部署 ELK
+
 - [ELK Stack：Elasticsearch 的开发者倾心打造 | Elastic](https://www.elastic.co/cn/what-is/elk-stack)
 - [Docker 部署 ELK 详解 - 掘金 (juejin.cn)](https://juejin.cn/post/6916448544811384840)
 
-## 组件
+### 组件
+
 - Elasticsearch：分布式搜索和分析引擎，具有高可伸缩、高可靠和易管理等特点。基于 Apache Lucene 构建，能对大容量的数据进行接近实时的存储、搜索和分析操作。通常被用作某些应用的基础搜索引擎，使其具有复杂的搜索功能；
 - Logstash：数据收集引擎。它支持动态的从各种数据源搜集数据，并对数据进行过滤、分析、丰富、统一格式等操作，然后存储到用户指定的位置；
 - Kibana：数据分析和可视化平台。通常与 Elasticsearch 配合使用，对其中数据进行搜索、分析和以统计图表的方式展示；
@@ -11,15 +13,18 @@
   ![[Snipaste/be683c158a324bc2ad7795a44e81ba75_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0.webp]]
 
 - 版本一致
+
 ```shell
 Kibana:7.1.1
 Filebeat:7.0.1
 Logstash:7.1.1
 Elasticsearch:7.1.1
 ```
-## 核心配置文件
 
-### docker-elk.yml
+### 核心配置文件
+
+#### docker-elk.yml
+
 ```yml
 version: "3"
 services:
@@ -92,9 +97,10 @@ services:
       - es-slave1
 ```
 
-- 使用**TZ=Asia/Shanghai**避免docker时区非东八区问题导致@timestamp与上传时间对应不上的问题
+- 使用**TZ=Asia/Shanghai**避免 docker 时区非东八区问题导致@timestamp 与上传时间对应不上的问题
 
-### es-master.yml
+#### es-master.yml
+
 ```yaml
 # 集群名称
 cluster.name: es-cluster
@@ -125,7 +131,8 @@ http.cors.allow-origin: "*"
 xpack.security.enabled: false
 #http.cors.allow-headers: "Authorization"
 ```
-### es-slave1.yml
+
+#### es-slave1.yml
 
 ```yml
 # 集群名称
@@ -159,7 +166,8 @@ xpack.security.enabled: false
 
 ```
 
-### kibana.yml
+#### kibana.yml
+
 ```yml
 
 # 服务端口
@@ -173,7 +181,8 @@ i18n.locale: "zh-CN"
 
 ```
 
-### logstash-filebeat.conf
+#### logstash-filebeat.conf
+
 ```conf
 input {
   beats {
@@ -198,8 +207,10 @@ output {
   }
 }
 ```
-### docker-filebeat.ym
-- filebeat单独部署在需要采集日志的服务器中
+
+#### docker-filebeat.ym
+
+- filebeat 单独部署在需要采集日志的服务器中
 
 ```yml
 version: "3"
@@ -231,7 +242,8 @@ services:
 
 ```
 
-### filebeat.yml
+#### filebeat.yml
+
 ```yml
 filebeat.inputs:
 - type: log
@@ -269,15 +281,18 @@ output.logstash:
   hosts: ["115.236.191.59:5144"]
 ```
 
-## 部署服务
-成功创建目录及配置文件后，即可进行ELK服务部署
+### 部署服务
+
+成功创建目录及配置文件后，即可进行 ELK 服务部署
 
 ```shell
 docker-compose -f docker-elk.yml up -d #安装服务
 ```
 
-## FAQ
-max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]（elasticsearch 用户拥有的内存权限太小，至少需要262144） 解决办法：
+### FAQ
+
+max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]（elasticsearch 用户拥有的内存权限太小，至少需要 262144） 解决办法：
+
 ```shell
 # 修改配置sysctl.conf
 [root@localhost ~]# vi /etc/sysctl.conf
@@ -293,6 +308,7 @@ vm.max_map_count=262144
 
 ![[Snipaste/445766040a794d70bf612d8bd76bb266_tplv-k3u1fbpfcp-zoom-in-crop-mark_4536_0_0_0 1.webp]]
 
-# Reference
+## Reference
+
 - [ELK Stack Tutorial: What is Kibana, Logstash & Elasticsearch? (guru99.com)](https://www.guru99.com/elk-stack-tutorial.html#8)
 - [start shell](https://github.com/deviantony/docker-elk)

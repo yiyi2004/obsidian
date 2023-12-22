@@ -1,28 +1,188 @@
 {
   "recentFiles": [
     {
-      "basename": "日常实习",
-      "path": "Be Yourself/简历/面试之路/日常实习.md"
+      "basename": "简历",
+      "path": "Be Yourself/简历/简历.md"
+    },
+    {
+      "basename": "简历",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md"
+    },
+    {
+      "basename": "requests",
+      "path": "Coding/Python/爬虫/requests.md"
+    },
+    {
+      "basename": "Tips",
+      "path": "Be Yourself/简历/Tips.md"
+    },
+    {
+      "basename": "Day3-202307",
+      "path": "Day3/Day3-202307.md"
+    },
+    {
+      "basename": "存在问题",
+      "path": "创业/淘宝店/存在问题.md"
+    },
+    {
+      "basename": "Java 设计模式",
+      "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
+    },
+    {
+      "basename": "Real-Time Multistep Attack Prediction Based on Hidden Markov Models",
+      "path": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md"
+    },
+    {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
+      "basename": "适配器模式",
+      "path": "Basic/设计模式/Go 设计模式/适配器模式.md"
     },
     {
       "basename": "Resume(规划)",
       "path": "Be Yourself/简历/Resume(规划).md"
     },
     {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.pdf"
+      "basename": "准备面试(最后一个星期)",
+      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
+      "basename": "学习清单2023-11",
+      "path": "每日学习内容总结/学习清单2023-11.md"
     },
     {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
+    },
+    {
+      "basename": "Python",
+      "path": "Coding/Python/爬虫/Python.md"
+    },
+    {
+      "basename": "Java 开发基础",
+      "path": "Coding/Python/爬虫/Java 开发基础.md"
+    },
+    {
+      "basename": "Flask 服务",
+      "path": "Coding/Python/爬虫/Flask 服务.md"
+    },
+    {
+      "basename": "APP 逆向入门",
+      "path": "Coding/Python/爬虫/APP 逆向入门.md"
+    },
+    {
+      "basename": "异步爬虫",
+      "path": "Coding/Python/爬虫/异步爬虫.md"
+    },
+    {
+      "basename": "爬虫实战总结",
+      "path": "Coding/Python/爬虫/爬虫实战总结.md"
+    },
+    {
+      "basename": "爬虫基础总结",
+      "path": "Coding/Python/爬虫/爬虫基础总结.md"
+    },
+    {
+      "basename": "逆向爬虫",
+      "path": "Coding/Python/爬虫/逆向爬虫.md"
+    },
+    {
+      "basename": "安卓和 JNI 开发",
+      "path": "Coding/Python/爬虫/安卓和 JNI 开发.md"
+    },
+    {
+      "basename": "elasticsearch",
+      "path": "Cloud Native/ELK/elasticsearch.md"
+    },
+    {
+      "basename": "ELK",
+      "path": "Cloud Native/ELK/ELK.md"
+    },
+    {
+      "basename": "okteto——change local, sync cloud",
+      "path": "Cloud Native/Github Project/okteto——change local, sync cloud.md"
+    },
+    {
+      "basename": "K8s 基础知识",
+      "path": "Cloud Native/K8s/K8s 基础知识/K8s 基础知识.md"
+    },
+    {
+      "basename": "Resume index",
+      "path": "Be Yourself/简历/Resume index.md"
+    },
+    {
+      "basename": "Golang 面试资料搜集",
+      "path": "Be Yourself/简历/Golang 面试资料搜集.md"
+    },
+    {
+      "basename": "三年后的自己要是什么样的呢？",
+      "path": "Be Yourself/简历/三年后的自己要是什么样的呢？.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "面试技能",
+      "path": "Be Yourself/简历/面试技能.md"
     },
     {
       "basename": "简历_笔记",
       "path": "Be Yourself/简历/简历_笔记.pdf"
+    },
+    {
+      "basename": "简历",
+      "path": "Be Yourself/简历/简历.pdf"
+    },
+    {
+      "basename": "珍大户未来 10 年的工作",
+      "path": "Eassay/珍大户未来 10 年的工作.md"
+    },
+    {
+      "basename": "百度网盘",
+      "path": "Project/百度云盘/百度网盘.md"
+    },
+    {
+      "basename": "日常实习",
+      "path": "Be Yourself/简历/面试之路/日常实习.md"
+    },
+    {
+      "basename": "2023",
+      "path": "Be Yourself/记录/2023.md"
+    },
+    {
+      "basename": "0. 项目行为习惯分析",
+      "path": "Be Yourself/0. 项目行为习惯分析.md"
+    },
+    {
+      "basename": "2023我们重新开始",
+      "path": "Be Yourself/2023我们重新开始.md"
+    },
+    {
+      "basename": "财富自由",
+      "path": "Be Yourself/财富自由.md"
+    },
+    {
+      "basename": "如何保持高能量",
+      "path": "Be Yourself/如何保持高能量.md"
+    },
+    {
+      "basename": "突然的想法",
+      "path": "Be Yourself/突然的想法.md"
+    },
+    {
+      "basename": "Be Yourself index",
+      "path": "Be Yourself/Be Yourself index.md"
+    },
+    {
+      "basename": "learning process",
+      "path": "Be Yourself/learning process.md"
+    },
+    {
+      "basename": "MySQL",
+      "path": "Coding/Go/Database/MySQL/MySQL.md"
     },
     {
       "basename": "Go 编程题目",
@@ -37,168 +197,8 @@
       "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
     },
     {
-      "basename": "如何保持高能量",
-      "path": "Be Yourself/如何保持高能量.md"
-    },
-    {
       "basename": "算法题目总结",
       "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
-      "basename": "Golang 面试资料搜集",
-      "path": "Be Yourself/简历/Golang 面试资料搜集.md"
-    },
-    {
-      "basename": "面试技能",
-      "path": "Be Yourself/简历/面试技能.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "三年后的自己要是什么样的呢？",
-      "path": "Be Yourself/简历/三年后的自己要是什么样的呢？.md"
-    },
-    {
-      "basename": "准备面试(最后一个星期)",
-      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
-    },
-    {
-      "basename": "简历",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md"
-    },
-    {
-      "basename": "Day3-202307",
-      "path": "Day3/Day3-202307.md"
-    },
-    {
-      "basename": "Real-Time Multistep Attack Prediction Based on Hidden Markov Models",
-      "path": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md"
-    },
-    {
-      "basename": "DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning",
-      "path": "Paper/攻击行为预测/DeepAG Attack Graph Construction and Threats Prediction With Bi-Directional Deep Learning.md"
-    },
-    {
-      "basename": "Attacker Behavior Analysis in Multi-stage Attack Detection System",
-      "path": "Paper/攻击行为预测/Attacker Behavior Analysis in Multi-stage Attack Detection System.md"
-    },
-    {
-      "basename": "Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey)",
-      "path": "Paper/攻击行为预测/Cyber-Attack Prediction Based on Network Intrusion Detection Systems for Alert Correlation Techniques (A Survey).md"
-    },
-    {
-      "basename": "Paper index",
-      "path": "Paper/Paper index.md"
-    },
-    {
-      "basename": "存在问题",
-      "path": "创业/淘宝店/存在问题.md"
-    },
-    {
-      "basename": "Day3-202306",
-      "path": "Day3/Day3-202306.md"
-    },
-    {
-      "basename": "0. 项目行为习惯分析",
-      "path": "Be Yourself/0. 项目行为习惯分析.md"
-    },
-    {
-      "basename": "2023-12-16",
-      "path": "Daily/2023-12-16.md"
-    },
-    {
-      "basename": "2023-12-17",
-      "path": "Daily/2023-12-17.md"
-    },
-    {
-      "basename": "开题报告",
-      "path": "Cyber Security/学术论文/开题报告.md"
-    },
-    {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
-    },
-    {
-      "basename": "学习清单2023-11",
-      "path": "每日学习内容总结/学习清单2023-11.md"
-    },
-    {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "Latex 常用包",
-      "path": "Math/Latex/Latex 常用包.md"
-    },
-    {
-      "basename": "如何节省时间",
-      "path": "Be Yourself/节省时间/如何节省时间.md"
-    },
-    {
-      "basename": "Latex",
-      "path": "Math/Latex/Latex.md"
-    },
-    {
-      "basename": "Math index",
-      "path": "Math/Math index.md"
-    },
-    {
-      "basename": "我的问题",
-      "path": "Be Yourself/反思/我的问题.md"
-    },
-    {
-      "basename": "问题",
-      "path": "Be Yourself/反思/问题.md"
-    },
-    {
-      "basename": "20230930",
-      "path": "Be Yourself/反思/20230930.md"
-    },
-    {
-      "basename": "2023",
-      "path": "Be Yourself/记录/2023.md"
-    },
-    {
-      "basename": "学习陷阱",
-      "path": "Be Yourself/学习陷阱.md"
-    },
-    {
-      "basename": "突然的想法",
-      "path": "Be Yourself/突然的想法.md"
-    },
-    {
-      "basename": "服务注册与发现",
-      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
-    },
-    {
-      "basename": "认知偏执脆弱性本子",
-      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
-    },
-    {
-      "basename": "自动交互的持续部署技术(Chart)",
-      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md"
-    },
-    {
-      "basename": "自动交互的持续诱捕技术(优化)",
-      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
-    },
-    {
-      "basename": "自动交互的持续诱捕技术.excalidraw",
-      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md"
-    },
-    {
-      "basename": "极客时间学习课程",
-      "path": "Course/极客时间/极客时间学习课程.md"
-    },
-    {
-      "basename": "原理篇",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/04-原理篇/讲义/原理篇.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
     }
   ],
   "omittedPaths": [],

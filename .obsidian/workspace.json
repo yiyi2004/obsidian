@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/Resume(规划).md",
+                "file": "Be Yourself/简历/面试之路/日常实习.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/Resume(规划).md",
+                "file": "Be Yourself/简历/面试之路/日常实习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/Resume(规划).md"
+                "file": "Be Yourself/简历/面试之路/日常实习.md"
               }
             }
           },
@@ -271,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/Resume(规划).md",
+                "file": "Be Yourself/简历/面试之路/日常实习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/Resume(规划).md",
+                "file": "Be Yourself/简历/面试之路/日常实习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -351,12 +351,14 @@
   },
   "active": "8cbc7a02f808d14d",
   "lastOpenFiles": [
+    "Be Yourself/简历/Resume(规划).md",
+    "Be Yourself/简历/面试之路/日常实习.md",
+    "Be Yourself/简历/面试之路",
     "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/简历.md",
     "Coding/Go/Database/MySQL/MySQL.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/面试题/Go/Go 编程题目.md",
-    "Be Yourself/简历/Resume(规划).md",
     "Be Yourself/简历/简历(1).pdf",
     "Be Yourself/简历/面试题/Go/Gin 面试题.md",
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
@@ -390,7 +392,6 @@
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093010.png",
     "Cyber Security/学术论文/Snipaste",
     "Challenge/紧急安排",
-    "Course/极客时间",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105627.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204104549.png",

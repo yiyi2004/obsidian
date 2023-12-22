@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "日常实习",
+      "path": "Be Yourself/简历/面试之路/日常实习.md"
+    },
+    {
       "basename": "Resume(规划)",
       "path": "Be Yourself/简历/Resume(规划).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/讲义/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "马拉松比赛备赛",
-      "path": "Challenge/马拉松比赛/马拉松比赛备赛.md"
     }
   ],
   "omittedPaths": [],

@@ -5,6 +5,10 @@
       "path": "Be Yourself/简历/简历.md"
     },
     {
+      "basename": "Day3-202307",
+      "path": "Day3/Day3-202307.md"
+    },
+    {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "requests",
       "path": "Coding/Python/爬虫/requests.md"
-    },
-    {
-      "basename": "Day3-202307",
-      "path": "Day3/Day3-202307.md"
     },
     {
       "basename": "存在问题",

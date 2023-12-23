@@ -5,16 +5,20 @@
       "path": "Be Yourself/简历/简历.md"
     },
     {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "Tips",
+      "path": "Be Yourself/简历/Tips.md"
+    },
+    {
       "basename": "简历",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md"
     },
     {
       "basename": "requests",
       "path": "Coding/Python/爬虫/requests.md"
-    },
-    {
-      "basename": "Tips",
-      "path": "Be Yourself/简历/Tips.md"
     },
     {
       "basename": "Day3-202307",
@@ -119,10 +123,6 @@
     {
       "basename": "三年后的自己要是什么样的呢？",
       "path": "Be Yourself/简历/三年后的自己要是什么样的呢？.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
     },
     {
       "basename": "面试技能",

@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/Tips.md",
+                "file": "Be Yourself/简历/面试题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -223,8 +223,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -342,13 +341,16 @@
   },
   "active": "8cbc7a02f808d14d",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试题.md",
+    "Be Yourself/简历/Snipaste/Pasted image 20231223091807.png",
+    "Be Yourself/简历/简历.md",
+    "Be Yourself/简历/Snipaste/Pasted image 20231223084149.png",
+    "Be Yourself/简历/Tips.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
     "Coding/Python/爬虫/requests.md",
-    "Be Yourself/简历/Tips.md",
     "Day3/Day3-202307.md",
     "创业/淘宝店/存在问题.md",
     "Basic/设计模式/Java 设计模式/Java 设计模式.md",
-    "Be Yourself/简历/简历.md",
     "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
     "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Basic/设计模式/Go 设计模式/适配器模式.md",
@@ -366,8 +368,6 @@
     "Coding/Python/爬虫/逆向爬虫.md",
     "Coding/Python/爬虫/安卓和 JNI 开发.md",
     "Cloud Native/ELK/elasticsearch.md",
-    "Cloud Native/ELK/ELK.md",
-    "Cloud Native/Github Project/okteto——change local, sync cloud.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/面试之路",
@@ -386,8 +386,6 @@
     "Be Yourself/投资/Snipaste/Pasted image 20231204105627.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204104549.png",
-    "Coding/Go/微服务/极客时间/Snipaste/Pasted image 20231130101814.png",
-    "Life/Snipaste/Pasted image 20231112102255.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

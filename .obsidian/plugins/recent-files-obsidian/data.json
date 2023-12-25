@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
+      "basename": "开始面试",
+      "path": "Challenge/紧急安排/开始面试.md"
+    },
+    {
+      "basename": "准备面试(最后一个星期)",
+      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
       "basename": "Day3-202307",
@@ -11,6 +15,10 @@
     {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "简历",
+      "path": "Be Yourself/简历/简历.md"
     },
     {
       "basename": "Tips",
@@ -47,10 +55,6 @@
     {
       "basename": "Resume(规划)",
       "path": "Be Yourself/简历/Resume(规划).md"
-    },
-    {
-      "basename": "准备面试(最后一个星期)",
-      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
       "basename": "学习清单2023-11",
@@ -195,10 +199,6 @@
     {
       "basename": "Go 面试题",
       "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
     }
   ],
   "omittedPaths": [],

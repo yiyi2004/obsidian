@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/Day3-202307.md",
+                "file": "Challenge/紧急安排/开始面试.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -133,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Challenge/紧急安排/开始面试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历.md"
+                "file": "Challenge/紧急安排/开始面试.md"
               }
             }
           },
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Challenge/紧急安排/开始面试.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历.md",
+                "file": "Challenge/紧急安排/开始面试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -339,11 +339,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "8cbc7a02f808d14d",
+  "active": "b224f8e0e6bad284",
   "lastOpenFiles": [
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "Challenge/紧急安排/开始面试.md",
+    "Challenge/紧急安排/未命名",
     "Day3/Day3-202307.md",
-    "Be Yourself/简历/简历.md",
     "Be Yourself/简历/面试题.md",
+    "Be Yourself/简历/简历.md",
     "Be Yourself/简历/Snipaste/Pasted image 20231223091807.png",
     "Be Yourself/简历/Snipaste/Pasted image 20231223084149.png",
     "Be Yourself/简历/Tips.md",
@@ -355,7 +358,6 @@
     "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Basic/设计模式/Go 设计模式/适配器模式.md",
     "Be Yourself/简历/Resume(规划).md",
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
     "每日学习内容总结/学习清单2023-11.md",
     "每日不会清单/不会清单2023-11.md",
     "Coding/Python/爬虫/Python.md",
@@ -382,7 +384,6 @@
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093012.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093010.png",
     "Cyber Security/学术论文/Snipaste",
-    "Challenge/紧急安排",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105627.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204105301.png",
     "Be Yourself/投资/Snipaste/Pasted image 20231204104549.png",

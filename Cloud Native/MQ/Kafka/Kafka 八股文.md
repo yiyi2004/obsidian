@@ -1,0 +1,12 @@
+- kafka 有什么优缺点？
+- kafka 为什么快？
+- kafka 怎么做的选主？
+- kafka 副本数如何设置？
+- 如果大批消息消费失败，怎么解决（消息堆积/没有消息堆积）
+- kafak 持久化内存满了除了迁移还能怎么办？
+- 什么是 kafka connectors，它能做什么？
+- 什么是 CDC，介绍下？
+- kafka、rabbitmq 和 rocketMQ 是什么？介绍下并说说它们之间的区别。
+- rabbitma 可以多个消费者订阅一个生产者吗，实现步骤详细说一下
+- 什么是 zookeeper？
+- zookeeper 在 kafka 中是什么作用，介绍下？

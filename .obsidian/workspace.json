@@ -99,7 +99,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/紧急安排/开始面试.md",
+                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -185,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge/紧急安排/开始面试.md",
+                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Challenge/紧急安排/开始面试.md"
+                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
               }
             }
           },
@@ -261,7 +261,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge/紧急安排/开始面试.md",
+                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -286,7 +286,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Challenge/紧急安排/开始面试.md",
+                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -341,8 +341,10 @@
   },
   "active": "b224f8e0e6bad284",
   "lastOpenFiles": [
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "Cloud Native/MQ/Kafka/Kafka-CSDN.md",
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Challenge/紧急安排/开始面试.md",
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Challenge/紧急安排/未命名",
     "Day3/Day3-202307.md",
     "Be Yourself/简历/面试题.md",
@@ -368,8 +370,6 @@
     "Coding/Python/爬虫/爬虫实战总结.md",
     "Coding/Python/爬虫/爬虫基础总结.md",
     "Coding/Python/爬虫/逆向爬虫.md",
-    "Coding/Python/爬虫/安卓和 JNI 开发.md",
-    "Cloud Native/ELK/elasticsearch.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/面试之路",

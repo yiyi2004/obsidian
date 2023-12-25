@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "Kafka-CSDN",
+      "path": "Cloud Native/MQ/Kafka/Kafka-CSDN.md"
+    },
+    {
       "basename": "开始面试",
       "path": "Challenge/紧急安排/开始面试.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Go 编程题目",
       "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
-    },
-    {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
-    },
-    {
-      "basename": "Go 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
     }
   ],
   "omittedPaths": [],

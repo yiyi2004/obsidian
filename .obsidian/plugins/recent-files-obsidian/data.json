@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "简历",
+      "path": "Be Yourself/简历/简历.md"
+    },
+    {
+      "basename": "存在问题",
+      "path": "创业/淘宝店/存在问题.md"
+    },
+    {
+      "basename": "Java 设计模式",
+      "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
+    },
+    {
       "basename": "Kafka 八股文",
       "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "准备面试(最后一个星期)",
+      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
       "basename": "Kafka-CSDN",
@@ -13,20 +33,8 @@
       "path": "Challenge/紧急安排/开始面试.md"
     },
     {
-      "basename": "准备面试(最后一个星期)",
-      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
-    },
-    {
       "basename": "Day3-202307",
       "path": "Day3/Day3-202307.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
     },
     {
       "basename": "Tips",
@@ -39,14 +47,6 @@
     {
       "basename": "requests",
       "path": "Coding/Python/爬虫/requests.md"
-    },
-    {
-      "basename": "存在问题",
-      "path": "创业/淘宝店/存在问题.md"
-    },
-    {
-      "basename": "Java 设计模式",
-      "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
     },
     {
       "basename": "Real-Time Multistep Attack Prediction Based on Hidden Markov Models",

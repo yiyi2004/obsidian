@@ -86,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题.md"
+                "file": "Coding/Go/Micro Service with Go!.md"
               }
             }
           },
@@ -248,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -273,7 +273,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Coding/Go/Micro Service with Go!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,11 +328,11 @@
   },
   "active": "d028312164c3b3b9",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试题.md",
     "Be Yourself/简历/简历.md",
     "创业/淘宝店/存在问题.md",
     "Basic/设计模式/Java 设计模式/Java 设计模式.md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
-    "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20231225210808.png",
     "Cloud Native/MQ/Kafka/Kafka-CSDN.md",

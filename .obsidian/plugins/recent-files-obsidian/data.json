@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Micro Service with Go!",
+      "path": "Coding/Go/Micro Service with Go!.md"
+    },
+    {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MySQL",
       "path": "Coding/Go/Database/MySQL/MySQL.md"
-    },
-    {
-      "basename": "Go 编程题目",
-      "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
     }
   ],
   "omittedPaths": [],

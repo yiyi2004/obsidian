@@ -80,6 +80,12 @@ flag 是 Go 官方提供的标准包，用来实现命令行解析，flag 使开
 其他形式会出错  
 其实你对 go 的 flag 包并不是很了解哦
 
+## 视频
+
+### 【golang 面试】go 语言经典面试题一网打尽！（并发 + 算法 +channel+slice）
+
+#### Channel
+
 ## Reference
 
 - [Go常见面试题【由浅入深】2022版](https://zhuanlan.zhihu.com/p/471490292)

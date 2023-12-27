@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Micro Service with Go!",
-      "path": "Coding/Go/Micro Service with Go!.md"
+      "basename": "简历(规划)",
+      "path": "Challenge/3月末字节面试/简历(规划).md"
     },
     {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
+      "basename": "准备面试(最后一个星期)",
+      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
+    },
+    {
+      "basename": "反射",
+      "path": "Coding/Go/反射/反射.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "不会清单2023-11",
+      "path": "每日不会清单/不会清单2023-11.md"
+    },
+    {
+      "basename": "学习清单2023-11",
+      "path": "每日学习内容总结/学习清单2023-11.md"
+    },
+    {
+      "basename": "Gin+WebSocket 项目实战IM笔记",
+      "path": "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
     },
     {
       "basename": "简历",
@@ -17,16 +41,20 @@
       "path": "创业/淘宝店/存在问题.md"
     },
     {
+      "basename": "毕业设计（规划）",
+      "path": "毕业设计/毕业设计（规划）.md"
+    },
+    {
+      "basename": "Micro Service with Go!",
+      "path": "Coding/Go/Micro Service with Go!.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
       "basename": "Java 设计模式",
       "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
-    },
-    {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
-    },
-    {
-      "basename": "准备面试(最后一个星期)",
-      "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
       "basename": "Kafka-CSDN",
@@ -67,14 +95,6 @@
     {
       "basename": "Resume(规划)",
       "path": "Be Yourself/简历/Resume(规划).md"
-    },
-    {
-      "basename": "学习清单2023-11",
-      "path": "每日学习内容总结/学习清单2023-11.md"
-    },
-    {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
     },
     {
       "basename": "Python",
@@ -179,26 +199,6 @@
     {
       "basename": "财富自由",
       "path": "Be Yourself/财富自由.md"
-    },
-    {
-      "basename": "如何保持高能量",
-      "path": "Be Yourself/如何保持高能量.md"
-    },
-    {
-      "basename": "突然的想法",
-      "path": "Be Yourself/突然的想法.md"
-    },
-    {
-      "basename": "Be Yourself index",
-      "path": "Be Yourself/Be Yourself index.md"
-    },
-    {
-      "basename": "learning process",
-      "path": "Be Yourself/learning process.md"
-    },
-    {
-      "basename": "MySQL",
-      "path": "Coding/Go/Database/MySQL/MySQL.md"
     }
   ],
   "omittedPaths": [],

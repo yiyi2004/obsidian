@@ -39,20 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4e29755a26ea1334",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题.md"
+                "file": "Day3/2024年1月/2024年1月.md"
               }
             }
           },
@@ -188,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -243,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,13 +255,19 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "4e29755a26ea1334",
+  "active": "b224f8e0e6bad284",
   "lastOpenFiles": [
+    "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
+    "Day3/2024年1月/Snipaste",
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+    "Day3/未命名.md",
+    "Day3/2024年1月/2024年1月.md",
+    "Day3/时间安排.md",
+    "Day3/2024年1月",
+    "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/开始面试.md",
     "Challenge/紧急安排/公司名单.md",
-    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Challenge/3月末字节面试/简历(规划).md",
-    "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/准备面试(最后一个星期).md",
     "创业/淘宝店/存在问题.md",
     "Coding/Go/反射/反射.md",
@@ -304,15 +296,9 @@
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
     "Coding/Python/爬虫/requests.md",
     "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
-    "Basic/设计模式/Go 设计模式/适配器模式.md",
-    "Be Yourself/简历/Resume(规划).md",
-    "Coding/Python/爬虫/Python.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/面试之路",
-    "Be Yourself/简历/简历(1).pdf",
-    "创业/淘宝店",
     "Be Yourself/Snipaste/Pasted image 20231217153855.png",
     "Be Yourself/Snipaste/Pasted image 20231217153132.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093018.png",

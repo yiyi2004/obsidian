@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024年1月",
+      "path": "Day3/2024年1月/2024年1月.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Day3/未命名.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "Day3/时间安排.md"
+    },
+    {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "公司名单",
       "path": "Challenge/紧急安排/公司名单.md"
-    },
-    {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
     {
       "basename": "简历(规划)",
@@ -187,18 +199,6 @@
     {
       "basename": "日常实习",
       "path": "Be Yourself/简历/面试之路/日常实习.md"
-    },
-    {
-      "basename": "2023",
-      "path": "Be Yourself/记录/2023.md"
-    },
-    {
-      "basename": "0. 项目行为习惯分析",
-      "path": "Be Yourself/0. 项目行为习惯分析.md"
-    },
-    {
-      "basename": "2023我们重新开始",
-      "path": "Be Yourself/2023我们重新开始.md"
     }
   ],
   "omittedPaths": [],

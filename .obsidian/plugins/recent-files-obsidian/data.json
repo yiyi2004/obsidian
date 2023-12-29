@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "开始面试",
+      "path": "Challenge/紧急安排/开始面试.md"
+    },
+    {
+      "basename": "公司名单",
+      "path": "Challenge/紧急安排/公司名单.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
       "basename": "简历(规划)",
       "path": "Challenge/3月末字节面试/简历(规划).md"
     },
@@ -9,12 +25,12 @@
       "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
     },
     {
-      "basename": "反射",
-      "path": "Coding/Go/反射/反射.md"
+      "basename": "存在问题",
+      "path": "创业/淘宝店/存在问题.md"
     },
     {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+      "basename": "反射",
+      "path": "Coding/Go/反射/反射.md"
     },
     {
       "basename": "不会清单2023-11",
@@ -37,10 +53,6 @@
       "path": "Be Yourself/简历/简历.md"
     },
     {
-      "basename": "存在问题",
-      "path": "创业/淘宝店/存在问题.md"
-    },
-    {
       "basename": "毕业设计（规划）",
       "path": "毕业设计/毕业设计（规划）.md"
     },
@@ -49,20 +61,12 @@
       "path": "Coding/Go/Micro Service with Go!.md"
     },
     {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
       "basename": "Java 设计模式",
       "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
     },
     {
       "basename": "Kafka-CSDN",
       "path": "Cloud Native/MQ/Kafka/Kafka-CSDN.md"
-    },
-    {
-      "basename": "开始面试",
-      "path": "Challenge/紧急安排/开始面试.md"
     },
     {
       "basename": "Day3-202307",
@@ -195,10 +199,6 @@
     {
       "basename": "2023我们重新开始",
       "path": "Be Yourself/2023我们重新开始.md"
-    },
-    {
-      "basename": "财富自由",
-      "path": "Be Yourself/财富自由.md"
     }
   ],
   "omittedPaths": [],

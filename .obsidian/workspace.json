@@ -52,14 +52,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创业/淘宝店/存在问题.md",
+                "file": "Be Yourself/简历/面试题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge/3月末字节面试/简历(规划).md",
+                "file": "Be Yourself/简历/面试题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Challenge/3月末字节面试/简历(规划).md"
+                "file": "Be Yourself/简历/面试题.md"
               }
             }
           },
@@ -188,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge/3月末字节面试/简历(规划).md",
+                "file": "Be Yourself/简历/面试题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +213,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Challenge/3月末字节面试/简历(规划).md",
+                "file": "Be Yourself/简历/面试题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,13 +269,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "c6ceeffbcf1beb96",
+  "active": "4e29755a26ea1334",
   "lastOpenFiles": [
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
-    "Challenge/3月末字节面试/简历(规划).md",
-    "Challenge/3月末字节面试",
-    "Coding/Go/反射/反射.md",
+    "Challenge/紧急安排/开始面试.md",
+    "Challenge/紧急安排/公司名单.md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+    "Challenge/3月末字节面试/简历(规划).md",
+    "Be Yourself/简历/面试题.md",
+    "Challenge/紧急安排/准备面试(最后一个星期).md",
+    "创业/淘宝店/存在问题.md",
+    "Coding/Go/反射/反射.md",
+    "Challenge/3月末字节面试",
     "每日不会清单/不会清单2023-11.md",
     "每日学习内容总结/学习清单2023-11.md",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212926.png",
@@ -286,15 +290,12 @@
     "Coding/Go/反射",
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
     "Be Yourself/简历/简历.md",
-    "创业/淘宝店/存在问题.md",
     "Coding/Go/Micro Service with Go!.md",
     "毕业设计/毕业设计计划.md",
     "毕业设计",
-    "Be Yourself/简历/面试题.md",
     "Basic/设计模式/Java 设计模式/Java 设计模式.md",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20231225210808.png",
     "Cloud Native/MQ/Kafka/Kafka-CSDN.md",
-    "Challenge/紧急安排/开始面试.md",
     "Challenge/紧急安排/未命名",
     "Day3/Day3-202307.md",
     "Be Yourself/简历/Snipaste/Pasted image 20231223091807.png",
@@ -307,7 +308,6 @@
     "Basic/设计模式/Go 设计模式/适配器模式.md",
     "Be Yourself/简历/Resume(规划).md",
     "Coding/Python/爬虫/Python.md",
-    "Coding/Python/爬虫/Java 开发基础.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/面试之路",

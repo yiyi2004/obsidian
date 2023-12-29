@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "Day3/2024年1月/2024 上半年规划(核心目标).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "Day3/2024年1月/2024 上半年规划(核心目标).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md"
+                "file": "Day3/2024年1月/2024 上半年规划(核心目标).md"
               }
             }
           },
@@ -175,7 +175,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "Day3/2024年1月/2024 上半年规划(核心目标).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "Day3/2024年1月/2024 上半年规划(核心目标).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -257,20 +257,22 @@
   },
   "active": "b224f8e0e6bad284",
   "lastOpenFiles": [
+    "Tasks/实习/第一份寒假实习.md",
+    "Day3/2024年1月/2024 上半年规划(核心目标).md",
+    "Coding/Go/反射/反射.md",
+    "Challenge/3月末字节面试/简历(规划).md",
+    "Day3/2024年1月/2024年1月.md",
     "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
     "Day3/2024年1月/Snipaste",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Day3/未命名.md",
-    "Day3/2024年1月/2024年1月.md",
     "Day3/时间安排.md",
     "Day3/2024年1月",
     "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/开始面试.md",
     "Challenge/紧急安排/公司名单.md",
-    "Challenge/3月末字节面试/简历(规划).md",
     "Challenge/紧急安排/准备面试(最后一个星期).md",
     "创业/淘宝店/存在问题.md",
-    "Coding/Go/反射/反射.md",
     "Challenge/3月末字节面试",
     "每日不会清单/不会清单2023-11.md",
     "每日学习内容总结/学习清单2023-11.md",
@@ -295,14 +297,12 @@
     "Be Yourself/简历/Tips.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
     "Coding/Python/爬虫/requests.md",
-    "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
     "Be Yourself/简历/面试之路",
     "Be Yourself/Snipaste/Pasted image 20231217153855.png",
     "Be Yourself/Snipaste/Pasted image 20231217153132.png",
     "Cyber Security/学术论文/Snipaste/Pasted image 20231214093018.png",
-    "Cyber Security/学术论文/Snipaste/Pasted image 20231214093012.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

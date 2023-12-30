@@ -45,6 +45,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1232fd79d230bed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 2
@@ -68,14 +81,6 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "19794726af9f01f7",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
             }
           },
           {
@@ -141,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -231,8 +235,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 323.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,7 +254,6 @@
       "random-note:开始漫游笔记": false,
       "templater-obsidian:Templater": false,
       "audio-recorder:开始/结束录音": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "zk-prefixer:创建时间戳笔记": false,
       "periodic-notes:Open today": false
@@ -259,16 +261,17 @@
   },
   "active": "b224f8e0e6bad284",
   "lastOpenFiles": [
-    "Coding/Java/工具箱/opensearch.md",
-    "Cloud Native/Openstack/02 企业实战/Install.md",
     "Challenge/3月末字节面试/简历(规划).md",
+    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+    "Cloud Native/Openstack/02 企业实战/Install.md",
+    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230151745.png",
+    "Coding/Go/反射/反射.md",
+    "Coding/Java/工具箱/opensearch.md",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084446.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084435.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230083901.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste",
-    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "Tasks/实习/第一份寒假实习.md",
-    "Coding/Go/反射/反射.md",
     "Day3/2024年1月/2024年1月.md",
     "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
     "Day3/2024年1月/Snipaste",
@@ -301,8 +304,6 @@
     "Challenge/紧急安排/未命名",
     "Day3/Day3-202307.md",
     "Be Yourself/简历/Snipaste/Pasted image 20231223091807.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20231223084149.png",
-    "Be Yourself/简历/Tips.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
     "AI/未命名.canvas",

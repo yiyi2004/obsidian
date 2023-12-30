@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Openstack/02 企业实战/Install.md"
+                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
               }
             }
           },
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -260,10 +260,15 @@
   "active": "b224f8e0e6bad284",
   "lastOpenFiles": [
     "Coding/Java/工具箱/opensearch.md",
+    "Cloud Native/Openstack/02 企业实战/Install.md",
+    "Challenge/3月末字节面试/简历(规划).md",
+    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084446.png",
+    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084435.png",
+    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230083901.png",
+    "Cloud Native/Openstack/02 企业实战/Snipaste",
     "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "Tasks/实习/第一份寒假实习.md",
     "Coding/Go/反射/反射.md",
-    "Challenge/3月末字节面试/简历(规划).md",
     "Day3/2024年1月/2024年1月.md",
     "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
     "Day3/2024年1月/Snipaste",
@@ -298,13 +303,8 @@
     "Be Yourself/简历/Snipaste/Pasted image 20231223091807.png",
     "Be Yourself/简历/Snipaste/Pasted image 20231223084149.png",
     "Be Yourself/简历/Tips.md",
-    "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md",
     "Be Yourself/简历/简历_笔记.pdf",
     "Be Yourself/简历/简历.pdf",
-    "Be Yourself/简历/面试之路",
-    "Be Yourself/Snipaste/Pasted image 20231217153855.png",
-    "Be Yourself/Snipaste/Pasted image 20231217153132.png",
-    "Cyber Security/学术论文/Snipaste/Pasted image 20231214093018.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

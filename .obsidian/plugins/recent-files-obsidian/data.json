@@ -5,16 +5,20 @@
       "path": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
     },
     {
+      "basename": "并发队列",
+      "path": "Course/极客时间/并发队列/并发队列.md"
+    },
+    {
       "basename": "简历(规划)",
       "path": "Challenge/3月末字节面试/简历(规划).md"
     },
     {
-      "basename": "Install",
-      "path": "Cloud Native/Openstack/02 企业实战/Install.md"
-    },
-    {
       "basename": "反射",
       "path": "Coding/Go/反射/反射.md"
+    },
+    {
+      "basename": "Install",
+      "path": "Cloud Native/Openstack/02 企业实战/Install.md"
     },
     {
       "basename": "opensearch",
@@ -195,10 +199,6 @@
     {
       "basename": "面试技能",
       "path": "Be Yourself/简历/面试技能.md"
-    },
-    {
-      "basename": "简历_笔记",
-      "path": "Be Yourself/简历/简历_笔记.pdf"
     }
   ],
   "omittedPaths": [],

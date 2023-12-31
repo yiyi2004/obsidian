@@ -4,63 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "3be50e025b9d367b",
-        "type": "tabs",
+        "id": "91763b2f060b153a",
+        "type": "split",
         "children": [
           {
-            "id": "c6ceeffbcf1beb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/3月末字节面试/简历(规划).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "3be50e025b9d367b",
+            "type": "tabs",
+            "dimension": 38.7308533916849,
+            "children": [
+              {
+                "id": "c6ceeffbcf1beb96",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Challenge/3月末字节面试/简历(规划).md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "8cbc7a02f808d14d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Coding/Go/反射/反射.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "1232fd79d230bed2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "8cbc7a02f808d14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/反射/反射.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+            "id": "673a37d39715c656",
+            "type": "tabs",
+            "dimension": 61.2691466083151,
+            "children": [
+              {
+                "id": "2ec61df75da51987",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Day3/2024年1月/2024年1月.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            }
-          },
-          {
-            "id": "b224f8e0e6bad284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1232fd79d230bed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -104,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
+                "file": "Day3/2024年1月/2024年1月.md"
               }
             }
           },
@@ -181,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,13 +276,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b224f8e0e6bad284",
+  "active": "2ec61df75da51987",
   "lastOpenFiles": [
-    "Course/极客时间/并发队列/并发队列.md",
     "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+    "Day3/2024年1月/2024年1月.md",
+    "Cloud Native/Openstack/02 企业实战/Install.md",
+    "Course/极客时间/并发队列/并发队列.md",
     "Challenge/3月末字节面试/简历(规划).md",
     "Coding/Go/反射/反射.md",
-    "Cloud Native/Openstack/02 企业实战/Install.md",
     "Course/极客时间/并发队列",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230151745.png",
     "Coding/Java/工具箱/opensearch.md",
@@ -276,7 +292,6 @@
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230083901.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste",
     "Tasks/实习/第一份寒假实习.md",
-    "Day3/2024年1月/2024年1月.md",
     "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
     "Day3/2024年1月/Snipaste",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",

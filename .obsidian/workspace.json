@@ -4,78 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "91763b2f060b153a",
-        "type": "split",
+        "id": "3be50e025b9d367b",
+        "type": "tabs",
         "children": [
           {
-            "id": "3be50e025b9d367b",
-            "type": "tabs",
-            "dimension": 38.7308533916849,
-            "children": [
-              {
-                "id": "c6ceeffbcf1beb96",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Challenge/3月末字节面试/简历(规划).md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "8cbc7a02f808d14d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Coding/Go/反射/反射.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "1232fd79d230bed2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cloud Native/Openstack/02 企业实战/Install.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "c6ceeffbcf1beb96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Challenge/3月末字节面试/简历(规划).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ],
-            "currentTab": 1
+            }
           },
           {
-            "id": "673a37d39715c656",
-            "type": "tabs",
-            "dimension": 61.2691466083151,
-            "children": [
-              {
-                "id": "2ec61df75da51987",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Day3/2024年1月/2024年1月.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
+            "id": "8cbc7a02f808d14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/反射/反射.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "2ec61df75da51987",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/2024年1月/2024年1月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1232fd79d230bed2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/Openstack/02 企业实战/Install.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +89,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Public",
+                "query": "[\"tags\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,12 +142,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 368.5110321044922,
-    "collapsed": true
+    "width": 368.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -251,8 +236,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5,
-    "collapsed": true
+    "width": 304.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -278,8 +262,12 @@
   },
   "active": "2ec61df75da51987",
   "lastOpenFiles": [
-    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
+    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_2_WeeklyReview.md",
+    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_4_YearlyGoals.md",
+    "Templates/OB_Template/0A_Templates/0A_10_Entertainment/0A_10_1_Entertainment.md",
     "Day3/2024年1月/2024年1月.md",
+    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "Cloud Native/Openstack/02 企业实战/Install.md",
     "Course/极客时间/并发队列/并发队列.md",
     "Challenge/3月末字节面试/简历(规划).md",
@@ -315,13 +303,9 @@
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
     "Be Yourself/简历/简历.md",
     "Coding/Go/Micro Service with Go!.md",
-    "毕业设计/毕业设计计划.md",
     "毕业设计",
-    "Basic/设计模式/Java 设计模式/Java 设计模式.md",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20231225210808.png",
-    "Cloud Native/MQ/Kafka/Kafka-CSDN.md",
     "Challenge/紧急安排/未命名",
-    "Day3/Day3-202307.md",
     "Be Yourself/简历/Snipaste/Pasted image 20231223091807.png",
     "Be Yourself/简历/简历_笔记.pdf",
     "AI/未命名.canvas",

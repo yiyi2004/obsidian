@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Golang 并发工具开发",
+      "path": "Project/并发工具库/Golang 并发工具开发.md"
+    },
+    {
+      "basename": "Install",
+      "path": "Cloud Native/Openstack/02 企业实战/Install.md"
+    },
+    {
+      "basename": "Project index",
+      "path": "Project/Project index.md"
+    },
+    {
       "basename": "2024年1月",
       "path": "Day3/2024年1月/2024年1月.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "2024 上半年规划(宏观核心目标)",
       "path": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
-    },
-    {
-      "basename": "Install",
-      "path": "Cloud Native/Openstack/02 企业实战/Install.md"
     },
     {
       "basename": "并发队列",
@@ -191,14 +199,6 @@
     {
       "basename": "ELK",
       "path": "Cloud Native/ELK/ELK.md"
-    },
-    {
-      "basename": "okteto——change local, sync cloud",
-      "path": "Cloud Native/Github Project/okteto——change local, sync cloud.md"
-    },
-    {
-      "basename": "K8s 基础知识",
-      "path": "Cloud Native/K8s/K8s 基础知识/K8s 基础知识.md"
     }
   ],
   "omittedPaths": [],

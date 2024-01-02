@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "202401",
+      "path": "Day3/202401.md"
+    },
+    {
+      "basename": "2024年1月",
+      "path": "Day3/2024年1月/2024年1月.md"
+    },
+    {
+      "basename": "2024 上半年规划(宏观核心目标)",
+      "path": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
+    },
+    {
+      "basename": "Day3-202307",
+      "path": "Day3/2023/Day3-202307.md"
+    },
+    {
+      "basename": "穿搭",
+      "path": "Day3/2023/穿搭.md"
+    },
+    {
+      "basename": "Day3-202306",
+      "path": "Day3/2023/Day3-202306.md"
+    },
+    {
+      "basename": "简历(规划)",
+      "path": "Challenge/3月末字节面试/简历(规划).md"
+    },
+    {
+      "basename": "反射",
+      "path": "Coding/Go/反射/反射.md"
+    },
+    {
       "basename": "Golang 并发工具开发",
       "path": "Project/并发工具库/Golang 并发工具开发.md"
     },
@@ -11,10 +43,6 @@
     {
       "basename": "Project index",
       "path": "Project/Project index.md"
-    },
-    {
-      "basename": "2024年1月",
-      "path": "Day3/2024年1月/2024年1月.md"
     },
     {
       "basename": "0A_1_1_DailyLog",
@@ -33,20 +61,8 @@
       "path": "Templates/OB_Template/0A_Templates/0A_10_Entertainment/0A_10_1_Entertainment.md"
     },
     {
-      "basename": "2024 上半年规划(宏观核心目标)",
-      "path": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
-    },
-    {
       "basename": "并发队列",
       "path": "Course/极客时间/并发队列/并发队列.md"
-    },
-    {
-      "basename": "简历(规划)",
-      "path": "Challenge/3月末字节面试/简历(规划).md"
-    },
-    {
-      "basename": "反射",
-      "path": "Coding/Go/反射/反射.md"
     },
     {
       "basename": "opensearch",
@@ -62,11 +78,11 @@
     },
     {
       "basename": "未命名",
-      "path": "Day3/未命名.md"
+      "path": "Day3/2023/未命名.md"
     },
     {
       "basename": "时间安排",
-      "path": "Day3/时间安排.md"
+      "path": "Day3/2023/时间安排.md"
     },
     {
       "basename": "面试题",
@@ -123,10 +139,6 @@
     {
       "basename": "Kafka-CSDN",
       "path": "Cloud Native/MQ/Kafka/Kafka-CSDN.md"
-    },
-    {
-      "basename": "Day3-202307",
-      "path": "Day3/Day3-202307.md"
     },
     {
       "basename": "Tips",
@@ -187,18 +199,6 @@
     {
       "basename": "逆向爬虫",
       "path": "Coding/Python/爬虫/逆向爬虫.md"
-    },
-    {
-      "basename": "安卓和 JNI 开发",
-      "path": "Coding/Python/爬虫/安卓和 JNI 开发.md"
-    },
-    {
-      "basename": "elasticsearch",
-      "path": "Cloud Native/ELK/elasticsearch.md"
-    },
-    {
-      "basename": "ELK",
-      "path": "Cloud Native/ELK/ELK.md"
     }
   ],
   "omittedPaths": [],

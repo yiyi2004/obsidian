@@ -8,38 +8,38 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6ceeffbcf1beb96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Challenge/3月末字节面试/简历(规划).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cbc7a02f808d14d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/反射/反射.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2ec61df75da51987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/并发工具库/Golang 并发工具开发.md",
+                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "22c9d770f54f6810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/2024年1月/2024年1月.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e066efb265b6dd11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day3/202401.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/并发工具库/Golang 并发工具开发.md",
+                "file": "Day3/202401.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/并发工具库/Golang 并发工具开发.md"
+                "file": "Day3/202401.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/并发工具库/Golang 并发工具开发.md",
+                "file": "Day3/202401.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/并发工具库/Golang 并发工具开发.md",
+                "file": "Day3/202401.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,22 +246,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2ec61df75da51987",
+  "active": "e066efb265b6dd11",
   "lastOpenFiles": [
-    "Cloud Native/Openstack/02 企业实战/Install.md",
+    "Day3/2024年1月/2024年1月.md",
+    "Day3/202401.md",
+    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
+    "Day3/2023/Day3-202307.md",
+    "Day3/2023/穿搭.md",
+    "Day3/2023/Day3-202306.md",
+    "Day3/2023",
+    "Challenge/3月末字节面试/简历(规划).md",
+    "Coding/Go/反射/反射.md",
     "Project/并发工具库/Golang 并发工具开发.md",
+    "Cloud Native/Openstack/02 企业实战/Install.md",
     "Project/Project index.md",
     "Project/并发工具库",
-    "Day3/2024年1月/2024年1月.md",
     "Day3/2024年1月/Snipaste/Pasted image 20240101184444.png",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_2_WeeklyReview.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_4_YearlyGoals.md",
     "Templates/OB_Template/0A_Templates/0A_10_Entertainment/0A_10_1_Entertainment.md",
-    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "Course/极客时间/并发队列/并发队列.md",
-    "Challenge/3月末字节面试/简历(规划).md",
-    "Coding/Go/反射/反射.md",
     "Course/极客时间/并发队列",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230151745.png",
     "Coding/Java/工具箱/opensearch.md",
@@ -273,8 +278,8 @@
     "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
     "Day3/2024年1月/Snipaste",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
-    "Day3/未命名.md",
-    "Day3/时间安排.md",
+    "Day3/2023/未命名.md",
+    "Day3/2023/时间安排.md",
     "Day3/2024年1月",
     "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/开始面试.md",
@@ -282,18 +287,13 @@
     "Challenge/紧急安排/准备面试(最后一个星期).md",
     "创业/淘宝店/存在问题.md",
     "Challenge/3月末字节面试",
-    "每日不会清单/不会清单2023-11.md",
-    "每日学习内容总结/学习清单2023-11.md",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212926.png",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212835.png",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212833.png",
     "Coding/Go/反射/Snipaste",
-    "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md",
     "Coding/Go/反射",
-    "Be Yourself/简历/面试题/Go/Go 面试题.md",
     "毕业设计",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20231225210808.png",
-    "Challenge/紧急安排/未命名",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "22c9d770f54f6810",
+            "id": "e066efb265b6dd11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/毕业设计（规划）.md",
+                "file": "Day3/202401.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e066efb265b6dd11",
+            "id": "22c9d770f54f6810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/202401.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/202401.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/202401.md"
+                "file": "毕业设计/RZ后端设计.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/202401.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/202401.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,9 +246,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e066efb265b6dd11",
+  "active": "22c9d770f54f6810",
   "lastOpenFiles": [
     "毕业设计/毕业设计（规划）.md",
+    "毕业设计/RZ后端设计.md",
     "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "Day3/202401.md",
     "Day3/2024年1月/2024年1月.md",
@@ -285,7 +286,6 @@
     "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/开始面试.md",
     "Challenge/紧急安排/公司名单.md",
-    "Challenge/紧急安排/准备面试(最后一个星期).md",
     "Challenge/3月末字节面试",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212926.png",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212835.png",

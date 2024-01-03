@@ -29,11 +29,17 @@
 
 #### 缺点
 
-## 方案二：基于容器技术
+## 方案二：容器 Or 虚拟机 + Mininet 工具
 
 - OA 系统 | 多层的路由
 - 可以实现组网
 - 基于 docker 去做，也是没有问题的。docker 以指标为主的。
+- [mininet/mininet: Emulator for rapid prototyping of Software Defined Networks (github.com)](https://github.com/mininet/mininet?tab=readme-ov-file)
+- [Mininet中host与外网通信_host通讯-CSDN博客](https://blog.csdn.net/yeya24/article/details/79644520)
+
+1. 怎么做的？
+2. 可以实现？
+3. SDN？
 
 ## 方案三：基于 Openstack
 

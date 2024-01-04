@@ -8,25 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ec61df75da51987",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e066efb265b6dd11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day3/202401.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -46,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕业设计/RZ后端设计.md"
+                "file": "Day3/2024年1月/2024年1月.md"
               }
             }
           },
@@ -167,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
+                "file": "Day3/2024年1月/2024年1月.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,12 +232,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "22c9d770f54f6810",
+  "active": "e066efb265b6dd11",
   "lastOpenFiles": [
     "Day3/202401.md",
+    "chapter03/03.0.md",
+    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "毕业设计/RZ后端设计.md",
     "毕业设计/毕业设计（规划）.md",
-    "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
     "Day3/2024年1月/2024年1月.md",
     "Day3/2023/Day3-202307.md",
     "Day3/2023/穿搭.md",
@@ -285,7 +272,6 @@
     "Day3/2024年1月",
     "Be Yourself/简历/面试题.md",
     "Challenge/紧急安排/开始面试.md",
-    "Challenge/紧急安排/公司名单.md",
     "Challenge/3月末字节面试",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212926.png",
     "Coding/Go/反射/Snipaste/Pasted image 20231226212835.png",

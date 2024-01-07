@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "RZ后端设计",
-      "path": "毕业设计/RZ后端设计.md"
+      "basename": "2024-01-06",
+      "path": "Daily/2024-01-06.md"
+    },
+    {
+      "basename": "2023-05-26",
+      "path": "Daily/2023-05-26.md"
+    },
+    {
+      "basename": "202401",
+      "path": "Day3/202401.md"
     },
     {
       "basename": "2024年1月",
       "path": "Day3/2024年1月/2024年1月.md"
     },
     {
-      "basename": "202401",
-      "path": "Day3/202401.md"
+      "basename": "RZ后端设计",
+      "path": "毕业设计/RZ后端设计.md"
     },
     {
       "basename": "2024 上半年规划(宏观核心目标)",
@@ -191,10 +199,6 @@
     {
       "basename": "异步爬虫",
       "path": "Coding/Python/爬虫/异步爬虫.md"
-    },
-    {
-      "basename": "爬虫实战总结",
-      "path": "Coding/Python/爬虫/爬虫实战总结.md"
     }
   ],
   "omittedPaths": [],

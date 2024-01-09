@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 344.5
+    "width": 344.5,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -261,6 +262,10 @@
   },
   "active": "e066efb265b6dd11",
   "lastOpenFiles": [
+    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109160627.png",
+    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155445.png",
+    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155444.png",
+    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155443.png",
     "毕业设计/毕业设计（规划）.md",
     "Project/并发工具库/Golang 并发工具开发.md",
     "Daily/2024-01-09.md",
@@ -302,9 +307,6 @@
     "Day3/2024年1月/Snipaste",
     "Day3/2024年1月",
     "Challenge/3月末字节面试",
-    "Coding/Go/反射/Snipaste/Pasted image 20231226212926.png",
-    "Coding/Go/反射/Snipaste/Pasted image 20231226212835.png",
-    "Coding/Go/反射/Snipaste/Pasted image 20231226212833.png",
     "Coding/Go/反射/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",

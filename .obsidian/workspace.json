@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware vSphere.md",
+                "file": "毕业设计/VMware vSphere/VMware 方案.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -59,7 +59,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "毕业设计/VMware vSphere/VMware 方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,8 +142,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md"
+                "file": "毕业设计/VMware vSphere/VMware 方案.md"
               }
             }
           },
@@ -180,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "毕业设计/VMware vSphere/VMware 方案.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day3/2024年1月/2024年1月.md",
+                "file": "毕业设计/VMware vSphere/VMware 方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -259,14 +259,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2b20e1ffc1da21a9",
+  "active": "e066efb265b6dd11",
   "lastOpenFiles": [
-    "Daily/2024-01-09.md",
+    "毕业设计/毕业设计（规划）.md",
     "Project/并发工具库/Golang 并发工具开发.md",
+    "Daily/2024-01-09.md",
+    "毕业设计/VMware vSphere/VMware 方案.md",
+    "Day3/2024年1月/2024年1月.md",
     "毕业设计/RZ后端设计.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
-    "毕业设计/VMware vSphere/VMware vSphere.md",
-    "Day3/2024年1月/2024年1月.md",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png",
     "毕业设计/VMware vSphere/Snipaste",
     "毕业设计/VMware vSphere",
@@ -277,7 +278,6 @@
     "Day3/202401.md",
     "chapter03/03.0.md",
     "Day3/2024年1月/2024 上半年规划(宏观核心目标).md",
-    "毕业设计/毕业设计（规划）.md",
     "Day3/2023/Day3-202307.md",
     "Day3/2023/穿搭.md",
     "Day3/2023/Day3-202306.md",

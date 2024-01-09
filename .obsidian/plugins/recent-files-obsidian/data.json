@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-08",
-      "path": "Daily/2024-01-08.md"
+      "basename": "Golang 并发工具开发",
+      "path": "Project/并发工具库/Golang 并发工具开发.md"
+    },
+    {
+      "basename": "RZ后端设计",
+      "path": "毕业设计/RZ后端设计.md"
     },
     {
       "basename": "0A_1_1_DailyLog",
       "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md"
     },
     {
+      "basename": "2024-01-09",
+      "path": "Daily/2024-01-09.md"
+    },
+    {
+      "basename": "VMware vSphere",
+      "path": "毕业设计/VMware vSphere/VMware vSphere.md"
+    },
+    {
       "basename": "2024年1月",
       "path": "Day3/2024年1月/2024年1月.md"
+    },
+    {
+      "basename": "2024-01-08",
+      "path": "Daily/2024-01-08.md"
     },
     {
       "basename": "2024-01-07",
@@ -19,10 +35,6 @@
     {
       "basename": "2024-01-06",
       "path": "Daily/2024-01-06.md"
-    },
-    {
-      "basename": "RZ后端设计",
-      "path": "毕业设计/RZ后端设计.md"
     },
     {
       "basename": "2023-05-26",
@@ -59,10 +71,6 @@
     {
       "basename": "反射",
       "path": "Coding/Go/反射/反射.md"
-    },
-    {
-      "basename": "Golang 并发工具开发",
-      "path": "Project/并发工具库/Golang 并发工具开发.md"
     },
     {
       "basename": "Install",
@@ -191,14 +199,6 @@
     {
       "basename": "Python",
       "path": "Coding/Python/爬虫/Python.md"
-    },
-    {
-      "basename": "Java 开发基础",
-      "path": "Coding/Python/爬虫/Java 开发基础.md"
-    },
-    {
-      "basename": "Flask 服务",
-      "path": "Coding/Python/爬虫/Flask 服务.md"
     }
   ],
   "omittedPaths": [],

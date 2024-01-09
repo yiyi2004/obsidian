@@ -10,7 +10,23 @@
 
 1. 创建虚拟机
 2. 根据网络拓扑进行网络配置
-	1. 配置静态 IP  
+	1. 配置静态 IP
+
+```shell
+# 设置用户名和密码
+(base) PS C:\Program Files (x86)\VMware\VMware Workstation> vmrest -C
+(base) PS C:\Program Files (x86)\VMware\VMware Workstation> vmrest
+VMware Workstation REST API
+Copyright (C) 2018-2022 VMware Inc.
+All Rights Reserved
+
+vmrest 1.2.1 build-20089737
+-
+Using the VMware Workstation UI while API calls are in progress is not recommended and may yield unexpected results.
+-
+Serving HTTP on 127.0.0.1:8697
+-
+```
 
 ### RESTful API 封装
 

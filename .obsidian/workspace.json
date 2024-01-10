@@ -21,12 +21,12 @@
             }
           },
           {
-            "id": "c2cc722368bf9c8c",
+            "id": "332bc1707772168a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-09.md",
+                "file": "Daily/2024-01-10.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -47,25 +47,12 @@
             }
           },
           {
-            "id": "332bc1707772168a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "22c9d770f54f6810",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/并发工具库/Golang 并发工具开发.md",
+                "file": "Github/Github 资源搜集.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "file": "Github/Github 资源搜集.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md"
+                "file": "Github/Github 资源搜集.md"
               }
             }
           },
@@ -193,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "file": "Github/Github 资源搜集.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "file": "Github/Github 资源搜集.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -272,17 +259,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "332bc1707772168a",
+  "active": "22c9d770f54f6810",
   "lastOpenFiles": [
+    "Project/并发工具库/Golang 并发工具开发.md",
+    "Github/Github 资源搜集.md",
+    "Github",
+    "Daily/2024-01-10.md",
+    "毕业设计/VMware vSphere/VMware 方案.md",
+    "AI/LLM/Chatgpt/ChatGPT4.0.md",
+    "Daily/2024-01-09.md",
+    "202401101007.md",
+    "Daily/2024-01-9.md",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109160627.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155445.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155444.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155443.png",
-    "毕业设计/VMware vSphere/VMware 方案.md",
     "毕业设计/毕业设计（规划）.md",
-    "Project/并发工具库/Golang 并发工具开发.md",
-    "Daily/2024-01-09.md",
     "Day3/2024年1月/2024年1月.md",
     "毕业设计/RZ后端设计.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
@@ -305,10 +298,6 @@
     "Project/Project index.md",
     "Project/并发工具库",
     "Day3/2024年1月/Snipaste/Pasted image 20240101184444.png",
-    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_2_WeeklyReview.md",
-    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_4_YearlyGoals.md",
-    "Templates/OB_Template/0A_Templates/0A_10_Entertainment/0A_10_1_Entertainment.md",
-    "Course/极客时间/并发队列/并发队列.md",
     "Course/极客时间/并发队列",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230151745.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084446.png",
@@ -318,7 +307,6 @@
     "Day3/2024年1月/Snipaste",
     "Day3/2024年1月",
     "Challenge/3月末字节面试",
-    "Coding/Go/反射/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

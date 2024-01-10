@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Github 资源搜集",
+      "path": "Github/Github 资源搜集.md"
+    },
+    {
+      "basename": "Golang 并发工具开发",
+      "path": "Project/并发工具库/Golang 并发工具开发.md"
+    },
+    {
+      "basename": "2024-01-10",
+      "path": "Daily/2024-01-10.md"
+    },
+    {
       "basename": "VMware 方案",
       "path": "毕业设计/VMware vSphere/VMware 方案.md"
+    },
+    {
+      "basename": "ChatGPT4.0",
+      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
+    },
+    {
+      "basename": "2024-01-09",
+      "path": "Daily/2024-01-09.md"
+    },
+    {
+      "basename": "202401101007",
+      "path": "202401101007.md"
     },
     {
       "basename": "Pasted image 20240109091631",
@@ -27,14 +51,6 @@
     {
       "basename": "毕业设计（规划）",
       "path": "毕业设计/毕业设计（规划）.md"
-    },
-    {
-      "basename": "Golang 并发工具开发",
-      "path": "Project/并发工具库/Golang 并发工具开发.md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "Daily/2024-01-09.md"
     },
     {
       "basename": "2024年1月",
@@ -183,22 +199,6 @@
     {
       "basename": "Java 设计模式",
       "path": "Basic/设计模式/Java 设计模式/Java 设计模式.md"
-    },
-    {
-      "basename": "Kafka-CSDN",
-      "path": "Cloud Native/MQ/Kafka/Kafka-CSDN.md"
-    },
-    {
-      "basename": "Tips",
-      "path": "Be Yourself/简历/Tips.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/03-高级篇/讲义/Redis高级篇-最佳实践/简历.md"
-    },
-    {
-      "basename": "requests",
-      "path": "Coding/Python/爬虫/requests.md"
     }
   ],
   "omittedPaths": [],

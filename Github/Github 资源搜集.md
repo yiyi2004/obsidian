@@ -95,17 +95,7 @@ Windows 直接使用的版本：[https://github.com/zcf0508/autocut](https://git
 
 体验地址：[distrochooser.de](https://distrochooser.de/)
 
-二、Emoji Mix
-
-[https://github.com/Tikolu/emojimix](https://github.com/Tikolu/emojimix)
-
 体验地址：[https://tikolu.net/emojimix](https://tikolu.net/emojimix)
-
-三、Emoji-to-scale
-
-[https://github.com/javierbyte/emoji-to-scale](https://github.com/javierbyte/emoji-to-scale)
-
-体验地址：[https://javier.xyz/emoji-to-scale](https://javier.xyz/emoji-to-scale)
 
 四、Ventoy
 
@@ -159,7 +149,7 @@ livewallp：[https://livewallp.com/](https://livewallp.com/)
 
 体验地址：[https://star-history.com/](https://star-history.com/)
 
-三、Socialify
+三、Socialify：生成更好看的 github 宣传图片
 
 [https://github.com/wei/socialify](https://github.com/wei/socialify)
 
@@ -229,7 +219,7 @@ IbEverythingExt
 
 04-[VSCode Rainbow Fart 是一个在你编程时持续夸你写的牛逼的扩展，可以根据代码关键字播放贴近代码意义的真人语音。](https://github.com/SaekiRaku/vscode-rainbow-fart/blob/master/README.zh.md)
 
-05-[zijie0/HumanSystemOptimization: 健康学习到150岁 - 人体系统调优不完全指南 (github.com)](https://github.com/zijie0/HumanSystemOptimization)
+05-[zijie0/HumanSystemOptimization: 健康学习到150岁 - 人体系统调优不完全指南 (github.com)](https://github.com/zijie0/HumanSystemOptimization)——健康生活调优指南
 
 06-[宇宙模型](http://stars.chromeexperiments.com/)
 

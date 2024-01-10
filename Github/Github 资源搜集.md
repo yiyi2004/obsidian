@@ -15,3 +15,10 @@ https://github.com/xitu/coding-life
 
 5 - 单词记忆与英语肌肉记忆锻炼  
 https://github.com/Kaiyiwing/qwerty-learner
+
+和哥哥一起打球 https://github.com/hrhello/cxk-ball  
+程序员做饭指南 https://github.com/Anduin2017/HowToCook  
+P 站风格图片生成 https://github.com/bestony/logoly  
+神级注释 https://github.com/Blankj/awesome-comment  
+微软开源表情包 https://github.com/microsoft/fluentui-emoji  
+999 种语言的 helloworld https://github.com/leachim6/hello-world

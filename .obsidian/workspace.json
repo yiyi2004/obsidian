@@ -47,6 +47,19 @@
             }
           },
           {
+            "id": "332bc1707772168a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "22c9d770f54f6810",
             "type": "leaf",
             "state": {
@@ -60,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -259,20 +272,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e066efb265b6dd11",
+  "active": "332bc1707772168a",
   "lastOpenFiles": [
+    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109160627.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155445.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155444.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155443.png",
+    "毕业设计/VMware vSphere/VMware 方案.md",
     "毕业设计/毕业设计（规划）.md",
     "Project/并发工具库/Golang 并发工具开发.md",
     "Daily/2024-01-09.md",
-    "毕业设计/VMware vSphere/VMware 方案.md",
     "Day3/2024年1月/2024年1月.md",
     "毕业设计/RZ后端设计.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
-    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png",
     "毕业设计/VMware vSphere/Snipaste",
     "毕业设计/VMware vSphere",
     "Daily/2024-01-08.md",
@@ -302,7 +315,6 @@
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084435.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230083901.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste",
-    "Day3/2024年1月/Snipaste/Pasted image 20231229100707.png",
     "Day3/2024年1月/Snipaste",
     "Day3/2024年1月",
     "Challenge/3月末字节面试",

@@ -15,6 +15,7 @@
 ```shell
 # 设置用户名和密码
 (base) PS C:\Program Files (x86)\VMware\VMware Workstation> vmrest -C
+# 启动 VMware Workstation RESTful API
 (base) PS C:\Program Files (x86)\VMware\VMware Workstation> vmrest
 VMware Workstation REST API
 Copyright (C) 2018-2022 VMware Inc.
@@ -41,9 +42,10 @@ Serving HTTP on 127.0.0.1:8697
 
 ### 限制
 
-- 缺少创建虚拟机的 API
-	- 只能预先创建完拓扑环境 + 启动
+- 缺少创建虚拟机的 API，**但是可以 copy**。
+	- 只能预先创建拓扑环境 + 启动
 - API 相对比较简单
+- 没有办法管理复杂网络 | **未验证**
 
 ### 后续的工作
 

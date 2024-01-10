@@ -5,6 +5,26 @@
       "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
+      "basename": "Pasted image 20240109091631",
+      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png"
+    },
+    {
+      "basename": "Pasted image 20240109160627",
+      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109160627.png"
+    },
+    {
+      "basename": "Pasted image 20240109155445",
+      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155445.png"
+    },
+    {
+      "basename": "Pasted image 20240109155444",
+      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155444.png"
+    },
+    {
+      "basename": "Pasted image 20240109155443",
+      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155443.png"
+    },
+    {
       "basename": "毕业设计（规划）",
       "path": "毕业设计/毕业设计（规划）.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "requests",
       "path": "Coding/Python/爬虫/requests.md"
-    },
-    {
-      "basename": "Real-Time Multistep Attack Prediction Based on Hidden Markov Models",
-      "path": "Paper/攻击行为预测/Real-Time Multistep Attack Prediction Based on Hidden Markov Models.md"
-    },
-    {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "适配器模式",
-      "path": "Basic/设计模式/Go 设计模式/适配器模式.md"
-    },
-    {
-      "basename": "Resume(规划)",
-      "path": "Be Yourself/简历/Resume(规划).md"
-    },
-    {
-      "basename": "Python",
-      "path": "Coding/Python/爬虫/Python.md"
     }
   ],
   "omittedPaths": [],

@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-11.md",
+                "file": "Course/强化学习——李宏毅/01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "file": "Course/强化学习——李宏毅/01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md"
+                "file": "Course/强化学习——李宏毅/01.md"
               }
             }
           },
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "file": "Course/强化学习——李宏毅/01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +206,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
+                "file": "Course/强化学习——李宏毅/01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,8 +261,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e066efb265b6dd11",
+  "active": "332bc1707772168a",
   "lastOpenFiles": [
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111165600.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111165453.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111165403.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111165248.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111164957.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111164857.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111164630.png",
+    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111164610.png",
+    "Course/强化学习——李宏毅/Snipaste",
+    "AI/深度学习/理论/Reinforcement Learning.md",
+    "Course/强化学习——李宏毅/01.md",
+    "Course/强化学习——李宏毅",
     "Daily/2024-01-11.md",
     "毕业设计/VMware vSphere/VMware 方案.md",
     "Github/Github 资源搜集.md",
@@ -276,8 +288,6 @@
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109160627.png",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155445.png",
-    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155444.png",
-    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155443.png",
     "毕业设计/毕业设计（规划）.md",
     "Day3/2024年1月/2024年1月.md",
     "毕业设计/RZ后端设计.md",
@@ -295,20 +305,10 @@
     "Day3/2023/穿搭.md",
     "Day3/2023/Day3-202306.md",
     "Day3/2023",
-    "Challenge/3月末字节面试/简历(规划).md",
-    "Coding/Go/反射/反射.md",
-    "Cloud Native/Openstack/02 企业实战/Install.md",
     "Project/并发工具库",
-    "Day3/2024年1月/Snipaste/Pasted image 20240101184444.png",
     "Course/极客时间/并发队列",
-    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230151745.png",
-    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084446.png",
-    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230084435.png",
-    "Cloud Native/Openstack/02 企业实战/Snipaste/Pasted image 20231230083901.png",
     "Cloud Native/Openstack/02 企业实战/Snipaste",
     "Day3/2024年1月/Snipaste",
-    "Day3/2024年1月",
-    "Challenge/3月末字节面试",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -71,11 +71,25 @@ Serving HTTP on 127.0.0.1:8697
 
 典型场景的配置文件：
 
+网络环境中必须包含控制节点，控制节点需要最高权限，并且能够与任意一个节点进行通信。同时需要管理 IP 和拓扑信息。
+
+controller 节点需要包含的功能：
+
+1. 通过 controller 初始化整体网络环境 | VPN 技术？
+2. 保存整体拓扑结构、记录蜜网调整日志、提供调整蜜网的接口
+3. 虚拟机本身的启停和配置
+
+内网的主机怎么和外网的主机进行通信呢？NAT？VPN？—— **需要解决的问题**
+
+**思考到控制节点的功能和网络通信相关问题这里**
+
 #### 网络
+
+提供的功能
 
 - IP 的自动分配和手动配置
 
-标签的设计
+整体初始化配置文件的设计
 
 - network
 	- network_name: MyNetwork
@@ -83,12 +97,43 @@ Serving HTTP on 127.0.0.1:8697
 	- mask: 255.255.255.0
 - router
 	- router_name: r1
+	- **划分网段应该如何表示呢**？| 创建不同的 vth
 - host
 	- host_name: h1
-	- ipv4: 192.168.1.128
-	- mask: 255.255.255.0
-	- gateway: 192.168.1.2
-	- dns: 8.8.8.8 114.114.114.114
+	- type: controller | host
+	- network
+		- ipv4: 192.168.1.128
+		- mask: 255.255.255.0
+		- gateway: 192.168.1.2
+		- dns: 8.8.8.8 114.114.114.114
+	- image: image_name:version(image_name 不能冲突)
+	- 构建服务的脚本
+
+需要做的工作
+
+- 创建服务的脚本 —— **配置中心**、配置中心要怎么设计呢？
+- 虚拟机的镜像库 —— 需要创建可以复用的。**不符合事实你知道嘛**？
+- 线索仓库
+	- 文本内容
+		- 普通文本内容
+		- 邮件内容
+		- 日志内容
+		- and so on
+- 修改虚拟机相关内容的接口
+	- 内容 | 添加 | 覆盖 | 修改
+		- 文件内容
+		- 邮件内容
+		- and so on
+	- 虚拟机的启停和配置
+
+基础的组件是必须要有的，比如基础的组件，MySQL、Redis、Kafka 消息队列中间件。
+
+可以参考的配置文件写法
+
+- kubernetes
+- 别人设计的蜜网描述语言
+- 扩展的蜜网描述语言
+- 路由表
 
 通过划分子网创建路由器，**路由器资源池**——修改和变更他们的网卡。
 
@@ -104,44 +149,6 @@ router:
   subnet_mask: 255.255.255.0
   dhcp_enabled: true
   nat_enabled: true
-
-# 交换机配置
-switch:
-  model: SwitchABC
-  ip_address: 192.168.1.2
-  number_of_ports: 24
-
-# DHCP服务器配置
-dhcp_server:
-  ip_range_start: 192.168.1.100
-  ip_range_end: 192.168.1.199
-  lease_time: 24h
-  dns_servers: [8.8.8.8, 8.8.4.4]
-
-# 静态IP分配
-static_ips:
-  - device_name: Server1
-    ip_address: 192.168.1.50
-  - device_name: Printer
-    ip_address: 192.168.1.51
-
-# 防火墙规则
-firewall_rules:
-  - rule: allow
-    protocol: tcp
-    port: 80
-    source: any
-    destination: any
-  - rule: deny
-    protocol: icmp
-    source: any
-    destination: any
-
-# 虚拟专用网络（VPN）配置
-vpn_settings:
-  vpn_server_ip: 203.0.113.1
-  vpn_subnet: 10.8.0.0/24
-  encryption: AES-256
 ```
 
 ## VMware vSphere

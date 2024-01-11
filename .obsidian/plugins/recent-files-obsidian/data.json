@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
+      "basename": "01",
+      "path": "Course/强化学习——李宏毅/01.md"
+    },
+    {
+      "basename": "Reinforcement Learning",
+      "path": "AI/深度学习/理论/Reinforcement Learning.md"
     },
     {
       "basename": "2024-01-11",
       "path": "Daily/2024-01-11.md"
+    },
+    {
+      "basename": "VMware 方案",
+      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "Github 资源搜集",
@@ -191,10 +199,6 @@
     {
       "basename": "Go 面试题",
       "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
     }
   ],
   "omittedPaths": [],

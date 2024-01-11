@@ -60,6 +60,90 @@ Serving HTTP on 127.0.0.1:8697
 	- 。。。
 - **需求分析**。
 
+### 控制机制
+
+控制的内容包含哪些层面：  
+
+- 网络  
+- 虚拟机  
+- 服务  
+- 内容类的
+
+典型场景的配置文件：
+
+#### 网络
+
+- IP 的自动分配和手动配置
+
+标签的设计
+
+- network
+	- network_name: MyNetwork
+	- network_id: 192.168.1.0/24
+	- mask: 255.255.255.0
+- router
+	- router_name: r1
+- host
+	- host_name: h1
+	- ipv4: 192.168.1.128
+	- mask: 255.255.255.0
+	- gateway: 192.168.1.2
+	- dns: 8.8.8.8 114.114.114.114
+
+通过划分子网创建路由器，**路由器资源池**——修改和变更他们的网卡。
+
+```yml
+# 网络基本配置
+network_name: MyNetwork
+network_id: 192.168.1.0/24
+
+# 路由器配置
+router:
+  model: ModelXYZ
+  ip_address: 192.168.1.1
+  subnet_mask: 255.255.255.0
+  dhcp_enabled: true
+  nat_enabled: true
+
+# 交换机配置
+switch:
+  model: SwitchABC
+  ip_address: 192.168.1.2
+  number_of_ports: 24
+
+# DHCP服务器配置
+dhcp_server:
+  ip_range_start: 192.168.1.100
+  ip_range_end: 192.168.1.199
+  lease_time: 24h
+  dns_servers: [8.8.8.8, 8.8.4.4]
+
+# 静态IP分配
+static_ips:
+  - device_name: Server1
+    ip_address: 192.168.1.50
+  - device_name: Printer
+    ip_address: 192.168.1.51
+
+# 防火墙规则
+firewall_rules:
+  - rule: allow
+    protocol: tcp
+    port: 80
+    source: any
+    destination: any
+  - rule: deny
+    protocol: icmp
+    source: any
+    destination: any
+
+# 虚拟专用网络（VPN）配置
+vpn_settings:
+  vpn_server_ip: 203.0.113.1
+  vpn_subnet: 10.8.0.0/24
+  encryption: AES-256
+```
+
 ## VMware vSphere
 
 ![[Snipaste/Pasted image 20240109091631.png]]
@@ -132,20 +216,11 @@ Serving HTTP on 127.0.0.1:8697
 
 ---
 
-钓鱼检测：3 种智能算法
+钓鱼检测：3 种智能算法，支持至少 100 家的钓鱼网站检测
 
 - vSphere 分布式环境
 - kloc
 - **酷炫的前端效果**
-
----
-
-- 场景的构建
-- 控制机制
-	- 网络
-	- 虚拟机
-	- 服务
-	- 内容类的
 
 ---
 

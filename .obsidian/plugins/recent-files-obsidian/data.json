@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-01-10",
+      "path": "Daily/2024-01-10.md"
+    },
+    {
       "basename": "Github 资源搜集",
       "path": "Github/Github 资源搜集.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Golang 并发工具开发",
       "path": "Project/并发工具库/Golang 并发工具开发.md"
-    },
-    {
-      "basename": "2024-01-10",
-      "path": "Daily/2024-01-10.md"
     },
     {
       "basename": "ChatGPT4.0",

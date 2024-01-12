@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "01",
-      "path": "Course/强化学习——李宏毅/01.md"
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
     {
-      "basename": "Reinforcement Learning",
-      "path": "AI/深度学习/理论/Reinforcement Learning.md"
+      "basename": "01 基础语法",
+      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
+    },
+    {
+      "basename": "2024-01-12",
+      "path": "Daily/2024-01-12.md"
     },
     {
       "basename": "2024-01-11",
@@ -19,6 +23,22 @@
     {
       "basename": "Github 资源搜集",
       "path": "Github/Github 资源搜集.md"
+    },
+    {
+      "basename": "01",
+      "path": "Course/强化学习——李宏毅/01.md"
+    },
+    {
+      "basename": "幽默的表达",
+      "path": "Challenge/幽默的表达/幽默的表达.md"
+    },
+    {
+      "basename": "2024年1月",
+      "path": "Day3/2024年1月/2024年1月.md"
+    },
+    {
+      "basename": "Reinforcement Learning",
+      "path": "AI/深度学习/理论/Reinforcement Learning.md"
     },
     {
       "basename": "2024-01-10",
@@ -63,10 +83,6 @@
     {
       "basename": "毕业设计（规划）",
       "path": "毕业设计/毕业设计（规划）.md"
-    },
-    {
-      "basename": "2024年1月",
-      "path": "Day3/2024年1月/2024年1月.md"
     },
     {
       "basename": "RZ后端设计",
@@ -183,22 +199,6 @@
     {
       "basename": "存在问题",
       "path": "创业/淘宝店/存在问题.md"
-    },
-    {
-      "basename": "不会清单2023-11",
-      "path": "每日不会清单/不会清单2023-11.md"
-    },
-    {
-      "basename": "学习清单2023-11",
-      "path": "每日学习内容总结/学习清单2023-11.md"
-    },
-    {
-      "basename": "Gin+WebSocket 项目实战IM笔记",
-      "path": "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md"
-    },
-    {
-      "basename": "Go 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
     }
   ],
   "omittedPaths": [],

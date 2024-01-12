@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "02 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+    },
+    {
+      "basename": "2024-01-12",
+      "path": "Daily/2024-01-12.md"
+    },
+    {
+      "basename": "VMware 方案",
+      "path": "毕业设计/VMware vSphere/VMware 方案.md"
+    },
+    {
       "basename": "02 用户基本功能与 Gin 入门",
       "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
@@ -9,16 +21,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
     },
     {
-      "basename": "2024-01-12",
-      "path": "Daily/2024-01-12.md"
-    },
-    {
       "basename": "2024-01-11",
       "path": "Daily/2024-01-11.md"
-    },
-    {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "Github 资源搜集",
@@ -195,10 +199,6 @@
     {
       "basename": "准备面试(最后一个星期)",
       "path": "Challenge/紧急安排/准备面试(最后一个星期).md"
-    },
-    {
-      "basename": "存在问题",
-      "path": "创业/淘宝店/存在问题.md"
     }
   ],
   "omittedPaths": [],

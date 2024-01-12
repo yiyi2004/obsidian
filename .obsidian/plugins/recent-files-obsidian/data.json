@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-12",
-      "path": "Daily/2024-01-12.md"
+      "basename": "01 强化学习基本概念",
+      "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
     },
     {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
-      "basename": "01",
-      "path": "Course/强化学习——李宏毅/01.md"
+      "basename": "2024-01-12",
+      "path": "Daily/2024-01-12.md"
+    },
+    {
+      "basename": "deeplocker 截图任务",
+      "path": "Cyber Security/Deeplocker/deeplocker 截图任务.md"
+    },
+    {
+      "basename": "deeplocker backend summary",
+      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "AI/强化学习/未命名.md"
+    },
+    {
+      "basename": "强化学习资料",
+      "path": "AI/强化学习/强化学习资料.md"
     },
     {
       "basename": "02 用户基本功能和 GORM 入门",
@@ -43,10 +59,6 @@
     {
       "basename": "2024年1月",
       "path": "Day3/2024年1月/2024年1月.md"
-    },
-    {
-      "basename": "Reinforcement Learning",
-      "path": "AI/深度学习/理论/Reinforcement Learning.md"
     },
     {
       "basename": "2024-01-10",
@@ -187,18 +199,6 @@
     {
       "basename": "时间安排",
       "path": "Day3/2023/时间安排.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "开始面试",
-      "path": "Challenge/紧急安排/开始面试.md"
-    },
-    {
-      "basename": "公司名单",
-      "path": "Challenge/紧急安排/公司名单.md"
     }
   ],
   "omittedPaths": [],

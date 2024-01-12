@@ -45,22 +45,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "b4e6d2f03de2060b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "Daily/2024-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+                "file": "Daily/2024-01-12.md"
               }
             }
           },
@@ -181,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "Daily/2024-01-12.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "Daily/2024-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,32 +248,33 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b4e6d2f03de2060b",
+  "active": "eb0ef317312a5c93",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+    "Course/强化学习——李宏毅/01.md",
+    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+    "Daily/2024-01-12.md",
+    "Course/极客时间/初级 Golang 工程师/未命名",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112142343.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112140725.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112135500.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112135249.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112133256.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112133030.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112132739.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112131540.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112105949.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112104820.png",
-    "Daily/2024-01-12.md",
     "毕业设计/VMware vSphere/VMware 方案.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112103858.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112103407.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112103032.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112102735.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112102649.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112100620.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112100459.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240112100442.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste",
     "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
     "Course/极客时间/初级 Golang 工程师",
     "Daily/2024-01-11.md",
     "Github/Github 资源搜集.md",
-    "Course/强化学习——李宏毅/01.md",
     "Challenge/幽默的表达/幽默的表达.md",
     "Challenge/幽默的表达",
     "Day3/2024年1月/2024年1月.md",
-    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240111165600.png",
     "Course/强化学习——李宏毅/Snipaste",
     "AI/深度学习/理论/Reinforcement Learning.md",
     "Course/强化学习——李宏毅",
@@ -308,7 +296,6 @@
     "Daily/2023-05-26.md",
     "Day3/202401.md",
     "Day3/2023",
-    "Project/并发工具库",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

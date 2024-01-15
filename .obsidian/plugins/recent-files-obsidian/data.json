@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
       "basename": "2024-01-15",
       "path": "Daily/2024-01-15.md"
+    },
+    {
+      "basename": "ChatGPT4.0",
+      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
     {
       "basename": "2024年1月",
@@ -11,10 +19,6 @@
     {
       "basename": "2024-01-12",
       "path": "Daily/2024-01-12.md"
-    },
-    {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
       "basename": "VMware 方案",
@@ -71,10 +75,6 @@
     {
       "basename": "Golang 并发工具开发",
       "path": "Project/并发工具库/Golang 并发工具开发.md"
-    },
-    {
-      "basename": "ChatGPT4.0",
-      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
     {
       "basename": "2024-01-09",

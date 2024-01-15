@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5110321044922
+    "width": 267.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -175,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-15.md"
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
               }
             }
           },
@@ -193,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +219,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +249,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 272.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,8 +276,10 @@
   },
   "active": "eb0ef317312a5c93",
   "lastOpenFiles": [
-    "Day3/2024年1月/2024年1月.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240115162229.png",
     "Daily/2024-01-15.md",
+    "AI/LLM/Chatgpt/ChatGPT4.0.md",
+    "Day3/2024年1月/2024年1月.md",
     "Daily/2024-01-12.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "毕业设计/VMware vSphere/VMware 方案.md",
@@ -313,12 +317,10 @@
     "Daily/2024-01-9.md",
     "Project/并发工具库/Golang 并发工具开发.md",
     "Github",
-    "AI/LLM/Chatgpt/ChatGPT4.0.md",
     "Daily/2024-01-09.md",
     "202401101007.md",
     "毕业设计/毕业设计（规划）.md",
     "毕业设计/RZ后端设计.md",
-    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md",
     "毕业设计/VMware vSphere/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",

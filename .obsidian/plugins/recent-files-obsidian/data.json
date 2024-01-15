@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
       "basename": "2024-01-15",
       "path": "Daily/2024-01-15.md"
     },
     {
-      "basename": "ChatGPT4.0",
-      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
+      "basename": "01 强化学习基本概念",
+      "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
       "basename": "2024年1月",
       "path": "Day3/2024年1月/2024年1月.md"
+    },
+    {
+      "basename": "ChatGPT4.0",
+      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
     },
     {
       "basename": "2024-01-12",
@@ -23,10 +27,6 @@
     {
       "basename": "VMware 方案",
       "path": "毕业设计/VMware vSphere/VMware 方案.md"
-    },
-    {
-      "basename": "01 强化学习基本概念",
-      "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
     },
     {
       "basename": "deeplocker 截图任务",

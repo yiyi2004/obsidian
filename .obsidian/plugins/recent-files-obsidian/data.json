@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "02 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "2024年1-3月",
+      "path": "Day3/2024年1月/2024年1-3月.md"
+    },
+    {
       "basename": "时间安排",
       "path": "实习/时间安排.md"
+    },
+    {
+      "basename": "01 强化学习基本概念",
+      "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
+    },
+    {
+      "basename": "VMware 方案",
+      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "2024-01-17",
@@ -17,20 +41,8 @@
       "path": "Daily/2024-01-16.md"
     },
     {
-      "basename": "01 强化学习基本概念",
-      "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
-    },
-    {
       "basename": "2024-01-15",
       "path": "Daily/2024-01-15.md"
-    },
-    {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "2024年1月",
-      "path": "Day3/2024年1月/2024年1月.md"
     },
     {
       "basename": "ChatGPT4.0",
@@ -39,10 +51,6 @@
     {
       "basename": "2024-01-12",
       "path": "Daily/2024-01-12.md"
-    },
-    {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "deeplocker 截图任务",
@@ -59,14 +67,6 @@
     {
       "basename": "强化学习资料",
       "path": "AI/强化学习/强化学习资料.md"
-    },
-    {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
-    },
-    {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "01 基础语法",

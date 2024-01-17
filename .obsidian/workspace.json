@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-15.md"
+                "file": "Daily/2024-01-16.md"
               }
             }
           },
@@ -207,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -232,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-15.md",
+                "file": "Daily/2024-01-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -290,6 +290,7 @@
   "active": "3a9ca6c786f2944d",
   "lastOpenFiles": [
     "Course/强化学习——李宏毅/01 强化学习基本概念.md",
+    "Daily/2024-01-16.md",
     "Daily/2024-01-15.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240115164402.png",

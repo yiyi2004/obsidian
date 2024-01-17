@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "小米测开",
+      "path": "实习/小米测开.md"
+    },
+    {
+      "basename": "VMware 方案",
+      "path": "毕业设计/VMware vSphere/VMware 方案.md"
+    },
+    {
       "basename": "02 用户基本功能和 GORM 入门",
       "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "01 强化学习基本概念",
       "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
-    },
-    {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "2024-01-17",
@@ -195,10 +199,6 @@
     {
       "basename": "0A_10_1_Entertainment",
       "path": "Templates/OB_Template/0A_Templates/0A_10_Entertainment/0A_10_1_Entertainment.md"
-    },
-    {
-      "basename": "并发队列",
-      "path": "Course/极客时间/并发队列/并发队列.md"
     }
   ],
   "omittedPaths": [],

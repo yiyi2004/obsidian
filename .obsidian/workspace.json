@@ -8,51 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "332bc1707772168a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Security/Deeplocker/deeplocker 截图任务.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e066efb265b6dd11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eb0ef317312a5c93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "054080585cfd21db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "实习/小米测开.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -72,8 +33,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "实习/小米测开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+                "file": "实习/小米测开.md"
               }
             }
           },
@@ -193,7 +153,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "实习/小米测开.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+                "file": "实习/小米测开.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -272,14 +232,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "054080585cfd21db",
+  "active": "e066efb265b6dd11",
   "lastOpenFiles": [
+    "毕业设计/VMware vSphere/VMware 方案.md",
+    "实习/小米测开.md",
+    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
     "Day3/2024年1月/2024年1-3月.md",
     "实习/时间安排.md",
     "Course/强化学习——李宏毅/01 强化学习基本概念.md",
-    "毕业设计/VMware vSphere/VMware 方案.md",
     "Daily/2024-01-17.md",
     "实习",
     "Be Yourself/简历/简历.md",
@@ -304,7 +266,6 @@
     "AI/强化学习",
     "AI/未命名.md",
     "未命名",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/未命名",
     "Course/极客时间/初级 Golang 工程师/Snipaste",
     "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
@@ -319,7 +280,6 @@
     "Daily/2024-01-9.md",
     "Project/并发工具库/Golang 并发工具开发.md",
     "Github",
-    "Daily/2024-01-09.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

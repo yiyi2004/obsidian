@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "小米测开",
-      "path": "实习/小米测开.md"
-    },
-    {
       "basename": "VMware 方案",
       "path": "毕业设计/VMware vSphere/VMware 方案.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "实习/时间安排.md"
+    },
+    {
+      "basename": "小米测开",
+      "path": "实习/小米测开.md"
     },
     {
       "basename": "02 用户基本功能和 GORM 入门",
@@ -23,10 +27,6 @@
     {
       "basename": "2024年1-3月",
       "path": "Day3/2024年1月/2024年1-3月.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "实习/时间安排.md"
     },
     {
       "basename": "01 强化学习基本概念",

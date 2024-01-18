@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5110321044922
+    "width": 267.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -236,8 +237,9 @@
   "active": "c6dadf8bec0c7c69",
   "lastOpenFiles": [
     "实习/时间安排.md",
-    "实习/小米测开.md",
     "毕业设计/VMware vSphere/VMware 方案.md",
+    "毕业设计/VMware vSphere/Snipaste/Pasted image 20240118084533.png",
+    "实习/小米测开.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
@@ -261,7 +263,6 @@
     "Course/强化学习——李宏毅/Snipaste/Pasted image 20240112165540.png",
     "Cyber Security/Deeplocker/deeplocker 截图任务.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240112153841.png",
     "AI/强化学习/未命名.md",
     "AI/强化学习/强化学习资料.md",
     "AI/强化学习",
@@ -279,7 +280,6 @@
     "Course/强化学习——李宏毅",
     "Daily/2024-01-10.md",
     "Daily/2024-01-9.md",
-    "Project/并发工具库/Golang 并发工具开发.md",
     "Github",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",

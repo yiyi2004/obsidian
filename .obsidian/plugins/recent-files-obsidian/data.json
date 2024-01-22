@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
+      "basename": "2024-01-21",
+      "path": "Daily/2024-01-21.md"
+    },
+    {
+      "basename": "VMware 方案",
+      "path": "毕业设计/VMware vSphere/VMware 方案.md"
+    },
+    {
       "basename": "小米测开",
       "path": "实习/小米测开.md"
     },
     {
       "basename": "时间安排",
       "path": "实习/时间安排.md"
-    },
-    {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "02 用户基本功能和 GORM 入门",
@@ -187,18 +199,6 @@
     {
       "basename": "Project index",
       "path": "Project/Project index.md"
-    },
-    {
-      "basename": "0A_1_2_WeeklyReview",
-      "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_2_WeeklyReview.md"
-    },
-    {
-      "basename": "0A_1_4_YearlyGoals",
-      "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_4_YearlyGoals.md"
-    },
-    {
-      "basename": "0A_10_1_Entertainment",
-      "path": "Templates/OB_Template/0A_Templates/0A_10_Entertainment/0A_10_1_Entertainment.md"
     }
   ],
   "omittedPaths": [],

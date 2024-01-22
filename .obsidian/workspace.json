@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Daily/2024-01-22.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Daily/2024-01-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +129,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Daily/2024-01-22.md"
               }
             }
           },
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Daily/2024-01-22.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -193,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Daily/2024-01-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -249,11 +248,13 @@
   },
   "active": "de785d5bff511988",
   "lastOpenFiles": [
+    "Algorithm/HOT100/算法题目总结.md",
+    "Daily/2024-01-22.md",
+    "毕业设计/VMware vSphere/VMware 方案.md",
     "Algorithm/HOT100/Snipaste/Pasted image 20240121192807.png",
     "Algorithm/HOT100/Snipaste",
     "Algorithm/算法总结.md",
     "Daily/2024-01-21.md",
-    "毕业设计/VMware vSphere/VMware 方案.md",
     "实习/小米测开.md",
     "实习/时间安排.md",
     "毕业设计/VMware vSphere/Snipaste/Pasted image 20240118084533.png",
@@ -277,7 +278,6 @@
     "Daily/2024-01-12.md",
     "Course/强化学习——李宏毅/Snipaste/Pasted image 20240112170326.png",
     "Course/强化学习——李宏毅/Snipaste/Pasted image 20240112165824.png",
-    "Course/强化学习——李宏毅/Snipaste/Pasted image 20240112165540.png",
     "Cyber Security/Deeplocker/deeplocker 截图任务.md",
     "Cyber Security/Deeplocker/deeplocker backend summary.md",
     "AI/强化学习/未命名.md",
@@ -291,7 +291,6 @@
     "Course/极客时间/初级 Golang 工程师",
     "Daily/2024-01-11.md",
     "Github/Github 资源搜集.md",
-    "Challenge/幽默的表达/幽默的表达.md",
     "Challenge/幽默的表达",
     "Course/强化学习——李宏毅/Snipaste",
     "Course/强化学习——李宏毅",

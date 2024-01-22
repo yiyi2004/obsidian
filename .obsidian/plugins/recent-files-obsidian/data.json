@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "创建自己的八股文库",
+      "path": "Project/知识星球/创建自己的八股文库.md"
+    },
+    {
       "basename": "小米测开",
       "path": "实习/小米测开.md"
+    },
+    {
+      "basename": "VMware 方案",
+      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "面试题",
@@ -27,10 +35,6 @@
     {
       "basename": "算法题目总结",
       "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
       "basename": "算法总结",
@@ -195,10 +199,6 @@
     {
       "basename": "Day3-202307",
       "path": "Day3/2023/Day3-202307.md"
-    },
-    {
-      "basename": "穿搭",
-      "path": "Day3/2023/穿搭.md"
     }
   ],
   "omittedPaths": [],

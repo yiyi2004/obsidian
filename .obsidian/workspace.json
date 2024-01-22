@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-22.md",
+                "file": "实习/小米测开.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-22.md",
+                "file": "实习/小米测开.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-22.md"
+                "file": "实习/小米测开.md"
               }
             }
           },
@@ -167,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-22.md",
+                "file": "实习/小米测开.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-22.md",
+                "file": "实习/小米测开.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,8 +248,12 @@
   },
   "active": "de785d5bff511988",
   "lastOpenFiles": [
-    "Algorithm/HOT100/算法题目总结.md",
+    "Be Yourself/简历/面试题.md",
+    "Be Yourself/简历/面试题/Go/Go 面试题.md",
+    "Coding/Go/深入理解go/Go Slice.md",
+    "Project/Golang IM/Go IM.md",
     "Daily/2024-01-22.md",
+    "Algorithm/HOT100/算法题目总结.md",
     "毕业设计/VMware vSphere/VMware 方案.md",
     "Algorithm/HOT100/Snipaste/Pasted image 20240121192807.png",
     "Algorithm/HOT100/Snipaste",
@@ -283,14 +287,10 @@
     "AI/强化学习/未命名.md",
     "AI/强化学习/强化学习资料.md",
     "AI/强化学习",
-    "AI/未命名.md",
     "未命名",
     "Course/极客时间/初级 Golang 工程师/未命名",
     "Course/极客时间/初级 Golang 工程师/Snipaste",
-    "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
     "Course/极客时间/初级 Golang 工程师",
-    "Daily/2024-01-11.md",
-    "Github/Github 资源搜集.md",
     "Challenge/幽默的表达",
     "Course/强化学习——李宏毅/Snipaste",
     "Course/强化学习——李宏毅",

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "小米测开",
+      "path": "实习/小米测开.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
+    },
+    {
+      "basename": "Go Slice",
+      "path": "Coding/Go/深入理解go/Go Slice.md"
+    },
+    {
+      "basename": "Go IM",
+      "path": "Project/Golang IM/Go IM.md"
+    },
+    {
       "basename": "2024-01-22",
       "path": "Daily/2024-01-22.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "2024-01-21",
       "path": "Daily/2024-01-21.md"
-    },
-    {
-      "basename": "小米测开",
-      "path": "实习/小米测开.md"
     },
     {
       "basename": "时间安排",
@@ -183,22 +199,6 @@
     {
       "basename": "穿搭",
       "path": "Day3/2023/穿搭.md"
-    },
-    {
-      "basename": "Day3-202306",
-      "path": "Day3/2023/Day3-202306.md"
-    },
-    {
-      "basename": "简历(规划)",
-      "path": "Challenge/3月末字节面试/简历(规划).md"
-    },
-    {
-      "basename": "反射",
-      "path": "Coding/Go/反射/反射.md"
-    },
-    {
-      "basename": "Install",
-      "path": "Cloud Native/Openstack/02 企业实战/Install.md"
     }
   ],
   "omittedPaths": [],

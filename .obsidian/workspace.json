@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project/知识星球/创建自己的八股文库.md",
+                "file": "Be Yourself/简历/面试技巧.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识星球/创建自己的八股文库.md",
+                "file": "Be Yourself/简历/面试技巧.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project/知识星球/创建自己的八股文库.md"
+                "file": "Be Yourself/简历/面试技巧.md"
               }
             }
           },
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project/知识星球/创建自己的八股文库.md",
+                "file": "Be Yourself/简历/面试技巧.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +191,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project/知识星球/创建自己的八股文库.md",
+                "file": "Be Yourself/简历/面试技巧.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -247,8 +247,12 @@
   },
   "active": "3a9ca6c786f2944d",
   "lastOpenFiles": [
-    "实习/小米测开.md",
+    "Be Yourself/简历/Snipaste/Pasted image 20240123184909.png",
+    "Be Yourself/简历/面试技能.md",
+    "Be Yourself/简历/面试技巧.md",
+    "Project/知识星球/功能设计.md",
     "Project/知识星球/创建自己的八股文库.md",
+    "实习/小米测开.md",
     "Project/知识星球",
     "毕业设计/VMware vSphere/VMware 方案.md",
     "实习/Snipaste/Pasted image 20240122151403.png",
@@ -282,11 +286,7 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240115163432.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240115162229.png",
     "AI/LLM/Chatgpt/ChatGPT4.0.md",
-    "Daily/2024-01-12.md",
     "Course/强化学习——李宏毅/Snipaste/Pasted image 20240112170326.png",
-    "Cyber Security/Deeplocker/deeplocker 截图任务.md",
-    "Cyber Security/Deeplocker/deeplocker backend summary.md",
-    "AI/强化学习/未命名.md",
     "AI/强化学习",
     "未命名",
     "Course/极客时间/初级 Golang 工程师/未命名",

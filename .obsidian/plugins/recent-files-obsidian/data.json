@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "面试技巧",
+      "path": "Be Yourself/简历/面试技巧.md"
+    },
+    {
+      "basename": "面试技能",
+      "path": "Be Yourself/简历/面试技能.md"
+    },
+    {
+      "basename": "功能设计",
+      "path": "Project/知识星球/功能设计.md"
+    },
+    {
       "basename": "创建自己的八股文库",
       "path": "Project/知识星球/创建自己的八股文库.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "2023-05-26",
       "path": "Daily/2023-05-26.md"
-    },
-    {
-      "basename": "202401",
-      "path": "Day3/202401.md"
-    },
-    {
-      "basename": "2024 上半年规划(宏观核心目标)",
-      "path": "Day3/2024年1月/2024 上半年规划(宏观核心目标).md"
-    },
-    {
-      "basename": "Day3-202307",
-      "path": "Day3/2023/Day3-202307.md"
     }
   ],
   "omittedPaths": [],

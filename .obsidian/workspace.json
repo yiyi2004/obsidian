@@ -8,40 +8,9 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3a9ca6c786f2944d",
+            "id": "2fb8472189f15d64",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/简历/面试技巧.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "3be50e025b9d367b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c6dadf8bec0c7c69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "毕业设计/VMware vSphere/VMware 方案.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "de785d5bff511988",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -49,16 +18,43 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": false
-              }
+              },
+              "pinned": true
             }
           },
           {
-            "id": "24331ded4df079fa",
+            "id": "3a9ca6c786f2944d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-25.md",
+                "file": "Reading Notes/小说/围城.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "148782ad7f73ac2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go 八股文.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "23460a87a3e5b52e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -66,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md",
+                "file": "Coding/Go/Go 八股文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5110321044922,
-    "collapsed": true
+    "width": 320.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -169,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md"
+                "file": "Coding/Go/Go 八股文.md"
               }
             }
           },
@@ -187,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md",
+                "file": "Coding/Go/Go 八股文.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md",
+                "file": "Coding/Go/Go 八股文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,12 +233,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -267,12 +262,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "de785d5bff511988",
+  "active": "148782ad7f73ac2a",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试技巧.md",
+    "Coding/Go/深入理解go/Go Map 原理.md",
+    "Coding/Go/Go 八股文.md",
     "Be Yourself/简历/面试Checklist.md",
-    "毕业设计/VMware vSphere/VMware 方案.md",
+    "Reading Notes/小说/围城.md",
+    "Coding/Go/深入理解go/GMP 原理.md",
+    "Coding/Go/中间件/消息中间件-Kafka实战/kafka总结及综合解决问题思路.jpg",
+    "Coding/Go/Book/Go 推荐书籍.md",
+    "Coding/Go/Book/字节常见算法题/解压密码.png",
+    "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
+    "Coding/Go/Book/编程之美/编程之美.pdf",
+    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
+    "Coding/Go/Database/MySQL/Go 连接 MySQL.md",
+    "Coding/Go/DevOps/DevOps.pdf",
+    "Coding/Go/awesome go.md",
+    "Coding/Go/Go 处理 wav 文件.md",
+    "Coding/Go/go context.md",
+    "Coding/Go/并发编程/Go语言实战.pdf",
+    "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf",
+    "Coding/Go/并发编程/CSP 模型.md",
+    "Coding/Go/并发编程/并发编程.md",
+    "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
+    "Reading Notes/小说",
+    "Be Yourself/简历/面试技巧.md",
     "Daily/2024-01-25.md",
+    "毕业设计/VMware vSphere/VMware 方案.md",
+    "Tasks/实习/第一份寒假实习.md",
     "Daily/2024-01-21.md",
     "Be Yourself/简历/Snipaste/Pasted image 20240125095902.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125095430.png",
@@ -285,36 +302,14 @@
     "Be Yourself/简历/Snipaste/Pasted image 20240125092720.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125092512.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125092412.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125092358.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125092241.png",
     "Project/知识星球/功能设计.md",
     "Project/知识星球/创建自己的八股文库.md",
     "Project/知识星球",
     "实习/Snipaste",
     "Be Yourself/简历/面试题.md",
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
-    "Coding/Go/深入理解go/Go Slice.md",
-    "Project/Golang IM/Go IM.md",
-    "Algorithm/HOT100/算法题目总结.md",
     "Algorithm/HOT100/Snipaste",
-    "Algorithm/算法总结.md",
-    "实习/时间安排.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
-    "Day3/2024年1月/2024年1-3月.md",
-    "Course/强化学习——李宏毅/01 强化学习基本概念.md",
-    "Daily/2024-01-17.md",
     "实习",
-    "Be Yourself/简历/简历.md",
-    "Daily/2024-01-16.md",
-    "Daily/2024-01-15.md",
-    "AI/强化学习",
-    "未命名",
-    "Course/极客时间/初级 Golang 工程师/未命名",
-    "Course/极客时间/初级 Golang 工程师/Snipaste",
-    "Course/极客时间/初级 Golang 工程师",
-    "Challenge/幽默的表达",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

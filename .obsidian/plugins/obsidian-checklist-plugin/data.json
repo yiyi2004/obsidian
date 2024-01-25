@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo\ngithub\nblog\nwrite\ndeeplearning\napt\npython\ngo\n企划书\nreading\nsummary\ntask\ndeeplocker\nreview",
+  "todoPageName": "todo\ngithub\nblog\nwrite\ndeeplearning\napt\npython\ngo\n企划书\nreading\nsummary\ntask\ndeeplocker\nreview\n面试",
   "showChecked": false,
   "showAllTodos": true,
   "autoRefresh": true,
@@ -9,7 +9,7 @@
   "sortDirectionGroups": "new->old",
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
-  "lookAndFeel": "classic",
+  "lookAndFeel": "compact",
   "_collapsedSections": [
     "Website/smol-aideveloper with 100k context windows on the way, its now feasible for every dev to have their own smol developer.md",
     "Templates/OB_Template/0A_Templates/0A_7_Blog/0A_7_1_Blog.md",
@@ -32,7 +32,8 @@
     "Cyber Security/Deeplocker/deeplocker test.md",
     "Tasks/实习/第一份寒假实习.md",
     "Eassay/企划书/企划书.md",
-    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md"
+    "Cyber Security/Deeplocker/Deeplocker 攻击流程.md",
+    "Day3/2023/Day3-202301.md"
   ],
   "_hiddenTags": [
     "t",
@@ -44,6 +45,7 @@
     "github",
     "deeplearning",
     "apt",
-    "python"
+    "python",
+    "deeplocker"
   ]
 }

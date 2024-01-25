@@ -1,20 +1,104 @@
 {
   "recentFiles": [
     {
+      "basename": "Go 八股文",
+      "path": "Coding/Go/Go 八股文.md"
+    },
+    {
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "围城",
+      "path": "Reading Notes/小说/围城.md"
+    },
+    {
+      "basename": "GMP 原理",
+      "path": "Coding/Go/深入理解go/GMP 原理.md"
+    },
+    {
+      "basename": "kafka总结及综合解决问题思路",
+      "path": "Coding/Go/中间件/消息中间件-Kafka实战/kafka总结及综合解决问题思路.jpg"
+    },
+    {
+      "basename": "Go 推荐书籍",
+      "path": "Coding/Go/Book/Go 推荐书籍.md"
+    },
+    {
+      "basename": "解压密码",
+      "path": "Coding/Go/Book/字节常见算法题/解压密码.png"
+    },
+    {
+      "basename": "算法-第4版",
+      "path": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
+    },
+    {
+      "basename": "编程之美",
+      "path": "Coding/Go/Book/编程之美/编程之美.pdf"
+    },
+    {
+      "basename": "MySQL 读写分离",
+      "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md"
+    },
+    {
+      "basename": "Go 连接 MySQL",
+      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Coding/Go/DevOps/DevOps.pdf"
+    },
+    {
+      "basename": "awesome go",
+      "path": "Coding/Go/awesome go.md"
+    },
+    {
+      "basename": "Go 处理 wav 文件",
+      "path": "Coding/Go/Go 处理 wav 文件.md"
+    },
+    {
+      "basename": "go context",
+      "path": "Coding/Go/go context.md"
+    },
+    {
+      "basename": "Go语言实战",
+      "path": "Coding/Go/并发编程/Go语言实战.pdf"
+    },
+    {
+      "basename": "Go语言从入门到进阶实战",
+      "path": "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf"
+    },
+    {
+      "basename": "CSP 模型",
+      "path": "Coding/Go/并发编程/CSP 模型.md"
+    },
+    {
+      "basename": "并发编程",
+      "path": "Coding/Go/并发编程/并发编程.md"
+    },
+    {
+      "basename": "高效能人士的7个习惯",
+      "path": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md"
     },
     {
       "basename": "面试技巧",
       "path": "Be Yourself/简历/面试技巧.md"
     },
     {
+      "basename": "2024-01-25",
+      "path": "Daily/2024-01-25.md"
+    },
+    {
       "basename": "VMware 方案",
       "path": "毕业设计/VMware vSphere/VMware 方案.md"
     },
     {
-      "basename": "2024-01-25",
-      "path": "Daily/2024-01-25.md"
+      "basename": "第一份寒假实习",
+      "path": "Tasks/实习/第一份寒假实习.md"
     },
     {
       "basename": "2024-01-21",
@@ -115,90 +199,6 @@
     {
       "basename": "deeplocker 截图任务",
       "path": "Cyber Security/Deeplocker/deeplocker 截图任务.md"
-    },
-    {
-      "basename": "deeplocker backend summary",
-      "path": "Cyber Security/Deeplocker/deeplocker backend summary.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "AI/强化学习/未命名.md"
-    },
-    {
-      "basename": "强化学习资料",
-      "path": "AI/强化学习/强化学习资料.md"
-    },
-    {
-      "basename": "01 基础语法",
-      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
-    },
-    {
-      "basename": "2024-01-11",
-      "path": "Daily/2024-01-11.md"
-    },
-    {
-      "basename": "Github 资源搜集",
-      "path": "Github/Github 资源搜集.md"
-    },
-    {
-      "basename": "幽默的表达",
-      "path": "Challenge/幽默的表达/幽默的表达.md"
-    },
-    {
-      "basename": "2024-01-10",
-      "path": "Daily/2024-01-10.md"
-    },
-    {
-      "basename": "Golang 并发工具开发",
-      "path": "Project/并发工具库/Golang 并发工具开发.md"
-    },
-    {
-      "basename": "2024-01-09",
-      "path": "Daily/2024-01-09.md"
-    },
-    {
-      "basename": "202401101007",
-      "path": "202401101007.md"
-    },
-    {
-      "basename": "Pasted image 20240109091631",
-      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109091631.png"
-    },
-    {
-      "basename": "Pasted image 20240109160627",
-      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109160627.png"
-    },
-    {
-      "basename": "Pasted image 20240109155445",
-      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155445.png"
-    },
-    {
-      "basename": "Pasted image 20240109155444",
-      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155444.png"
-    },
-    {
-      "basename": "Pasted image 20240109155443",
-      "path": "毕业设计/VMware vSphere/Snipaste/Pasted image 20240109155443.png"
-    },
-    {
-      "basename": "毕业设计（规划）",
-      "path": "毕业设计/毕业设计（规划）.md"
-    },
-    {
-      "basename": "RZ后端设计",
-      "path": "毕业设计/RZ后端设计.md"
-    },
-    {
-      "basename": "0A_1_1_DailyLog",
-      "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_1_DailyLog.md"
-    },
-    {
-      "basename": "2024-01-08",
-      "path": "Daily/2024-01-08.md"
-    },
-    {
-      "basename": "2024-01-07",
-      "path": "Daily/2024-01-07.md"
     }
   ],
   "omittedPaths": [],

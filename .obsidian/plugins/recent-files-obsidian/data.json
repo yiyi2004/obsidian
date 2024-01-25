@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
       "basename": "Go 八股文",
       "path": "Coding/Go/Go 八股文.md"
+    },
+    {
+      "basename": "围城",
+      "path": "Reading Notes/小说/围城.md"
     },
     {
       "basename": "Go Map 原理",
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "围城",
-      "path": "Reading Notes/小说/围城.md"
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "GMP 原理",
@@ -159,10 +163,6 @@
     {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "2024年1-3月",

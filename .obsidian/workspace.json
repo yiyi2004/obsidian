@@ -60,9 +60,34 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "28bfda795401f7b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01926270fe5e52ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go 八股文.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go 八股文.md",
+                "file": "Be Yourself/简历/面试Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/Go 八股文.md"
+                "file": "Be Yourself/简历/面试Checklist.md"
               }
             }
           },
@@ -182,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/Go 八股文.md",
+                "file": "Be Yourself/简历/面试Checklist.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/Go 八股文.md",
+                "file": "Be Yourself/简历/面试Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,8 +258,7 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,12 +286,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "148782ad7f73ac2a",
+  "active": "2fb8472189f15d64",
   "lastOpenFiles": [
-    "Coding/Go/深入理解go/Go Map 原理.md",
     "Coding/Go/Go 八股文.md",
     "Be Yourself/简历/面试Checklist.md",
     "Reading Notes/小说/围城.md",
+    "Coding/Go/深入理解go/Go Map 原理.md",
+    "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
     "Coding/Go/深入理解go/GMP 原理.md",
     "Coding/Go/中间件/消息中间件-Kafka实战/kafka总结及综合解决问题思路.jpg",
     "Coding/Go/Book/Go 推荐书籍.md",
@@ -307,7 +332,6 @@
     "Project/知识星球",
     "实习/Snipaste",
     "Be Yourself/简历/面试题.md",
-    "Be Yourself/简历/面试题/Go/Go 面试题.md",
     "Algorithm/HOT100/Snipaste",
     "实习",
     "AI/未命名.canvas",

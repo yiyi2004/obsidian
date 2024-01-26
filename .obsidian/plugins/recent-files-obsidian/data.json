@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-26",
-      "path": "Daily/2024-01-26.md"
+      "basename": "2024-01-21",
+      "path": "Daily/2024-01-21.md"
+    },
+    {
+      "basename": "京东日常实习",
+      "path": "实习/京东日常实习.md"
+    },
+    {
+      "basename": "小米测开",
+      "path": "实习/小米测开.md"
+    },
+    {
+      "basename": "日常实习",
+      "path": "Be Yourself/简历/面试之路/日常实习.md"
     },
     {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
-      "basename": "2024-01-21",
-      "path": "Daily/2024-01-21.md"
+      "basename": "围城",
+      "path": "Reading Notes/小说/围城.md"
+    },
+    {
+      "basename": "Go 八股文",
+      "path": "Coding/Go/Go 八股文.md"
+    },
+    {
+      "basename": "Redis 面试题",
+      "path": "Be Yourself/简历/面试题/Redis 面试题.md"
+    },
+    {
+      "basename": "8. Redis面试题",
+      "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
+    },
+    {
+      "basename": "2024-01-26",
+      "path": "Daily/2024-01-26.md"
     },
     {
       "basename": "2024-01-22",
@@ -19,14 +51,6 @@
     {
       "basename": "2024-01-25",
       "path": "Daily/2024-01-25.md"
-    },
-    {
-      "basename": "Go 八股文",
-      "path": "Coding/Go/Go 八股文.md"
-    },
-    {
-      "basename": "围城",
-      "path": "Reading Notes/小说/围城.md"
     },
     {
       "basename": "Go Map 原理",
@@ -121,10 +145,6 @@
       "path": "Be Yourself/简历/面试技能.md"
     },
     {
-      "basename": "小米测开",
-      "path": "实习/小米测开.md"
-    },
-    {
       "basename": "功能设计",
       "path": "Project/知识星球/功能设计.md"
     },
@@ -135,10 +155,6 @@
     {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "Go 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
     },
     {
       "basename": "Go Slice",
@@ -183,22 +199,6 @@
     {
       "basename": "简历",
       "path": "Be Yourself/简历/简历.md"
-    },
-    {
-      "basename": "2024-01-16",
-      "path": "Daily/2024-01-16.md"
-    },
-    {
-      "basename": "2024-01-15",
-      "path": "Daily/2024-01-15.md"
-    },
-    {
-      "basename": "ChatGPT4.0",
-      "path": "AI/LLM/Chatgpt/ChatGPT4.0.md"
-    },
-    {
-      "basename": "2024-01-12",
-      "path": "Daily/2024-01-12.md"
     }
   ],
   "omittedPaths": [],

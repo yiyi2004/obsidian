@@ -88,12 +88,12 @@
             }
           },
           {
-            "id": "71d27338c2702be3",
+            "id": "e55da7ccf3581570",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-26.md",
+                "file": "Daily/2024-01-21.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -101,12 +101,12 @@
             }
           },
           {
-            "id": "e55da7ccf3581570",
+            "id": "388b2c5f9891008c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-21.md",
+                "file": "实习/京东日常实习.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-26.md",
+                "file": "Daily/2024-01-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-26.md"
+                "file": "Daily/2024-01-21.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-26.md",
+                "file": "Daily/2024-01-21.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-26.md",
+                "file": "Daily/2024-01-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,15 +313,23 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71d27338c2702be3",
+  "active": "e55da7ccf3581570",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试Checklist.md",
-    "Daily/2024-01-26.md",
+    "实习/京东日常实习.md",
     "Daily/2024-01-21.md",
+    "实习/小米测开.md",
+    "Be Yourself/简历/面试之路/日常实习.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Reading Notes/小说/围城.md",
+    "Coding/Go/Go 八股文.md",
+    "Be Yourself/简历/面试题/Redis 面试题.md",
+    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240126201644.png",
+    "Be Yourself/简历/面试题/Snipaste",
+    "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md",
+    "Be Yourself/简历/面试题/Go/Go 面试题.md",
+    "Daily/2024-01-26.md",
     "Daily/2024-01-22.md",
     "Daily/2024-01-25.md",
-    "Coding/Go/Go 八股文.md",
-    "Reading Notes/小说/围城.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
     "Coding/Go/深入理解go/GMP 原理.md",
@@ -343,24 +351,16 @@
     "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md",
     "Reading Notes/小说",
     "Be Yourself/简历/面试技巧.md",
-    "毕业设计/VMware vSphere/VMware 方案.md",
-    "Tasks/实习/第一份寒假实习.md",
     "Be Yourself/简历/Snipaste/Pasted image 20240125095902.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125095430.png",
-    "Be Yourself/简历/面试技能.md",
-    "实习/小米测开.md",
     "Be Yourself/简历/Snipaste/Pasted image 20240125093124.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125093121.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125093052.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125092720.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125092512.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125092412.png",
-    "Project/知识星球/功能设计.md",
-    "Project/知识星球/创建自己的八股文库.md",
     "Project/知识星球",
     "实习/Snipaste",
     "Algorithm/HOT100/Snipaste",
-    "实习",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

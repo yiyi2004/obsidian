@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Coding/Go/深入理解go/Golang GC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Coding/Go/深入理解go/Golang GC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-27.md"
+                "file": "Coding/Go/深入理解go/Golang GC.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Coding/Go/深入理解go/Golang GC.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Coding/Go/深入理解go/Golang GC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,8 +289,9 @@
   },
   "active": "0c1cdebfa86c7df0",
   "lastOpenFiles": [
-    "Coding/Go/Go 八股文.md",
     "Daily/2024-01-27.md",
+    "Coding/Go/深入理解go/Golang GC.md",
+    "Coding/Go/Go 八股文.md",
     "实习/京东日常实习.md",
     "Be Yourself/简历/面试Checklist.md",
     "Reading Notes/小说/围城.md",
@@ -323,7 +324,6 @@
     "Coding/Go/并发编程/Go语言实战.pdf",
     "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf",
     "Coding/Go/并发编程/CSP 模型.md",
-    "Coding/Go/并发编程/并发编程.md",
     "Reading Notes/小说",
     "Be Yourself/简历/Snipaste/Pasted image 20240125095902.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125095430.png",

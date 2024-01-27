@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Golang GC",
+      "path": "Coding/Go/深入理解go/Golang GC.md"
+    },
+    {
       "basename": "2024-01-27",
       "path": "Daily/2024-01-27.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2024年1-3月",
       "path": "Day3/2024年1月/2024年1-3月.md"
-    },
-    {
-      "basename": "01 强化学习基本概念",
-      "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
     }
   ],
   "omittedPaths": [],

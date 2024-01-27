@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/深入理解go/Golang 熔断限流降级.md",
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5110321044922
+    "width": 320.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -190,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
               }
             }
           },
@@ -208,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/深入理解go/Golang 熔断限流降级.md",
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +234,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/深入理解go/Golang 熔断限流降级.md",
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,23 +288,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "148782ad7f73ac2a",
+  "active": "0c1cdebfa86c7df0",
   "lastOpenFiles": [
-    "Coding/Go/深入理解go/GMP 原理.md",
-    "Coding/Go/深入理解go/Golang 熔断限流降级.md",
-    "Coding/Go/Go 八股文.md",
-    "实习/京东日常实习.md",
-    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127180415.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127180248.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127165737.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127165501.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste",
+    "Daily/2024-01-27.md",
     "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
     "Be Yourself/简历/面试Checklist.md",
+    "Reading Notes/小说/围城.md",
+    "Coding/Go/深入理解go/Golang 熔断限流降级.md",
+    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
+    "实习/京东日常实习.md",
+    "Coding/Go/深入理解go/GMP 原理.md",
+    "Coding/Go/Go 八股文.md",
     "Course/极客时间/Golang 实战训练营/缓存模块 - 0. 并发编程.pdf",
     "Course/极客时间/极客时间学习课程.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
     "Course/极客时间/Golang 实战训练营",
     "Coding/Go/并发编程/并发编程.md",
-    "Daily/2024-01-27.md",
     "Coding/Go/深入理解go/Golang GC.md",
-    "Reading Notes/小说/围城.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
     "Daily/2024-01-21.md",
@@ -322,7 +328,6 @@
     "Coding/Go/Book/字节常见算法题/解压密码.png",
     "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
     "Coding/Go/Book/编程之美/编程之美.pdf",
-    "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/并发编程/Go语言实战.pdf",
     "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf",
@@ -331,10 +336,6 @@
     "Be Yourself/简历/Snipaste/Pasted image 20240125095430.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125093124.png",
     "Be Yourself/简历/Snipaste/Pasted image 20240125093121.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125093052.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125092720.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125092512.png",
-    "Project/知识星球",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

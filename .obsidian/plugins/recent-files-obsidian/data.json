@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-01-21",
-      "path": "Daily/2024-01-21.md"
+      "basename": "2024-01-27",
+      "path": "Daily/2024-01-27.md"
+    },
+    {
+      "basename": "Go 八股文",
+      "path": "Coding/Go/Go 八股文.md"
     },
     {
       "basename": "京东日常实习",
       "path": "实习/京东日常实习.md"
-    },
-    {
-      "basename": "小米测开",
-      "path": "实习/小米测开.md"
-    },
-    {
-      "basename": "日常实习",
-      "path": "Be Yourself/简历/面试之路/日常实习.md"
     },
     {
       "basename": "面试Checklist",
@@ -25,8 +21,28 @@
       "path": "Reading Notes/小说/围城.md"
     },
     {
-      "basename": "Go 八股文",
-      "path": "Coding/Go/Go 八股文.md"
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "2024-01-21",
+      "path": "Daily/2024-01-21.md"
+    },
+    {
+      "basename": "小米测开",
+      "path": "实习/小米测开.md"
+    },
+    {
+      "basename": "日常实习",
+      "path": "Be Yourself/简历/面试之路/日常实习.md"
     },
     {
       "basename": "Redis 面试题",
@@ -51,14 +67,6 @@
     {
       "basename": "2024-01-25",
       "path": "Daily/2024-01-25.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
-    },
-    {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "GMP 原理",
@@ -191,14 +199,6 @@
     {
       "basename": "01 强化学习基本概念",
       "path": "Course/强化学习——李宏毅/01 强化学习基本概念.md"
-    },
-    {
-      "basename": "2024-01-17",
-      "path": "Daily/2024-01-17.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
     }
   ],
   "omittedPaths": [],

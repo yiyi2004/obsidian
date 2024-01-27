@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "缓存模块之并发编程",
-      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
-    },
-    {
       "basename": "2024-01-27",
       "path": "Daily/2024-01-27.md"
     },
     {
+      "basename": "Go 八股文",
+      "path": "Coding/Go/Go 八股文.md"
+    },
+    {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "京东日常实习",
+      "path": "实习/京东日常实习.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
     },
     {
       "basename": "围城",
@@ -21,20 +29,12 @@
       "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
     },
     {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
-    },
-    {
-      "basename": "京东日常实习",
-      "path": "实习/京东日常实习.md"
+      "basename": "缓存模块之并发编程",
+      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
     },
     {
       "basename": "GMP 原理",
       "path": "Coding/Go/深入理解go/GMP 原理.md"
-    },
-    {
-      "basename": "Go 八股文",
-      "path": "Coding/Go/Go 八股文.md"
     },
     {
       "basename": "缓存模块 - 0. 并发编程",

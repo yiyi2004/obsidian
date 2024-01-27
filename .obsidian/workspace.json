@@ -86,9 +86,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b21fc610c8d39dc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2024-01-27.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbf1f7ac071f8f18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/Go 八股文.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -132,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+                "file": "Daily/2024-01-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -191,7 +217,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
+                "file": "Daily/2024-01-27.md"
               }
             }
           },
@@ -209,7 +235,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+                "file": "Daily/2024-01-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +260,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+                "file": "Daily/2024-01-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -288,22 +314,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c1cdebfa86c7df0",
+  "active": "b21fc610c8d39dc4",
   "lastOpenFiles": [
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127180415.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127180248.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127165737.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127165501.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste",
-    "Daily/2024-01-27.md",
-    "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+    "Coding/Go/Go 八股文.md",
     "Be Yourself/简历/面试Checklist.md",
+    "Daily/2024-01-27.md",
+    "实习/京东日常实习.md",
+    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
     "Reading Notes/小说/围城.md",
     "Coding/Go/深入理解go/Golang 熔断限流降级.md",
-    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
-    "实习/京东日常实习.md",
+    "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127192029.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127191939.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127191616.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127191603.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127190816.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127190753.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127190540.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127182842.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127182303.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127182301.png",
+    "Course/极客时间/Golang 实战训练营/Snipaste",
     "Coding/Go/深入理解go/GMP 原理.md",
-    "Coding/Go/Go 八股文.md",
     "Course/极客时间/Golang 实战训练营/缓存模块 - 0. 并发编程.pdf",
     "Course/极客时间/极客时间学习课程.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
@@ -316,26 +348,19 @@
     "实习/小米测开.md",
     "Be Yourself/简历/面试之路/日常实习.md",
     "Be Yourself/简历/面试题/Redis 面试题.md",
-    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240126201644.png",
     "Be Yourself/简历/面试题/Snipaste",
     "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md",
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
     "Daily/2024-01-26.md",
     "Daily/2024-01-22.md",
     "Daily/2024-01-25.md",
-    "Coding/Go/中间件/消息中间件-Kafka实战/kafka总结及综合解决问题思路.jpg",
     "Coding/Go/Book/Go 推荐书籍.md",
-    "Coding/Go/Book/字节常见算法题/解压密码.png",
     "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
     "Coding/Go/Book/编程之美/编程之美.pdf",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/并发编程/Go语言实战.pdf",
     "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf",
     "Reading Notes/小说",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125095902.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125095430.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125093124.png",
-    "Be Yourself/简历/Snipaste/Pasted image 20240125093121.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

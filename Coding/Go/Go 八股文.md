@@ -1,7 +1,7 @@
 - [ ] 内置类型原理
 	- [ ] Map
 	- [ ] Slice
-	- [ ] 并发库源码
+	- [ ] 并发库源码 [Go 实战训练营-1. 缓存模块路线图 (geekbang.org)](https://u.geekbang.org/lesson/485?article=627035&utm_source=time_web&utm_medium=menu&utm_term=timewebmenu)
 - [ ] 运行时原理
 	- [ ] GMP
 	- [ ] 内存分配

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Golang GC",
-      "path": "Coding/Go/深入理解go/Golang GC.md"
+      "basename": "Golang 熔断限流降级",
+      "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
     },
     {
-      "basename": "2024-01-27",
-      "path": "Daily/2024-01-27.md"
+      "basename": "GMP 原理",
+      "path": "Coding/Go/深入理解go/GMP 原理.md"
     },
     {
       "basename": "Go 八股文",
@@ -17,16 +17,44 @@
       "path": "实习/京东日常实习.md"
     },
     {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "缓存模块之并发编程",
+      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
+    },
+    {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
-      "basename": "围城",
-      "path": "Reading Notes/小说/围城.md"
+      "basename": "缓存模块 - 0. 并发编程",
+      "path": "Course/极客时间/Golang 实战训练营/缓存模块 - 0. 并发编程.pdf"
     },
     {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+      "basename": "极客时间学习课程",
+      "path": "Course/极客时间/极客时间学习课程.md"
+    },
+    {
+      "basename": "02 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+    },
+    {
+      "basename": "并发编程",
+      "path": "Coding/Go/并发编程/并发编程.md"
+    },
+    {
+      "basename": "2024-01-27",
+      "path": "Daily/2024-01-27.md"
+    },
+    {
+      "basename": "Golang GC",
+      "path": "Coding/Go/深入理解go/Golang GC.md"
+    },
+    {
+      "basename": "围城",
+      "path": "Reading Notes/小说/围城.md"
     },
     {
       "basename": "Go Map 原理",
@@ -71,10 +99,6 @@
     {
       "basename": "2024-01-25",
       "path": "Daily/2024-01-25.md"
-    },
-    {
-      "basename": "GMP 原理",
-      "path": "Coding/Go/深入理解go/GMP 原理.md"
     },
     {
       "basename": "kafka总结及综合解决问题思路",
@@ -133,10 +157,6 @@
       "path": "Coding/Go/并发编程/CSP 模型.md"
     },
     {
-      "basename": "并发编程",
-      "path": "Coding/Go/并发编程/并发编程.md"
-    },
-    {
       "basename": "高效能人士的7个习惯",
       "path": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "算法题目总结",
       "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "实习/时间安排.md"
-    },
-    {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
-    },
-    {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "2024年1-3月",
-      "path": "Day3/2024年1月/2024年1-3月.md"
     }
   ],
   "omittedPaths": [],

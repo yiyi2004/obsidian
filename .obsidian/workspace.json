@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Coding/Shell/Shell 教程.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5110321044922,
-    "collapsed": true
+    "width": 368.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-27.md"
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
               }
             }
           },
@@ -235,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-27.md",
+                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -314,53 +313,54 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b21fc610c8d39dc4",
+  "active": "0c1cdebfa86c7df0",
   "lastOpenFiles": [
-    "Coding/Go/Go 八股文.md",
-    "Be Yourself/简历/面试Checklist.md",
-    "Daily/2024-01-27.md",
-    "实习/京东日常实习.md",
-    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
-    "Reading Notes/小说/围城.md",
-    "Coding/Go/深入理解go/Golang 熔断限流降级.md",
-    "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127192029.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127191939.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127191616.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127191603.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127190816.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127190753.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127190540.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127182842.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127182303.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste/Pasted image 20240127182301.png",
-    "Course/极客时间/Golang 实战训练营/Snipaste",
-    "Coding/Go/深入理解go/GMP 原理.md",
-    "Course/极客时间/Golang 实战训练营/缓存模块 - 0. 并发编程.pdf",
-    "Course/极客时间/极客时间学习课程.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
-    "Course/极客时间/Golang 实战训练营",
-    "Coding/Go/并发编程/并发编程.md",
-    "Coding/Go/深入理解go/Golang GC.md",
-    "Coding/Go/深入理解go/Go Map 原理.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
-    "Daily/2024-01-21.md",
-    "实习/小米测开.md",
-    "Be Yourself/简历/面试之路/日常实习.md",
-    "Be Yourself/简历/面试题/Redis 面试题.md",
-    "Be Yourself/简历/面试题/Snipaste",
-    "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md",
+    "Coding/Shell/Shell 教程.md",
+    "Coding/Coding index.md",
     "Be Yourself/简历/面试题/Go/Go 面试题.md",
-    "Daily/2024-01-26.md",
-    "Daily/2024-01-22.md",
-    "Daily/2024-01-25.md",
-    "Coding/Go/Book/Go 推荐书籍.md",
-    "Coding/Go/Book/算法-第4版/算法-第4版.pdf",
-    "Coding/Go/Book/编程之美/编程之美.pdf",
-    "Coding/Go/DevOps/DevOps.pdf",
-    "Coding/Go/并发编程/Go语言实战.pdf",
-    "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf",
-    "Reading Notes/小说",
+    "Be Yourself/简历/面试题/Go/Go 编程题目.md",
+    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
+    "Be Yourself/简历/面试题/校招面试/面试扫盲学习/1_消息队列的面试连环炮/README.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md",
+    "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
+    "Be Yourself/简历/面试题/ES/README.md",
+    "Be Yourself/简历/面试题/公众号/046_蘑菇博客Go版部署指南/README.md",
+    "Be Yourself/简历/面试题/公众号/014_陌溪在Github网上冲浪时遇到的问题/README.md",
+    "Be Yourself/简历/面试题/公众号/007_蘑菇博客前端页面引入矢量图标/README.md",
+    "Be Yourself/简历/面试题/公众号/006_年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客/README.md",
+    "Be Yourself/简历/面试题/公众号/006_年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客/images/server.jpg",
+    "Be Yourself/简历/面试题/公众号/002_大型生产事故,开源项目蘑菇博客差点被删库/README.md",
+    "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md",
+    "Be Yourself/简历/面试题/公众号/104_Drone设置管理员账号/images/image-20220912150348347.png",
+    "Be Yourself/简历/面试题/公众号/104_Drone设置管理员账号/images/image-20220912150256102.png",
+    "Be Yourself/简历/面试题/公众号/104_Drone设置管理员账号/README.md",
+    "Be Yourself/简历/面试题/公众号/104_Drone设置管理员账号/images",
+    "Be Yourself/简历/面试题/公众号/104_Drone设置管理员账号",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905125416493.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905093731999.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905093623288.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905093521208.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905093233102.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905093106325.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images/image-20220905093042672.png",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/README.md",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具/images",
+    "Be Yourself/简历/面试题/公众号/103_再见了Jenkins，一款更轻量级的持续集成工具",
+    "Be Yourself/简历/面试题/公众号/099_蘑菇后台打开慢死了。。/README.md",
+    "Be Yourself/简历/面试题/公众号/099_蘑菇后台打开慢死了。。/images",
+    "Be Yourself/简历/面试题/公众号/099_蘑菇后台打开慢死了。。",
+    "Be Yourself/简历/面试题/公众号/098_蘑菇博客流水线/README.md",
+    "Be Yourself/简历/面试题/公众号/098_蘑菇博客流水线/images",
+    "Be Yourself/简历/面试题/公众号/098_蘑菇博客流水线",
+    "Be Yourself/简历/面试题/公众号/097_ElasticSearch原理&最佳实践/README.md",
+    "Be Yourself/简历/面试题/公众号/097_ElasticSearch原理&最佳实践/images",
+    "Be Yourself/简历/面试题/公众号/097_ElasticSearch原理&最佳实践",
+    "Be Yourself/简历/面试题/公众号/096_Typora老版本也强制付费了？/README.md",
+    "Be Yourself/简历/面试题/公众号/095_为什么国内做不出JetBrains那样的产品？/README.md",
+    "Be Yourself/简历/面试题/公众号/078_公众号万粉了/README.md",
+    "Be Yourself/简历/面试题/公众号/075_给蘑菇搭建一套备份/README.md",
+    "Be Yourself/简历/面试题/公众号/066_让电脑没有难装的开发环境/README.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

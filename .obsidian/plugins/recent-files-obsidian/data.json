@@ -1,6 +1,82 @@
 {
   "recentFiles": [
     {
+      "basename": "缓存模块之并发编程",
+      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
+    },
+    {
+      "basename": "Shell 教程",
+      "path": "Coding/Shell/Shell 教程.md"
+    },
+    {
+      "basename": "Coding index",
+      "path": "Coding/Coding index.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
+    },
+    {
+      "basename": "Go 编程题目",
+      "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/面试扫盲学习/1_消息队列的面试连环炮/README.md"
+    },
+    {
+      "basename": "字节面试",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md"
+    },
+    {
+      "basename": "分布式系统的面试连环炮",
+      "path": "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/ES/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/公众号/046_蘑菇博客Go版部署指南/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/公众号/014_陌溪在Github网上冲浪时遇到的问题/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/公众号/007_蘑菇博客前端页面引入矢量图标/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/公众号/006_年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客/README.md"
+    },
+    {
+      "basename": "server",
+      "path": "Be Yourself/简历/面试题/公众号/006_年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客/images/server.jpg"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/公众号/002_大型生产事故,开源项目蘑菇博客差点被删库/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
       "basename": "2024-01-27",
       "path": "Daily/2024-01-27.md"
     },
@@ -17,20 +93,12 @@
       "path": "实习/京东日常实习.md"
     },
     {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
-    },
-    {
       "basename": "围城",
       "path": "Reading Notes/小说/围城.md"
     },
     {
       "basename": "Golang 熔断限流降级",
       "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
-    },
-    {
-      "basename": "缓存模块之并发编程",
-      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
     },
     {
       "basename": "GMP 原理",
@@ -85,10 +153,6 @@
       "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
     },
     {
-      "basename": "Go 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
-    },
-    {
       "basename": "2024-01-26",
       "path": "Daily/2024-01-26.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "awesome go",
       "path": "Coding/Go/awesome go.md"
-    },
-    {
-      "basename": "Go 处理 wav 文件",
-      "path": "Coding/Go/Go 处理 wav 文件.md"
-    },
-    {
-      "basename": "go context",
-      "path": "Coding/Go/go context.md"
-    },
-    {
-      "basename": "Go语言实战",
-      "path": "Coding/Go/并发编程/Go语言实战.pdf"
-    },
-    {
-      "basename": "Go语言从入门到进阶实战",
-      "path": "Coding/Go/并发编程/Go语言从入门到进阶实战.pdf"
-    },
-    {
-      "basename": "CSP 模型",
-      "path": "Coding/Go/并发编程/CSP 模型.md"
-    },
-    {
-      "basename": "高效能人士的7个习惯",
-      "path": "Reading Notes/高效能人士的7个习惯/高效能人士的7个习惯.md"
-    },
-    {
-      "basename": "面试技巧",
-      "path": "Be Yourself/简历/面试技巧.md"
-    },
-    {
-      "basename": "VMware 方案",
-      "path": "毕业设计/VMware vSphere/VMware 方案.md"
-    },
-    {
-      "basename": "第一份寒假实习",
-      "path": "Tasks/实习/第一份寒假实习.md"
-    },
-    {
-      "basename": "面试技能",
-      "path": "Be Yourself/简历/面试技能.md"
-    },
-    {
-      "basename": "功能设计",
-      "path": "Project/知识星球/功能设计.md"
-    },
-    {
-      "basename": "创建自己的八股文库",
-      "path": "Project/知识星球/创建自己的八股文库.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "Go Slice",
-      "path": "Coding/Go/深入理解go/Go Slice.md"
-    },
-    {
-      "basename": "Go IM",
-      "path": "Project/Golang IM/Go IM.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
     }
   ],
   "omittedPaths": [],

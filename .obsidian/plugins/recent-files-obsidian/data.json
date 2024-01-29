@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Go 分布式锁",
-      "path": "Coding/Go/深入理解go/Go 分布式锁.md"
-    },
-    {
-      "basename": "GMP 原理",
-      "path": "Coding/Go/深入理解go/GMP 原理.md"
+      "basename": "2024-01-29",
+      "path": "Daily/2024-01-29.md"
     },
     {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
     },
     {
+      "basename": "Go 分布式锁",
+      "path": "Coding/Go/深入理解go/Go 分布式锁.md"
+    },
+    {
       "basename": "Golang 熔断限流降级",
       "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
+    },
+    {
+      "basename": "日常实习简历优化",
+      "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/面试题/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "京东日常实习",
+      "path": "实习/京东日常实习.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "GMP 原理",
+      "path": "Coding/Go/深入理解go/GMP 原理.md"
     },
     {
       "basename": "面试Checklist",
@@ -23,10 +43,6 @@
     {
       "basename": "围城",
       "path": "Reading Notes/小说/围城.md"
-    },
-    {
-      "basename": "京东日常实习",
-      "path": "实习/京东日常实习.md"
     },
     {
       "basename": "Go Channel",
@@ -47,10 +63,6 @@
     {
       "basename": "README",
       "path": "Be Yourself/简历/面试题/ES/README.md"
-    },
-    {
-      "basename": "2024-01-29",
-      "path": "Daily/2024-01-29.md"
     },
     {
       "basename": "Go 八股文",
@@ -75,10 +87,6 @@
     {
       "basename": "Go 编程题目",
       "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
-    },
-    {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
     },
     {
       "basename": "README",
@@ -191,14 +199,6 @@
     {
       "basename": "Go 推荐书籍",
       "path": "Coding/Go/Book/Go 推荐书籍.md"
-    },
-    {
-      "basename": "解压密码",
-      "path": "Coding/Go/Book/字节常见算法题/解压密码.png"
-    },
-    {
-      "basename": "算法-第4版",
-      "path": "Coding/Go/Book/算法-第4版/算法-第4版.pdf"
     }
   ],
   "omittedPaths": [],

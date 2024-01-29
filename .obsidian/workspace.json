@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-01-29.md"
+                "file": "Algorithm/HOT100/算法题目总结.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-01-29.md",
+                "file": "Algorithm/HOT100/算法题目总结.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,16 +313,18 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ffdaaa8d36f4f3b5",
+  "active": "28190c0395b48bd9",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md",
     "Be Yourself/简历/面试题.md",
+    "Daily/2024-01-29.md",
     "Coding/Go/深入理解go/Go 分布式锁.md",
     "Coding/Go/深入理解go/Golang 熔断限流降级.md",
     "Be Yourself/简历/简历优化/日常实习简历优化.md",
     "Be Yourself/简历/面试题/项目总结/病毒触发软件.md",
     "Be Yourself/简历/简历优化",
     "Be Yourself/简历/面试题/项目总结",
-    "Daily/2024-01-29.md",
     "实习/京东日常实习.md",
     "Be Yourself/简历/面试题/Go/Gin 面试题.md",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",
@@ -343,9 +345,7 @@
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/README.md",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/images",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处",
-    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
     "Be Yourself/简历/面试题/极客时间面试题/Snipaste",
-    "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md",
     "Be Yourself/简历/面试题/ES/README.md",
     "Be Yourself/简历/面试题/极客时间面试题",
     "Coding/Go/Go 八股文.md",

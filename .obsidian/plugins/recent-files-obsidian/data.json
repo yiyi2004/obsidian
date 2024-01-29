@@ -1,6 +1,38 @@
 {
   "recentFiles": [
     {
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "Go 实战训练营(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/ES/README.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "2024-01-29",
+      "path": "Daily/2024-01-29.md"
+    },
+    {
+      "basename": "Go 八股文",
+      "path": "Coding/Go/Go 八股文.md"
+    },
+    {
+      "basename": "京东日常实习",
+      "path": "实习/京东日常实习.md"
+    },
+    {
       "basename": "缓存模块之并发编程",
       "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
     },
@@ -42,10 +74,6 @@
     },
     {
       "basename": "README",
-      "path": "Be Yourself/简历/面试题/ES/README.md"
-    },
-    {
-      "basename": "README",
       "path": "Be Yourself/简历/面试题/公众号/046_蘑菇博客Go版部署指南/README.md"
     },
     {
@@ -73,24 +101,8 @@
       "path": "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md"
     },
     {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
       "basename": "2024-01-27",
       "path": "Daily/2024-01-27.md"
-    },
-    {
-      "basename": "Go 八股文",
-      "path": "Coding/Go/Go 八股文.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "京东日常实习",
-      "path": "实习/京东日常实习.md"
     },
     {
       "basename": "围城",
@@ -187,18 +199,6 @@
     {
       "basename": "MySQL 读写分离",
       "path": "Coding/Go/Database/MySQL/MySQL 运维/MySQL 读写分离.md"
-    },
-    {
-      "basename": "Go 连接 MySQL",
-      "path": "Coding/Go/Database/MySQL/Go 连接 MySQL.md"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Coding/Go/DevOps/DevOps.pdf"
-    },
-    {
-      "basename": "awesome go",
-      "path": "Coding/Go/awesome go.md"
     }
   ],
   "omittedPaths": [],

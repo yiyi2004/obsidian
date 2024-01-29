@@ -23,6 +23,19 @@
             }
           },
           {
+            "id": "24599dae74176fe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3a9ca6c786f2944d",
             "type": "leaf",
             "state": {
@@ -99,22 +112,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "bbf1f7ac071f8f18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/Go 八股文.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
+                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
+                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,23 +313,34 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0c1cdebfa86c7df0",
+  "active": "24599dae74176fe1",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/images/image-20200418091447935.png",
-    "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/images/image-20200418083435048.png",
-    "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/images/image-20200418080900190.png",
-    "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/images/005F78AC.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113311.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113257.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113245.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113230.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113155.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113112.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113059.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129113041.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129112916.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129112853.png",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste/Pasted image 20240129112631.png",
+    "Be Yourself/简历/面试Checklist.md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+    "Be Yourself/简历/面试题/极客时间面试题/Snipaste",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md",
+    "Be Yourself/简历/面试题/ES/README.md",
+    "Be Yourself/简历/面试题/极客时间面试题",
+    "Be Yourself/简历/面试题.md",
+    "Daily/2024-01-29.md",
+    "Coding/Go/Go 八股文.md",
+    "实习/京东日常实习.md",
+    "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/README.md",
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/images",
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成",
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/images/image-20200723110258929.png",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/images/image-20200723105915972.png",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/images/image-20200404161422032.png",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/images/image-20200429101023902.png",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/images/image-20200404155456211.png",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/images/image-20200404152149658.png",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/images/image-20200404151334993.png",
     "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/README.md",
     "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/images",
     "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/README.md",
@@ -340,8 +351,6 @@
     "Be Yourself/简历/面试题/校招面试/基础面试题/2_代码块/README.md",
     "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理",
     "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/1_equals和等等的区别",
     "Be Yourself/简历/面试题/校招面试/Spring源码解析/README.md",
     "Be Yourself/简历/面试题/校招面试/NIO/NIO的使用案例/README.md",
     "Be Yourself/简历/面试题/校招面试/NIO/NIO是什么/README.md",
@@ -352,15 +361,6 @@
     "Be Yourself/简历/面试题/校招面试/JUC/6_Java的锁/Java锁之可重入锁和递归锁/README.md",
     "Be Yourself/简历/面试题/校招面试/JUC/6_Java的锁/Java锁之公平锁和非公平锁/README.md",
     "Be Yourself/简历/面试题/公众号/073_字节跳动春季招聘来啦~/README.md",
-    "Coding/Shell/Shell 教程.md",
-    "Coding/Coding index.md",
-    "Be Yourself/简历/面试题/Go/Go 面试题.md",
-    "Be Yourself/简历/面试题/Go/Go 编程题目.md",
-    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
-    "Be Yourself/简历/面试题/校招面试/面试扫盲学习/1_消息队列的面试连环炮/README.md",
-    "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md",
-    "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md",
-    "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

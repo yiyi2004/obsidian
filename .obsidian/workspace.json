@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/深入理解go/Go Map 原理.md",
+                "file": "Daily/2024-02-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历优化/日常实习简历优化.md",
+                "file": "Daily/2024-02-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -139,7 +139,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md",
+                "file": "Daily/2024-02-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -241,7 +242,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md"
+                "file": "Daily/2024-02-01.md"
               }
             }
           },
@@ -259,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md",
+                "file": "Daily/2024-02-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -284,7 +285,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试Checklist.md",
+                "file": "Daily/2024-02-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -338,16 +339,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "2fb8472189f15d64",
+  "active": "3b23a9247bd50d4c",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试题/项目总结/病毒触发软件.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Coding/Go/深入理解go/Golang 熔断限流降级.md",
+    "Daily/2024-02-01.md",
     "Be Yourself/简历/简历优化/日常实习简历优化.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Be Yourself/简历/面试题/项目总结/病毒触发软件.md",
     "Be Yourself/简历/面试题/Go/Gin 面试题.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Coding/Go/深入理解go/Go 分布式锁.md",
-    "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面试题/基础知识/计算机网络.md",
     "Be Yourself/简历/面试题/基础知识",
     "Algorithm/HOT100/算法题目总结.md",
@@ -385,7 +387,6 @@
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成",
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季",
     "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/README.md",
-    "Be Yourself/简历/面试题/校招面试/基础面试题/4_MySQL的存储引擎/README.md",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

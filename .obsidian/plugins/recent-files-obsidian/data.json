@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "病毒触发软件",
-      "path": "Be Yourself/简历/面试题/项目总结/病毒触发软件.md"
+      "basename": "2024-02-01",
+      "path": "Daily/2024-02-01.md"
     },
     {
       "basename": "Go Map 原理",
@@ -19,6 +15,14 @@
     {
       "basename": "日常实习简历优化",
       "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/面试题/项目总结/病毒触发软件.md"
     },
     {
       "basename": "Gin 面试题",
@@ -195,10 +199,6 @@
     {
       "basename": "8. Redis面试题",
       "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
-    },
-    {
-      "basename": "2024-01-26",
-      "path": "Daily/2024-01-26.md"
     }
   ],
   "omittedPaths": [],

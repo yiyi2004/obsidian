@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-03",
+      "path": "Daily/2024-02-03.md"
+    },
+    {
       "basename": "2024-02-01",
       "path": "Daily/2024-02-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Redis 面试题",
       "path": "Be Yourself/简历/面试题/Redis 面试题.md"
-    },
-    {
-      "basename": "8. Redis面试题",
-      "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
     }
   ],
   "omittedPaths": [],

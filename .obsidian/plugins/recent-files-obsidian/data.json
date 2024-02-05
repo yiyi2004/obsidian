@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-03",
-      "path": "Daily/2024-02-03.md"
-    },
-    {
       "basename": "2024-02-01",
       "path": "Daily/2024-02-01.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "缓存模块之并发编程",
+      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
+    },
+    {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
+      "basename": "Go 分布式锁",
+      "path": "Coding/Go/深入理解go/Go 分布式锁.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "业务代码",
+      "path": "代码模板/业务代码.md"
+    },
+    {
+      "basename": "2024-02-05",
+      "path": "Daily/2024-02-05.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/面试题/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "2024-02-03",
+      "path": "Daily/2024-02-03.md"
     },
     {
       "basename": "Go Map 原理",
@@ -21,36 +57,8 @@
       "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
     },
     {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "病毒触发软件",
-      "path": "Be Yourself/简历/面试题/项目总结/病毒触发软件.md"
-    },
-    {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
-      "basename": "Go 分布式锁",
-      "path": "Coding/Go/深入理解go/Go 分布式锁.md"
-    },
-    {
       "basename": "计算机网络",
       "path": "Be Yourself/简历/面试题/基础知识/计算机网络.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
-      "basename": "缓存模块之并发编程",
-      "path": "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md"
     },
     {
       "basename": "Go Channel",
@@ -191,14 +199,6 @@
     {
       "basename": "小米测开",
       "path": "实习/小米测开.md"
-    },
-    {
-      "basename": "日常实习",
-      "path": "Be Yourself/简历/面试之路/日常实习.md"
-    },
-    {
-      "basename": "Redis 面试题",
-      "path": "Be Yourself/简历/面试题/Redis 面试题.md"
     }
   ],
   "omittedPaths": [],

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "Golang 熔断限流降级",
+      "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
+    },
+    {
+      "basename": "Linux 八股文",
+      "path": "Be Yourself/简历/面试题/基础知识/Linux 八股文.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
       "basename": "2024-02-01",
       "path": "Daily/2024-02-01.md"
     },
@@ -21,20 +41,12 @@
       "path": "Coding/Go/深入理解go/Go 分布式锁.md"
     },
     {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
       "basename": "业务代码",
       "path": "代码模板/业务代码.md"
     },
     {
       "basename": "2024-02-05",
       "path": "Daily/2024-02-05.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "病毒触发软件",
@@ -47,10 +59,6 @@
     {
       "basename": "Go Map 原理",
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
-    },
-    {
-      "basename": "Golang 熔断限流降级",
-      "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
     },
     {
       "basename": "日常实习简历优化",
@@ -79,10 +87,6 @@
     {
       "basename": "Go 实战训练营(面试题)",
       "path": "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
     },
     {
       "basename": "京东日常实习",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-21",
       "path": "Daily/2024-01-21.md"
-    },
-    {
-      "basename": "小米测开",
-      "path": "实习/小米测开.md"
     }
   ],
   "omittedPaths": [],

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "2024-02-05",
       "path": "Daily/2024-02-05.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
       "basename": "Golang 熔断限流降级",

@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Be Yourself/其它/拜年吉祥话.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Be Yourself/其它/拜年吉祥话.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,8 +148,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.51103591918945,
-    "collapsed": true
+    "width": 368.51103591918945
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Be Yourself/其它/拜年吉祥话.md"
               }
             }
           },
@@ -183,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Be Yourself/其它/拜年吉祥话.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -208,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Be Yourself/其它/拜年吉祥话.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,9 +263,11 @@
   },
   "active": "92a7be05a1371758",
   "lastOpenFiles": [
+    "Algorithm/HOT100/算法题目总结.md",
+    "Be Yourself/其它/拜年吉祥话.md",
+    "Be Yourself/其它",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Daily/2024-02-05.md",
-    "Algorithm/HOT100/算法题目总结.md",
     "Coding/Go/深入理解go/Golang 熔断限流降级.md",
     "Be Yourself/简历/面试题/基础知识/Linux 八股文.md",
     "Be Yourself/简历/面试Checklist.md",
@@ -305,11 +306,9 @@
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129151050.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129145202.png",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/images/image-20200317105121435.png",
-    "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/README.md",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/images",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处",
     "Be Yourself/简历/面试题/极客时间面试题/Snipaste",
-    "Be Yourself/简历/面试题/极客时间面试题",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

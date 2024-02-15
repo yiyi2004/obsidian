@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "易经",
+      "path": "Reading Notes/中国经典/易经.md"
+    },
+    {
+      "basename": "围城",
+      "path": "Reading Notes/小说/围城.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
       "basename": "拜年吉祥话",
       "path": "Be Yourself/其它/拜年吉祥话.md"
+    },
+    {
+      "basename": "Linux 八股文",
+      "path": "Be Yourself/简历/面试题/基础知识/Linux 八股文.md"
+    },
+    {
+      "basename": "Golang 熔断限流降级",
+      "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
     },
     {
       "basename": "算法题目总结",
@@ -15,18 +39,6 @@
     {
       "basename": "2024-02-05",
       "path": "Daily/2024-02-05.md"
-    },
-    {
-      "basename": "Golang 熔断限流降级",
-      "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
-    },
-    {
-      "basename": "Linux 八股文",
-      "path": "Be Yourself/简历/面试题/基础知识/Linux 八股文.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "面试题",
@@ -99,10 +111,6 @@
     {
       "basename": "GMP 原理",
       "path": "Coding/Go/深入理解go/GMP 原理.md"
-    },
-    {
-      "basename": "围城",
-      "path": "Reading Notes/小说/围城.md"
     },
     {
       "basename": "README",
@@ -191,14 +199,6 @@
     {
       "basename": "并发编程",
       "path": "Coding/Go/并发编程/并发编程.md"
-    },
-    {
-      "basename": "Golang GC",
-      "path": "Coding/Go/深入理解go/Golang GC.md"
-    },
-    {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     }
   ],
   "omittedPaths": [],

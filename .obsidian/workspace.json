@@ -135,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.51103591918945
+    "width": 287.5110321044922
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -224,7 +224,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,7 +248,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "697acbfa6887713c",
+  "active": "58d524110bb39f6e",
   "lastOpenFiles": [
     "Reading Notes/中国经典/易经.md",
     "0. 周期性规划.md",

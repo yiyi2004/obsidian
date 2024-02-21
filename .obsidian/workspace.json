@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,8 +250,8 @@
   },
   "active": "58d524110bb39f6e",
   "lastOpenFiles": [
-    "Reading Notes/中国经典/易经.md",
     "0. 周期性规划.md",
+    "Reading Notes/中国经典/易经.md",
     "Reading Notes/小说/围城.md",
     "Reading Notes/中国经典",
     "Be Yourself/简历/面试Checklist.md",

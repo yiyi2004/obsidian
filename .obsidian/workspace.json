@@ -23,12 +23,12 @@
             }
           },
           {
-            "id": "43b3396c086cb19a",
+            "id": "d601580771af7169",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reading Notes/中国经典/易经.md",
+                "file": "0. 周期性规划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -36,7 +36,7 @@
             }
           },
           {
-            "id": "58d524110bb39f6e",
+            "id": "a449a4caa9da3fb6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -248,19 +248,20 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "58d524110bb39f6e",
+  "active": "a449a4caa9da3fb6",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试Checklist.md",
     "0. 周期性规划.md",
+    "202312051508.md",
     "Reading Notes/中国经典/易经.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Reading Notes/小说/围城.md",
     "Reading Notes/中国经典",
-    "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/其它/拜年吉祥话.md",
     "Be Yourself/简历/面试题/基础知识/Linux 八股文.md",
     "Coding/Go/深入理解go/Golang 熔断限流降级.md",
     "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/其它",
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Daily/2024-02-05.md",
     "Be Yourself/简历/面试题.md",
     "Be Yourself/简历/面试题/未命名",
@@ -281,7 +282,6 @@
     "Daily/2024-01-30.md",
     "Daily/2024-01-29.md",
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
-    "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md",
     "Be Yourself/简历/简历优化",
     "Be Yourself/简历/面试题/项目总结",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",

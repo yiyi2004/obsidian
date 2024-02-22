@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-22",
+      "path": "Daily/2024-02-22.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
     },
     {
       "basename": "202312051508",
@@ -195,10 +199,6 @@
     {
       "basename": "极客时间学习课程",
       "path": "Course/极客时间/极客时间学习课程.md"
-    },
-    {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
     }
   ],
   "omittedPaths": [],

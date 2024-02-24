@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-23",
+      "path": "Daily/2024-02-23.md"
+    },
+    {
       "basename": "2024-02-22",
       "path": "Daily/2024-02-22.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "缓存模块 - 0. 并发编程",
       "path": "Course/极客时间/Golang 实战训练营/缓存模块 - 0. 并发编程.pdf"
-    },
-    {
-      "basename": "极客时间学习课程",
-      "path": "Course/极客时间/极客时间学习课程.md"
     }
   ],
   "omittedPaths": [],

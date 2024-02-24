@@ -28,10 +28,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2024-02-22.md",
+                "file": "Daily/2024-02-23.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "55be5cafc2a4a080",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.8"
               }
             }
           },
@@ -49,7 +59,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-22.md",
+                "file": "Daily/2024-02-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-22.md"
+                "file": "Daily/2024-02-23.md"
               }
             }
           },
@@ -169,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-22.md",
+                "file": "Daily/2024-02-23.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-22.md",
+                "file": "Daily/2024-02-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,10 +258,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d601580771af7169",
+  "active": "55be5cafc2a4a080",
   "lastOpenFiles": [
-    "0. 周期性规划.md",
     "Daily/2024-02-22.md",
+    "Daily/2024-02-23.md",
+    "0. 周期性规划.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Be Yourself/简历/面试Checklist.md",
     "202312051508.md",
@@ -281,7 +292,6 @@
     "Be Yourself/简历/面试题/基础知识",
     "Coding/Go/深入理解go/Go Channel.md",
     "Daily/2024-01-30.md",
-    "Daily/2024-01-29.md",
     "Be Yourself/简历/简历优化",
     "Be Yourself/简历/面试题/项目总结",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",

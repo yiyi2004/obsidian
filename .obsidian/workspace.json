@@ -36,16 +36,6 @@
             }
           },
           {
-            "id": "55be5cafc2a4a080",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
-          },
-          {
             "id": "a449a4caa9da3fb6",
             "type": "leaf",
             "state": {
@@ -59,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,12 +248,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "55be5cafc2a4a080",
+  "active": "d601580771af7169",
   "lastOpenFiles": [
-    "Daily/2024-02-22.md",
-    "Daily/2024-02-23.md",
-    "0. 周期性规划.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Daily/2024-02-23.md",
+    "Daily/2024-02-22.md",
+    "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
     "202312051508.md",
     "Reading Notes/中国经典/易经.md",

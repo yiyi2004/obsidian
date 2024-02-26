@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-02-23",
-      "path": "Daily/2024-02-23.md"
+      "basename": "2024-02-26",
+      "path": "Daily/2024-02-26.md"
     },
     {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
-      "basename": "2024-02-22",
-      "path": "Daily/2024-02-22.md"
     },
     {
       "basename": "0. 周期性规划",
@@ -19,6 +15,14 @@
     {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "2024-02-23",
+      "path": "Daily/2024-02-23.md"
+    },
+    {
+      "basename": "2024-02-22",
+      "path": "Daily/2024-02-22.md"
     },
     {
       "basename": "202312051508",
@@ -195,10 +199,6 @@
     {
       "basename": "2024-01-27",
       "path": "Daily/2024-01-27.md"
-    },
-    {
-      "basename": "缓存模块 - 0. 并发编程",
-      "path": "Course/极客时间/Golang 实战训练营/缓存模块 - 0. 并发编程.pdf"
     }
   ],
   "omittedPaths": [],

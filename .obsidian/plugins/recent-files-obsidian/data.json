@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "RZ后端设计",
+      "path": "毕业设计/RZ后端设计.md"
+    },
+    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "场景构建",
+      "path": "Cyber Security/认知偏执脆弱性/场景构建.md"
     },
     {
       "basename": "2024-02-26",
@@ -191,14 +199,6 @@
     {
       "basename": "README",
       "path": "Be Yourself/简历/面试题/公众号/002_大型生产事故,开源项目蘑菇博客差点被删库/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md"
-    },
-    {
-      "basename": "2024-01-27",
-      "path": "Daily/2024-01-27.md"
     }
   ],
   "omittedPaths": [],

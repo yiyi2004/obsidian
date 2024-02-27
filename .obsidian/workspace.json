@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -42,6 +42,19 @@
               "type": "markdown",
               "state": {
                 "file": "Daily/2024-02-26.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5f1fa6cce2db7296",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期性规划.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "毕业设计/RZ后端设计.md"
               }
             }
           },
@@ -169,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "毕业设计/RZ后端设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,9 +263,12 @@
   },
   "active": "d601580771af7169",
   "lastOpenFiles": [
+    "0. 周期性规划.md",
+    "毕业设计/RZ后端设计.md",
+    "Cyber Security/认知偏执脆弱性/场景构建.md",
+    "Project/RZPZ",
     "Daily/2024-02-26.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
     "Daily/2024-02-23.md",
     "Daily/2024-02-22.md",
@@ -279,9 +295,7 @@
     "Daily/2024-02-03.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/简历优化/日常实习简历优化.md",
-    "Be Yourself/简历/面试题/基础知识/计算机网络.md",
     "Be Yourself/简历/面试题/基础知识",
-    "Coding/Go/深入理解go/Go Channel.md",
     "Be Yourself/简历/简历优化",
     "Be Yourself/简历/面试题/项目总结",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",
@@ -295,7 +309,6 @@
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129145202.png",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/images/image-20200317105121435.png",
     "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/images",
-    "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

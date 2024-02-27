@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-26.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2024-02-26.md"
+                "file": "0. 周期性规划.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2024-02-26.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2024-02-26.md",
+                "file": "0. 周期性规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,12 +248,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a449a4caa9da3fb6",
+  "active": "d601580771af7169",
   "lastOpenFiles": [
+    "Daily/2024-02-26.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
-    "Daily/2024-02-26.md",
     "Daily/2024-02-23.md",
     "Daily/2024-02-22.md",
     "202312051508.md",

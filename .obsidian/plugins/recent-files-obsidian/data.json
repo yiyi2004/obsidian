@@ -1,16 +1,76 @@
 {
   "recentFiles": [
     {
+      "basename": "1.2 本课程模块架构介绍",
+      "path": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "11.1 网络监控工具调研和xprober架构分析",
+      "path": "Course/运维平台开发/第11章文档/11.1 网络监控工具调研和xprober架构分析.md"
+    },
+    {
+      "basename": "10.1 架构分析和表设计",
+      "path": "Course/运维平台开发/第10章文档/10.1 架构分析和表设计.md"
+    },
+    {
+      "basename": "9.1 日志任务增量更新管理器和具体的日志job对象",
+      "path": "Course/运维平台开发/第9章文档/9.1 日志任务增量更新管理器和具体的日志job对象.md"
+    },
+    {
+      "basename": "8.3 准备工作，编写配置文件，解析配置，校验正则，设置log",
+      "path": "Course/运维平台开发/第8章文档/8.3 准备工作，编写配置文件，解析配置，校验正则，设置log.md"
+    },
+    {
+      "basename": "6.1 倒排索引原理讲解",
+      "path": "Course/运维平台开发/第6章文档/6.1 倒排索引原理讲解.md"
+    },
+    {
+      "basename": "5.1 同步模块主逻辑",
+      "path": "Course/运维平台开发/第5章文档/5.1 同步模块主逻辑.md"
+    },
+    {
+      "basename": "4.2 设计资源挂载到树的逻辑",
+      "path": "Course/运维平台开发/第4章文档/4.2 设计资源挂载到树的逻辑.md"
+    },
+    {
+      "basename": "3.1 go编排之oklog-run",
+      "path": "Course/运维平台开发/第3章文档/3.1 go编排之oklog-run.md"
+    },
+    {
+      "basename": "2.4 查询需求分析和分类实现",
+      "path": "Course/运维平台开发/第2章文档/2.4 查询需求分析和分类实现.md"
+    },
+    {
+      "basename": "2.3 服务树服务标识path表设计",
+      "path": "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md"
+    },
+    {
+      "basename": "2.2 master基础代码之命令行参数和配置文件",
+      "path": "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md"
+    },
+    {
+      "basename": "2.1 服务树项目组织目录和整体架构说明",
+      "path": "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md"
+    },
+    {
       "basename": "RZ后端设计",
       "path": "毕业设计/RZ后端设计.md"
     },
     {
-      "basename": "2024-02-26",
-      "path": "Daily/2024-02-26.md"
-    },
-    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "1.1 运维开发系统分类和运维平台编写过程介绍",
+      "path": "Course/运维平台开发/第1章文档/1.1 运维开发系统分类和运维平台编写过程介绍.md"
+    },
+    {
+      "basename": "2024-02-26",
+      "path": "Daily/2024-02-26.md"
     },
     {
       "basename": "场景构建",
@@ -19,10 +79,6 @@
     {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "2024-02-23",
@@ -143,62 +199,6 @@
     {
       "basename": "Go 八股文",
       "path": "Coding/Go/Go 八股文.md"
-    },
-    {
-      "basename": "Shell 教程",
-      "path": "Coding/Shell/Shell 教程.md"
-    },
-    {
-      "basename": "Coding index",
-      "path": "Coding/Coding index.md"
-    },
-    {
-      "basename": "Go 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
-    },
-    {
-      "basename": "Go 编程题目",
-      "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/面试扫盲学习/1_消息队列的面试连环炮/README.md"
-    },
-    {
-      "basename": "字节面试",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md"
-    },
-    {
-      "basename": "分布式系统的面试连环炮",
-      "path": "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/046_蘑菇博客Go版部署指南/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/014_陌溪在Github网上冲浪时遇到的问题/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/007_蘑菇博客前端页面引入矢量图标/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/006_年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客/README.md"
-    },
-    {
-      "basename": "server",
-      "path": "Be Yourself/简历/面试题/公众号/006_年轻人不讲码德,竟然用1核2G服务器来部署蘑菇博客/images/server.jpg"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/002_大型生产事故,开源项目蘑菇博客差点被删库/README.md"
     }
   ],
   "omittedPaths": [],

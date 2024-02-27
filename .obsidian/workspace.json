@@ -23,38 +23,12 @@
             }
           },
           {
-            "id": "d601580771af7169",
+            "id": "78e5ca6caaa27978",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a449a4caa9da3fb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2024-02-26.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f1fa6cce2db7296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
+                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "毕业设计/RZ后端设计.md"
+                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
               }
             }
           },
@@ -182,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
+                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "毕业设计/RZ后端设计.md",
+                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,15 +235,29 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d601580771af7169",
+  "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
-    "Daily/2024-02-26.md",
-    "0. 周期性规划.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Course/运维平台开发/第11章文档/11.1 网络监控工具调研和xprober架构分析.md",
+    "Course/运维平台开发/第10章文档/10.1 架构分析和表设计.md",
+    "Course/运维平台开发/第9章文档/9.1 日志任务增量更新管理器和具体的日志job对象.md",
+    "Course/运维平台开发/第8章文档/8.3 准备工作，编写配置文件，解析配置，校验正则，设置log.md",
+    "Course/运维平台开发/第6章文档/6.1 倒排索引原理讲解.md",
+    "Course/运维平台开发/第5章文档/5.1 同步模块主逻辑.md",
+    "Course/运维平台开发/第4章文档/4.2 设计资源挂载到树的逻辑.md",
+    "Course/运维平台开发/第3章文档/3.1 go编排之oklog-run.md",
+    "Course/运维平台开发/第2章文档/2.4 查询需求分析和分类实现.md",
+    "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md",
+    "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md",
+    "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md",
     "毕业设计/RZ后端设计.md",
+    "0. 周期性规划.md",
+    "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
+    "Course/运维平台开发/第1章文档/1.1 运维开发系统分类和运维平台编写过程介绍.md",
+    "Daily/2024-02-26.md",
     "Cyber Security/认知偏执脆弱性/场景构建.md",
     "Project/RZPZ",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "Be Yourself/简历/面试Checklist.md",
     "Daily/2024-02-23.md",
     "Daily/2024-02-22.md",
     "202312051508.md",
@@ -277,24 +265,10 @@
     "Reading Notes/小说/围城.md",
     "Reading Notes/中国经典",
     "Be Yourself/其它/拜年吉祥话.md",
-    "Be Yourself/简历/面试题/基础知识/Linux 八股文.md",
-    "Coding/Go/深入理解go/Golang 熔断限流降级.md",
-    "Algorithm/HOT100/算法题目总结.md",
     "Be Yourself/其它",
-    "Daily/2024-02-05.md",
-    "Be Yourself/简历/面试题.md",
     "Be Yourself/简历/面试题/未命名",
-    "Daily/2024-02-01.md",
-    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
-    "Course/极客时间/Golang 实战训练营/缓存模块之并发编程.md",
-    "Coding/Go/深入理解go/Go 分布式锁.md",
-    "代码模板/业务代码.md",
     "未命名 1",
     "代码模板",
-    "Be Yourself/简历/面试题/项目总结/病毒触发软件.md",
-    "Daily/2024-02-03.md",
-    "Coding/Go/深入理解go/Go Map 原理.md",
-    "Be Yourself/简历/简历优化/日常实习简历优化.md",
     "Be Yourself/简历/面试题/基础知识",
     "Be Yourself/简历/简历优化",
     "Be Yourself/简历/面试题/项目总结",

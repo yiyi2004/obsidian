@@ -1,7 +1,7 @@
 {
-  "theme": "obsidian",
+  "theme": "moonstone",
   "baseFontSize": 16,
-  "cssTheme": "Dracula for Obsidian",
+  "cssTheme": "Spectrum",
   "translucency": true,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "Inter",

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
+                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
+                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md"
+                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
+                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
+                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,9 +237,13 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试Checklist.md",
+    "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
+    "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
+    "Course/运维平台开发/源码阅读",
+    "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
     "Course/运维平台开发/第11章文档/11.2 客户端逻辑之执行探测并上报结果.md",
     "Course/运维平台开发/第11章文档/11.1 网络监控工具调研和xprober架构分析.md",
-    "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
     "Course/运维平台开发/第11章文档/11.4 编译运行测试.md",
     "Course/运维平台开发/第10章文档/10.4 编译运行测试.md",
     "Course/运维平台开发/第10章文档/10.3 客户端逻辑agent接受任务执行并上报结果.md",
@@ -260,9 +264,6 @@
     "Course/运维平台开发/第5章文档/5.1 同步模块主逻辑.md",
     "Course/运维平台开发/第4章文档/4.2 设计资源挂载到树的逻辑.md",
     "Course/运维平台开发/第4章文档/4.1 node_path操作的函数添加gin的支持.md",
-    "Course/运维平台开发/第3章文档/3.4 设计机器表并接收rpc数据写入.md",
-    "Course/运维平台开发/第3章文档/3.3 agent采集信息模块并rpc推送给server.md",
-    "Course/运维平台开发/第3章文档/3.2 agent和server之间的json-rpc通信.md",
     "Course/运维平台开发/第11章文档/第11章文档",
     "Project/RZPZ",
     "Reading Notes/中国经典",
@@ -272,7 +273,6 @@
     "代码模板",
     "Be Yourself/简历/面试题/基础知识",
     "Be Yourself/简历/简历优化",
-    "Be Yourself/简历/面试题/项目总结",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129163207.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129161532.png",

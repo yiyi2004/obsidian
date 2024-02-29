@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiCoursera",
       "FasPrescriptionBottleMedical",
       "SiInformatica",
       "FasCloud",
-      "SiCommonworkflowlanguage",
-      "FasPersonRunning"
+      "SiCommonworkflowlanguage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,6 @@
   "Cyber Security": "SiSecurityscorecard",
   "Challenge": "FasPersonRunning",
   "Cloud Native": "FasCloud",
-  "Cocinfo": "SiInformatica"
+  "Cocinfo": "SiInformatica",
+  "Course": "SiCoursera"
 }

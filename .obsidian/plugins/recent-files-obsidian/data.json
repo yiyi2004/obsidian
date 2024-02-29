@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "运维项目源码阅读",
+      "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "1.2 本课程模块架构介绍",
+      "path": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
+    },
+    {
+      "basename": "2.1 服务树项目组织目录和整体架构说明",
+      "path": "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md"
+    },
+    {
       "basename": "11.3 服务端生成探测池、聚合探测结果",
       "path": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md"
     },
@@ -113,16 +129,8 @@
       "path": "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md"
     },
     {
-      "basename": "2.1 服务树项目组织目录和整体架构说明",
-      "path": "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md"
-    },
-    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "2024-02-27",
@@ -135,10 +143,6 @@
     {
       "basename": "2.3 服务树服务标识path表设计",
       "path": "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md"
-    },
-    {
-      "basename": "1.2 本课程模块架构介绍",
-      "path": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
     },
     {
       "basename": "2.4 查询需求分析和分类实现",
@@ -195,10 +199,6 @@
     {
       "basename": "算法题目总结",
       "path": "Algorithm/HOT100/算法题目总结.md"
-    },
-    {
-      "basename": "2024-02-05",
-      "path": "Daily/2024-02-05.md"
     }
   ],
   "omittedPaths": [],

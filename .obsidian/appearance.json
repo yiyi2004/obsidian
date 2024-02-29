@@ -1,12 +1,12 @@
 {
   "theme": "moonstone",
-  "baseFontSize": 16,
+  "baseFontSize": 19,
   "cssTheme": "Spectrum",
   "translucency": true,
   "baseFontSizeAction": true,
-  "interfaceFontFamily": "Inter",
-  "accentColor": "#356ef3",
-  "textFontFamily": "Ink Free",
+  "interfaceFontFamily": "微软雅黑",
+  "accentColor": "",
+  "textFontFamily": "微软雅黑",
   "showViewHeader": true,
   "nativeMenus": false
 }

@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-02-27",
+      "path": "Daily/2024-02-27.md"
+    },
+    {
+      "basename": "2024-02-26",
+      "path": "Daily/2024-02-26.md"
+    },
+    {
+      "basename": "2.3 服务树服务标识path表设计",
+      "path": "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md"
+    },
+    {
+      "basename": "2.2 master基础代码之命令行参数和配置文件",
+      "path": "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md"
+    },
+    {
       "basename": "1.2 本课程模块架构介绍",
       "path": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
     },
@@ -45,14 +61,6 @@
       "path": "Course/运维平台开发/第2章文档/2.4 查询需求分析和分类实现.md"
     },
     {
-      "basename": "2.3 服务树服务标识path表设计",
-      "path": "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md"
-    },
-    {
-      "basename": "2.2 master基础代码之命令行参数和配置文件",
-      "path": "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md"
-    },
-    {
       "basename": "2.1 服务树项目组织目录和整体架构说明",
       "path": "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "1.1 运维开发系统分类和运维平台编写过程介绍",
       "path": "Course/运维平台开发/第1章文档/1.1 运维开发系统分类和运维平台编写过程介绍.md"
-    },
-    {
-      "basename": "2024-02-26",
-      "path": "Daily/2024-02-26.md"
     },
     {
       "basename": "场景构建",
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "Be Yourself/简历/面试题/ES/README.md"
-    },
-    {
-      "basename": "Go 八股文",
-      "path": "Coding/Go/Go 八股文.md"
     }
   ],
   "omittedPaths": [],

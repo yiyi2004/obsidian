@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
+                "file": "Daily/2024-02-27.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
+                "file": "Daily/2024-02-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
+                "file": "Daily/2024-02-27.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
+                "file": "Daily/2024-02-27.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
+                "file": "Daily/2024-02-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,6 +237,12 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/运维平台开发/第11章文档/第11章文档",
+    "Daily/2024-02-26.md",
+    "Daily/2024-02-27.md",
+    "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md",
+    "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md",
+    "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
     "Be Yourself/简历/面试Checklist.md",
     "Course/运维平台开发/第11章文档/11.1 网络监控工具调研和xprober架构分析.md",
     "Course/运维平台开发/第10章文档/10.1 架构分析和表设计.md",
@@ -247,14 +253,10 @@
     "Course/运维平台开发/第4章文档/4.2 设计资源挂载到树的逻辑.md",
     "Course/运维平台开发/第3章文档/3.1 go编排之oklog-run.md",
     "Course/运维平台开发/第2章文档/2.4 查询需求分析和分类实现.md",
-    "Course/运维平台开发/第2章文档/2.3 服务树服务标识path表设计.md",
-    "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md",
     "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md",
     "毕业设计/RZ后端设计.md",
     "0. 周期性规划.md",
-    "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
     "Course/运维平台开发/第1章文档/1.1 运维开发系统分类和运维平台编写过程介绍.md",
-    "Daily/2024-02-26.md",
     "Cyber Security/认知偏执脆弱性/场景构建.md",
     "Project/RZPZ",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
@@ -262,9 +264,7 @@
     "Daily/2024-02-22.md",
     "202312051508.md",
     "Reading Notes/中国经典/易经.md",
-    "Reading Notes/小说/围城.md",
     "Reading Notes/中国经典",
-    "Be Yourself/其它/拜年吉祥话.md",
     "Be Yourself/其它",
     "Be Yourself/简历/面试题/未命名",
     "未命名 1",

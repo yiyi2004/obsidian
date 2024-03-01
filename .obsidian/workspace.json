@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
+                "file": "Daily/2024-03-01.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
+                "file": "Daily/2024-03-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
+                "file": "Daily/2024-03-01.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
+                "file": "Daily/2024-03-01.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
+                "file": "Daily/2024-03-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +237,10 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试Checklist.md",
+    "Daily/2024-02-27.md",
+    "Daily/2024-03-01.md",
     "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
+    "Be Yourself/简历/面试Checklist.md",
     "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
     "Course/运维平台开发/源码阅读",
     "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
@@ -262,8 +264,6 @@
     "Course/运维平台开发/第6章文档/6.2 写倒排索引interface.md",
     "Course/运维平台开发/第6章文档/6.1 倒排索引原理讲解.md",
     "Course/运维平台开发/第5章文档/5.1 同步模块主逻辑.md",
-    "Course/运维平台开发/第4章文档/4.2 设计资源挂载到树的逻辑.md",
-    "Course/运维平台开发/第4章文档/4.1 node_path操作的函数添加gin的支持.md",
     "Course/运维平台开发/第11章文档/第11章文档",
     "Project/RZPZ",
     "Reading Notes/中国经典",

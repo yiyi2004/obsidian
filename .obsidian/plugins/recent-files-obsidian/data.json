@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2024-03-01",
+      "path": "Daily/2024-03-01.md"
+    },
+    {
+      "basename": "2024-02-27",
+      "path": "Daily/2024-02-27.md"
+    },
+    {
       "basename": "运维项目源码阅读",
       "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
     },
@@ -133,10 +141,6 @@
       "path": "0. 周期性规划.md"
     },
     {
-      "basename": "2024-02-27",
-      "path": "Daily/2024-02-27.md"
-    },
-    {
       "basename": "2024-02-26",
       "path": "Daily/2024-02-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Golang 熔断限流降级",
       "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
-    },
-    {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
     }
   ],
   "omittedPaths": [],

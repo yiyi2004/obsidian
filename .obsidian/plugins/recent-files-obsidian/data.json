@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "写代码的技巧",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
+    },
+    {
       "basename": "2024-03-01",
       "path": "Daily/2024-03-01.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Linux 八股文",
       "path": "Be Yourself/简历/面试题/基础知识/Linux 八股文.md"
-    },
-    {
-      "basename": "Golang 熔断限流降级",
-      "path": "Coding/Go/深入理解go/Golang 熔断限流降级.md"
     }
   ],
   "omittedPaths": [],

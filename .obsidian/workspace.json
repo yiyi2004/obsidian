@@ -34,6 +34,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3f16e157101b374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期性规划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -237,8 +250,9 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
-    "Daily/2024-02-27.md",
+    "0. 周期性规划.md",
     "Daily/2024-03-01.md",
+    "Daily/2024-02-27.md",
     "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
     "Be Yourself/简历/面试Checklist.md",
     "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
@@ -263,7 +277,6 @@
     "Course/运维平台开发/第6章文档/6.3 刷索引的同时用g.p.a更新下path表.md",
     "Course/运维平台开发/第6章文档/6.2 写倒排索引interface.md",
     "Course/运维平台开发/第6章文档/6.1 倒排索引原理讲解.md",
-    "Course/运维平台开发/第5章文档/5.1 同步模块主逻辑.md",
     "Course/运维平台开发/第11章文档/第11章文档",
     "Project/RZPZ",
     "Reading Notes/中国经典",

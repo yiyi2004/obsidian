@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
+                "file": "Course/极客时间/初级 Golang 工程师/05.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
+                "file": "Course/极客时间/初级 Golang 工程师/05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
+                "file": "Course/极客时间/初级 Golang 工程师/05.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
+                "file": "Course/极客时间/初级 Golang 工程师/05.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
+                "file": "Course/极客时间/初级 Golang 工程师/05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,13 +250,15 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
-    "Daily/2024-03-01.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读",
+    "Course/极客时间/初级 Golang 工程师/05.md",
     "0. 周期性规划.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Daily/2024-03-01.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读",
     "Daily/2024-02-27.md",
     "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
-    "Be Yourself/简历/面试Checklist.md",
     "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md",
     "Course/运维平台开发/源码阅读",
     "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
@@ -276,8 +278,6 @@
     "Course/运维平台开发/第8章文档/8.1 时序监控和日志监控的对比，分析日志监控的核心诉求.md",
     "Course/运维平台开发/第7章文档/7.1 使用prometheus-sdk打统计数据.md",
     "Course/运维平台开发/第6章文档/6.4 利用倒排索引统计功能的接口.md",
-    "Course/运维平台开发/第6章文档/6.3 刷索引的同时用g.p.a更新下path表.md",
-    "Course/运维平台开发/第6章文档/6.2 写倒排索引interface.md",
     "Course/运维平台开发/第11章文档/第11章文档",
     "Project/RZPZ",
     "Reading Notes/中国经典",

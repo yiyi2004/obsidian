@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "05",
+      "path": "Course/极客时间/初级 Golang 工程师/05.md"
+    },
+    {
+      "basename": "oauth2",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
+    },
+    {
       "basename": "写代码的技巧",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
     },
     {
-      "basename": "2024-03-01",
-      "path": "Daily/2024-03-01.md"
-    },
-    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "2024-03-01",
+      "path": "Daily/2024-03-01.md"
     },
     {
       "basename": "2024-02-27",
@@ -19,10 +31,6 @@
     {
       "basename": "运维项目源码阅读",
       "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "1.2 本课程模块架构介绍",
@@ -191,14 +199,6 @@
     {
       "basename": "围城",
       "path": "Reading Notes/小说/围城.md"
-    },
-    {
-      "basename": "拜年吉祥话",
-      "path": "Be Yourself/其它/拜年吉祥话.md"
-    },
-    {
-      "basename": "Linux 八股文",
-      "path": "Be Yourself/简历/面试题/基础知识/Linux 八股文.md"
     }
   ],
   "omittedPaths": [],

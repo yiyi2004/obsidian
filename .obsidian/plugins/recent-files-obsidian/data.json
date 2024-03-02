@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
+    },
+    {
       "basename": "05",
       "path": "Course/极客时间/初级 Golang 工程师/05.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "易经",
       "path": "Reading Notes/中国经典/易经.md"
-    },
-    {
-      "basename": "围城",
-      "path": "Reading Notes/小说/围城.md"
     }
   ],
   "omittedPaths": [],

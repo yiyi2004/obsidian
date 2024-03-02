@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/05.md",
+                "file": "Challenge/3个月的面试准备/面试准备.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/05.md",
+                "file": "Challenge/3个月的面试准备/面试准备.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/05.md"
+                "file": "Challenge/3个月的面试准备/面试准备.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/05.md",
+                "file": "Challenge/3个月的面试准备/面试准备.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/05.md",
+                "file": "Challenge/3个月的面试准备/面试准备.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -250,9 +250,11 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/05.md",
+    "Challenge/3个月的面试准备/面试准备.md",
+    "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
-    "Course/极客时间/初级 Golang 工程师/05.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
     "Daily/2024-03-01.md",
@@ -277,7 +279,6 @@
     "Course/运维平台开发/第8章文档/8.2 golang实战项目log2metrics架构说明.md",
     "Course/运维平台开发/第8章文档/8.1 时序监控和日志监控的对比，分析日志监控的核心诉求.md",
     "Course/运维平台开发/第7章文档/7.1 使用prometheus-sdk打统计数据.md",
-    "Course/运维平台开发/第6章文档/6.4 利用倒排索引统计功能的接口.md",
     "Course/运维平台开发/第11章文档/第11章文档",
     "Project/RZPZ",
     "Reading Notes/中国经典",
@@ -285,7 +286,6 @@
     "Be Yourself/简历/面试题/未命名",
     "未命名 1",
     "代码模板",
-    "Be Yourself/简历/面试题/基础知识",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129163207.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240129161532.png",

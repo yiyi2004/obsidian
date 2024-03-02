@@ -49,7 +49,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge/3个月的面试准备/面试准备.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Challenge/3个月的面试准备/面试准备.md"
+                "file": "0. 周期性规划.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Challenge/3个月的面试准备/面试准备.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Challenge/3个月的面试准备/面试准备.md",
+                "file": "0. 周期性规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -248,15 +248,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78e5ca6caaa27978",
+  "active": "d3f16e157101b374",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/05.md",
     "Challenge/3个月的面试准备/面试准备.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Course/极客时间/初级 Golang 工程师/05.md",
     "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
     "0. 周期性规划.md",
-    "Be Yourself/简历/面试Checklist.md",
     "Daily/2024-03-01.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读",
     "Daily/2024-02-27.md",

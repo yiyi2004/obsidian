@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "总体规划",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
+    },
+    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "写代码的技巧",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
+    },
+    {
+      "basename": "oauth2",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
+    },
+    {
+      "basename": "运维项目源码阅读",
+      "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
     },
     {
       "basename": "面试准备",
@@ -57,24 +73,12 @@
       "path": "Course/极客时间/初级 Golang 工程师/05.md"
     },
     {
-      "basename": "oauth2",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
-    },
-    {
-      "basename": "写代码的技巧",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
-    },
-    {
       "basename": "2024-03-01",
       "path": "Daily/2024-03-01.md"
     },
     {
       "basename": "2024-02-27",
       "path": "Daily/2024-02-27.md"
-    },
-    {
-      "basename": "运维项目源码阅读",
-      "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
     },
     {
       "basename": "1.2 本课程模块架构介绍",
@@ -195,10 +199,6 @@
     {
       "basename": "2.2 master基础代码之命令行参数和配置文件",
       "path": "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md"
-    },
-    {
-      "basename": "2024-02-26",
-      "path": "Daily/2024-02-26.md"
     }
   ],
   "omittedPaths": [],

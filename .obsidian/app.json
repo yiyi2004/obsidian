@@ -67,5 +67,6 @@
   "fileSortOrder": "alphabetical",
   "newFileLocation": "current",
   "newLinkFormat": "relative",
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "focusNewTab": true
 }

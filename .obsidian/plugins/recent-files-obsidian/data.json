@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
       "basename": "09 榜单模型与分布式任务调度之榜单模型",
       "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6.3 刷索引的同时用g.p.a更新下path表",
       "path": "Course/运维平台开发/第6章文档/6.3 刷索引的同时用g.p.a更新下path表.md"
-    },
-    {
-      "basename": "6.2 写倒排索引interface",
-      "path": "Course/运维平台开发/第6章文档/6.2 写倒排索引interface.md"
     }
   ],
   "omittedPaths": [],

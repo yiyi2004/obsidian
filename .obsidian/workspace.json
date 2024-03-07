@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -264,19 +264,19 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164658.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164344.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164201.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164137.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163854.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163738.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163606.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163527.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307161217.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307161042.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160937.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160836.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160700.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160657.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160423.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160239.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160215.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307155651.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307155117.png",
     "0. 周期性规划.md",
-    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Be Yourself/简历/面试Checklist.md",
     "Course/极客时间/初级 Golang 工程师/01 基础语法.md",

@@ -62,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
               }
             }
           },
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,7 +237,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -261,10 +262,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cc42152de5a2e7b9",
+  "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307161217.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307161042.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160937.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160836.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160700.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160657.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160423.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160239.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307160215.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307155651.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307155117.png",
     "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Be Yourself/简历/面试Checklist.md",
     "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
@@ -275,16 +288,6 @@
     "Course/极客时间/初级 Golang 工程师/06.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102810.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102609.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102341.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102054.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101923.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101838.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101655.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101437.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101331.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101311.png",
     "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
     "Course/极客时间/初级 Golang 工程师/Untitled.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
@@ -297,9 +300,7 @@
     "Be Yourself/简历/面试题/公众号/003_蘑菇博客从0到2000Star,分享我的Java自学路线图/README.md",
     "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md",
     "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
-    "Be Yourself/简历/简历.md",
     "Be Yourself/简历/简历.pdf",
-    "Be Yourself/简历/面试题.md",
     "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读",
     "Course/运维平台开发/源码阅读",

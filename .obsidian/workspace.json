@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
+                "file": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -251,8 +251,19 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
-    "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102609.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102341.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307102054.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101923.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101838.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101655.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101437.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101331.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307101311.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307092520.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307092400.png",
     "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+    "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/Untitled.md",
@@ -280,23 +291,12 @@
     "Course/运维平台开发/源码阅读",
     "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md",
     "Course/运维平台开发/第11章文档/11.2 客户端逻辑之执行探测并上报结果.md",
-    "Course/运维平台开发/第11章文档/11.1 网络监控工具调研和xprober架构分析.md",
     "Course/运维平台开发/第11章文档/第11章文档",
     "Project/RZPZ",
     "Reading Notes/中国经典",
     "Be Yourself/其它",
     "Be Yourself/简历/面试题/未命名",
     "未命名 1",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129164801.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129163207.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129161532.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129152201.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129151921.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129151716.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129151451.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129151050.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240129145202.png",
-    "Be Yourself/简历/面试题/校招面试/JUC/9_Synchronized和Lock的区别与好处/images/image-20200317105121435.png",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "08 可观测性 prometheus",
+      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
+    },
+    {
       "basename": "总体规划",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3.1 go编排之oklog-run",
       "path": "Course/运维平台开发/第3章文档/3.1 go编排之oklog-run.md"
-    },
-    {
-      "basename": "2.2 master基础代码之命令行参数和配置文件",
-      "path": "Course/运维平台开发/第2章文档/2.2 master基础代码之命令行参数和配置文件.md"
     }
   ],
   "omittedPaths": [],

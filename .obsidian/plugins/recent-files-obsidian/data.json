@@ -1,20 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "08 可观测性 prometheus",
-      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "总体规划",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
     },
     {
+      "basename": "09 榜单模型与分布式任务调度之榜单模型",
+      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+    },
+    {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "01 基础语法",
+      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
+    },
+    {
+      "basename": "02 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+    },
+    {
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "05",
+      "path": "Course/极客时间/初级 Golang 工程师/05.md"
+    },
+    {
+      "basename": "05-18",
+      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
+    },
+    {
+      "basename": "06",
+      "path": "Course/极客时间/初级 Golang 工程师/06.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "08 可观测性 prometheus",
+      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
+    },
+    {
+      "basename": "总体规划",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
     },
     {
       "basename": "写代码的技巧",
@@ -67,14 +107,6 @@
     {
       "basename": "面试题",
       "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
-      "basename": "05",
-      "path": "Course/极客时间/初级 Golang 工程师/05.md"
     },
     {
       "basename": "2024-03-01",
@@ -167,38 +199,6 @@
     {
       "basename": "6.2 写倒排索引interface",
       "path": "Course/运维平台开发/第6章文档/6.2 写倒排索引interface.md"
-    },
-    {
-      "basename": "6.1 倒排索引原理讲解",
-      "path": "Course/运维平台开发/第6章文档/6.1 倒排索引原理讲解.md"
-    },
-    {
-      "basename": "5.1 同步模块主逻辑",
-      "path": "Course/运维平台开发/第5章文档/5.1 同步模块主逻辑.md"
-    },
-    {
-      "basename": "4.2 设计资源挂载到树的逻辑",
-      "path": "Course/运维平台开发/第4章文档/4.2 设计资源挂载到树的逻辑.md"
-    },
-    {
-      "basename": "4.1 node_path操作的函数添加gin的支持",
-      "path": "Course/运维平台开发/第4章文档/4.1 node_path操作的函数添加gin的支持.md"
-    },
-    {
-      "basename": "3.4 设计机器表并接收rpc数据写入",
-      "path": "Course/运维平台开发/第3章文档/3.4 设计机器表并接收rpc数据写入.md"
-    },
-    {
-      "basename": "3.3 agent采集信息模块并rpc推送给server",
-      "path": "Course/运维平台开发/第3章文档/3.3 agent采集信息模块并rpc推送给server.md"
-    },
-    {
-      "basename": "3.2 agent和server之间的json-rpc通信",
-      "path": "Course/运维平台开发/第3章文档/3.2 agent和server之间的json-rpc通信.md"
-    },
-    {
-      "basename": "3.1 go编排之oklog-run",
-      "path": "Course/运维平台开发/第3章文档/3.1 go编排之oklog-run.md"
     }
   ],
   "omittedPaths": [],

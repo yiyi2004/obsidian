@@ -184,3 +184,12 @@ GORM 插件自带的内容
 ![[Snipaste/Pasted image 20240307102609.png]]
 
 1. 系统出入口，业务关键点，完善监控
+2. Gin 的插件
+3. GORM 的插
+4. Redis 客户端的插件 Hook 功能
+5. 微服务监控技巧
+6. 影响力足够，可以推行错误码的规范
+
+## 作业
+
+![[Snipaste/Pasted image 20240307102810.png]]

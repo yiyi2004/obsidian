@@ -1,24 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+      "basename": "背包问题",
+      "path": "Algorithm/动态规划/背包问题.md"
     },
     {
-      "basename": "09 榜单模型与分布式任务调度之榜单模型",
-      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
     },
     {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
     },
     {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
+    },
+    {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/5_滴滴出行提前批Java123面/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/4_京东零售提前批Java二面/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/3_京东零售提前批Java一面/README.md"
+    },
+    {
+      "basename": "字节面试",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/基础面试题/1_equals和等等的区别/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/README.md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/面试题/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "分布式系统的面试连环炮",
+      "path": "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md"
+    },
+    {
+      "basename": "2022_后端开发大厂面试题",
+      "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
+    },
+    {
+      "basename": "Redis2",
+      "path": "Be Yourself/简历/面试题/Redis/Redis2.md"
+    },
+    {
+      "basename": "Redis1",
+      "path": "Be Yourself/简历/面试题/Redis/Redis1.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/ES/README.md"
+    },
+    {
+      "basename": "三个月进入大厂面经",
+      "path": "Coding/Python/爬虫/爬虫笔记/第七模块2.APP逆向/day05app逆向入门（课件和代码）/day05app逆向入门（课件和代码）/day05 app逆向入门（课件和代码）/笔记/三个月进入大厂面经.md"
+    },
+    {
+      "basename": "面经收集",
+      "path": "Be Yourself/简历/面试题/Go/面经收集.md"
+    },
+    {
+      "basename": "字节面试",
+      "path": "Be Yourself/简历/面经/字节/字节面试.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "Go 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
+    },
+    {
+      "basename": "Go 编程题目",
+      "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
+    },
+    {
+      "basename": "面试题",
+      "path": "Be Yourself/简历/面试题.md"
+    },
+    {
+      "basename": "09 榜单模型与分布式任务调度之榜单模型",
+      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
     },
     {
       "basename": "01 基础语法",
@@ -95,110 +199,6 @@
     {
       "basename": "README",
       "path": "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md"
-    },
-    {
-      "basename": "分布式系统的面试连环炮",
-      "path": "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.pdf"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "2024-03-01",
-      "path": "Daily/2024-03-01.md"
-    },
-    {
-      "basename": "2024-02-27",
-      "path": "Daily/2024-02-27.md"
-    },
-    {
-      "basename": "1.2 本课程模块架构介绍",
-      "path": "Course/运维平台开发/第1章文档/1.2 本课程模块架构介绍.md"
-    },
-    {
-      "basename": "2.1 服务树项目组织目录和整体架构说明",
-      "path": "Course/运维平台开发/第2章文档/2.1 服务树项目组织目录和整体架构说明.md"
-    },
-    {
-      "basename": "11.3 服务端生成探测池、聚合探测结果",
-      "path": "Course/运维平台开发/第11章文档/11.3 服务端生成探测池、聚合探测结果.md"
-    },
-    {
-      "basename": "11.2 客户端逻辑之执行探测并上报结果",
-      "path": "Course/运维平台开发/第11章文档/11.2 客户端逻辑之执行探测并上报结果.md"
-    },
-    {
-      "basename": "11.1 网络监控工具调研和xprober架构分析",
-      "path": "Course/运维平台开发/第11章文档/11.1 网络监控工具调研和xprober架构分析.md"
-    },
-    {
-      "basename": "11.4 编译运行测试",
-      "path": "Course/运维平台开发/第11章文档/11.4 编译运行测试.md"
-    },
-    {
-      "basename": "10.4 编译运行测试",
-      "path": "Course/运维平台开发/第10章文档/10.4 编译运行测试.md"
-    },
-    {
-      "basename": "10.3 客户端逻辑agent接受任务执行并上报结果",
-      "path": "Course/运维平台开发/第10章文档/10.3 客户端逻辑agent接受任务执行并上报结果.md"
-    },
-    {
-      "basename": "10.2 服务端逻辑task任务缓存，task配置和web打通，task的rpc下发",
-      "path": "Course/运维平台开发/第10章文档/10.2 服务端逻辑task任务缓存，task配置和web打通，task的rpc下发.md"
-    },
-    {
-      "basename": "10.1 架构分析和表设计",
-      "path": "Course/运维平台开发/第10章文档/10.1 架构分析和表设计.md"
-    },
-    {
-      "basename": "9.4 agent和server同步logjob并测试",
-      "path": "Course/运维平台开发/第9章文档/9.4 agent和server同步logjob并测试.md"
-    },
-    {
-      "basename": "9.3 时序统计的结构体对象和metrics结果打点方法",
-      "path": "Course/运维平台开发/第9章文档/9.3 时序统计的结构体对象和metrics结果打点方法.md"
-    },
-    {
-      "basename": "9.2 日志消费组和日志正则处理对象AnalysPoint",
-      "path": "Course/运维平台开发/第9章文档/9.2 日志消费组和日志正则处理对象AnalysPoint.md"
-    },
-    {
-      "basename": "9.1 日志任务增量更新管理器和具体的日志job对象",
-      "path": "Course/运维平台开发/第9章文档/9.1 日志任务增量更新管理器和具体的日志job对象.md"
-    },
-    {
-      "basename": "8.3 准备工作，编写配置文件，解析配置，校验正则，设置log",
-      "path": "Course/运维平台开发/第8章文档/8.3 准备工作，编写配置文件，解析配置，校验正则，设置log.md"
-    },
-    {
-      "basename": "8.2 golang实战项目log2metrics架构说明",
-      "path": "Course/运维平台开发/第8章文档/8.2 golang实战项目log2metrics架构说明.md"
-    },
-    {
-      "basename": "8.1 时序监控和日志监控的对比，分析日志监控的核心诉求",
-      "path": "Course/运维平台开发/第8章文档/8.1 时序监控和日志监控的对比，分析日志监控的核心诉求.md"
-    },
-    {
-      "basename": "7.1 使用prometheus-sdk打统计数据",
-      "path": "Course/运维平台开发/第7章文档/7.1 使用prometheus-sdk打统计数据.md"
-    },
-    {
-      "basename": "6.4 利用倒排索引统计功能的接口",
-      "path": "Course/运维平台开发/第6章文档/6.4 利用倒排索引统计功能的接口.md"
-    },
-    {
-      "basename": "6.3 刷索引的同时用g.p.a更新下path表",
-      "path": "Course/运维平台开发/第6章文档/6.3 刷索引的同时用g.p.a更新下path表.md"
     }
   ],
   "omittedPaths": [],

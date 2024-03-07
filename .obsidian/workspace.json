@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -60,9 +60,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d903062a1f697712",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Algorithm/动态规划/背包问题.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -91,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#go",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "Algorithm/动态规划/背包问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.50484466552734
+    "width": 323.50484466552734
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -164,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+                "file": "Algorithm/动态规划/背包问题.md"
               }
             }
           },
@@ -182,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "Algorithm/动态规划/背包问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "Algorithm/动态规划/背包问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +250,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -262,44 +274,46 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78e5ca6caaa27978",
+  "active": "d903062a1f697712",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Algorithm/算法总结.md",
+    "Algorithm/动态规划/背包问题.md",
+    "Algorithm/动态规划",
+    "0. 周期性规划.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Be Yourself/简历/面经/Go后端面经.md",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/5_滴滴出行提前批Java123面/README.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/4_京东零售提前批Java二面/README.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/3_京东零售提前批Java一面/README.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md",
+    "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md",
+    "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/README.md",
+    "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
+    "Be Yourself/简历/面试题/校招面试/基础面试题/1_equals和等等的区别/README.md",
+    "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/README.md",
+    "Be Yourself/简历/面试题/项目总结/多人博客系统.md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+    "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
+    "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
+    "Be Yourself/简历/面试题/Redis/Redis2.md",
+    "Be Yourself/简历/面试题/Redis/Redis1.md",
+    "Be Yourself/简历/面试题/ES/README.md",
+    "Coding/Python/爬虫/爬虫笔记/第七模块2.APP逆向/day05app逆向入门（课件和代码）/day05app逆向入门（课件和代码）/day05 app逆向入门（课件和代码）/笔记/三个月进入大厂面经.md",
+    "Be Yourself/简历/面试题/Go/面经收集.md",
+    "Be Yourself/简历/面经/字节/字节面试.md",
+    "Be Yourself/简历/面试题/Go/Gin 面试题.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307190324.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307190205.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307185412.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307185144.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307184805.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307183942.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164658.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164344.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164201.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307164137.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163854.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163738.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163606.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307163527.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307161217.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240307161042.png",
-    "0. 周期性规划.md",
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "Be Yourself/简历/面试Checklist.md",
-    "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/05.md",
-    "Course/极客时间/初级 Golang 工程师/05-18.md",
-    "Course/极客时间/初级 Golang 工程师/06.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
-    "Course/极客时间/初级 Golang 工程师/Untitled.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
-    "Course/运维平台开发/源码阅读/运维项目源码阅读.md",
-    "Challenge/3个月的面试准备/面试准备.md",
-    "Be Yourself/简历/面试题/公众号/036_面试大厂的秋招简历是如何诞生的？/README.md",
-    "Be Yourself/简历/面试题/公众号/035_字节二面：蘑菇博客是怎么解决缓存穿透的/README.md",
-    "Be Yourself/简历/面试题/公众号/032_陌溪在字节跳动工作一周啦/README.md",
-    "Be Yourself/简历/面试题/公众号/003_蘑菇博客从0到2000Star,分享我的Java自学路线图/README.md",
-    "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md",
-    "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
     "Be Yourself/简历/简历.pdf",
     "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读",
@@ -308,8 +322,6 @@
     "Project/RZPZ",
     "Reading Notes/中国经典",
     "Be Yourself/其它",
-    "Be Yourself/简历/面试题/未命名",
-    "未命名 1",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

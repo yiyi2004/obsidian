@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Coding/Go/并发编程/协程池实现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Coding/Go/并发编程/协程池实现.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Coding/Go/并发编程/协程池实现.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Coding/Go/并发编程/协程池实现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,25 +274,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6056d94a230d89a7",
+  "active": "29e5ded6d931b345",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103910.png",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103644.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103212.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103101.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103043.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308102817.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308102547.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308102458.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308102142.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308101252.png",
+    "Be Yourself/简历/面经/Go后端面经.md",
     "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308153148.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152950.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152538.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152435.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152404.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151813.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151536.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151520.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151255.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151134.png",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Coding/Go/并发编程/协程池实现.md",
     "Coding/Go/并发编程/并发编程.md",
     "Be Yourself/简历/面试Checklist.md",
-    "Be Yourself/简历/面经/Go后端面经.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Algorithm/动态规划/背包问题.md",

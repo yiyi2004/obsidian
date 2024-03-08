@@ -53,7 +53,7 @@
 	- [ ] [Redis最佳实践：业务层面和运维层面优化 | Kaito's Blog (kaito-kidd.com)](http://kaito-kidd.com/2020/07/04/redis-best-practices/)
 	- [ ] 比如 SQL 查询，没有查询 xxx
 - [ ] 引入缓存
-	- [ ] 引入 Redis
+	- [x] 引入 Redis ✅ 2024-03-07
 	- [ ] 引入本地缓存 -Redis 双重机制
 	- [ ] 缓存预热
 	- [ ] 缓存策略

@@ -1,24 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "背包问题",
-      "path": "Algorithm/动态规划/背包问题.md"
+      "basename": "协程池实现",
+      "path": "Coding/Go/并发编程/协程池实现.md"
     },
     {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
+      "basename": "并发编程",
+      "path": "Coding/Go/并发编程/并发编程.md"
     },
     {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "Go后端面经",
@@ -27,6 +19,26 @@
     {
       "basename": "10 微服务基本理论",
       "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "0A_1_7_DailyLog_V2",
+      "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "背包问题",
+      "path": "Algorithm/动态规划/背包问题.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
     },
     {
       "basename": "README",
@@ -187,18 +199,6 @@
     {
       "basename": "README",
       "path": "Be Yourself/简历/面试题/公众号/035_字节二面：蘑菇博客是怎么解决缓存穿透的/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/032_陌溪在字节跳动工作一周啦/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/003_蘑菇博客从0到2000Star,分享我的Java自学路线图/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/公众号/001_我是陌溪，很高兴认识大家/README.md"
     }
   ],
   "omittedPaths": [],

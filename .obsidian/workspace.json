@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+                "file": "0. 周期性规划.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "0. 周期性规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,8 +274,12 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78e5ca6caaa27978",
+  "active": "6056d94a230d89a7",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103910.png",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103644.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103212.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103101.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308103043.png",
@@ -284,15 +288,11 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308102458.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308102142.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308101252.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308101236.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308101011.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308100801.png",
     "0. 周期性规划.md",
     "Coding/Go/并发编程/协程池实现.md",
     "Coding/Go/并发编程/并发编程.md",
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面经/Go后端面经.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Algorithm/动态规划/背包问题.md",
@@ -313,7 +313,6 @@
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Be Yourself/简历/面试题/Redis/Redis2.md",
     "Be Yourself/简历/面试题/Redis/Redis1.md",
-    "Be Yourself/简历/面试题/ES/README.md",
     "Be Yourself/简历/简历.pdf",
     "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读",

@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -73,9 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a916ee3ceea00477",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期性规划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/并发编程/协程池实现.md",
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/并发编程/协程池实现.md"
+                "file": "Coding/Go/深入理解go/Go Map 原理.md"
               }
             }
           },
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/并发编程/协程池实现.md",
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/并发编程/协程池实现.md",
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,11 +287,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "29e5ded6d931b345",
+  "active": "6056d94a230d89a7",
   "lastOpenFiles": [
     "Be Yourself/简历/面经/Go后端面经.md",
-    "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Coding/Go/深入理解go/Go Map 原理.md",
+    "Coding/Go/并发编程/协程池实现.md",
+    "0. 周期性规划.md",
+    "Be Yourself/简历/面试题/Go/面经收集.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308153148.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152950.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152538.png",
@@ -290,7 +307,6 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151255.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151134.png",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
-    "Coding/Go/并发编程/协程池实现.md",
     "Coding/Go/并发编程/并发编程.md",
     "Be Yourself/简历/面试Checklist.md",
     "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md",
@@ -311,8 +327,6 @@
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
     "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
-    "Be Yourself/简历/面试题/Redis/Redis2.md",
-    "Be Yourself/简历/面试题/Redis/Redis1.md",
     "Be Yourself/简历/简历.pdf",
     "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读",

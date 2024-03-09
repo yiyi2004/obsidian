@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/深入理解go/Go Map 原理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/深入理解go/Go Map 原理.md"
+                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/深入理解go/Go Map 原理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/深入理解go/Go Map 原理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,25 +287,26 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6056d94a230d89a7",
+  "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309102741.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309101307.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309100856.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309100606.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309100432.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309100315.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309095221.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309095153.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309095140.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309095057.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309094303.png",
+    "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Coding/Go/深入理解go/Go Map 原理.md",
     "Coding/Go/并发编程/协程池实现.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/面试题/Go/面经收集.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308153148.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152950.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152538.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152435.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308152404.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151813.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151536.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151520.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151255.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240308151134.png",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Coding/Go/并发编程/并发编程.md",
     "Be Yourself/简历/面试Checklist.md",
@@ -325,7 +326,6 @@
     "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/README.md",
     "Be Yourself/简历/面试题/项目总结/多人博客系统.md",
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
-    "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Be Yourself/简历/简历.pdf",
     "Challenge/3个月的面试准备",

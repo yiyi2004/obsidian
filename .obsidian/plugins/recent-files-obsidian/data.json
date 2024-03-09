@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
       "basename": "Go Map 原理",
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
     },
     {
       "basename": "协程池实现",

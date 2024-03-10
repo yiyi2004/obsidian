@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,6 +289,8 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105435.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105334.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105319.png",
@@ -299,11 +301,9 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309104507.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309103533.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309103522.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309103521.png",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Coding/Go/并发编程/协程池实现.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/面试题/Go/面经收集.md",

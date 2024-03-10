@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
       "basename": "12 服务注册与发现",
       "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "运维项目源码阅读",
       "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "Challenge/3个月的面试准备/面试准备.md"
     }
   ],
   "omittedPaths": [],

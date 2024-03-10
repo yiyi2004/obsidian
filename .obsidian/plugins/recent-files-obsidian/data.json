@@ -1,32 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "13 负载均衡",
-      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
-    },
-    {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
-    },
-    {
       "basename": "Go后端面经",
       "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
     {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
       "basename": "协程池实现",
       "path": "Coding/Go/并发编程/协程池实现.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "时间安排",
+      "path": "实习/时间安排.md"
+    },
+    {
+      "basename": "公司名单",
+      "path": "Challenge/紧急安排/公司名单.md"
+    },
+    {
+      "basename": "校招",
+      "path": "Be Yourself/简历/招聘网站/校招.md"
+    },
+    {
+      "basename": "Golang 面试资料搜集",
+      "path": "Be Yourself/简历/Golang 面试资料搜集.md"
+    },
+    {
+      "basename": "日常实习",
+      "path": "Be Yourself/简历/面试之路/日常实习.md"
+    },
+    {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
       "basename": "面经收集",
@@ -175,30 +199,6 @@
     {
       "basename": "06",
       "path": "Course/极客时间/初级 Golang 工程师/06.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "08 可观测性 prometheus",
-      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "总体规划",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
-    },
-    {
-      "basename": "写代码的技巧",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
-    },
-    {
-      "basename": "oauth2",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
-    },
-    {
-      "basename": "运维项目源码阅读",
-      "path": "Course/运维平台开发/源码阅读/运维项目源码阅读.md"
     }
   ],
   "omittedPaths": [],

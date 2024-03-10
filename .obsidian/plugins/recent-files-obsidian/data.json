@@ -5,24 +5,40 @@
       "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
     {
-      "basename": "go map",
-      "path": "Be Yourself/简历/面经/go map.md"
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Archived/Second Interview/操作系统.md"
+    },
+    {
+      "basename": "GMP 原理",
+      "path": "Coding/Go/深入理解go/GMP 原理.md"
     },
     {
       "basename": "协程池实现",
       "path": "Coding/Go/并发编程/协程池实现.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
       "basename": "面试准备",
       "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "go map",
+      "path": "Be Yourself/简历/面经/go map.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
     },
     {
       "basename": "13 负载均衡",
@@ -69,16 +85,8 @@
       "path": "Coding/Go/并发编程/并发编程.md"
     },
     {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
       "basename": "0A_1_7_DailyLog_V2",
       "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "背包问题",
@@ -191,14 +199,6 @@
     {
       "basename": "02 用户基本功能与 Gin 入门",
       "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
-    },
-    {
-      "basename": "05",
-      "path": "Course/极客时间/初级 Golang 工程师/05.md"
-    },
-    {
-      "basename": "05-18",
-      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
     }
   ],
   "omittedPaths": [],

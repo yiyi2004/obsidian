@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "15 可观测性支付服务实现打赏共呢个呢实现评论服务实现",
+      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现.md"
+    },
+    {
       "basename": "17 ElasticSearch 标签服务",
       "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md"
     },
@@ -13,16 +21,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
     },
     {
-      "basename": "15 可观测性支付服务实现打赏共呢个呢实现评论服务实现",
-      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现.md"
-    },
-    {
       "basename": "13 负载均衡",
       "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
-    },
-    {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
     },
     {
       "basename": "面试准备",

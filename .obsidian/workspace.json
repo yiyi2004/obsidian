@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md"
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,24 +302,23 @@
   },
   "active": "26325c70af7074b0",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现.md",
+    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311222645.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311222425.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311222144.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311221930.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311221811.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311220736.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311215531.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311214112.png",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
-    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
-    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Challenge/3个月的面试准备/面试准备.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211955.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211538.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211329.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211109.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211024.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311210817.png",
     "Course/极客时间/初级 Golang 工程师/06.md",
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
     "Be Yourself/简历/面试题/项目总结/多人博客系统.md",

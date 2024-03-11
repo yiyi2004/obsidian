@@ -86,6 +86,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2be7bb46c0a114ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
         "currentTab": 4
@@ -290,6 +303,7 @@
   "active": "26325c70af7074b0",
   "lastOpenFiles": [
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Coding/Go/标准库的使用/ioutil.md",
     "Challenge/3个月的面试准备/面试准备.md",
@@ -325,7 +339,6 @@
     "Algorithm/动态规划/背包问题.md",
     "Algorithm/算法总结.md",
     "Algorithm/动态规划",
-    "Be Yourself/简历/面试题/校招面试/面经汇总/5_滴滴出行提前批Java123面/README.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Be Yourself/简历/简历.pdf",
     "Challenge/3个月的面试准备",

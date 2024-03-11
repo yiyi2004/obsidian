@@ -9,6 +9,10 @@
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
       "basename": "ioutil",
       "path": "Coding/Go/标准库的使用/ioutil.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "01 基础语法",
       "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
-    },
-    {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
     }
   ],
   "omittedPaths": [],

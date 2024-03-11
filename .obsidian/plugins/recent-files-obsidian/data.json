@@ -9,12 +9,12 @@
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
-      "basename": "操作系统",
-      "path": "Archived/Second Interview/操作系统.md"
+      "basename": "ioutil",
+      "path": "Coding/Go/标准库的使用/ioutil.md"
     },
     {
-      "basename": "GMP 原理",
-      "path": "Coding/Go/深入理解go/GMP 原理.md"
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
       "basename": "协程池实现",
@@ -25,8 +25,12 @@
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
-      "basename": "面试准备",
-      "path": "Challenge/3个月的面试准备/面试准备.md"
+      "basename": "操作系统",
+      "path": "Archived/Second Interview/操作系统.md"
+    },
+    {
+      "basename": "GMP 原理",
+      "path": "Coding/Go/深入理解go/GMP 原理.md"
     },
     {
       "basename": "面试Checklist",
@@ -195,10 +199,6 @@
     {
       "basename": "02 用户基本功能和 GORM 入门",
       "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
-    },
-    {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     }
   ],
   "omittedPaths": [],

@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+      "basename": "17 ElasticSearch 标签服务",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md"
+    },
+    {
+      "basename": "资料链接——初级 Go 工程师训练营",
+      "path": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
+    },
+    {
+      "basename": "16 评论系统",
+      "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
+    },
+    {
+      "basename": "15 可观测性支付服务实现打赏共呢个呢实现评论服务实现",
+      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现.md"
     },
     {
       "basename": "13 负载均衡",
       "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
       "basename": "06",
@@ -39,10 +59,6 @@
     {
       "basename": "ioutil",
       "path": "Coding/Go/标准库的使用/ioutil.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
       "basename": "协程池实现",
@@ -183,22 +199,6 @@
     {
       "basename": "三个月进入大厂面经",
       "path": "Coding/Python/爬虫/爬虫笔记/第七模块2.APP逆向/day05app逆向入门（课件和代码）/day05app逆向入门（课件和代码）/day05 app逆向入门（课件和代码）/笔记/三个月进入大厂面经.md"
-    },
-    {
-      "basename": "字节面试",
-      "path": "Be Yourself/简历/面经/字节/字节面试.md"
-    },
-    {
-      "basename": "Gin 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
-    },
-    {
-      "basename": "Go 面试题",
-      "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
-    },
-    {
-      "basename": "Go 编程题目",
-      "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
     }
   ],
   "omittedPaths": [],

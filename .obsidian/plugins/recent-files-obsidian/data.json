@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Go后端面经",
-      "path": "Be Yourself/简历/面经/Go后端面经.md"
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "06",
+      "path": "Course/极客时间/初级 Golang 工程师/06.md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/面试题/项目总结/多人博客系统.md"
     },
     {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "入侵检测系统",
+      "path": "Be Yourself/简历/面试题/项目总结/入侵检测系统.md"
+    },
+    {
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
     {
       "basename": "Go 设计模式索引",
@@ -47,10 +71,6 @@
     {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "13 负载均衡",
-      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
     },
     {
       "basename": "时间安排",
@@ -141,14 +161,6 @@
       "path": "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/README.md"
     },
     {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/面试题/项目总结/多人博客系统.md"
-    },
-    {
-      "basename": "Go 初级工程师(面试题)",
-      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
-    },
-    {
       "basename": "分布式系统的面试连环炮",
       "path": "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Go 编程题目",
       "path": "Be Yourself/简历/面试题/Go/Go 编程题目.md"
-    },
-    {
-      "basename": "面试题",
-      "path": "Be Yourself/简历/面试题.md"
-    },
-    {
-      "basename": "09 榜单模型与分布式任务调度之榜单模型",
-      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
-    },
-    {
-      "basename": "01 基础语法",
-      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
     }
   ],
   "omittedPaths": [],

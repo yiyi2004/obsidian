@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -145,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md"
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
               }
             }
           },
@@ -221,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -302,9 +302,26 @@
   },
   "active": "26325c70af7074b0",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311201905.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311201302.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311200958.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311194858.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311194752.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311194439.png",
+    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311193743.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311193701.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311193620.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311193325.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311193110.png",
+    "Course/极客时间/初级 Golang 工程师/06.md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+    "Be Yourself/简历/面试题/项目总结/多人博客系统.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
+    "Be Yourself/简历/面试题/项目总结/入侵检测系统.md",
     "Be Yourself/简历/面经/Go后端面经.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Coding/Go/标准库的使用/ioutil.md",
     "Challenge/3个月的面试准备/面试准备.md",
     "Coding/Go/并发编程/协程池实现.md",
@@ -314,30 +331,13 @@
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面经/go map.md",
     "0. 周期性规划.md",
-    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "实习/时间安排.md",
     "Challenge/紧急安排/公司名单.md",
     "Be Yourself/简历/招聘网站/校招.md",
     "Be Yourself/简历/Golang 面试资料搜集.md",
     "Be Yourself/简历/面试之路/日常实习.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105435.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105334.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105319.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105225.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309105115.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309104703.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309104618.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309104507.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309103533.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240309103522.png",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Be Yourself/简历/面试题/Go/面经收集.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
-    "Coding/Go/并发编程/并发编程.md",
-    "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md",
-    "Algorithm/动态规划/背包问题.md",
-    "Algorithm/算法总结.md",
     "Algorithm/动态规划",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Be Yourself/简历/简历.pdf",

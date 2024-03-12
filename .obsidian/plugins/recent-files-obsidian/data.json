@@ -1,12 +1,156 @@
 {
   "recentFiles": [
     {
-      "basename": "Go后端面经",
-      "path": "Be Yourself/简历/面经/Go后端面经.md"
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "日常实习简历优化",
+      "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
+    },
+    {
+      "basename": "入侵检测系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
+    },
+    {
+      "basename": "运维系统开发",
+      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/ES/README.md"
+    },
+    {
+      "basename": "Redis",
+      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
+    },
+    {
+      "basename": "C 开发环境搭建",
+      "path": "Coding/C&CPP/C 开发环境搭建.md"
+    },
+    {
+      "basename": "builtin",
+      "path": "Coding/Go/标准库的使用/builtin.md"
+    },
+    {
+      "basename": "并发编程",
+      "path": "Coding/Go/并发编程/并发编程.md"
+    },
+    {
+      "basename": "CSP 模型",
+      "path": "Coding/Go/并发编程/CSP 模型.md"
+    },
+    {
+      "basename": "马士兵教育申专-Go-Micro微服务",
+      "path": "Coding/Go/微服务/马士兵教育申专-Go-Micro微服务.pdf"
+    },
+    {
+      "basename": "服务注册与发现",
+      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
+    },
+    {
+      "basename": "kafka connect原理剖析及源码分析",
+      "path": "Coding/Go/中间件/消息中间件-Kafka实战/kafka connect原理剖析及源码分析.jpg"
+    },
+    {
+      "basename": "MongoDB 基础教程",
+      "path": "Coding/Go/Database/Mongo/MongoDB 基础教程.md"
+    },
+    {
+      "basename": "PostgreSQL Tutorial",
+      "path": "Coding/Go/Database/PostgreSQL/PostgreSQL Tutorial.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Coding/Go/DevOps/DevOps.pdf"
+    },
+    {
+      "basename": "Gin 笔记",
+      "path": "Coding/Go/Gin+Vue+微服务/Gin 笔记.md"
+    },
+    {
+      "basename": "gin examples",
+      "path": "Coding/Go/Gin+Vue+微服务/gin examples.md"
+    },
+    {
+      "basename": "CGO 概括",
+      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
+    },
+    {
+      "basename": "CGO 基础",
+      "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
+    },
+    {
+      "basename": "快速入门",
+      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
+    },
+    {
+      "basename": "Go 语言基础",
+      "path": "Coding/Go/Go Pro/Go 语言基础.md"
+    },
+    {
+      "basename": "Gin+WebSocket 项目实战IM笔记",
+      "path": "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md"
+    },
+    {
+      "basename": "go context",
+      "path": "Coding/Go/go context.md"
+    },
+    {
+      "basename": "go select 使用范式",
+      "path": "Coding/Go/go select 使用范式.md"
+    },
+    {
+      "basename": "hash",
+      "path": "Coding/Go/hash.md"
+    },
+    {
+      "basename": "Micro Service with Go!",
+      "path": "Coding/Go/Micro Service with Go!.md"
+    },
+    {
+      "basename": "Java 入门(菜鸟教程)",
+      "path": "Coding/Java/Java 入门(菜鸟教程).md"
+    },
+    {
+      "basename": "Java 注解",
+      "path": "Coding/Java/Java 注解.md"
+    },
+    {
+      "basename": "Java 基础知识",
+      "path": "Coding/Java/Java 基础知识.md"
+    },
+    {
+      "basename": "Java WEB",
+      "path": "Coding/Java/Java WEB.md"
+    },
+    {
+      "basename": "资料收集",
+      "path": "Eight-part essay/资料收集.md"
     },
     {
       "basename": "Go Map 原理",
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
+      "basename": "马士兵教育申专-Gin+WebSocket项目实战IM",
+      "path": "Coding/Go/IM/马士兵教育申专-Gin+WebSocket项目实战IM.md"
+    },
+    {
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "面试准备",
@@ -23,10 +167,6 @@
     {
       "basename": "Go 设计模式索引",
       "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "协程池实现",
@@ -59,146 +199,6 @@
     {
       "basename": "06",
       "path": "Course/极客时间/初级 Golang 工程师/06.md"
-    },
-    {
-      "basename": "Go 初级工程师(面试题)",
-      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/面试题/项目总结/多人博客系统.md"
-    },
-    {
-      "basename": "入侵检测系统",
-      "path": "Be Yourself/简历/面试题/项目总结/入侵检测系统.md"
-    },
-    {
-      "basename": "ioutil",
-      "path": "Coding/Go/标准库的使用/ioutil.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Archived/Second Interview/操作系统.md"
-    },
-    {
-      "basename": "GMP 原理",
-      "path": "Coding/Go/深入理解go/GMP 原理.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "go map",
-      "path": "Be Yourself/简历/面经/go map.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "时间安排",
-      "path": "实习/时间安排.md"
-    },
-    {
-      "basename": "公司名单",
-      "path": "Challenge/紧急安排/公司名单.md"
-    },
-    {
-      "basename": "校招",
-      "path": "Be Yourself/简历/招聘网站/校招.md"
-    },
-    {
-      "basename": "Golang 面试资料搜集",
-      "path": "Be Yourself/简历/Golang 面试资料搜集.md"
-    },
-    {
-      "basename": "日常实习",
-      "path": "Be Yourself/简历/面试之路/日常实习.md"
-    },
-    {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
-    },
-    {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "面经收集",
-      "path": "Be Yourself/简历/面试题/Go/面经收集.md"
-    },
-    {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
-    },
-    {
-      "basename": "并发编程",
-      "path": "Coding/Go/并发编程/并发编程.md"
-    },
-    {
-      "basename": "0A_1_7_DailyLog_V2",
-      "path": "Templates/OB_Template/0A_Templates/0A_1_Logs/0A_1_7_DailyLog_V2.md"
-    },
-    {
-      "basename": "背包问题",
-      "path": "Algorithm/动态规划/背包问题.md"
-    },
-    {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/5_滴滴出行提前批Java123面/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/4_京东零售提前批Java二面/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/3_京东零售提前批Java一面/README.md"
-    },
-    {
-      "basename": "字节面试",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/2_字节跳动面试总结/字节面试.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/面经汇总/1_京东面经/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/基础面试题/5_JDK动态代理和CGLIB动态代理/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/基础面试题/1_equals和等等的区别/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/校招面试/大厂面试第三季/集群高并发情况下如何保证分布式唯一全局Id生成/README.md"
-    },
-    {
-      "basename": "分布式系统的面试连环炮",
-      "path": "Be Yourself/简历/面试题/分布式/分布式系统的面试连环炮.md"
-    },
-    {
-      "basename": "2022_后端开发大厂面试题",
-      "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
-    },
-    {
-      "basename": "Redis2",
-      "path": "Be Yourself/简历/面试题/Redis/Redis2.md"
-    },
-    {
-      "basename": "Redis1",
-      "path": "Be Yourself/简历/面试题/Redis/Redis1.md"
     }
   ],
   "omittedPaths": [],

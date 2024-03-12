@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
+    },
+    {
+      "basename": "协程池实现",
+      "path": "Coding/Go/并发编程/协程池实现.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
+    },
+    {
       "basename": "14 服务治理",
       "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
     },
@@ -25,10 +41,6 @@
       "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
     },
     {
-      "basename": "面试准备",
-      "path": "Challenge/3个月的面试准备/面试准备.md"
-    },
-    {
       "basename": "06",
       "path": "Course/极客时间/初级 Golang 工程师/06.md"
     },
@@ -41,16 +53,8 @@
       "path": "Be Yourself/简历/面试题/项目总结/多人博客系统.md"
     },
     {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
       "basename": "入侵检测系统",
       "path": "Be Yourself/简历/面试题/项目总结/入侵检测系统.md"
-    },
-    {
-      "basename": "Go后端面经",
-      "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
     {
       "basename": "Go 设计模式索引",
@@ -59,10 +63,6 @@
     {
       "basename": "ioutil",
       "path": "Coding/Go/标准库的使用/ioutil.md"
-    },
-    {
-      "basename": "协程池实现",
-      "path": "Coding/Go/并发编程/协程池实现.md"
     },
     {
       "basename": "Go Map 原理",

@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Challenge/3个月的面试准备/面试准备.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
+                "file": "Coding/Go/深入理解go/Go 锁机制.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+                "file": "Be Yourself/简历/面经/Go后端面经.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,11 +313,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aee65f6ba8c9b7fc",
+  "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/面经/Go后端面经.md",
-    "Coding/Go/并发编程/协程池实现.md",
     "Challenge/3个月的面试准备/面试准备.md",
+    "Coding/Go/深入理解go/Go 锁机制.md",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240312162108.png",
+    "Coding/Go/深入理解go/Go 分布式锁.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Coding/Go/并发编程/协程池实现.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现.md",
     "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
@@ -333,23 +339,17 @@
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211955.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311211538.png",
     "Course/极客时间/初级 Golang 工程师/06.md",
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
     "Be Yourself/简历/面试题/项目总结/多人博客系统.md",
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Be Yourself/简历/面试题/项目总结/入侵检测系统.md",
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Coding/Go/标准库的使用/ioutil.md",
-    "Coding/Go/深入理解go/Go Map 原理.md",
     "Archived/Second Interview/操作系统.md",
     "Coding/Go/深入理解go/GMP 原理.md",
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面经/go map.md",
     "0. 周期性规划.md",
     "实习/时间安排.md",
-    "Challenge/紧急安排/公司名单.md",
-    "Be Yourself/简历/招聘网站/校招.md",
     "Algorithm/动态规划",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Be Yourself/简历/简历.pdf",

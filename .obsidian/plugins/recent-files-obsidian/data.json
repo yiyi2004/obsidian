@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
       "basename": "Go后端面经",
       "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
     {
-      "basename": "协程池实现",
-      "path": "Coding/Go/并发编程/协程池实现.md"
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
       "basename": "面试准备",
       "path": "Challenge/3个月的面试准备/面试准备.md"
+    },
+    {
+      "basename": "Go 锁机制",
+      "path": "Coding/Go/深入理解go/Go 锁机制.md"
+    },
+    {
+      "basename": "Go 分布式锁",
+      "path": "Coding/Go/深入理解go/Go 分布式锁.md"
+    },
+    {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "协程池实现",
+      "path": "Coding/Go/并发编程/协程池实现.md"
     },
     {
       "basename": "14 服务治理",
@@ -57,16 +73,8 @@
       "path": "Be Yourself/简历/面试题/项目总结/入侵检测系统.md"
     },
     {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
       "basename": "ioutil",
       "path": "Coding/Go/标准库的使用/ioutil.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
       "basename": "操作系统",
@@ -191,14 +199,6 @@
     {
       "basename": "Redis1",
       "path": "Be Yourself/简历/面试题/Redis/Redis1.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/ES/README.md"
-    },
-    {
-      "basename": "三个月进入大厂面经",
-      "path": "Coding/Python/爬虫/爬虫笔记/第七模块2.APP逆向/day05app逆向入门（课件和代码）/day05app逆向入门（课件和代码）/day05 app逆向入门（课件和代码）/笔记/三个月进入大厂面经.md"
     }
   ],
   "omittedPaths": [],

@@ -42,39 +42,39 @@
 		4. old bucket
 		5. count
 		6. hash0
-	2. bucket n 个 bmap
+	2. buckets n 个 bmap
 		1. B = 1 2^B(指的有多少个 bmap)
 		2. bmap 8 kv
 			1. tophash
-				1. keysX8
-				2. valuesX8
-				3. next ---> 指向 overflow 溢出桶
+			2. keysX8
+			3. valuesX8
+			4. next ---> 指向 overflow 溢出桶
 	3. 查的过程
-		1. hash(key) ---> hashcode ---> hashcode %(2^B)-1 ---> 找到分配到哪个桶
+		1. hash(key) ---> hashcode ---> hashcode %(2^B)-1 ---> 找到分配到哪个桶 bmap
 		2. hashcode 高八位 ---> **tophash** ---> 比对 bmap 中的 tophash
 			1. 数字的比对更快
 		3. 比对 key，如果相同，返回回来，如果查不到
 	4. tophash 0 ~ 5 是空出来的，代表一种状态
 		1. 6 ~ 255
-		2. 0 ---> 当前没有值，后面也没有值
+		2. 0 ---> 当前 bmap 没有值，后面也没有值
 		3. 1 ---> 后面一定有值 delete ---> 1
 		4. hashcode ---> bucket
 3. 写、删 ---> 扩容
 	1. 扩容因子
 	2. 溢出桶的数量 overflow bucket
-	3. 等量扩容：认为 hash 分布不均匀就会进行等量扩容，hash 利用率比较低 (溢出桶比较多)
+	3. **等量扩容**：**认为 hash 分布不均匀就会进行等量扩容**，hash 利用率比较低 (溢出桶比较多)
 		1. hash 重新分布
-	4. 增量扩容
+	4. **增量扩容**
 		1. 内存使用不可控
 4. 遍历：遍历是随机的，伪随机的
-	1. hiter ---> start bucket
+	1. **hiter** ---> **start bucket**
 		1. start bucket 随机选择一个 start bucket
 		2. 遍历是顺序的
 	2. 为什么做成随机的，防止扩容之后顺序改变，让开发者不依赖于 map 的顺序
 5. fast_map 单独的优化
 	1. int64 不比对 tophash，直接比对 key
 	2. int32
-	3. string 先比对 length
+	3. **string 先比对 length**
 6. 常见面试题
 	1. map 使用的注意点
 		1. 未初始化的时候，读的 0 值，写的时候会 panic

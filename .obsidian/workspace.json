@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/深入理解go/Go Map 原理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -112,9 +112,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6208880f484fad8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
               }
             }
           },
@@ -234,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,13 +326,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78e5ca6caaa27978",
+  "active": "6056d94a230d89a7",
   "lastOpenFiles": [
-    "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
+    "Course/极客时间/初级 Golang 工程师/06.md",
+    "Coding/Go/深入理解go/Go Map 原理.md",
+    "Coding/Go/深入理解go/Go 锁机制.md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
+    "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
+    "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md",
+    "Be Yourself/简历/简历优化/项目总结/泛型工具库.md",
+    "Be Yourself/简历/面试题/Go/Go 面试题.md",
+    "Be Yourself/简历/面试题/Go/面经收集.md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Be Yourself/简历/简历优化/项目总结/Snipaste/Pasted image 20240313100022.png",
+    "Be Yourself/简历/简历优化/项目总结/Snipaste",
+    "Be Yourself/简历/面试Checklist.md",
+    "Be Yourself/简历/简历优化/项目总结/运维系统开发.md",
     "Be Yourself/简历/简历优化/日常实习简历优化.md",
     "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md",
-    "Be Yourself/简历/简历优化/项目总结/运维系统开发.md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Be Yourself/简历/面试题/ES/README.md",
     "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md",
@@ -331,19 +358,7 @@
     "Coding/Go/微服务/极客时间/服务注册与发现.md",
     "Coding/Go/中间件/消息中间件-Kafka实战/kafka connect原理剖析及源码分析.jpg",
     "Coding/Go/Database/Mongo/MongoDB 基础教程.md",
-    "Coding/Go/Database/PostgreSQL/PostgreSQL Tutorial.md",
     "Coding/Go/DevOps/DevOps.pdf",
-    "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
-    "Coding/Go/Gin+Vue+微服务/gin examples.md",
-    "Coding/Go/Go Pro/CGO/CGO 概括.md",
-    "Coding/Go/Go Pro/CGO/CGO 基础.md",
-    "Coding/Go/Go Pro/CGO/快速入门.md",
-    "Coding/Go/Go Pro/Go 语言基础.md",
-    "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md",
-    "Coding/Go/go context.md",
-    "Coding/Go/go select 使用范式.md",
-    "Coding/Go/hash.md",
-    "Coding/Go/Micro Service with Go!.md",
     "images",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240312162108.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311222645.png",
@@ -353,14 +368,12 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311221811.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311220736.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311215531.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240311214112.png",
     "Algorithm/动态规划",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Be Yourself/简历/简历.pdf",
     "Challenge/3个月的面试准备",
     "Course/极客时间/初级 Golang 工程师/源码阅读",
     "Course/运维平台开发/源码阅读",
-    "Course/运维平台开发/第11章文档/第11章文档",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

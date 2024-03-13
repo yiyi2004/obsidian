@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "01 基础语法",
+      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
+    },
+    {
+      "basename": "协程池实现",
+      "path": "Coding/Go/并发编程/协程池实现.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "05",
+      "path": "Course/极客时间/初级 Golang 工程师/05.md"
+    },
+    {
+      "basename": "05-18",
+      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
     },
     {
       "basename": "06",
       "path": "Course/极客时间/初级 Golang 工程师/06.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "02 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
     },
     {
       "basename": "Go Map 原理",
@@ -17,16 +53,8 @@
       "path": "Coding/Go/深入理解go/Go 锁机制.md"
     },
     {
-      "basename": "Go 初级工程师(面试题)",
-      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
-    },
-    {
       "basename": "Go 设计模式索引",
       "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
     },
     {
       "basename": "病毒触发软件",
@@ -171,34 +199,6 @@
     {
       "basename": "Java 入门(菜鸟教程)",
       "path": "Coding/Java/Java 入门(菜鸟教程).md"
-    },
-    {
-      "basename": "Java 注解",
-      "path": "Coding/Java/Java 注解.md"
-    },
-    {
-      "basename": "Java 基础知识",
-      "path": "Coding/Java/Java 基础知识.md"
-    },
-    {
-      "basename": "Java WEB",
-      "path": "Coding/Java/Java WEB.md"
-    },
-    {
-      "basename": "资料收集",
-      "path": "Eight-part essay/资料收集.md"
-    },
-    {
-      "basename": "马士兵教育申专-Gin+WebSocket项目实战IM",
-      "path": "Coding/Go/IM/马士兵教育申专-Gin+WebSocket项目实战IM.md"
-    },
-    {
-      "basename": "Go后端面经",
-      "path": "Be Yourself/简历/面经/Go后端面经.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "Challenge/3个月的面试准备/面试准备.md"
     }
   ],
   "omittedPaths": [],

@@ -2,6 +2,12 @@
 
 ![[Snipaste/Pasted image 20240129101740.png]]
 
+1. 什么情况下会出现栈溢出？
+2. 什么是 defer ？你能解释一下 defer 的运作机制吗？
+3. 一个方法内部 defer 能不能超过 8 个？
+4. defer 内部能不能修改返回值？怎么改？
+5. 数组和切片有什么区别？
+
 Gin  
 
 ![[Snipaste/Pasted image 20240129101911.png]]  

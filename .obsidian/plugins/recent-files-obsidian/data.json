@@ -1,48 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "Go 初级工程师(面试题)",
-      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+      "basename": "02 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "01 基础语法",
       "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
     },
     {
-      "basename": "协程池实现",
-      "path": "Coding/Go/并发编程/协程池实现.md"
+      "basename": "02 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
     },
     {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+      "basename": "19 Feed 流设计与实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md"
     },
     {
-      "basename": "05",
-      "path": "Course/极客时间/初级 Golang 工程师/05.md"
+      "basename": "18 ELK 和 Canal(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md"
     },
     {
-      "basename": "05-18",
-      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
+      "basename": "15 可观测性支付服务实现打赏共呢个呢实现评论服务实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现(未完成).md"
     },
     {
-      "basename": "06",
-      "path": "Course/极客时间/初级 Golang 工程师/06.md"
+      "basename": "16 评论系统(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/16 评论系统(未完成).md"
+    },
+    {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "17 ElasticSearch 标签服务",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)——答案",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题)——答案.md"
     },
     {
       "basename": "07 点赞",
       "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
     },
     {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
+      "basename": "06",
+      "path": "Course/极客时间/初级 Golang 工程师/06.md"
     },
     {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
+      "basename": "05",
+      "path": "Course/极客时间/初级 Golang 工程师/05.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "协程池实现",
+      "path": "Coding/Go/并发编程/协程池实现.md"
+    },
+    {
+      "basename": "05-18",
+      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
     },
     {
       "basename": "Go Map 原理",
@@ -51,14 +91,6 @@
     {
       "basename": "Go 锁机制",
       "path": "Coding/Go/深入理解go/Go 锁机制.md"
-    },
-    {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "病毒触发软件",
-      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
     },
     {
       "basename": "Gin 插件库",
@@ -75,14 +107,6 @@
     {
       "basename": "面经收集",
       "path": "Be Yourself/简历/面试题/Go/面经收集.md"
-    },
-    {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "面试Checklist",
@@ -175,30 +199,6 @@
     {
       "basename": "Go 语言基础",
       "path": "Coding/Go/Go Pro/Go 语言基础.md"
-    },
-    {
-      "basename": "Gin+WebSocket 项目实战IM笔记",
-      "path": "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md"
-    },
-    {
-      "basename": "go context",
-      "path": "Coding/Go/go context.md"
-    },
-    {
-      "basename": "go select 使用范式",
-      "path": "Coding/Go/go select 使用范式.md"
-    },
-    {
-      "basename": "hash",
-      "path": "Coding/Go/hash.md"
-    },
-    {
-      "basename": "Micro Service with Go!",
-      "path": "Coding/Go/Micro Service with Go!.md"
-    },
-    {
-      "basename": "Java 入门(菜鸟教程)",
-      "path": "Coding/Java/Java 入门(菜鸟教程).md"
     }
   ],
   "omittedPaths": [],

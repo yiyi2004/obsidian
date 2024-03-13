@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
+                "file": "Course/极客时间/初级 Golang 工程师/07 点赞.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -171,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
               }
             }
           },
@@ -247,7 +247,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -272,7 +272,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+                "file": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,43 +328,43 @@
   },
   "active": "6208880f484fad8d",
   "lastOpenFiles": [
-    "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313135057.png",
     "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
-    "Coding/Go/并发编程/协程池实现.md",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313103439.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313103358.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313103357.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313102926.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313102753.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313102627.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313102350.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313102249.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313102103.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313101923.png",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/05.md",
-    "Course/极客时间/初级 Golang 工程师/05-18.md",
-    "Course/极客时间/初级 Golang 工程师/06.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
     "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md",
+    "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313133518.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313133445.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313133411.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313133226.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313133217.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313132915.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313132630.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313132239.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313132229.png",
+    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240313132220.png",
+    "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏共呢个呢实现评论服务实现(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/16 评论系统(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题)——答案.md",
+    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
+    "Course/极客时间/初级 Golang 工程师/06.md",
+    "Course/极客时间/初级 Golang 工程师/05.md",
+    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
+    "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
+    "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
+    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
+    "Coding/Go/并发编程/协程池实现.md",
+    "Course/极客时间/初级 Golang 工程师/05-18.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Coding/Go/深入理解go/Go 锁机制.md",
-    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
-    "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
-    "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
     "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md",
     "Be Yourself/简历/简历优化/项目总结/泛型工具库.md",
-    "Be Yourself/简历/面试题/Go/Go 面试题.md",
-    "Be Yourself/简历/面试题/Go/面经收集.md",
-    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Be Yourself/简历/简历优化/项目总结/Snipaste",
-    "Be Yourself/简历/面试Checklist.md",
-    "Be Yourself/简历/简历优化/项目总结/运维系统开发.md",
-    "Be Yourself/简历/简历优化/日常实习简历优化.md",
-    "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md",
-    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Coding/Go/微服务/马士兵教育申专-Go-Micro微服务.pdf",
     "Coding/Go/DevOps/DevOps.pdf",
     "images",

@@ -46,7 +46,7 @@ pkg: 沉淀出来可以给其他项目使用的东西
 
 ## 跨域问题
 
-- preflight 请求
+- **preflight 请求**
 
 gin 跨域问题解决方案：
 
@@ -87,6 +87,8 @@ CORS Middleware
 ## 升职加薪指南
 
 - 设计并实现一个 Gin 的插件库，Gin 的插件库有一些存在并发问题，因此你可能得自己写一个。
+
+![[Snipaste/Pasted image 20240313135057.png]]
 
 ## 面试要点
 

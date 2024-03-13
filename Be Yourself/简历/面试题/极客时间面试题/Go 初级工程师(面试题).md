@@ -10,7 +10,9 @@
 
 Gin  
 
-![[Snipaste/Pasted image 20240129101911.png]]  
+![[Snipaste/Pasted image 20240129101911.png]]
+
+
 ![[Snipaste/Pasted image 20240129102104.png]]
 
 ![[Snipaste/Pasted image 20240129102126.png]]

@@ -158,6 +158,14 @@ MySQL 规范可以参考：https://developer.aliyun.com/special/tech-java
 - 用户密码加密算法选取有什么注意事项？你用的是什么？
 - 怎么做登录校验？核心是利用 Gin 的 middleware。  
 
+bcrypt 是一个号称最安全的加密算法。优点：
+
+- 不需要你**自己去生成**盐值。
+- 不需要**额外**存储盐值。
+- 可以通过控制 **cost** 来控制加密性能。
+- **同样的文本，加密后的结果不同**。
+- golang.org/x/crypto
+
 ## 作业
 
 ![[Snipaste/Pasted image 20240112142343.png]]

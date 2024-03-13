@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "02 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能与 Gin 入门.md"
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "02-2 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
+    },
+    {
+      "basename": "02-1 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "01 基础语法",
       "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
-    },
-    {
-      "basename": "02 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02 用户基本功能和 GORM 入门.md"
     },
     {
       "basename": "19 Feed 流设计与实现(未完成)",
@@ -51,10 +55,6 @@
     {
       "basename": "05",
       "path": "Course/极客时间/初级 Golang 工程师/05.md"
-    },
-    {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
       "basename": "操作系统",

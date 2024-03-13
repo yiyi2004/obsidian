@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "Go 设计模式索引",
       "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
     },
     {
       "basename": "病毒触发软件",

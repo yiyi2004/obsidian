@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "06",
+      "path": "Course/极客时间/初级 Golang 工程师/06.md"
+    },
+    {
+      "basename": "05-18",
+      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
+    },
+    {
+      "basename": "05 微信扫码登录",
+      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录.md"
+    },
+    {
       "basename": "多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "04",
+      "path": "Course/极客时间/初级 Golang 工程师/04.md"
     },
     {
       "basename": "03 Session 和 JWT",
@@ -11,6 +31,14 @@
     {
       "basename": "02-2 用户基本功能和 GORM 入门",
       "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
+    },
+    {
+      "basename": "02-0 笔记",
+      "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
       "basename": "02-1 用户基本功能与 Gin 入门",
@@ -49,18 +77,6 @@
       "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题)——答案.md"
     },
     {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "06",
-      "path": "Course/极客时间/初级 Golang 工程师/06.md"
-    },
-    {
-      "basename": "05",
-      "path": "Course/极客时间/初级 Golang 工程师/05.md"
-    },
-    {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
@@ -79,10 +95,6 @@
     {
       "basename": "协程池实现",
       "path": "Coding/Go/并发编程/协程池实现.md"
-    },
-    {
-      "basename": "05-18",
-      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
     },
     {
       "basename": "Go Map 原理",
@@ -187,18 +199,6 @@
     {
       "basename": "CGO 概括",
       "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
-    },
-    {
-      "basename": "CGO 基础",
-      "path": "Coding/Go/Go Pro/CGO/CGO 基础.md"
-    },
-    {
-      "basename": "快速入门",
-      "path": "Coding/Go/Go Pro/CGO/快速入门.md"
-    },
-    {
-      "basename": "Go 语言基础",
-      "path": "Coding/Go/Go Pro/Go 语言基础.md"
     }
   ],
   "omittedPaths": [],

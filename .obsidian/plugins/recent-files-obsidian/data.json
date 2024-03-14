@@ -1,28 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "06",
-      "path": "Course/极客时间/初级 Golang 工程师/06.md"
+      "basename": "05 微信扫码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
     },
     {
-      "basename": "05-18",
-      "path": "Course/极客时间/初级 Golang 工程师/05-18.md"
+      "basename": "05 接入日志模块和配置模块",
+      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
     },
     {
-      "basename": "05 微信扫码登录",
-      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录.md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "04",
-      "path": "Course/极客时间/初级 Golang 工程师/04.md"
+      "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
     },
     {
       "basename": "03 Session 和 JWT",
@@ -33,16 +21,32 @@
       "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
     },
     {
+      "basename": "02-1 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "17 ElasticSearch 标签服务(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
       "basename": "02-0 笔记",
       "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
     },
     {
       "basename": "面试准备",
       "path": "Challenge/3个月的面试准备/面试准备.md"
-    },
-    {
-      "basename": "02-1 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
     },
     {
       "basename": "01 基础语法",
@@ -67,10 +71,6 @@
     {
       "basename": "14 服务治理",
       "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
-      "basename": "17 ElasticSearch 标签服务",
-      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务.md"
     },
     {
       "basename": "Go 初级工程师(面试题)——答案",

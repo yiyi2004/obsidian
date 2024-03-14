@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "个人技能",
+      "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
+      "basename": "入侵检测系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
+    },
+    {
       "basename": "多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "17 ElasticSearch 标签服务(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "运维系统开发",
+      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
+    },
+    {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "09 榜单模型与分布式任务调度之榜单模型",
+      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
     },
     {
       "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
@@ -45,10 +77,6 @@
       "path": "Coding/Go/深入理解go/Go 锁机制.md"
     },
     {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
@@ -59,10 +87,6 @@
     {
       "basename": "02-2 用户基本功能和 GORM 入门",
       "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
-    },
-    {
-      "basename": "17 ElasticSearch 标签服务(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
     },
     {
       "basename": "06 文本存储和发帖功能",
@@ -97,10 +121,6 @@
       "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题)——答案.md"
     },
     {
-      "basename": "病毒触发软件",
-      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
-    },
-    {
       "basename": "Go 初级工程师(面试题)",
       "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
     },
@@ -125,16 +145,8 @@
       "path": "Be Yourself/简历/面试题/Go/面经收集.md"
     },
     {
-      "basename": "运维系统开发",
-      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
-    },
-    {
       "basename": "日常实习简历优化",
       "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
-    },
-    {
-      "basename": "入侵检测系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
     },
     {
       "basename": "Kafka 八股文",
@@ -187,18 +199,6 @@
     {
       "basename": "DevOps",
       "path": "Coding/Go/DevOps/DevOps.pdf"
-    },
-    {
-      "basename": "Gin 笔记",
-      "path": "Coding/Go/Gin+Vue+微服务/Gin 笔记.md"
-    },
-    {
-      "basename": "gin examples",
-      "path": "Coding/Go/Gin+Vue+微服务/gin examples.md"
-    },
-    {
-      "basename": "CGO 概括",
-      "path": "Coding/Go/Go Pro/CGO/CGO 概括.md"
     }
   ],
   "omittedPaths": [],

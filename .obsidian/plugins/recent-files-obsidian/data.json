@@ -1,28 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "05 微信扫码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
-    },
-    {
-      "basename": "05 接入日志模块和配置模块",
-      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
     },
     {
       "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
     },
     {
+      "basename": "02-1 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "01 基础语法",
+      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "05 微信扫码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
+    },
+    {
+      "basename": "Go 设计模式索引",
+      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "协程池实现",
+      "path": "Coding/Go/并发编程/协程池实现.md"
+    },
+    {
+      "basename": "Go 锁机制",
+      "path": "Coding/Go/深入理解go/Go 锁机制.md"
+    },
+    {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
-      "basename": "02-2 用户基本功能和 GORM 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
+      "basename": "05 接入日志模块和配置模块",
+      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
     },
     {
-      "basename": "02-1 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
+      "basename": "02-2 用户基本功能和 GORM 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
     },
     {
       "basename": "17 ElasticSearch 标签服务(未完成)",
@@ -33,24 +69,12 @@
       "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
       "basename": "02-0 笔记",
       "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
     },
     {
       "basename": "面试准备",
       "path": "Challenge/3个月的面试准备/面试准备.md"
-    },
-    {
-      "basename": "01 基础语法",
-      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
     },
     {
       "basename": "19 Feed 流设计与实现(未完成)",
@@ -69,20 +93,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/16 评论系统(未完成).md"
     },
     {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
       "basename": "Go 初级工程师(面试题)——答案",
       "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题)——答案.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
     },
     {
       "basename": "病毒触发软件",
@@ -93,16 +105,8 @@
       "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
     },
     {
-      "basename": "协程池实现",
-      "path": "Coding/Go/并发编程/协程池实现.md"
-    },
-    {
       "basename": "Go Map 原理",
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
-    },
-    {
-      "basename": "Go 锁机制",
-      "path": "Coding/Go/深入理解go/Go 锁机制.md"
     },
     {
       "basename": "Gin 插件库",
@@ -119,10 +123,6 @@
     {
       "basename": "面经收集",
       "path": "Be Yourself/简历/面试题/Go/面经收集.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "运维系统开发",

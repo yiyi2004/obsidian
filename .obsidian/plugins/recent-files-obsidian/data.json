@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "17 ElasticSearch 标签服务(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+    },
+    {
       "basename": "个人技能",
       "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
     {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+      "basename": "日常实习简历优化",
+      "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
     },
     {
       "basename": "入侵检测系统",
       "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
     },
     {
-      "basename": "17 ElasticSearch 标签服务(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+      "basename": "泛型工具库",
+      "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
     },
     {
       "basename": "病毒触发软件",
@@ -23,6 +31,10 @@
     {
       "basename": "运维系统开发",
       "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
+    },
+    {
+      "basename": "Gin 插件库",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
     },
     {
       "basename": "14 服务治理",
@@ -129,24 +141,12 @@
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
-      "basename": "Gin 插件库",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
-    },
-    {
-      "basename": "泛型工具库",
-      "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
-    },
-    {
       "basename": "Go 面试题",
       "path": "Be Yourself/简历/面试题/Go/Go 面试题.md"
     },
     {
       "basename": "面经收集",
       "path": "Be Yourself/简历/面试题/Go/面经收集.md"
-    },
-    {
-      "basename": "日常实习简历优化",
-      "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
     },
     {
       "basename": "Kafka 八股文",

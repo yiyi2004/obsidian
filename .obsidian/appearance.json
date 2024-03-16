@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 20,
-  "cssTheme": "Spectrum",
+  "baseFontSize": 18,
+  "cssTheme": "Novadust",
   "translucency": true,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "微软雅黑",

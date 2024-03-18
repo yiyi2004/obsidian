@@ -28,8 +28,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
-                "mode": "source",
+                "file": "Be Yourself/简历/简历优化/个人技能.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
+                "file": "Be Yourself/简历/简历优化/个人技能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
+                "file": "Be Yourself/简历/简历优化/个人技能.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
+                "file": "Be Yourself/简历/简历优化/个人技能.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
+                "file": "Be Yourself/简历/简历优化/个人技能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,23 +289,32 @@
   },
   "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Be Yourself/简历/简历优化/日常实习简历优化.md",
+    "Be Yourself/简历/简历.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag).md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
+    "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
+    "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
+    "Cyber Security/认知偏执脆弱性/脚本.md",
+    "Cyber Security/认知偏执脆弱性/架构图.md",
+    "Cyber Security/Deeplocker/认知域XX生成文档.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/ranking.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/comment.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/article.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/follow.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md",
     "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/user.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
     "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
     "Be Yourself/简历/简历优化/个人技能.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/code.md",
-    "Challenge/3个月的面试准备/面试准备.md",
-    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",
@@ -316,15 +325,6 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316112248.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316112111.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316111934.png",
-    "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
-    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Be Yourself/简历/简历优化/日常实习简历优化.md",
-    "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md",
-    "Be Yourself/简历/简历优化/项目总结/泛型工具库.md",
-    "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
-    "Be Yourself/简历/简历优化/项目总结/运维系统开发.md",
-    "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md",
-    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Be Yourself/简历/简历优化/项目总结/Snipaste",
     "Coding/Go/微服务/马士兵教育申专-Go-Micro微服务.pdf",
     "Coding/Go/DevOps/DevOps.pdf",

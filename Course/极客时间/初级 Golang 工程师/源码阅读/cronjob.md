@@ -1,5 +1,19 @@
 ## Domain
 
+message CronJob
+
+```go
+message CronJob {  
+  int64 id = 1;  
+  string name = 2;  
+  string executor = 3;  
+  string cfg = 4;  
+  string expression = 5;  
+  
+  google.protobuf.Timestamp next_time = 6;  
+}
+```
+
 ## Dao
 
 ```go
@@ -43,6 +57,16 @@ func (dao *GORMJobDAO) Preempt(ctx context.Context) (Job, error) {
 - CAS 操作，乐观锁，判断 job 是否被其他协程拿着。
 
 ## Repository
+
+```go
+type CronJobRepository interface {  
+    Preempt(ctx context.Context) (domain.CronJob, error)  
+    UpdateNextTime(ctx context.Context, id int64, t time.Time) error  
+    UpdateUtime(ctx context.Context, id int64) error  
+    Release(ctx context.Context, id int64) error  
+    AddJob(ctx context.Context, j domain.CronJob) error  
+}
+```
 
 ## Service
 
@@ -92,3 +116,5 @@ func (s *cronJobService) Preempt(ctx context.Context) (domain.CronJob, error) {
 }
 
 ```
+
+## Main

@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "interactive(点赞、收藏、阅读)",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
+    },
+    {
+      "basename": "article",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
+    },
+    {
+      "basename": "comment",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment.md"
+    },
+    {
+      "basename": "follow",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow.md"
+    },
+    {
+      "basename": "feed",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md"
+    },
+    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
     },
@@ -13,20 +37,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/user.md"
     },
     {
-      "basename": "article",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
-    },
-    {
       "basename": "cronjob",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
-    },
-    {
-      "basename": "interactive(点赞、收藏、阅读)",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md"
-    },
-    {
-      "basename": "comment",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment.md"
     },
     {
       "basename": "多人博客系统",
@@ -51,10 +63,6 @@
     {
       "basename": "面试准备",
       "path": "Challenge/3个月的面试准备/面试准备.md"
-    },
-    {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "17 ElasticSearch 标签服务(未完成)",
@@ -191,14 +199,6 @@
     {
       "basename": "Kafka 八股文",
       "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/ES/README.md"
-    },
-    {
-      "basename": "Redis",
-      "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
     }
   ],
   "omittedPaths": [],

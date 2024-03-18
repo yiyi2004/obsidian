@@ -100,6 +100,26 @@ func (s *SaramaSyncProducer) ProduceReadEvent(evt ReadEvent) error {
 
 dao
 
+cache
+
+```go
+
+type ArticleCache interface {  
+    // GetFirstPage 只缓存第第一页的数据  
+    // 并且不缓存整个 Content    GetFirstPage(ctx context.Context, author int64) ([]domain.Article, error)  
+    SetFirstPage(ctx context.Context, author int64, arts []domain.Article) error  
+    DelFirstPage(ctx context.Context, author int64) error  
+  
+    Set(ctx context.Context, art domain.Article) error  
+    Get(ctx context.Context, id int64) (domain.Article, error)  
+  
+    // SetPub 正常来说，创作者和读者的 Redis 集群要分开，因为读者是一个核心中的核心  
+    SetPub(ctx context.Context, article domain.Article) error  
+    DelPub(ctx context.Context, id int64) error  
+    GetPub(ctx context.Context, id int64) (domain.Article, error)  
+}
+```
+
 - article_author
 - article_reader
 - entity
@@ -108,6 +128,36 @@ dao
 - mongo
 - s3
 - types
+
+gorm
+
+```go
+func (dao *GORMArticleDAO) SyncStatus(ctx context.Context, author, id int64, status uint8) error {  
+    return dao.db.WithContext(ctx).Transaction(func(tx *gorm.DB) error {  
+       res := tx.Model(&Article{}).  
+          Where("id=? AND author_id = ?", id, author).  
+          Update("status", status)  
+       if res.Error != nil {  
+          return res.Error  
+       }  
+       if res.RowsAffected != 1 {  
+          return ErrPossibleIncorrectAuthor  
+       }  
+  
+       res = tx.Model(&PublishedArticle{}).  
+          Where("id=? AND author_id = ?", id, author).Update("status", status)  
+       if res.Error != nil {  
+          return res.Error  
+       }  
+       if res.RowsAffected != 1 {  
+          return ErrPossibleIncorrectAuthor  
+       }  
+       return nil  
+    })  
+}
+```
+
+- gorm 同步 status 两个库都要修改
 
 bff
 
@@ -175,3 +225,103 @@ func (req ArticleReq) toDTO(uid int64) *articlev1.Article {
     }  
 }
 ```
+
+event
+
+article event:
+
+```go
+const topicReadEvent = "article_read_event"  
+  
+type ReadEvent struct {  
+    Aid int64  
+    Uid int64  
+}  
+  
+type Producer interface {  
+    ProduceReadEvent(evt ReadEvent) error  
+}  
+  
+type SaramaSyncProducer struct {  
+    producer sarama.SyncProducer  
+}  
+  
+func NewSaramaSyncProducer(producer sarama.SyncProducer) Producer {  
+    return &SaramaSyncProducer{  
+       producer: producer,  
+    }  
+}  
+  
+func (s *SaramaSyncProducer) ProduceReadEvent(evt ReadEvent) error {  
+    val, err := json.Marshal(evt)  
+    if err != nil {  
+       return err  
+    }  
+    _, _, err = s.producer.  
+       SendMessage(&sarama.ProducerMessage{  
+          Topic: topicReadEvent,  
+          Value: sarama.ByteEncoder(val),  
+       })  
+    return err  
+}
+```
+
+mysql_binlog_event
+
+```go
+type MySQLBinlogConsumer struct {  
+    client sarama.Client  
+    l      logger.LoggerV1  
+    repo   *repository.CachedArticleRepository  
+}  
+  
+func (r *MySQLBinlogConsumer) Start() error {  
+    cg, err := sarama.NewConsumerGroupFromClient("pub_articles_cache",  
+       r.client)  
+    if err != nil {  
+       return err  
+    }  
+    go func() {  
+       err := cg.Consume(context.Background(),  
+          []string{"webook_binlog"},  
+          saramax.NewHandler[canalx.Message[dao.PublishedArticle]](r.l, r.Consume))  
+       if err != nil {  
+          r.l.Error("退出了消费循环异常", logger.Error(err))  
+       }  
+    }()  
+    return err  
+}  
+  
+func (r *MySQLBinlogConsumer) Consume(msg *sarama.ConsumerMessage,  
+    val canalx.Message[dao.PublishedArticle]) error {  
+    // 因为共用了一个 topic，所以会有很多表的数据，不是自己的就不用管了  
+    if val.Table != "published_articles" {  
+       return nil  
+    }  
+    ctx, cancel := context.WithTimeout(context.Background(), time.Second)  
+    defer cancel()  
+    for _, data := range val.Data {  
+       var err error  
+       switch data.Status {  
+       case domain.ArticleStatusPublished.ToUint8():  
+          err = r.repo.Cache().SetPub(ctx, r.repo.ToDomain(dao.Article(data)))  
+       case domain.ArticleStatusPrivate.ToUint8():  
+          err = r.repo.Cache().DelPub(ctx, data.Id)  
+       }  
+       if err != nil {  
+          return err  
+       }  
+    }  
+    return nil  
+}
+```
+
+监控 binlog 的事件，如果 binlog 发生改变的时候，那接收到事件的时候，就自动更新缓存.
+
+- 如果发布，就会更新
+
+## Canal 的几个配置
+
+1. 配置文件
+2. docker compose
+3. start 消费 binlog 事件

@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "sms",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md"
+    },
+    {
+      "basename": "code",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/code.md"
+    },
+    {
+      "basename": "面试准备",
+      "path": "Challenge/3个月的面试准备/面试准备.md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
       "basename": "17 ElasticSearch 标签服务(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
     },
@@ -109,16 +129,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md"
     },
     {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
-    },
-    {
       "basename": "02-0 笔记",
       "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
-    },
-    {
-      "basename": "面试准备",
-      "path": "Challenge/3个月的面试准备/面试准备.md"
     },
     {
       "basename": "19 Feed 流设计与实现(未完成)",
@@ -187,18 +199,6 @@
     {
       "basename": "kafka connect原理剖析及源码分析",
       "path": "Coding/Go/中间件/消息中间件-Kafka实战/kafka connect原理剖析及源码分析.jpg"
-    },
-    {
-      "basename": "MongoDB 基础教程",
-      "path": "Coding/Go/Database/Mongo/MongoDB 基础教程.md"
-    },
-    {
-      "basename": "PostgreSQL Tutorial",
-      "path": "Coding/Go/Database/PostgreSQL/PostgreSQL Tutorial.md"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Coding/Go/DevOps/DevOps.pdf"
     }
   ],
   "omittedPaths": [],

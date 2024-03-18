@@ -67,7 +67,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "66c7a92dd7633928",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md"
               }
             }
           },
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,8 +287,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "92fece7dd4d2c3fc",
+  "active": "66c7a92dd7633928",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/源码阅读/code.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md",
+    "Challenge/3个月的面试准备/面试准备.md",
+    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
+    "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",
@@ -286,10 +305,8 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316112248.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316112111.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316111934.png",
-    "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316111002.png",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
     "Be Yourself/简历/简历优化/个人技能.md",
     "Be Yourself/简历/简历优化/日常实习简历优化.md",
@@ -308,10 +325,6 @@
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Basic/设计模式/Go 设计模式/Go 设计模式索引.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Coding/Go/并发编程/协程池实现.md",
-    "Coding/Go/深入理解go/Go 锁机制.md",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Be Yourself/简历/简历优化/项目总结/Snipaste",
     "Coding/Go/微服务/马士兵教育申专-Go-Micro微服务.pdf",
     "Coding/Go/DevOps/DevOps.pdf",

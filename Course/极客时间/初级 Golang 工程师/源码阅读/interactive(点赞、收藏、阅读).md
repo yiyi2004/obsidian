@@ -123,3 +123,34 @@ Kafka 的批处理策略提供了一种有效的方法来提高数据处理的�
 - 批处理策略
 - 减少网络请求次数，提高吞吐量
 - Kafka 的批处理策略提供了一种有效的方法来提高数据处理的性能和效率。通过合理配置，开发者可以在保证数据处理能力的同时，优化资源使用，降低系统开销。然而，为了充分利用批处理的优势，需要仔细考虑批次的大小和处理时间，避免过大的批次导致的内存压力和处理延迟。
+
+### Consumer
+
+- 目前还没有用上
+
+## Repository
+
+### Cache
+
+```go
+local key = KEYS[1]  
+local cntKey = ARGV[1]  
+local delta = tonumber(ARGV[2])  
+local exists = redis.call("EXISTS", key)  
+if exists == 1 then  
+    redis.call("HINCRBY", key, cntKey, delta)  
+    -- 说明自增成功了  
+    return 1  
+else  
+    return 0  
+end
+```
+
+- 判断 key 是否存在，然后再进行操作，典型的先查找数据，然后操作数据，存在并发问题。然后使用 lua 脚本解决这个问题。
+
+### Dao
+
+- 双写模式
+- 考虑冲突问题，如果 id 已经存在，那么更新，否则创建一个新的 Read Event
+
+都是比较简单的操作

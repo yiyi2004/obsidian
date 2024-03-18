@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "pkg",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
+    },
+    {
+      "basename": "user",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/user.md"
+    },
+    {
+      "basename": "article",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
+    },
+    {
+      "basename": "cronjob",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
+    },
+    {
+      "basename": "interactive(点赞、收藏、阅读)",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md"
+    },
+    {
+      "basename": "comment",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment.md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
+      "basename": "个人技能",
+      "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
+      "basename": "oauth2",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
+    },
+    {
       "basename": "sms",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md"
     },
@@ -17,10 +57,6 @@
       "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
       "basename": "17 ElasticSearch 标签服务(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
     },
@@ -31,14 +67,6 @@
     {
       "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
-    },
-    {
-      "basename": "个人技能",
-      "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
     {
       "basename": "日常实习简历优化",
@@ -171,34 +199,6 @@
     {
       "basename": "Redis",
       "path": "Coding/Go/Database/Redis/Redis 设计和原理/01-入门篇/代码/Redis注释版/Redis.md"
-    },
-    {
-      "basename": "C 开发环境搭建",
-      "path": "Coding/C&CPP/C 开发环境搭建.md"
-    },
-    {
-      "basename": "builtin",
-      "path": "Coding/Go/标准库的使用/builtin.md"
-    },
-    {
-      "basename": "并发编程",
-      "path": "Coding/Go/并发编程/并发编程.md"
-    },
-    {
-      "basename": "CSP 模型",
-      "path": "Coding/Go/并发编程/CSP 模型.md"
-    },
-    {
-      "basename": "马士兵教育申专-Go-Micro微服务",
-      "path": "Coding/Go/微服务/马士兵教育申专-Go-Micro微服务.pdf"
-    },
-    {
-      "basename": "服务注册与发现",
-      "path": "Coding/Go/微服务/极客时间/服务注册与发现.md"
-    },
-    {
-      "basename": "kafka connect原理剖析及源码分析",
-      "path": "Coding/Go/中间件/消息中间件-Kafka实战/kafka connect原理剖析及源码分析.jpg"
     }
   ],
   "omittedPaths": [],

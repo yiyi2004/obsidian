@@ -1,0 +1,13 @@
+- canalx canal 结构体定义
+- cronjobx 定时任务
+- ginx gin 的 middleware 和请求包装
+- gormx 双写实现，源码比较多和难哦
+- grpcx grpc server 的封装、负载均衡、监控日志等功能的封装
+- logger 日志模块的封装
+- migrator 不懂诶
+- netx 获取 outbound 的 IP
+- ratelimit 滑动窗口算法的封装
+- redisx 给 redis 封装监控 通过 redis.ProcessHook
+- seramax 批处理的方案
+- wego 定义 APP grpcServer 和 WebServer
+- 你可以做到的，晚上发简历

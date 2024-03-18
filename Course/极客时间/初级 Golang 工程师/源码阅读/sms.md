@@ -305,6 +305,7 @@ func (s *Service) AsyncSend() {
        }  
        res := err == nil  
        // 通知 repository 我这一次的执行结果  
+       // mark success or fail
        err = s.repo.ReportScheduleResult(ctx, as.Id, res)  
        if err != nil {  
           s.l.Error("执行异步发送短信成功，但是标记数据库失败",  
@@ -356,6 +357,10 @@ func (s *Service) needAsync() bool {
     return true  
 }
 ```
+
+1. new sevice 的时候开启异步调用
+2. 不断的从数据库中取出是否有，如果有，发送数据
+3. 如果没有，睡眠 1 s
 
 - 同步转异步的方案是什么 (赢得竞争优势)
 

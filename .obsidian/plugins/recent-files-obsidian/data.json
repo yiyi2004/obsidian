@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "follow",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/未命名.md"
+    },
+    {
+      "basename": "pkg",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
+    },
+    {
+      "basename": "多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
+    },
+    {
       "basename": "个人技能",
       "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
@@ -81,24 +101,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
     },
     {
-      "basename": "follow",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "pkg",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
-    },
-    {
       "basename": "user",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/user.md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
     },
     {
       "basename": "oauth2",
@@ -195,10 +199,6 @@
     {
       "basename": "协程池实现",
       "path": "Coding/Go/并发编程/协程池实现.md"
-    },
-    {
-      "basename": "Go 锁机制",
-      "path": "Coding/Go/深入理解go/Go 锁机制.md"
     }
   ],
   "omittedPaths": [],

@@ -214,4 +214,44 @@ func (svc *tagService) AttachTags(ctx context.Context, uid int64, biz string, bi
 }
 ```
 
-异步 attach 标签
+异步贴标签的操作标签。
+
+- 内连接的操作
+
+```go
+func (dao *GORMTagDAO) GetTagsByBiz(ctx context.Context, uid int64, biz string, bizId int64) ([]Tag, error) {
+	// 这边使用 JOIN 查询，如果你不想使用 JOIN 查询，
+	// 你就在 repository 里面分成两次查询
+	// 直接用 preload 特性
+	var res []TagBiz
+	err := dao.db.WithContext(ctx).Model(&TagBiz{}).
+		InnerJoins("Tag", dao.db.Model(&Tag{})).
+		Where("Tag.uid = ? AND biz = ? AND biz_id = ?", uid, biz, bizId).Find(&res).Error
+	return slice.Map(res, func(idx int, src TagBiz) Tag {
+		return *src.Tag
+	}), err
+}
+
+```
+
+## 基础知识
+
+- 只打印 SQL 语句
+
+```go
+func TestGORMTagDAO_GetTagsByBiz(t *testing.T) {
+	// 这里你可以通过查看 SQL 来确定自己写的 JOIN 查询对不对
+	db, err := gorm.Open(sqlite.Open("gorm.db?mode=memory"), &gorm.Config{
+		// 只输出 SQL，不执行查询
+		DryRun: true,
+	})
+	require.NoError(t, err)
+	db = db.Debug()
+	dao := NewGORMTagDAO(db)
+	res, err := dao.GetTagsByBiz(context.Background(), 123, "test", 456)
+	if err != nil {
+		return
+	}
+	t.Log(res)
+}
+```

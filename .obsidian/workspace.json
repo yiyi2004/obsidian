@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md"
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -286,15 +286,22 @@
   },
   "active": "92fece7dd4d2c3fc",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag)(ok.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/article.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
+    "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/comment(ok.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/follow(ok.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/comment(ok.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/code.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/tag(ok.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag)(ok.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/未命名.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/简历优化/项目总结/多人博客系统.md",
@@ -305,13 +312,6 @@
     "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md",
     "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md",
     "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md",
-    "Cyber Security/认知偏执脆弱性/脚本.md",
-    "Cyber Security/认知偏执脆弱性/架构图.md",
-    "Cyber Security/Deeplocker/认知域XX生成文档.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/ranking.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/article.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/user.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",

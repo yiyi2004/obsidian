@@ -1,32 +1,64 @@
 {
   "recentFiles": [
     {
-      "basename": "tag(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md"
+      "basename": "main 相关启动",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
     },
     {
-      "basename": "search(tag)(ok",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag)(ok.md"
+      "basename": "article",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
+    },
+    {
+      "basename": "写代码的技巧",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
+    },
+    {
+      "basename": "总体规划",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
+    },
+    {
+      "basename": "bff",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md"
+    },
+    {
+      "basename": "微服务相关知识",
+      "path": "Course/极客时间/初级 Golang 工程师/微服务相关知识.md"
+    },
+    {
+      "basename": "oauth2",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
     },
     {
       "basename": "interactive(点赞、收藏、阅读)",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md"
     },
     {
+      "basename": "follow(ok",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow(ok.md"
+    },
+    {
       "basename": "feed",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md"
+    },
+    {
+      "basename": "cronjob",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
     },
     {
       "basename": "comment(ok",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment(ok.md"
     },
     {
-      "basename": "follow(ok",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow(ok.md"
+      "basename": "code",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/code.md"
     },
     {
-      "basename": "cronjob",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
+      "basename": "tag(ok",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(ok.md"
+    },
+    {
+      "basename": "search(tag)(ok",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag)(ok.md"
     },
     {
       "basename": "06 文本存储和发帖功能",
@@ -89,28 +121,12 @@
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/ranking.md"
     },
     {
-      "basename": "main 相关启动",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
-    },
-    {
-      "basename": "article",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
-    },
-    {
       "basename": "user",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/user.md"
     },
     {
-      "basename": "oauth2",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
-    },
-    {
       "basename": "sms",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/sms.md"
-    },
-    {
-      "basename": "code",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/code.md"
     },
     {
       "basename": "面试准备",
@@ -183,18 +199,6 @@
     {
       "basename": "Go 设计模式索引",
       "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "协程池实现",
-      "path": "Coding/Go/并发编程/协程池实现.md"
     }
   ],
   "omittedPaths": [],

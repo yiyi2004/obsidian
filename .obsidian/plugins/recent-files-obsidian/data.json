@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "个人技能",
+      "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
       "basename": "病毒触发软件",
       "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "Gosphere 多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
+    },
+    {
+      "basename": "运维系统开发",
+      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
     },
     {
       "basename": "入侵检测系统",
       "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
     },
     {
-      "basename": "Gosphere 多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
     {
       "basename": "写代码的技巧",
@@ -19,10 +31,6 @@
     {
       "basename": "pkg",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
-    },
-    {
-      "basename": "个人技能",
-      "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
     {
       "basename": "总体规划",
@@ -157,10 +165,6 @@
       "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
     },
     {
-      "basename": "运维系统开发",
-      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
-    },
-    {
       "basename": "Gin 插件库",
       "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "05 微信扫码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
-    },
-    {
-      "basename": "Go 设计模式索引",
-      "path": "Basic/设计模式/Go 设计模式/Go 设计模式索引.md"
     }
   ],
   "omittedPaths": [],

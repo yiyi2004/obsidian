@@ -163,3 +163,55 @@ type TagDAO interface {
 	GetTagsById(ctx context.Context, ids []int64) ([]Tag, error)
 }
 ```
+
+## Service
+
+```go
+type TagService interface {
+	CreateTag(ctx context.Context, uid int64, name string) (int64, error)
+	AttachTags(ctx context.Context, uid int64, biz string, bizId int64, tags []int64) error
+	GetTags(ctx context.Context, uid int64) ([]domain.Tag, error)
+	GetBizTags(ctx context.Context, uid int64, biz string, bizId int64) ([]domain.Tag, error)
+}
+```
+
+1. 创建 tag
+2. 为业务添加 tag
+3. 获取某个用户的 tag
+4. 获取某一篇文章的 tags
+
+```go
+func (svc *tagService) AttachTags(ctx context.Context, uid int64, biz string, bizId int64, tags []int64) error {
+	err := svc.repo.BindTagToBiz(ctx, uid, biz, bizId, tags)
+	if err != nil {
+		return err
+	}
+	// 异步发送
+	go func() {
+		ts, err := svc.repo.GetTagsById(ctx, tags)
+		if err != nil {
+			// 记录日志
+		}
+		// 这里要根据 tag_index 的结构来定义
+		// 同样要注意顺序，即同一个用户对同一个资源打标签的顺序，
+		// 是不能乱的
+		pctx, cancel := context.WithTimeout(context.Background(), time.Second)
+		err = svc.producer.ProduceSyncEvent(pctx, events.BizTags{
+			Uid:   uid,
+			Biz:   biz,
+			BizId: bizId,
+			Tags: slice.Map(ts, func(idx int, src domain.Tag) string {
+				return src.Name
+			}),
+		})
+		cancel()
+		if err != nil {
+			// 记录日志
+			svc.logger.Error("发送标签搜索事件失败", logger.Error(err))
+		}
+	}()
+	return err
+}
+```
+
+异步 attach 标签

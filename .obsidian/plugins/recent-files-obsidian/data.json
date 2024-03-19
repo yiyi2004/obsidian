@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "follow",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow.md"
+      "basename": "search(tag)",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag).md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
+      "basename": "interactive(点赞、收藏、阅读)",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md"
     },
     {
-      "basename": "未命名",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/未命名.md"
+      "basename": "tag(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md"
+    },
+    {
+      "basename": "feed",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md"
+    },
+    {
+      "basename": "comment(ok",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment(ok.md"
+    },
+    {
+      "basename": "follow(ok",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/follow(ok.md"
+    },
+    {
+      "basename": "cronjob",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "pkg",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
     },
     {
       "basename": "多人博客系统",
@@ -31,14 +55,6 @@
     {
       "basename": "简历",
       "path": "Be Yourself/简历/简历.md"
-    },
-    {
-      "basename": "search(tag)",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag).md"
-    },
-    {
-      "basename": "tag(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(未完成).md"
     },
     {
       "basename": "自动交互的持续诱捕技术(优化)",
@@ -73,28 +89,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/ranking.md"
     },
     {
-      "basename": "feed",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md"
-    },
-    {
       "basename": "main 相关启动",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
-    },
-    {
-      "basename": "cronjob",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
-    },
-    {
-      "basename": "comment",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment.md"
-    },
-    {
-      "basename": "interactive(点赞、收藏、阅读)",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md"
-    },
-    {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "article",

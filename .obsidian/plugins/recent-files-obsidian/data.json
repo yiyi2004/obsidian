@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "main 相关启动",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
     },
     {
-      "basename": "article",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
+      "basename": "入侵检测系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
+    },
+    {
+      "basename": "Gosphere 多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
     },
     {
       "basename": "写代码的技巧",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
     },
     {
+      "basename": "pkg",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
+    },
+    {
+      "basename": "个人技能",
+      "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
       "basename": "总体规划",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
+    },
+    {
+      "basename": "main 相关启动",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
+    },
+    {
+      "basename": "article",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
     },
     {
       "basename": "bff",
@@ -65,20 +85,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
-      "basename": "pkg",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
-    },
-    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/多人博客系统.md"
-    },
-    {
-      "basename": "个人技能",
-      "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
     {
       "basename": "日常实习简历优化",
@@ -145,16 +153,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
     },
     {
-      "basename": "入侵检测系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
-    },
-    {
       "basename": "泛型工具库",
       "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
-    },
-    {
-      "basename": "病毒触发软件",
-      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
     },
     {
       "basename": "运维系统开发",

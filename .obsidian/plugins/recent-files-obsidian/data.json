@@ -5,16 +5,20 @@
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
     {
+      "basename": "个人技能",
+      "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
+      "basename": "内推",
+      "path": "Be Yourself/简历/简历优化/内推.md"
+    },
+    {
       "basename": "病毒触发软件",
       "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
     },
     {
       "basename": "Gosphere 多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "个人技能",
-      "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
     {
       "basename": "运维系统开发",
@@ -195,10 +199,6 @@
     {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "05 微信扫码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
     }
   ],
   "omittedPaths": [],

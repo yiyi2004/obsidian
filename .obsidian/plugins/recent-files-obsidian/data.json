@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "TODO",
+      "path": "Tasks/TODO.md"
+    },
+    {
+      "basename": "pkg",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
+    },
+    {
+      "basename": "写代码的技巧",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
+    },
+    {
       "basename": "Gosphere 多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
     },
     {
       "basename": "个人技能",
       "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
+      "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
+    },
+    {
+      "basename": "02-1 用户基本功能与 Gin 入门",
+      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "个人信息",
@@ -27,14 +71,6 @@
     {
       "basename": "入侵检测系统",
       "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
-    },
-    {
-      "basename": "写代码的技巧",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
-    },
-    {
-      "basename": "pkg",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
     },
     {
       "basename": "总体规划",
@@ -95,10 +131,6 @@
     {
       "basename": "06 文本存储和发帖功能",
       "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
     },
     {
       "basename": "日常实习简历优化",
@@ -167,38 +199,6 @@
     {
       "basename": "泛型工具库",
       "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
-    },
-    {
-      "basename": "Gin 插件库",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
-    },
-    {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
-      "basename": "13 负载均衡",
-      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
-    },
-    {
-      "basename": "09 榜单模型与分布式任务调度之榜单模型",
-      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
-    },
-    {
-      "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
-    },
-    {
-      "basename": "02-1 用户基本功能与 Gin 入门",
-      "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
-    },
-    {
-      "basename": "01 基础语法",
-      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     }
   ],
   "omittedPaths": [],

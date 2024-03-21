@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
+                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "db58e2aecd947c2a",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,18 +310,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "66c7a92dd7633928",
+  "active": "78e5ca6caaa27978",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
+    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
+    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
+    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
+    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md",
+    "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md",
+    "Course/极客时间/初级 Golang 工程师/02-0 笔记.md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
+    "Be Yourself/简历/面经/Go后端面经.md",
+    "0. 周期性规划.md",
     "Tasks/TODO.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Be Yourself/简历/面经/Go后端面经.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Be Yourself/简历/简历优化/个人技能.md",
-    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/简历优化/个人信息.md",
@@ -329,15 +338,6 @@
     "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
     "Be Yourself/简历/简历优化/项目总结/运维系统开发.md",
     "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/article.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
-    "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/interactive(点赞、收藏、阅读).md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/follow(ok.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",

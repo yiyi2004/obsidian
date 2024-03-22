@@ -94,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+                "file": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "db58e2aecd947c2a",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md"
+                "file": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
+                "file": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
+                "file": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
+                "file": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,14 +310,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f8a58fdf230e75b8",
+  "active": "bba39e012227e56e",
   "lastOpenFiles": [
-    "Be Yourself/简历/简历优化/模拟面试/模拟面试.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
-    "0. 周期性规划.md",
-    "Be Yourself/简历/面经/Go后端面经.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+    "Be Yourself/简历/面经/Go后端面经.md",
+    "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
     "Algorithm/算法总结.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
+    "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
     "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
@@ -338,7 +339,6 @@
     "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/简历优化/个人信息.md",
-    "Be Yourself/简历/简历优化/内推.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",

@@ -70,7 +70,8 @@ JWT 的基本使用方法
 
 ![[Snipaste/Pasted image 20240115163659.png]]
 
-前端每次访问，携带 token  
+前端每次访问，携带 token
+
 ![[Snipaste/Pasted image 20240115163738.png]]
 
 JWT Token 的总结  

@@ -29,7 +29,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+                "file": "Algorithm/算法总结.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -102,7 +102,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "db58e2aecd947c2a",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
+                "file": "0. 周期性规划.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -254,7 +254,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+                "file": "0. 周期性规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,11 +310,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "78e5ca6caaa27978",
+  "active": "66c7a92dd7633928",
   "lastOpenFiles": [
+    "Algorithm/算法总结.md",
+    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+    "Algorithm/HOT100/算法题目总结.md",
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
@@ -336,8 +338,6 @@
     "Be Yourself/简历/简历优化/个人信息.md",
     "Be Yourself/简历/简历优化/内推.md",
     "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
-    "Be Yourself/简历/简历优化/项目总结/运维系统开发.md",
-    "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",

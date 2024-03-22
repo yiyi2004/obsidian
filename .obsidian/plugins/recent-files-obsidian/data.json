@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
       "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
+    },
+    {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
       "basename": "05 接入日志模块和配置模块",
@@ -55,10 +67,6 @@
     {
       "basename": "Go后端面经",
       "path": "Be Yourself/简历/面经/Go后端面经.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
     },
     {
       "basename": "TODO",
@@ -191,14 +199,6 @@
     {
       "basename": "架构图",
       "path": "Cyber Security/认知偏执脆弱性/架构图.md"
-    },
-    {
-      "basename": "认知域XX生成文档",
-      "path": "Cyber Security/Deeplocker/认知域XX生成文档.md"
-    },
-    {
-      "basename": "ranking",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/ranking.md"
     }
   ],
   "omittedPaths": [],

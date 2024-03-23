@@ -113,9 +113,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f0e562854c66102b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.11"
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "db58e2aecd947c2a",
@@ -324,7 +334,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5794a320267150b5",
+  "active": "f0e562854c66102b",
   "lastOpenFiles": [
     "Algorithm/算法总结.md",
     "0. 周期性规划.md",

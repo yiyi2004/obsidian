@@ -1,36 +1,80 @@
 {
   "recentFiles": [
     {
-      "basename": "算法题目总结",
-      "path": "Algorithm/HOT100/算法题目总结.md"
+      "basename": "资料链接——初级 Go 工程师训练营",
+      "path": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
     },
     {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
+      "basename": "微服务相关知识",
+      "path": "Course/极客时间/初级 Golang 工程师/微服务相关知识.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
+      "basename": "19 Feed 流设计与实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md"
     },
     {
-      "basename": "Go后端面经",
-      "path": "Be Yourself/简历/面经/Go后端面经.md"
+      "basename": "18 ELK 和 Canal(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md"
     },
     {
-      "basename": "模拟面试(GPT4)",
-      "path": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md"
+      "basename": "17 ElasticSearch 标签服务(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+    },
+    {
+      "basename": "16 评论系统",
+      "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
+    },
+    {
+      "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
+    },
+    {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "09 榜单模型与分布式任务调度之榜单模型",
+      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+    },
+    {
+      "basename": "08 可观测性 prometheus",
+      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
+    },
+    {
+      "basename": "05 微信扫码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
+    },
+    {
+      "basename": "05 接入日志模块和配置模块",
+      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
+    },
+    {
+      "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
     },
     {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "写代码的技巧",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
-    },
-    {
-      "basename": "bff",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md"
     },
     {
       "basename": "02-2 用户基本功能和 GORM 入门",
@@ -41,44 +85,64 @@
       "path": "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md"
     },
     {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+      "basename": "02-0 笔记",
+      "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
+    },
+    {
+      "basename": "01 基础语法",
+      "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
+    },
+    {
+      "basename": "bff",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md"
+    },
+    {
+      "basename": "article",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
+    },
+    {
+      "basename": "总体规划",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
+    },
+    {
+      "basename": "写代码的技巧",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
+    },
+    {
+      "basename": "模拟面试(GPT4)",
+      "path": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
+    },
+    {
+      "basename": "Go 实战训练营(面试题)",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 实战训练营(面试题).md"
+    },
+    {
+      "basename": "Go 初级工程师(面试题)——答案",
+      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题)——答案.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
+    },
+    {
+      "basename": "算法题目总结",
+      "path": "Algorithm/HOT100/算法题目总结.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
     },
     {
       "basename": "个人技能",
       "path": "Be Yourself/简历/简历优化/个人技能.md"
-    },
-    {
-      "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
-    },
-    {
-      "basename": "05 接入日志模块和配置模块",
-      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
-    },
-    {
-      "basename": "05 微信扫码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
-    },
-    {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
-    },
-    {
-      "basename": "08 可观测性 prometheus",
-      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "09 榜单模型与分布式任务调度之榜单模型",
-      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
-    },
-    {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
-    },
-    {
-      "basename": "02-0 笔记",
-      "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
     },
     {
       "basename": "Gosphere 多人博客系统",
@@ -91,10 +155,6 @@
     {
       "basename": "pkg",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
-    },
-    {
-      "basename": "Go 初级工程师(面试题)",
-      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
     },
     {
       "basename": "面试Checklist",
@@ -121,20 +181,8 @@
       "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
     },
     {
-      "basename": "总体规划",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
-    },
-    {
       "basename": "main 相关启动",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
-    },
-    {
-      "basename": "article",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
-    },
-    {
-      "basename": "微服务相关知识",
-      "path": "Course/极客时间/初级 Golang 工程师/微服务相关知识.md"
     },
     {
       "basename": "oauth2",
@@ -151,54 +199,6 @@
     {
       "basename": "feed",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/feed.md"
-    },
-    {
-      "basename": "cronjob",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/cronjob.md"
-    },
-    {
-      "basename": "comment(ok",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/comment(ok.md"
-    },
-    {
-      "basename": "code",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/code.md"
-    },
-    {
-      "basename": "tag(ok",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/tag(ok.md"
-    },
-    {
-      "basename": "search(tag)(ok",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/search(tag)(ok.md"
-    },
-    {
-      "basename": "日常实习简历优化",
-      "path": "Be Yourself/简历/简历优化/日常实习简历优化.md"
-    },
-    {
-      "basename": "简历",
-      "path": "Be Yourself/简历/简历.md"
-    },
-    {
-      "basename": "自动交互的持续诱捕技术(优化)",
-      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术(优化).md"
-    },
-    {
-      "basename": "自动交互的持续诱捕技术.excalidraw",
-      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续诱捕技术.excalidraw.md"
-    },
-    {
-      "basename": "自动交互的持续部署技术(Chart)",
-      "path": "Cyber Security/认知偏执脆弱性/自动交互的持续部署技术(Chart).md"
-    },
-    {
-      "basename": "认知偏执脆弱性本子",
-      "path": "Cyber Security/认知偏执脆弱性/认知偏执脆弱性本子.md"
-    },
-    {
-      "basename": "脚本",
-      "path": "Cyber Security/认知偏执脆弱性/脚本.md"
     }
   ],
   "omittedPaths": [],

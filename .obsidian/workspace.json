@@ -68,8 +68,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
-                "mode": "source",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": false
               }
@@ -125,7 +125,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       },
       {
         "id": "db58e2aecd947c2a",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md"
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
               }
             }
           }
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,8 +224,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -278,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/HOT100/算法题目总结.md",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -334,35 +333,35 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f0e562854c66102b",
+  "active": "66c7a92dd7633928",
   "lastOpenFiles": [
-    "Algorithm/算法总结.md",
-    "0. 周期性规划.md",
-    "Be Yourself/简历/面经/Go后端面经.md",
-    "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
+    "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
+    "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
+    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
+    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
+    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
+    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
+    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
     "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Be Yourself/简历/简历优化/个人技能.md",
-    "Be Yourself/简历/简历优化/模拟面试",
-    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
-    "Algorithm/HOT100/算法题目总结.md",
-    "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
-    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
-    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Course/极客时间/初级 Golang 工程师/02-0 笔记.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
-    "Tasks/TODO.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md",
-    "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md",
-    "Be Yourself/简历/面试Checklist.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
+    "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/article.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md",
+    "Be Yourself/简历/简历优化/模拟面试",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113531.png",

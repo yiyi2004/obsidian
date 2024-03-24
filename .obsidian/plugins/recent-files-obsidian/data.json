@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "Gosphere 多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
+    },
+    {
+      "basename": "20240324",
+      "path": "Be Yourself/简历/面经/牛客面经搜集/20240324.md"
+    },
+    {
       "basename": "美团",
       "path": "Algorithm/笔试/美团.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "模拟面试(GPT4)",
       "path": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md"
-    },
-    {
-      "basename": "20240324",
-      "path": "Be Yourself/简历/面经/牛客面经搜集/20240324.md"
     },
     {
       "basename": "Go 分布式锁",
@@ -169,20 +177,12 @@
       "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
     {
-      "basename": "Gosphere 多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
       "basename": "TODO",
       "path": "Tasks/TODO.md"
     },
     {
       "basename": "pkg",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/pkg.md"
-    },
-    {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
     {
       "basename": "内推",

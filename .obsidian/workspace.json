@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -76,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "db58e2aecd947c2a",
@@ -89,7 +89,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/笔试/美团.md"
+                "file": "Be Yourself/简历/简历优化/个人信息.md"
               }
             }
           }
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/笔试/美团.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/笔试/美团.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +228,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/笔试/美团.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -284,15 +284,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7799fa7d04feb26c",
+  "active": "e7b1532b8ebc50cc",
   "lastOpenFiles": [
-    "Algorithm/ACM模式—Go.md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
+    "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
     "Algorithm/笔试/美团.md",
+    "Algorithm/ACM模式—Go.md",
     "Algorithm/b",
     "Algorithm/笔试",
     "Algorithm/算法总结.md",
     "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
-    "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
     "Coding/Go/深入理解go/Go 分布式锁.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
@@ -314,7 +315,6 @@
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
-    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Be Yourself/简历/简历优化/模拟面试",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",

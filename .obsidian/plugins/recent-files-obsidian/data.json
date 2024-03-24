@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "ACM模式—Go",
+      "path": "Algorithm/ACM模式—Go.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
+      "basename": "模拟面试(GPT4)",
+      "path": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md"
+    },
+    {
       "basename": "20240324",
       "path": "Be Yourself/简历/面经/牛客面经搜集/20240324.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "Go后端面经",
       "path": "Be Yourself/简历/面经/Go后端面经.md"
-    },
-    {
-      "basename": "模拟面试(GPT4)",
-      "path": "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md"
     },
     {
       "basename": "资料链接——初级 Go 工程师训练营",
@@ -153,10 +161,6 @@
       "path": "Algorithm/HOT100/算法题目总结.md"
     },
     {
-      "basename": "算法总结",
-      "path": "Algorithm/算法总结.md"
-    },
-    {
       "basename": "个人技能",
       "path": "Be Yourself/简历/简历优化/个人技能.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "main 相关启动",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/main 相关启动.md"
-    },
-    {
-      "basename": "oauth2",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
     }
   ],
   "omittedPaths": [],

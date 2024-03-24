@@ -42,7 +42,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
+                "file": "Coding/Go/深入理解go/Go 分布式锁.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7b1532b8ebc50cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -50,7 +63,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "db58e2aecd947c2a",
@@ -63,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md"
+                "file": "Be Yourself/简历/面经/牛客面经搜集/20240324.md"
               }
             }
           }
@@ -111,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
+                "file": "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
+                "file": "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
+                "file": "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,13 +271,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8059dc89b070af1",
+  "active": "e7b1532b8ebc50cc",
   "lastOpenFiles": [
     "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
+    "Coding/Go/深入理解go/Go 分布式锁.md",
+    "0. 周期性规划.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Be Yourself/简历/面经/牛客面经搜集",
     "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
-    "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
@@ -284,9 +300,6 @@
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md",
-    "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md",
-    "Course/极客时间/初级 Golang 工程师/02-0 笔记.md",
     "Be Yourself/简历/简历优化/模拟面试",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",

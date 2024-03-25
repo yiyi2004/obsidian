@@ -6,7 +6,6 @@
       {
         "id": "84ce4d677a8019ca",
         "type": "tabs",
-        "dimension": 77.49500998003992,
         "children": [
           {
             "id": "2fb8472189f15d64",
@@ -37,19 +36,6 @@
             }
           },
           {
-            "id": "b8059dc89b070af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/深入理解go/Go 分布式锁.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e7b1532b8ebc50cc",
             "type": "leaf",
             "state": {
@@ -68,7 +54,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/笔试/美团.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27e155a1e2ccc6af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/深入理解go/Go Channel.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -77,23 +76,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "db58e2aecd947c2a",
-        "type": "tabs",
-        "dimension": 22.50499001996008,
-        "children": [
-          {
-            "id": "6a020e4dd0b166fe",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,6 +172,16 @@
         "type": "tabs",
         "children": [
           {
+            "id": "6a020e4dd0b166fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
+              }
+            }
+          },
+          {
             "id": "6e89884ae49250e2",
             "type": "leaf",
             "state": {
@@ -203,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -254,13 +246,11 @@
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -284,37 +274,76 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "e7b1532b8ebc50cc",
+  "floating": {
+    "id": "afd96aafb496eee3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "c4f0444f5f656d27",
+        "type": "window",
+        "children": [
+          {
+            "id": "2107d762104f9c49",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d3afeda24cdc0d2a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 472,
+        "y": 40,
+        "width": 736,
+        "height": 736,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d3afeda24cdc0d2a",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
+    "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md",
+    "Coding/Go/深入理解go/Go Channel.md",
+    "Course/极客时间/初级 Golang 工程师/02-1 用户基本功能与 Gin 入门.md",
+    "Course/极客时间/初级 Golang 工程师/02-0 笔记.md",
+    "Course/极客时间/初级 Golang 工程师/01 基础语法.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结",
+    "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
+    "Algorithm/笔试/美团.md",
+    "Be Yourself/简历/简历优化/个人信息.md",
+    "0. 周期性规划.md",
+    "Coding/Go/深入理解go/Go 分布式锁.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Be Yourself/简历/面经/牛客面经搜集/20240324.md",
-    "Algorithm/笔试/美团.md",
     "Algorithm/ACM模式—Go.md",
     "Algorithm/b",
     "Algorithm/笔试",
     "Algorithm/算法总结.md",
     "Be Yourself/简历/简历优化/模拟面试/模拟面试(GPT4).md",
-    "Coding/Go/深入理解go/Go 分布式锁.md",
-    "0. 周期性规划.md",
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Be Yourself/简历/面经/牛客面经搜集",
-    "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md",
     "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
-    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
-    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
-    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
-    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
-    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Be Yourself/简历/简历优化/模拟面试",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316114151.png",
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316113855.png",
@@ -331,7 +360,6 @@
     "Coding/Go/DevOps/DevOps.pdf",
     "images",
     "Algorithm/动态规划",
-    "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

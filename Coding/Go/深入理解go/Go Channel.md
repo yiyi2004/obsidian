@@ -106,3 +106,4 @@ type sudog struct {
 
 - [Go 语言 Channel 实现原理精要 | Go 语言设计与实现 (draveness.me)](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/)
 - [【BAT面试题系列】面试官：你了解乐观锁和悲观锁吗？ - 编程迷思 - 博客园 (cnblogs.com)](https://www.cnblogs.com/kismetv/p/10787228.html)
+- [Go 语言 Channel 实现原理精要 | Go 语言设计与实现 (draveness.me)](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/)

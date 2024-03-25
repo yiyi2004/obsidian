@@ -1,8 +1,8 @@
-# 1 awk实践
+## 1 Awk 实践
 
-## 1.1 逻辑控制
+### 1.1 逻辑控制
 
-### 1.1.1 switch条件
+#### 1.1.1 Switch 条件
 
 学习目标
 
@@ -33,7 +33,7 @@
 
 **简单实践**
 
-实践1-简单实践
+实践 1- 简单实践
 
 ```powershell
 无break效果
@@ -77,7 +77,7 @@
 	有了break效果好多了
 ```
 
-实践2-结合文本来进行实践
+实践 2- 结合文本来进行实践
 
 ```powershell
 [root@localhost ~]# awk '{switch (NR % 2) {
@@ -92,8 +92,6 @@
 偶数行:  nihao awk4 awk5 awk6
 奇数行:  nihao awk7 awk8 awk9
 ```
-
-
 
 ```powershell
 定制配置考试成果表
@@ -128,17 +126,13 @@ printf "姓名: %-3s 总分: %4d,状态: %-2s\n",$1,$2+$3+$4,type
 姓名: 赵六  总分:  268,状态: 良好
 ```
 
-
-
 **小结**
 
 ```
 
 ```
 
-
-
-### 1.1.2 for循环
+#### 1.1.2 For 循环
 
 学习目标
 
@@ -171,7 +165,7 @@ for语句简写格式
 
 **简单实践**
 
-实践1-for循环语法
+实践 1-for 循环语法
 
 ```powershell
 普通for循环实践
@@ -193,7 +187,7 @@ awk for循环单行实践
 5050
 ```
 
-实践2-文本实践
+实践 2- 文本实践
 
 ```powershell
 文本信息的基本统计
@@ -225,9 +219,7 @@ awk for循环单行实践
 
 ```
 
-
-
-### 1.1.3 while循环
+#### 1.1.3 While 循环
 
 学习目标
 
@@ -257,11 +249,9 @@ awk for循环单行实践
 	do {条件;...} while(条件)
 ```
 
-
-
 **简单实践**
 
-实践1-while实践
+实践 1-while 实践
 
 ```powershell
 while标准格式
@@ -302,7 +292,7 @@ print sum
 17550
 ```
 
-实践2-dowhile实践
+实践 2-dowhile 实践
 
 ```powershell
 基本格式
@@ -318,15 +308,13 @@ print sum
 5050
 ```
 
-
-
 **小结**
 
 ```
 
 ```
 
-### 1.1.4 流程控制
+#### 1.1.4 流程控制
 
 学习目标
 
@@ -348,7 +336,7 @@ print sum
 
 **简单实践**
 
-实践1-continue实践
+实践 1-continue 实践
 
 ```powershell
 continue输出满足条件的数据
@@ -378,7 +366,7 @@ continue 求奇|偶数和
 2550
 ```
 
-实践2-break实践
+实践 2-break 实践
 
 ```powershell
 continue输出满足条件的数据
@@ -402,7 +390,7 @@ BEGIN{
 2145
 ```
 
-实践3-next实践
+实践 3-next 实践
 
 ```powershell
 查看文件内容
@@ -421,7 +409,7 @@ nihao awk7 awk8 awk9
 
 ```
 
-实践4-nextfile实践
+实践 4-nextfile 实践
 
 ```powershell
 nextfile代表在
@@ -432,7 +420,7 @@ nihao awk1 awk2 awk3
 nihao awk4 awk5 awk6
 ```
 
-实践5-exit实践
+实践 5-exit 实践
 
 ```powershell
 处理一个文件就退出awk程序
@@ -472,9 +460,7 @@ adm:x:3:4:adm:/var/adm:/sbin/nologin
 
  ```
 
-
-
-### 1.1.5 数组实践
+#### 1.1.5 数组实践
 
 学习目标
 
@@ -505,7 +491,7 @@ adm:x:3:4:adm:/var/adm:/sbin/nologin
 
 **简单实践**
 
-实践1-数组简单实践
+实践 1- 数组简单实践
 
 ```powershell
 数组的简单定义和调用
@@ -532,7 +518,7 @@ x
 0
 ```
 
-实践2-数组数据去重
+实践 2- 数组数据去重
 
 ```powershell
 文件内容准备
@@ -555,7 +541,7 @@ cc
 	!array[$0]++ 第一次效果与上面一样，执行到第三行的时候，因为存在array[a]已存在，为真,然后!array[a]为假，不再输出打印当前内容，从而达到去重的效果
 ```
 
-实践3-统计计数
+实践 3- 统计计数
 
 ```powershell
 统计计数
@@ -572,7 +558,7 @@ d 1
 
 ```
 
-### 1.1.6 自定义函数
+#### 1.1.6 自定义函数
 
 学习目标
 
@@ -601,7 +587,7 @@ d 1
 
 **简单实践**
 
-实践1-简单函数实践
+实践 1- 简单函数实践
 
 ```powershell
 [root@localhost ~]# awk '
@@ -625,7 +611,7 @@ BEGIN {
 两值之差为: 10
 ```
 
-实践2-数据统计计算
+实践 2- 数据统计计算
 
 ```powershell
 在之前的案例基础上，进行统计运算每个学生的总分，每个班级的课程总分
@@ -667,9 +653,7 @@ BEGIN {
 
 ```
 
-
-
-### 1.1.7 综合实践
+#### 1.1.7 综合实践
 
 学习目标
 
@@ -768,7 +752,7 @@ done
 ...
 ```
 
-实践1-基本信息统计
+实践 1- 基本信息统计
 
 ```powershell
 查看当前系统的链接状态数量
@@ -802,7 +786,7 @@ iptables -A INPUT -s 10.0.0.1 -j REJECT
 	iptables -D INPUT 1
 ```
 
-实践2-web访问信息统计
+实践 2-web 访问信息统计
 
 ```powershell
 获取客户端ip地址信息
@@ -833,7 +817,7 @@ iptables -A INPUT -s 10.0.0.1 -j REJECT
 /78/ 312
 ```
 
-实践3-脚本信息统计
+实践 3- 脚本信息统计
 
 ```powershell
 查看脚本内容
@@ -930,21 +914,17 @@ echo "TIME-WAIT状态的TCP连接数量：$TIME_WAIT_Total"
 --------------------------------------------
 ```
 
-
-
 **小结**
 
 ```
 
 ```
 
+## 2 变量进阶
 
+### 2.1 变量实践
 
-# 2 变量进阶
-
-## 2.1 变量实践
-
-### 2.1.1 高级赋值
+#### 2.1.1 高级赋值
 
 学习目标
 
@@ -986,7 +966,7 @@ echo "TIME-WAIT状态的TCP连接数量：$TIME_WAIT_Total"
 
 **简单实践**
 
-实践1-字符串截取
+实践 1- 字符串截取
 
 ```powershell
 字符串截取示例
@@ -1016,7 +996,7 @@ access.log
 /var/log/nginx
 ```
 
-实践2-字符串替换
+实践 2- 字符串替换
 
 ```powershell
 字符串替换示例
@@ -1038,7 +1018,7 @@ DIR3@n.txt
 dir1@dir2@dirDIR
 ```
 
-实践3-字符串转换
+实践 3- 字符串转换
 
 ```powershell
 [root@localhost ~]# str="apple, tree, apple tree, apple"
@@ -1050,17 +1030,13 @@ APPLE, TREE, APPLE TREE, APPLE
 apple, tree, apple tree, apple
 ```
 
-
-
 **小结**
 
 ```
 
 ```
 
-
-
-### 2.1.2 嵌套变量
+#### 2.1.2 嵌套变量
 
 学习目标
 
@@ -1144,11 +1120,9 @@ eval原理
 	4 最后执行命令行表面的命令。
 ```
 
-
-
 **简单实践**
 
-实践1-eval简单实践
+实践 1-eval 简单实践
 
 ```powershell
 for循环演示
@@ -1173,7 +1147,7 @@ for循环演示
 		for i in 1 2 3 4 5 6 7 8 9 10
 ```
 
-实践2-eval的命令扩展演示
+实践 2-eval 的命令扩展演示
 
 ```powershell
 查看文件内容
@@ -1198,7 +1172,7 @@ hello-in-world
 hello-in-world
 ```
 
-实践3-eval变量名的预制解析
+实践 3-eval 变量名的预制解析
 
 ```powershell
 定制嵌套的环境变量
@@ -1227,7 +1201,7 @@ hello
 
 ```
 
-### 2.1.3 综合案例
+#### 2.1.3 综合案例
 
 学习目标
 
@@ -1429,4 +1403,3 @@ and check to make sure that only the key(s) you wanted were added.
 ```powershell
 
 ```
-

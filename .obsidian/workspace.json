@@ -49,45 +49,6 @@
             }
           },
           {
-            "id": "e7b1532b8ebc50cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7799fa7d04feb26c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "27e155a1e2ccc6af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/深入理解go/Go Channel.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "cf9605bf71d4b28e",
             "type": "leaf",
             "state": {
@@ -341,12 +302,12 @@
   "active": "02821f445bfe78fe",
   "lastOpenFiles": [
     "Be Yourself/简历/面经/devops 面经.md",
+    "0. 周期性规划.md",
+    "Coding/Shell/课件内容/课件内容/第3天/shell脚本编程实践第3天.md",
     "Be Yourself/简历/简历优化/个人信息.md",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Coding/Go/深入理解go/Go Channel.md",
-    "Coding/Shell/课件内容/课件内容/第3天/shell脚本编程实践第3天.md",
     "Be Yourself/简历/面经/Go后端面经.md",
-    "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",

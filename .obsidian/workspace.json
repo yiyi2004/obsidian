@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
+                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,8 +325,9 @@
       }
     ]
   },
-  "active": "d3afeda24cdc0d2a",
+  "active": "7799fa7d04feb26c",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
@@ -345,7 +346,6 @@
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
     "Coding/Go/深入理解go/Go Channel.md",
     "Coding/Shell/课件内容/课件内容/第3天/shell脚本编程实践第3天.md",
     "Coding/Shell/课件内容/课件内容/第2天/shell脚本编程实践第2天.md",

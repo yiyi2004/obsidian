@@ -23,12 +23,25 @@
             }
           },
           {
-            "id": "e5a4dc9e33a0db90",
+            "id": "02821f445bfe78fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "0. 周期性规划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5a4dc9e33a0db90",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/简历/面经/devops 面经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 379.5
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -190,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
+                "file": "0. 周期性规划.md"
               }
             }
           },
@@ -208,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
+                "file": "0. 周期性规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -325,10 +338,16 @@
       }
     ]
   },
-  "active": "7799fa7d04feb26c",
+  "active": "02821f445bfe78fe",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
+    "Be Yourself/简历/面经/devops 面经.md",
+    "Be Yourself/简历/简历优化/个人信息.md",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
+    "Coding/Go/深入理解go/Go Channel.md",
+    "Coding/Shell/课件内容/课件内容/第3天/shell脚本编程实践第3天.md",
+    "Be Yourself/简历/面经/Go后端面经.md",
+    "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md",
@@ -346,13 +365,7 @@
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md",
-    "Coding/Go/深入理解go/Go Channel.md",
-    "Coding/Shell/课件内容/课件内容/第3天/shell脚本编程实践第3天.md",
     "Coding/Shell/课件内容/课件内容/第2天/shell脚本编程实践第2天.md",
-    "Coding/Shell/课件内容/课件内容/第1天/shell脚本编程实践第1天.md",
-    "Coding/Shell/课件内容/课件内容/第8天/shell脚本编程实践第8天.md",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/02-2 用户基本功能和 GORM 入门.md",
     "Course/极客时间/初级 Golang 工程师/问题总结",
     "Algorithm/b",
     "Algorithm/笔试",

@@ -1,16 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
+      "basename": "20240326",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md"
     },
     {
       "basename": "05 接入日志模块和配置模块",
       "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
     },
     {
+      "basename": "05 微信扫码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
+    },
+    {
+      "basename": "20240328",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
+    },
+    {
+      "basename": "资料链接——初级 Go 工程师训练营",
+      "path": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
+    },
+    {
+      "basename": "20240325",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
       "basename": "Gosphere(star)",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
+    },
+    {
+      "basename": "Gosphere 多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
+    },
+    {
+      "basename": "devops 面经",
+      "path": "Be Yourself/简历/面经/devops 面经.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
     },
     {
       "basename": "个人信息",
@@ -21,32 +53,12 @@
       "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
     },
     {
-      "basename": "Gosphere 多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "20240326",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md"
-    },
-    {
-      "basename": "20240325",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
-    },
-    {
-      "basename": "devops 面经",
-      "path": "Be Yourself/简历/面经/devops 面经.md"
-    },
-    {
       "basename": "04 接口抽象技巧和短信验证码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/04 接口抽象技巧和短信验证码登录(未完成).md"
     },
     {
       "basename": "微服务相关知识",
       "path": "Course/极客时间/初级 Golang 工程师/微服务相关知识.md"
-    },
-    {
-      "basename": "资料链接——初级 Go 工程师训练营",
-      "path": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
     },
     {
       "basename": "shell脚本编程实践第3天",
@@ -105,16 +117,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
     },
     {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
       "basename": "06 文本存储和发帖功能",
       "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
-    },
-    {
-      "basename": "05 微信扫码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
     },
     {
       "basename": "shell脚本编程实践第2天",
@@ -195,10 +199,6 @@
     {
       "basename": "写代码的技巧",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
-    },
-    {
-      "basename": "Go 初级工程师(面试题)",
-      "path": "Be Yourself/简历/面试题/极客时间面试题/Go 初级工程师(面试题).md"
     }
   ],
   "omittedPaths": [],

@@ -9,6 +9,22 @@
       "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
+      "basename": "os",
+      "path": "Coding/Go/标准库的使用/os.md"
+    },
+    {
+      "basename": "DevOps",
+      "path": "Coding/Go/DevOps/DevOps.pdf"
+    },
+    {
+      "basename": "Gin+WebSocket 项目实战IM笔记",
+      "path": "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md"
+    },
+    {
+      "basename": "gomock",
+      "path": "Coding/Go/第三方库/gomock.md"
+    },
+    {
       "basename": "05 微信扫码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "README",
       "path": "Be Yourself/简历/面试题/校招面试/基础面试题/3_分布式锁/README.md"
-    },
-    {
-      "basename": "bff",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/bff.md"
-    },
-    {
-      "basename": "article",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/article.md"
-    },
-    {
-      "basename": "总体规划",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/总体规划.md"
-    },
-    {
-      "basename": "写代码的技巧",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/写代码的技巧.md"
     }
   ],
   "omittedPaths": [],

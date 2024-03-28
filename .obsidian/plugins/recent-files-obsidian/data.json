@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "20240328",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
+      "basename": "ACM模式—Go",
+      "path": "Algorithm/ACM模式—Go.md"
     },
     {
       "basename": "12 服务注册与发现",
       "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "20240328",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
     },
     {
       "basename": "09 榜单模型与分布式任务调度之榜单模型",
@@ -195,10 +199,6 @@
     {
       "basename": "Go 分布式锁",
       "path": "Coding/Go/深入理解go/Go 分布式锁.md"
-    },
-    {
-      "basename": "20240324",
-      "path": "Be Yourself/简历/面经/牛客面经搜集/20240324.md"
     }
   ],
   "omittedPaths": [],

@@ -5,20 +5,28 @@
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md"
     },
     {
-      "basename": "05 接入日志模块和配置模块",
-      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "05 微信扫码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
     },
     {
-      "basename": "20240328",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
+      "basename": "05 接入日志模块和配置模块",
+      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
+    },
+    {
+      "basename": "Gosphere(star)",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
     },
     {
       "basename": "资料链接——初级 Go 工程师训练营",
       "path": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
+    },
+    {
+      "basename": "20240328",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
     },
     {
       "basename": "20240325",
@@ -27,10 +35,6 @@
     {
       "basename": "07 点赞",
       "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "Gosphere(star)",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
     },
     {
       "basename": "Gosphere 多人博客系统",
@@ -115,10 +119,6 @@
     {
       "basename": "08 可观测性 prometheus",
       "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "shell脚本编程实践第2天",

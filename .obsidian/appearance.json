@@ -1,7 +1,7 @@
 {
   "theme": "obsidian",
   "baseFontSize": 16,
-  "cssTheme": "Novadust",
+  "cssTheme": "Obsidian gruvbox",
   "translucency": true,
   "baseFontSizeAction": true,
   "interfaceFontFamily": "微软雅黑",

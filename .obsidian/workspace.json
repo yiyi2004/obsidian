@@ -4,25 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "337686242b0d2435",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c766db5cb2d56e3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "84ce4d677a8019ca",
         "type": "tabs",
         "children": [
@@ -47,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Algorithm/代码随想录/背包问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -151,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Algorithm/代码随想录/背包问题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Algorithm/代码随想录/背包问题.md"
               }
             }
           },
@@ -227,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Algorithm/代码随想录/背包问题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -252,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Algorithm/代码随想录/背包问题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,6 +290,9 @@
   },
   "active": "02821f445bfe78fe",
   "lastOpenFiles": [
+    "0. 周期性规划.md",
+    "Algorithm/代码随想录/背包问题.md",
+    "Algorithm/代码随想录",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
@@ -320,7 +304,6 @@
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Be Yourself/简历/面试Checklist.md",
-    "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Coding/Go/第三方库/canal.md",
@@ -336,7 +319,6 @@
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Course/极客时间/初级 Golang 工程师/问题总结",
     "Algorithm/b",
     "Algorithm/笔试",
@@ -354,7 +336,6 @@
     "Course/极客时间/初级 Golang 工程师/Snipaste/Pasted image 20240316111934.png",
     "Be Yourself/简历/简历优化/项目总结/Snipaste",
     "Coding/Go/微服务/马士兵教育申专-Go-Micro微服务.pdf",
-    "images",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

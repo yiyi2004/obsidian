@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "背包问题",
+      "path": "Algorithm/代码随想录/背包问题.md"
+    },
+    {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "20240324",
       "path": "Be Yourself/简历/面经/牛客面经搜集/20240324.md"
-    },
-    {
-      "basename": "ACM模式—Go",
-      "path": "Algorithm/ACM模式—Go.md"
     }
   ],
   "omittedPaths": [],

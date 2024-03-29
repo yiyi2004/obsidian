@@ -67,20 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "750edd18fa803056",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
               }
             }
           },
@@ -208,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,7 +250,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5
+    "width": 273.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,39 +293,54 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Algorithm/ACM模式—Go.md",
+                    "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "750edd18fa803056",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
                     "mode": "source",
                     "backlinks": false,
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
-        "x": 692,
+        "x": 1365,
         "y": 0,
-        "width": 844,
-        "height": 816,
+        "width": 683,
+        "height": 1104,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "750edd18fa803056",
+  "active": "fcbf842c0dd6467f",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试Checklist.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
-    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Algorithm/ACM模式—Go.md",
-    "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+    "Algorithm/ACM模式—Go.md",
+    "0. 周期性规划.md",
+    "Be Yourself/简历/面试Checklist.md",
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Algorithm/代码随想录/背包问题.md",
-    "0. 周期性规划.md",
     "Algorithm/代码随想录",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
@@ -355,7 +358,6 @@
     "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md",
     "Coding/Go/第三方库",
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Course/极客时间/初级 Golang 工程师/问题总结",
     "Algorithm/b",
     "Algorithm/笔试",

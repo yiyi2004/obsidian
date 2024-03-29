@@ -73,9 +73,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "750edd18fa803056",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期性规划.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/ACM模式—Go.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm/ACM模式—Go.md"
+                "file": "0. 周期性规划.md"
               }
             }
           },
@@ -195,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm/ACM模式—Go.md",
+                "file": "0. 周期性规划.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm/ACM模式—Go.md",
+                "file": "0. 周期性规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -312,8 +325,10 @@
       }
     ]
   },
-  "active": "cfbace6392d1339b",
+  "active": "750edd18fa803056",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试Checklist.md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Algorithm/ACM模式—Go.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
@@ -329,7 +344,6 @@
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Be Yourself/简历/面试Checklist.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Coding/Go/第三方库/canal.md",
@@ -341,7 +355,6 @@
     "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md",
     "Coding/Go/第三方库",
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md",
     "Course/极客时间/初级 Golang 工程师/问题总结",
     "Algorithm/b",

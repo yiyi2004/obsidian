@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "ACM模式—Go",
-      "path": "Algorithm/ACM模式—Go.md"
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "Gosphere(star)",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
     },
     {
       "basename": "12 服务注册与发现",
       "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "ACM模式—Go",
+      "path": "Algorithm/ACM模式—Go.md"
     },
     {
       "basename": "20240328",
@@ -33,10 +45,6 @@
       "path": "Algorithm/代码随想录/背包问题.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
       "basename": "13 负载均衡",
       "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
     },
@@ -55,10 +63,6 @@
     {
       "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
     },
     {
       "basename": "20240326",
@@ -99,10 +103,6 @@
     {
       "basename": "05 微信扫码登录(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
-    },
-    {
-      "basename": "Gosphere(star)",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
     },
     {
       "basename": "资料链接——初级 Go 工程师训练营",

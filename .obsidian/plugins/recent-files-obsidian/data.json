@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
       "basename": "09 榜单模型与分布式任务调度之榜单模型",
       "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
     },
     {
       "basename": "20240329",
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md"
+    },
+    {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "背包问题",
+      "path": "Algorithm/代码随想录/背包问题.md"
     },
     {
       "basename": "20240328",
@@ -21,18 +37,6 @@
       "path": "Algorithm/ACM模式—Go.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
-    },
-    {
       "basename": "08 可观测性 prometheus",
       "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "05 接入日志模块和配置模块",
       "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
-    },
-    {
-      "basename": "背包问题",
-      "path": "Algorithm/代码随想录/背包问题.md"
     },
     {
       "basename": "13 负载均衡",

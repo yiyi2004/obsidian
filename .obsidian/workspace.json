@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
+                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,12 +75,12 @@
             }
           },
           {
-            "id": "510957cf7227c3e6",
+            "id": "06804892a8594e44",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
+                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md"
+                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
+                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
+                "file": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -263,8 +263,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -340,36 +339,36 @@
       }
     ]
   },
-  "active": "fcbf842c0dd6467f",
+  "active": "06804892a8594e44",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
+    "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结/23240330.md",
+    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
     "0. 周期性规划.md",
-    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Be Yourself/简历/面试Checklist.md",
     "Algorithm/代码随想录/背包问题.md",
+    "Be Yourself/简历/面经/devops 面经.md",
+    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Algorithm/ACM模式—Go.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Algorithm/代码随想录",
-    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
-    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
-    "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Coding/Go/第三方库/canal.md",
     "Coding/Go/第三方库/snowflake.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/webook 数据表.md",
-    "Coding/Go/第三方库/gomock.md",
-    "Coding/Go/标准库的使用/os.md",
     "Coding/Go/DevOps/DevOps.pdf",
-    "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md",
     "Coding/Go/第三方库",
     "Course/极客时间/初级 Golang 工程师/问题总结",
     "Algorithm/b",

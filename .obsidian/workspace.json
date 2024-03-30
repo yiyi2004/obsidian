@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,8 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -191,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md"
               }
             }
           },
@@ -209,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -234,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -332,9 +331,9 @@
           }
         ],
         "direction": "vertical",
-        "x": 1365,
+        "x": 1364,
         "y": 0,
-        "width": 683,
+        "width": 688,
         "height": 1104,
         "maximize": false,
         "zoom": 0
@@ -343,8 +342,10 @@
   },
   "active": "fcbf842c0dd6467f",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
+    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
     "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Be Yourself/简历/面试Checklist.md",
@@ -353,7 +354,6 @@
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Algorithm/ACM模式—Go.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Algorithm/代码随想录",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
@@ -371,7 +371,6 @@
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md",
     "Coding/Go/第三方库",
-    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/问题总结",
     "Algorithm/b",
     "Algorithm/笔试",

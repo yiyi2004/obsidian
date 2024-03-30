@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "20240329",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md"
+      "basename": "源码阅读(问题总结)",
+      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
     },
     {
       "basename": "09 榜单模型与分布式任务调度之榜单模型",
       "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+    },
+    {
+      "basename": "20240329",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md"
     },
     {
       "basename": "0. 周期性规划",
@@ -39,10 +47,6 @@
     {
       "basename": "08 可观测性 prometheus",
       "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
     },
     {
       "basename": "05 接入日志模块和配置模块",
@@ -195,10 +199,6 @@
     {
       "basename": "01 基础语法",
       "path": "Course/极客时间/初级 Golang 工程师/01 基础语法.md"
-    },
-    {
-      "basename": "美团",
-      "path": "Algorithm/笔试/美团.md"
     }
   ],
   "omittedPaths": [],

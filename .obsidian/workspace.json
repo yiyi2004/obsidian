@@ -325,15 +325,14 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1364,
-        "y": 0,
-        "width": 688,
-        "height": 1104,
+        "x": 30,
+        "y": 28,
+        "width": 694,
+        "height": 816,
         "maximize": false,
         "zoom": 0
       }
@@ -341,13 +340,14 @@
   },
   "active": "06804892a8594e44",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
+    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/23240330.md",
-    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
@@ -356,7 +356,6 @@
     "Algorithm/代码随想录/背包问题.md",
     "Be Yourself/简历/面经/devops 面经.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Algorithm/ACM模式—Go.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",

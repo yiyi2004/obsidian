@@ -106,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,8 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Be Yourself/简历/面经/Go后端面经.md"
               }
             }
           },
@@ -235,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -260,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Be Yourself/简历/面经/Go后端面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -357,25 +356,26 @@
         ],
         "direction": "vertical",
         "x": 488,
-        "y": 206,
+        "y": 205,
         "width": 704,
-        "height": 810,
+        "height": 815,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "672871c5620e6d5c",
+  "active": "030845cdd4535001",
   "lastOpenFiles": [
-    "Coding/Go/深入理解go/Go Channel.md",
+    "Be Yourself/简历/面试题/Go/面经收集.md",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
+    "Coding/Go/深入理解go/Go Channel.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240401163541.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240401163423.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240401163354.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240401163201.png",
-    "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
     "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
@@ -397,7 +397,6 @@
     "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md",
     "Algorithm/代码随想录",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/第三方库",
     "Course/极客时间/初级 Golang 工程师/问题总结",

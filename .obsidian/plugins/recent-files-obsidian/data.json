@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "20240328",
+      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
+    },
+    {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
       "basename": "数据表",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md"
     },
@@ -25,10 +41,6 @@
       "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
     },
     {
-      "basename": "20240328",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
-    },
-    {
       "basename": "16 评论系统",
       "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
     },
@@ -37,24 +49,12 @@
       "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
     },
     {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
-    },
-    {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
-    },
-    {
       "basename": "09 榜单模型与分布式任务调度之榜单模型",
       "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
     },
     {
       "basename": "23240330",
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/23240330.md"
-    },
-    {
-      "basename": "13 负载均衡",
-      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
     },
     {
       "basename": "20240329",

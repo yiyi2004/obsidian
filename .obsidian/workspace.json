@@ -106,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
+                "file": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md"
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
+                "file": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -364,10 +364,13 @@
       }
     ]
   },
-  "active": "030845cdd4535001",
+  "active": "cfbace6392d1339b",
   "lastOpenFiles": [
-    "0. 周期性规划.md",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
+    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
+    "0. 周期性规划.md",
     "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
     "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面经/devops 面经.md",
@@ -375,11 +378,8 @@
     "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
-    "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/23240330.md",
-    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
     "Algorithm/代码随想录/背包问题.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",

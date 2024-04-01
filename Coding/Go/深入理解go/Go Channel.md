@@ -102,6 +102,17 @@ type sudog struct {
 }
 ```
 
+1. buf
+2. sendx
+3. recvx
+4. lock
+5. revq
+6. sendq sudog 的抽象 goroutine 的抽象
+7. 创建开始
+8. send(ch <- xxx) recv(<-ch)
+9. 当 channel 缓存满了会怎样
+10. 先写会怎样
+
 ## Reference
 
 - [Go 语言 Channel 实现原理精要 | Go 语言设计与实现 (draveness.me)](https://draveness.me/golang/docs/part3-runtime/ch06-concurrency/golang-channel/)

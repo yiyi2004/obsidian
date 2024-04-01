@@ -99,7 +99,33 @@
 
 ![[Snipaste/Pasted image 20240129141016.png]]
 
+## sync.Map 原理
+
+Golang sync.Map 原理（两个 map 实现 读写分离、适用读多写少场景）
+
+1. 通过 read 和 dirty 两个字段实现数据的**读写分离**，读的数据存在只读字段 read 上，将最新写入的数据则存在 dirty 字段上
+2. 读取时会先查询 read，不存在再查询 dirty，写入时则只写入 dirty
+3. 读取 read 并不需要加锁，而 _ 读或写 dirty 则需要加锁 _
+4. 另外有 **_misses_** 字段来统计 read 被穿透的次数（被穿透指需要读 dirty 的情况），超过一定次数则将 dirty 数据更新到 read 中（触发条件：misses=len(dirty)）
+
+![[Snipaste/Pasted image 20240401163201.png]]
+
+### Load 查询操作
+
+![[Snipaste/Pasted image 20240401163354.png]]
+
+### Delete 操作
+
+![[Snipaste/Pasted image 20240401163423.png]]
+
+### Store 操作
+
+![[Snipaste/Pasted image 20240401163541.png]]
+
+通过阅读源码我们发现 sync.Map 是通过冗余的两个数据结构 (read、dirty),实现性能的提升。为了提升性能，load、delete、store 等操作尽量使用只读的 read；为了提高 read 的 key 击中概率，采用**动态调整**，将 dirty 数据提升为 read；对于数据的删除，采用**延迟标记删除法**，_只有在提升 dirty 的时候才删除_。
+
 ## Reference
 
 - [map 的实现原理 | Go 程序员面试笔试宝典 (golang.design)](https://golang.design/go-questions/map/principal/)
 - [golang map详细讲解与常见面试题解答_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ng411v7uE/?spm_id_from=333.337.search-card.all.click&vd_source=25509bb582bc4a25d86d871d5cdffca3)
+- [Golang sync.Map 原理（两个map实现 读写分离、适用读多写少场景）-阿里云开发者社区 (aliyun.com)](https://developer.aliyun.com/article/1172753)

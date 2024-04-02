@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "devops 面经",
+      "path": "Be Yourself/简历/面经/devops 面经.md"
     },
     {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
       "basename": "个人技能",
@@ -41,20 +53,8 @@
       "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
       "basename": "背包问题",
       "path": "Algorithm/代码随想录/背包问题.md"
-    },
-    {
-      "basename": "devops 面经",
-      "path": "Be Yourself/简历/面经/devops 面经.md"
     },
     {
       "basename": "Go后端面经",

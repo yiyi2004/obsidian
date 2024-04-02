@@ -93,7 +93,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Cloud Native/Prometheus/Prometheus.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. 周期性规划.md"
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. 周期性规划.md",
+                "file": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -361,22 +361,25 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 488,
-        "y": 204,
-        "width": 704,
-        "height": 816,
+        "x": 420,
+        "y": 98,
+        "width": 705,
+        "height": 817,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "672871c5620e6d5c",
+  "active": "cfbace6392d1339b",
   "lastOpenFiles": [
+    "Cloud Native/Prometheus/Prometheus.md",
+    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
+    "0. 周期性规划.md",
     "Be Yourself/简历/面经/devops 面经.md",
     "Be Yourself/简历/简历优化/个人信息.md",
     "Be Yourself/简历/面试Checklist.md",
@@ -389,7 +392,6 @@
     "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md",
     "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
-    "0. 周期性规划.md",
     "Algorithm/代码随想录/背包问题.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Be Yourself/简历/面试题/Go/面经收集.md",
@@ -404,9 +406,6 @@
     "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md",
-    "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "Algorithm/代码随想录",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/第三方库",

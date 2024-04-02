@@ -1,6 +1,62 @@
 {
   "recentFiles": [
     {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "个人技能",
+      "path": "Be Yourself/简历/简历优化/个人技能.md"
+    },
+    {
+      "basename": "Gosphere(star)",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
+    },
+    {
+      "basename": "Gosphere 多人博客系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
+    },
+    {
+      "basename": "运维系统开发",
+      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
+    },
+    {
+      "basename": "入侵检测系统",
+      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
+    },
+    {
+      "basename": "泛型工具库",
+      "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
+    },
+    {
+      "basename": "病毒触发软件",
+      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
+    },
+    {
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
+      "basename": "0. 周期性规划",
+      "path": "0. 周期性规划.md"
+    },
+    {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
+      "basename": "背包问题",
+      "path": "Algorithm/代码随想录/背包问题.md"
+    },
+    {
+      "basename": "devops 面经",
+      "path": "Be Yourself/简历/面经/devops 面经.md"
+    },
+    {
       "basename": "Go后端面经",
       "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
@@ -13,20 +69,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
     },
     {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
-    },
-    {
       "basename": "10 微服务基本理论",
       "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
-    },
-    {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
     },
     {
       "basename": "Go Channel",
@@ -57,14 +101,6 @@
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md"
     },
     {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "devops 面经",
-      "path": "Be Yourself/简历/面经/devops 面经.md"
-    },
-    {
       "basename": "16 评论系统",
       "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
     },
@@ -81,16 +117,8 @@
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/23240330.md"
     },
     {
-      "basename": "背包问题",
-      "path": "Algorithm/代码随想录/背包问题.md"
-    },
-    {
       "basename": "07 点赞",
       "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "Gosphere(star)",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
     },
     {
       "basename": "ACM模式—Go",
@@ -157,14 +185,6 @@
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
     },
     {
-      "basename": "Gosphere 多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
-    },
-    {
       "basename": "Gin 插件库",
       "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "shell脚本编程实践第3天",
       "path": "Coding/Shell/课件内容/课件内容/第3天/shell脚本编程实践第3天.md"
-    },
-    {
-      "basename": "19 Feed 流设计与实现(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md"
-    },
-    {
-      "basename": "18 ELK 和 Canal(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/18 ELK 和 Canal(未完成).md"
-    },
-    {
-      "basename": "shell脚本编程实践第2天",
-      "path": "Coding/Shell/课件内容/课件内容/第2天/shell脚本编程实践第2天.md"
-    },
-    {
-      "basename": "shell脚本编程实践第1天",
-      "path": "Coding/Shell/课件内容/课件内容/第1天/shell脚本编程实践第1天.md"
-    },
-    {
-      "basename": "shell脚本编程实践第8天",
-      "path": "Coding/Shell/课件内容/课件内容/第8天/shell脚本编程实践第8天.md"
     }
   ],
   "omittedPaths": [],

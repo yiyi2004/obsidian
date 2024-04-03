@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "09 榜单模型与分布式任务调度之榜单模型",
+      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+    },
+    {
+      "basename": "03 Session 和 JWT",
+      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
+    },
+    {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
+    },
+    {
+      "basename": "05 微信扫码登录(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
+    },
+    {
+      "basename": "02-0 笔记",
+      "path": "Course/极客时间/初级 Golang 工程师/02-0 笔记.md"
+    },
+    {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "Go后端面经",
+      "path": "Be Yourself/简历/面经/Go后端面经.md"
+    },
+    {
+      "basename": "Prometheus",
+      "path": "Cloud Native/Prometheus/Prometheus.md"
+    },
+    {
+      "basename": "devops 面经",
+      "path": "Be Yourself/简历/面经/devops 面经.md"
+    },
+    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
@@ -9,20 +53,8 @@
       "path": "Be Yourself/简历/简历.md"
     },
     {
-      "basename": "03 Session 和 JWT",
-      "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
       "basename": "面试Checklist",
       "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "Prometheus",
-      "path": "Cloud Native/Prometheus/Prometheus.md"
-    },
-    {
-      "basename": "05 微信扫码登录(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md"
     },
     {
       "basename": "oauth2",
@@ -31,10 +63,6 @@
     {
       "basename": "0. 周期性规划",
       "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "devops 面经",
-      "path": "Be Yourself/简历/面经/devops 面经.md"
     },
     {
       "basename": "个人技能",
@@ -73,20 +101,12 @@
       "path": "Algorithm/代码随想录/背包问题.md"
     },
     {
-      "basename": "Go后端面经",
-      "path": "Be Yourself/简历/面经/Go后端面经.md"
-    },
-    {
       "basename": "面经收集",
       "path": "Be Yourself/简历/面试题/Go/面经收集.md"
     },
     {
       "basename": "17 ElasticSearch 标签服务(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
-    },
-    {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
     },
     {
       "basename": "Go Channel",
@@ -99,10 +119,6 @@
     {
       "basename": "20240328",
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
-    },
-    {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
     },
     {
       "basename": "13 负载均衡",
@@ -119,14 +135,6 @@
     {
       "basename": "16 评论系统",
       "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
-    },
-    {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
-      "basename": "09 榜单模型与分布式任务调度之榜单模型",
-      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
     },
     {
       "basename": "23240330",
@@ -155,10 +163,6 @@
     {
       "basename": "20240326",
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md"
-    },
-    {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "canal",
@@ -195,10 +199,6 @@
     {
       "basename": "20240325",
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
-    },
-    {
-      "basename": "Gin 插件库",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md"
     }
   ],
   "omittedPaths": [],

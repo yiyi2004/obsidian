@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "HTTP 标准库实现原理",
+      "path": "Coding/Go/深入理解go/HTTP 标准库实现原理.md"
+    },
+    {
       "basename": "sync.Map",
       "path": "Coding/Go/深入理解go/sync.Map.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ACM模式—Go",
       "path": "Algorithm/ACM模式—Go.md"
-    },
-    {
-      "basename": "08 可观测性 prometheus",
-      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
     }
   ],
   "omittedPaths": [],

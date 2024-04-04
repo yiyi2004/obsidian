@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "Kafka一小时入门精讲课程",
+      "path": "Cloud Native/MQ/Kafka/Kafka一小时入门精讲课程.md"
+    },
+    {
+      "basename": "gin 原理",
+      "path": "Coding/Go/第三方库/gin 原理.md"
+    },
+    {
+      "basename": "canal",
+      "path": "Coding/Go/第三方库/canal.md"
+    },
+    {
+      "basename": "Gin 面试题",
+      "path": "Be Yourself/简历/面试题/Go/Gin 面试题.md"
+    },
+    {
+      "basename": "Gin 笔记",
+      "path": "Coding/Go/Gin+Vue+微服务/Gin 笔记.md"
+    },
+    {
       "basename": "14 服务治理",
       "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
     },
@@ -165,10 +189,6 @@
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md"
     },
     {
-      "basename": "canal",
-      "path": "Coding/Go/第三方库/canal.md"
-    },
-    {
       "basename": "snowflake",
       "path": "Coding/Go/第三方库/snowflake.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "gomock",
       "path": "Coding/Go/第三方库/gomock.md"
-    },
-    {
-      "basename": "os",
-      "path": "Coding/Go/标准库的使用/os.md"
-    },
-    {
-      "basename": "DevOps",
-      "path": "Coding/Go/DevOps/DevOps.pdf"
-    },
-    {
-      "basename": "Gin+WebSocket 项目实战IM笔记",
-      "path": "Coding/Go/IM/Gin+WebSocket 项目实战IM笔记.md"
-    },
-    {
-      "basename": "资料链接——初级 Go 工程师训练营",
-      "path": "Course/极客时间/初级 Golang 工程师/资料链接——初级 Go 工程师训练营.md"
-    },
-    {
-      "basename": "20240325",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240325.md"
     }
   ],
   "omittedPaths": [],

@@ -53,3 +53,132 @@ ZooKeeper 是一个开源的分布式协调服务，它是 Apache 软件基金�
 6. Leader 选举： 在 ZooKeeper 集群中，ZAB（ZooKeeper Atomic Broadcast）协议用于选举 Leader 节点，Leader 负责处理所有客户端的写请求，并将更改广播给其他 Follower 节点。  
 
 通过这些功能，ZooKeeper 可以帮助分布式系统实现一致性和可靠性的数据管理，以及实现分布式节点之间的协调和通信。它成为构建分布式系统和服务的重要基础设施，并被广泛用于诸如分布式数据库、分布式缓存、分布式计算等各种分布式应用中。
+
+## Kafka 面试题
+
+### 消费积压
+
+产生原因：
+
+1. 发送方发送消息过快、接收方处理消息太慢，导致消息积压
+2. 处理格式问题，接收方不知道 | bug
+
+解决方案
+
+1. 提高消费者的消费能力，多个 goroutine 进行处理
+2. 转发 其他 topic 多个 partition 然后多个消费者进行处理
+3. 将消息转发到其他队列里面，然后进行分析
+
+## 重复消费
+
+产生原因：
+
+1. 发送方发送消息，但是没有收到 ACK，导致又发了一条
+2. 接收方手动提交
+
+解决方案：
+
+1. 消费幂等
+	1. 分布式锁
+	2. MySQL 主键判断
+
+## 消息丢失
+
+产生原因：
+
+1. ack 参数
+	1. ack = 0
+	2. ack = 1 写入 | 从节点没同步，主节点挂了，消息丢失
+	3. ack = -1 很少会丢数据
+2. 消费端：自动提交，消费只要到了消费者这里，broker 就提交了，消费端宕机了，设置手动提交。
+
+## 对比
+
+1. Kafka
+2. ActiveMQ
+3. RabbitMQ
+4. RocketMQ
+
+![[Snipaste/Pasted image 20240404142332.png]]
+
+## Kafka 的 Pull 和 Push 的优缺点
+
+pull 不实时
+
+push 实时的，消费者的压力很大  
+![[Snipaste/Pasted image 20240404142513.png]]
+
+## 高性能
+
+1. 零拷贝
+2. 顺序写
+
+![[Snipaste/Pasted image 20240404142716.png]]
+
+1. 零拷贝：
+2. 顺序写：预读机制、磁头、磁盘
+
+## Pull Push
+
+![[Snipaste/Pasted image 20240404143120.png]]
+
+1. pulll 可以控制速率
+2. pull1 条 or 多条
+3. 手动提交
+4. kafka 没有数据，空循环，消耗资源
+5. 通过参数配置，如果 consumer 拉去数据为空或者没有达到一定数量，会进行阻塞
+
+push
+
+1. 不会导致 consumer 循环等待
+2. 速率不固定，consumer 消费能力不知道
+
+## 消息丢失
+
+1. 发送方从 ack 的三个角度去考虑
+2. ISR zk 中
+3. ack = 2 至少同步到一个从节点
+
+![[Snipaste/Pasted image 20240404143641.png]]
+
+- tries > 1
+- 同步副本数量
+- 不能从 OSR 中进行选举
+- min.insync.replicas 最小同步数量
+- 失败的 offset 单独处理
+
+### 消费端
+
+1. 先 offset，消息丢失
+2. 先处理消息，再 commit，重复消费的情况 —— 消息幂等进行处理
+
+保证接口的幂等性，保证处理是一致的。
+
+### Broker 的刷盘
+
+page cache ——
+
+- 减小刷盘时间
+
+## 高可靠的解决方案
+
+![[Snipaste/Pasted image 20240404144407.png]]
+
+![[Snipaste/Pasted image 20240404144624.png]]
+
+## 事务消息
+
+## Zk 的作用
+
+集群的管理功能：
+
+## 高性能原因
+
+读写能力
+
+## 副本同步机制
+
+1. leader 处理读写请求
+2. follower 只数据同步
+3. LEO
+4. HW 前面的可以被xiao'f

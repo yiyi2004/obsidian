@@ -181,4 +181,25 @@ page cache ——
 1. leader 处理读写请求
 2. follower 只数据同步
 3. LEO
-4. HW 前面的可以被xiao'f
+4. HW 前面的可以被消费
+5. 事务消息，如果 uncommit
+
+![[Snipaste/Pasted image 20240404145525.png]]
+
+![[Snipaste/Pasted image 20240404145551.png]]
+
+- 事务处理
+- 最小的 HW，只能从这里开始消费
+
+1. leader 接收
+2. 更新本地 LEO
+3. follower fetch 同步数据，通知 leader LEO
+4. 最小的 LEO 是 HW
+5. HW 给 follower
+6. remote follower 接收到 HW 和 LEO，取最小的作为自己的 HW
+7. 同步数据 LEO+1
+8. 如果 follower
+
+## Kafka Rebalance 机制
+
+## Kafka 的架构

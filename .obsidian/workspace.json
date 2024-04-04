@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Coding/Go/深入理解go/sync.Map.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Coding/Go/深入理解go/sync.Map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+                "file": "Coding/Go/深入理解go/sync.Map.md"
               }
             }
           },
@@ -234,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Coding/Go/深入理解go/sync.Map.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Coding/Go/深入理解go/sync.Map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -315,20 +315,26 @@
   },
   "active": "64c22f554f524259",
   "lastOpenFiles": [
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161110.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161052.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161019.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240404160917.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240404160210.png",
+    "Coding/Go/深入理解go/GMP 原理.md",
+    "Coding/Go/深入理解go/sync.Map.md",
+    "Coding/Go/深入理解go/Slice 原理.md",
+    "Be Yourself/简历/面试题/Redis 面试题.md",
+    "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md",
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+    "Coding/Go/深入理解go/Go Slice.md",
+    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404145551.png",
+    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404145525.png",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404144624.png",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404144407.png",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404143641.png",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404143120.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404142716.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404142513.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404142332.png",
     "Cloud Native/MQ/Kafka/Kafka一小时入门精讲课程.md",
-    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Coding/Go/第三方库/gin 原理.md",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240404140709.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240404135746.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240404134752.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240404133706.png",
     "Coding/Go/第三方库/Snipaste",
     "Coding/Go/第三方库/canal.md",
     "Be Yourself/简历/面试题/Go/Gin 面试题.md",
@@ -346,12 +352,6 @@
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
     "Course/极客时间/初级 Golang 工程师/02-0 笔记.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
-    "Be Yourself/简历/简历.md",
-    "Be Yourself/简历/面试Checklist.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md",
-    "0. 周期性规划.md",
-    "Be Yourself/简历/简历优化/个人技能.md",
     "Algorithm/代码随想录",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/第三方库",

@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "sync.Map",
+      "path": "Coding/Go/深入理解go/sync.Map.md"
+    },
+    {
+      "basename": "GMP 原理",
+      "path": "Coding/Go/深入理解go/GMP 原理.md"
+    },
+    {
+      "basename": "Slice 原理",
+      "path": "Coding/Go/深入理解go/Slice 原理.md"
+    },
+    {
+      "basename": "Redis 面试题",
+      "path": "Be Yourself/简历/面试题/Redis 面试题.md"
+    },
+    {
+      "basename": "8. Redis面试题",
+      "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
+    },
+    {
       "basename": "Kafka 八股文",
       "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "Go Slice",
+      "path": "Coding/Go/深入理解go/Go Slice.md"
     },
     {
       "basename": "Kafka一小时入门精讲课程",
@@ -175,30 +199,6 @@
     {
       "basename": "08 可观测性 prometheus",
       "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "05 接入日志模块和配置模块",
-      "path": "Course/极客时间/初级 Golang 工程师/05 接入日志模块和配置模块.md"
-    },
-    {
-      "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
-    },
-    {
-      "basename": "20240326",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240326.md"
-    },
-    {
-      "basename": "snowflake",
-      "path": "Coding/Go/第三方库/snowflake.md"
-    },
-    {
-      "basename": "webook 数据表",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/webook 数据表.md"
-    },
-    {
-      "basename": "gomock",
-      "path": "Coding/Go/第三方库/gomock.md"
     }
   ],
   "omittedPaths": [],

@@ -28,33 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm/代码随想录/背包问题.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a4dc9e33a0db90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/简历/面经/devops 面经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "64c22f554f524259",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coding/Go/深入理解go/HTTP 标准库实现原理.md",
+                "file": "Be Yourself/简历/面试题/ES/ES 倒排索引.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -114,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/深入理解go/HTTP 标准库实现原理.md",
+                "file": "Be Yourself/简历/面试题/ES/ES 倒排索引.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/深入理解go/HTTP 标准库实现原理.md"
+                "file": "Be Yourself/简历/面试题/ES/ES 倒排索引.md"
               }
             }
           },
@@ -234,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/深入理解go/HTTP 标准库实现原理.md",
+                "file": "Be Yourself/简历/面试题/ES/ES 倒排索引.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/深入理解go/HTTP 标准库实现原理.md",
+                "file": "Be Yourself/简历/面试题/ES/ES 倒排索引.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -313,10 +287,25 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "64c22f554f524259",
+  "active": "02821f445bfe78fe",
   "lastOpenFiles": [
-    "Coding/Go/深入理解go/sync.Map.md",
+    "Be Yourself/简历/面试题/ES/README.md",
+    "Be Yourself/简历/面试题/ES/ES 倒排索引.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Cloud Native/ELK/elasticsearch.md",
+    "Algorithm/代码随想录/背包问题.md",
+    "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md",
+    "Be Yourself/简历/面经/devops 面经.md",
+    "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/代码.md",
+    "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-4~3-5 Trie以及FST原理.jpg",
+    "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-2~3-3 FOR和RBM压缩算法.jpg",
+    "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
+    "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg",
+    "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引1.jpg",
+    "Coding/Go/中间件/Elasticsearch/11-模糊查询/11-模糊查询/笔记/模糊查询和智能搜索推荐_笔记.md",
+    "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
     "Coding/Go/深入理解go/HTTP 标准库实现原理.md",
+    "Coding/Go/深入理解go/sync.Map.md",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161110.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161052.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161019.png",
@@ -329,10 +318,6 @@
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Coding/Go/深入理解go/Go Slice.md",
     "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404145551.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404145525.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404144624.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404144407.png",
-    "Cloud Native/MQ/Kafka/Snipaste/Pasted image 20240404143641.png",
     "Cloud Native/MQ/Kafka/Kafka一小时入门精讲课程.md",
     "Coding/Go/第三方库/gin 原理.md",
     "Coding/Go/第三方库/Snipaste",
@@ -343,15 +328,6 @@
     "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
-    "Be Yourself/简历/面经/devops 面经.md",
-    "Cloud Native/Prometheus/Prometheus.md",
-    "Be Yourself/简历/面经/Go后端面经.md",
-    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
-    "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md",
-    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
-    "Course/极客时间/初级 Golang 工程师/05 微信扫码登录(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/02-0 笔记.md",
     "Algorithm/代码随想录",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/第三方库",
@@ -359,8 +335,6 @@
     "Algorithm/b",
     "Algorithm/笔试",
     "Be Yourself/简历/面经/牛客面经搜集",
-    "Be Yourself/简历/简历优化/模拟面试",
-    "Be Yourself/简历/简历优化/项目总结/Snipaste",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "ES 倒排索引",
+      "path": "Be Yourself/简历/面试题/ES/ES 倒排索引.md"
+    },
+    {
+      "basename": "README",
+      "path": "Be Yourself/简历/面试题/ES/README.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "elasticsearch",
+      "path": "Cloud Native/ELK/elasticsearch.md"
+    },
+    {
+      "basename": "背包问题",
+      "path": "Algorithm/代码随想录/背包问题.md"
+    },
+    {
+      "basename": "笔记",
+      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md"
+    },
+    {
+      "basename": "devops 面经",
+      "path": "Be Yourself/简历/面经/devops 面经.md"
+    },
+    {
+      "basename": "代码",
+      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/代码.md"
+    },
+    {
+      "basename": "3-4~3-5 Trie以及FST原理",
+      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-4~3-5 Trie以及FST原理.jpg"
+    },
+    {
+      "basename": "3-2~3-3 FOR和RBM压缩算法",
+      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-2~3-3 FOR和RBM压缩算法.jpg"
+    },
+    {
+      "basename": "3-1 倒排索引2",
+      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg"
+    },
+    {
+      "basename": "3-1 倒排索引1",
+      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引1.jpg"
+    },
+    {
+      "basename": "模糊查询和智能搜索推荐_笔记",
+      "path": "Coding/Go/中间件/Elasticsearch/11-模糊查询/11-模糊查询/笔记/模糊查询和智能搜索推荐_笔记.md"
+    },
+    {
       "basename": "HTTP 标准库实现原理",
       "path": "Coding/Go/深入理解go/HTTP 标准库实现原理.md"
     },
@@ -71,10 +123,6 @@
     {
       "basename": "10 微服务基本理论",
       "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
-    },
-    {
-      "basename": "devops 面经",
-      "path": "Be Yourself/简历/面经/devops 面经.md"
     },
     {
       "basename": "Prometheus",
@@ -151,54 +199,6 @@
     {
       "basename": "病毒触发软件",
       "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
-    },
-    {
-      "basename": "背包问题",
-      "path": "Algorithm/代码随想录/背包问题.md"
-    },
-    {
-      "basename": "面经收集",
-      "path": "Be Yourself/简历/面试题/Go/面经收集.md"
-    },
-    {
-      "basename": "17 ElasticSearch 标签服务(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
-    },
-    {
-      "basename": "Go Channel",
-      "path": "Coding/Go/深入理解go/Go Channel.md"
-    },
-    {
-      "basename": "20240328",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240328.md"
-    },
-    {
-      "basename": "数据表",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md"
-    },
-    {
-      "basename": "源码阅读(问题总结)",
-      "path": "Course/极客时间/初级 Golang 工程师/源码阅读/源码阅读(问题总结).md"
-    },
-    {
-      "basename": "16 评论系统",
-      "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
-    },
-    {
-      "basename": "23240330",
-      "path": "Course/极客时间/初级 Golang 工程师/问题总结/23240330.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "ACM模式—Go",
-      "path": "Algorithm/ACM模式—Go.md"
     }
   ],
   "omittedPaths": [],

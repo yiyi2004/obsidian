@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
       "basename": "13 负载均衡",
       "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "12 服务注册与发现",
       "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
-    },
-    {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
     },
     {
       "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",

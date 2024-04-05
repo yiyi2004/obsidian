@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
+                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,13 +289,13 @@
   },
   "active": "9907f7050a15ddd3",
   "lastOpenFiles": [
+    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
-    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",

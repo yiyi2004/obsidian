@@ -202,4 +202,8 @@ page cache ——
 
 ## Kafka Rebalance 机制
 
+- [Kafka Rebalance机制分析 - gaoyanliang - 博客园 (cnblogs.com)](https://www.cnblogs.com/yoke/p/11405397.html#%E6%96%B0%E6%88%90%E5%91%98%E5%8A%A0%E5%85%A5%E7%BB%84)
+
 ## Kafka 的架构
+
+## 极客时间

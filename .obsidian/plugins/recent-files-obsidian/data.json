@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
-      "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
-    },
-    {
       "basename": "13 负载均衡",
       "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "08 可观测性 prometheus",
+      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
+    },
+    {
+      "basename": "09 榜单模型与分布式任务调度之榜单模型",
+      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
+    },
+    {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "06 文本存储和发帖功能",
+      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
     {
       "basename": "12 服务注册与发现",
       "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
     },
     {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
     },
     {
       "basename": "微服务相关知识",
@@ -35,18 +55,6 @@
     {
       "basename": "16 评论系统",
       "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
-    },
-    {
-      "basename": "07 点赞",
-      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
-    },
-    {
-      "basename": "08 可观测性 prometheus",
-      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
-    },
-    {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
     {
       "basename": "0. 周期性规划",
@@ -173,16 +181,8 @@
       "path": "Be Yourself/简历/面经/Go后端面经.md"
     },
     {
-      "basename": "09 榜单模型与分布式任务调度之榜单模型",
-      "path": "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md"
-    },
-    {
       "basename": "03 Session 和 JWT",
       "path": "Course/极客时间/初级 Golang 工程师/03 Session 和 JWT.md"
-    },
-    {
-      "basename": "06 文本存储和发帖功能",
-      "path": "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md"
     },
     {
       "basename": "05 微信扫码登录(未完成)",

@@ -75,12 +75,12 @@
             }
           },
           {
-            "id": "0a20c19037b0f743",
+            "id": "9907f7050a15ddd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,20 +287,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a20c19037b0f743",
+  "active": "9907f7050a15ddd3",
   "lastOpenFiles": [
-    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
+    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
+    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
+    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "0. 周期性规划.md",
     "Be Yourself/简历/简历优化/个人信息.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
@@ -321,8 +323,6 @@
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引1.jpg",
     "Coding/Go/中间件/Elasticsearch/11-模糊查询/11-模糊查询/笔记/模糊查询和智能搜索推荐_笔记.md",
-    "Coding/Go/深入理解go/HTTP 标准库实现原理.md",
-    "Coding/Go/深入理解go/sync.Map.md",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161110.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161052.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161019.png",

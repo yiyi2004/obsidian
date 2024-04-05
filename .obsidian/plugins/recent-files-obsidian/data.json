@@ -1,6 +1,50 @@
 {
   "recentFiles": [
     {
+      "basename": "14 服务治理",
+      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+    },
+    {
+      "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
+    },
+    {
+      "basename": "13 负载均衡",
+      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
+    },
+    {
+      "basename": "12 服务注册与发现",
+      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
+    },
+    {
+      "basename": "10 微服务基本理论",
+      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
+    },
+    {
+      "basename": "微服务相关知识",
+      "path": "Course/极客时间/初级 Golang 工程师/微服务相关知识.md"
+    },
+    {
+      "basename": "19 Feed 流设计与实现(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md"
+    },
+    {
+      "basename": "17 ElasticSearch 标签服务(未完成)",
+      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
+    },
+    {
+      "basename": "16 评论系统",
+      "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
+    },
+    {
+      "basename": "07 点赞",
+      "path": "Course/极客时间/初级 Golang 工程师/07 点赞.md"
+    },
+    {
+      "basename": "08 可观测性 prometheus",
+      "path": "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md"
+    },
+    {
       "basename": "Kafka 八股文",
       "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
@@ -117,24 +161,8 @@
       "path": "Coding/Go/Gin+Vue+微服务/Gin 笔记.md"
     },
     {
-      "basename": "14 服务治理",
-      "path": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
-    },
-    {
       "basename": "20240329",
       "path": "Course/极客时间/初级 Golang 工程师/问题总结/20240329.md"
-    },
-    {
-      "basename": "13 负载均衡",
-      "path": "Course/极客时间/初级 Golang 工程师/13 负载均衡.md"
-    },
-    {
-      "basename": "12 服务注册与发现",
-      "path": "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md"
-    },
-    {
-      "basename": "10 微服务基本理论",
-      "path": "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md"
     },
     {
       "basename": "Prometheus",
@@ -171,34 +199,6 @@
     {
       "basename": "oauth2",
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/oauth2.md"
-    },
-    {
-      "basename": "个人技能",
-      "path": "Be Yourself/简历/简历优化/个人技能.md"
-    },
-    {
-      "basename": "Gosphere(star)",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
-    },
-    {
-      "basename": "Gosphere 多人博客系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "运维系统开发",
-      "path": "Be Yourself/简历/简历优化/项目总结/运维系统开发.md"
-    },
-    {
-      "basename": "入侵检测系统",
-      "path": "Be Yourself/简历/简历优化/项目总结/入侵检测系统.md"
-    },
-    {
-      "basename": "泛型工具库",
-      "path": "Be Yourself/简历/简历优化/项目总结/泛型工具库.md"
-    },
-    {
-      "basename": "病毒触发软件",
-      "path": "Be Yourself/简历/简历优化/项目总结/病毒触发软件.md"
     }
   ],
   "omittedPaths": [],

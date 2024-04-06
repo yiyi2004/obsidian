@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
+                "file": "Be Yourself/简历/简历优化/个人信息.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,9 +289,10 @@
   },
   "active": "a19ee1abfe580cc8",
   "lastOpenFiles": [
+    "Be Yourself/简历/简历优化/个人技能.md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Be Yourself/简历/简历优化/个人信息.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Be Yourself/简历/面经/Go后端面经.md",
@@ -318,7 +319,6 @@
     "Be Yourself/简历/面试题/ES/Snipaste",
     "Be Yourself/简历/面试题/ES/README.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "Cloud Native/ELK/elasticsearch.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-4~3-5 Trie以及FST原理.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-2~3-3 FOR和RBM压缩算法.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg",

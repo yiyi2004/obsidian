@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md"
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,24 +287,28 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "9907f7050a15ddd3",
+  "active": "a19ee1abfe580cc8",
   "lastOpenFiles": [
+    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
+    "Be Yourself/简历/简历优化/个人信息.md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
+    "Be Yourself/简历/面经/Go后端面经.md",
+    "Cloud Native/Prometheus/Prometheus.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
     "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
-    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
-    "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
     "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
     "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
     "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
     "0. 周期性规划.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
     "Be Yourself/简历/面试Checklist.md",
     "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md",
@@ -315,14 +319,10 @@
     "Be Yourself/简历/面试题/ES/README.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Cloud Native/ELK/elasticsearch.md",
-    "Algorithm/代码随想录/背包问题.md",
-    "Be Yourself/简历/面经/devops 面经.md",
-    "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/代码.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-4~3-5 Trie以及FST原理.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-2~3-3 FOR和RBM压缩算法.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引1.jpg",
-    "Coding/Go/中间件/Elasticsearch/11-模糊查询/11-模糊查询/笔记/模糊查询和智能搜索推荐_笔记.md",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161110.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161052.png",
     "Coding/Go/深入理解go/Snipaste/Pasted image 20240404161019.png",

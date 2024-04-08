@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "devops 面经",
+      "path": "Be Yourself/简历/面经/devops 面经.md"
+    },
+    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Gosphere 多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
     {
       "basename": "14 服务治理",
@@ -111,10 +115,6 @@
     {
       "basename": "背包问题",
       "path": "Algorithm/代码随想录/背包问题.md"
-    },
-    {
-      "basename": "devops 面经",
-      "path": "Be Yourself/简历/面经/devops 面经.md"
     },
     {
       "basename": "代码",

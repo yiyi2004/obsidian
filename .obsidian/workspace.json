@@ -23,45 +23,6 @@
             }
           },
           {
-            "id": "06804892a8594e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/简历/面经/Go后端面经.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672871c5620e6d5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Native/Prometheus/Prometheus.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "030845cdd4535001",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a19ee1abfe580cc8",
             "type": "leaf",
             "state": {
@@ -73,22 +34,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9907f7050a15ddd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -132,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+                "file": "Be Yourself/简历/简历优化/个人信息.md"
               }
             }
           },
@@ -208,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -287,14 +235,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "030845cdd4535001",
+  "active": "a19ee1abfe580cc8",
   "lastOpenFiles": [
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Be Yourself/简历/面经/devops 面经.md",
     "Be Yourself/简历/简历优化/个人信息.md",
     "Be Yourself/简历/简历优化/个人技能.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
-    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
     "Be Yourself/简历/面经/Go后端面经.md",
     "Cloud Native/Prometheus/Prometheus.md",

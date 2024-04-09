@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
@@ -80,7 +80,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 312.5
+    "width": 317.5
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md"
               }
             }
           },
@@ -156,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -237,8 +237,8 @@
   },
   "active": "a19ee1abfe580cc8",
   "lastOpenFiles": [
-    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
+    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Be Yourself/简历/简历优化/个人信息.md",
     "Be Yourself/简历/面试Checklist.md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",

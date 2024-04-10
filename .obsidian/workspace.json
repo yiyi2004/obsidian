@@ -34,9 +34,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fad33759f70221cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/第三方库/gin 原理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -80,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Coding/Go/第三方库/gin 原理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+                "file": "Coding/Go/第三方库/gin 原理.md"
               }
             }
           },
@@ -156,7 +169,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Coding/Go/第三方库/gin 原理.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +194,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/基础知识/操作系统.md",
+                "file": "Coding/Go/第三方库/gin 原理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +248,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "a19ee1abfe580cc8",
+  "active": "fad33759f70221cf",
   "lastOpenFiles": [
+    "Coding/Go/第三方库/snowflake.md",
+    "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
+    "Coding/Go/第三方库/gomock.md",
+    "Coding/Go/第三方库/gin 原理.md",
+    "Coding/Go/第三方库/canal.md",
+    "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md",
+    "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
     "Be Yourself/简历/简历优化/个人信息.md",
@@ -255,18 +276,10 @@
     "Course/极客时间/初级 Golang 工程师/06 文本存储和发帖功能.md",
     "Course/极客时间/初级 Golang 工程师/12 服务注册与发现.md",
     "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/微服务相关知识.md",
-    "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md",
-    "Course/极客时间/初级 Golang 工程师/16 评论系统.md",
-    "0. 周期性规划.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
-    "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md",
     "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
-    "Be Yourself/简历/面试题/ES/ES 倒排索引.md",
     "Be Yourself/简历/面试题/ES/Snipaste/Pasted image 20240404232458.png",
     "Be Yourself/简历/面试题/ES/Snipaste",
-    "Be Yourself/简历/面试题/ES/README.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-4~3-5 Trie以及FST原理.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-2~3-3 FOR和RBM压缩算法.jpg",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg",

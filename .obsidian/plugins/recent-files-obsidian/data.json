@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
       "basename": "gin 原理",
       "path": "Coding/Go/第三方库/gin 原理.md"
     },
@@ -29,20 +37,12 @@
       "path": "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md"
     },
     {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
-    },
-    {
       "basename": "Gosphere(star)",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md"
     },
     {
       "basename": "Gosphere 多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
     {
       "basename": "面试Checklist",

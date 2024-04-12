@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/第三方库/ants 写成池.md",
+                "file": "Coding/Go/深入理解go/sync.Map.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +75,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/第三方库/ants 写成池.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5,
-    "collapsed": true
+    "width": 317.5
   },
   "right": {
     "id": "fcdcb99473c1ab05",
@@ -178,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coding/Go/第三方库/ants 写成池.md"
+                "file": "Be Yourself/简历/简历优化/个人信息.md"
               }
             }
           },
@@ -196,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coding/Go/第三方库/ants 写成池.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coding/Go/第三方库/ants 写成池.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -275,11 +274,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "d94eba98b8e9c6c9",
+  "active": "5eb8c824d5fc534a",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Be Yourself/简历/简历优化/个人信息.md",
+    "Coding/Go/深入理解go/sync.Map.md",
+    "Coding/Go/第三方库/gin 原理.md",
+    "Coding/Go/第三方库/ants 协程池.md",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412173003.png",
     "Coding/Go/第三方库/未命名.md",
-    "Coding/Go/第三方库/ants 写成池.md",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412164342.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412164045.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412163323.png",
@@ -289,11 +292,7 @@
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412155744.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412155618.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412155613.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412155526.png",
-    "Coding/Go/第三方库/gin 原理.md",
     "Coding/Go/第三方库/gomock.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Coding/Go/第三方库/snowflake.md",
     "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
     "Coding/Go/第三方库/canal.md",

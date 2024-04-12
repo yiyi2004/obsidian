@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "ants 写成池",
+      "path": "Coding/Go/第三方库/ants 写成池.md"
+    },
+    {
+      "basename": "gomock",
+      "path": "Coding/Go/第三方库/gomock.md"
+    },
+    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "Gin 笔记",
       "path": "Coding/Go/Gin+Vue+微服务/Gin 笔记.md"
-    },
-    {
-      "basename": "gomock",
-      "path": "Coding/Go/第三方库/gomock.md"
     },
     {
       "basename": "canal",
@@ -195,10 +199,6 @@
     {
       "basename": "Go Slice",
       "path": "Coding/Go/深入理解go/Go Slice.md"
-    },
-    {
-      "basename": "Kafka一小时入门精讲课程",
-      "path": "Cloud Native/MQ/Kafka/Kafka一小时入门精讲课程.md"
     }
   ],
   "omittedPaths": [],

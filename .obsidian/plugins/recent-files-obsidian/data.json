@@ -5,6 +5,10 @@
       "path": "Coding/Go/第三方库/ants 写成池.md"
     },
     {
+      "basename": "未命名",
+      "path": "Coding/Go/第三方库/未命名.md"
+    },
+    {
       "basename": "gin 原理",
       "path": "Coding/Go/第三方库/gin 原理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "8. Redis面试题",
       "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
-    },
-    {
-      "basename": "Go Slice",
-      "path": "Coding/Go/深入理解go/Go Slice.md"
     }
   ],
   "omittedPaths": [],

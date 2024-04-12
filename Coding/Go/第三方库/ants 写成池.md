@@ -132,10 +132,67 @@ oldpool 当前的 pool 放到全局的 pool 里面。
 
 ![[Snipaste/Pasted image 20240412162134.png]]
 
-- workerArray goroutine
+- workerArray goroutine 正在运行 goroutine
 - pinMutex
 - cond 并发协调器
-- workerCache 协程对象池|回收站 底层是 sync.Poo
+- workerCache 协程对象池|回收站 底层是 sync.Pool
+- capacity goworker 的数量
+- running 有多少个 woker 正在执行，运行的协程数
+- state 是否关闭
+- waiting 陷入阻塞，多少个 goroutine 陷入阻塞状态
+
+![[Snipaste/Pasted image 20240412162759.png]]
+
+- goworker 如果长时间没有执行任务，那么会被销毁
+
+### Pool
+
+![[Snipaste/Pasted image 20240412162946.png]]
+
+- panic handler 兜底逻辑，默认有一个
+
+### workerArray
+
+承载多个 goworker 的数据结构
+
+- Stack
+
+![[Snipaste/Pasted image 20240412163323.png]]
+
+- 空间的 goworker 去销毁
+- 返回一批过期的 goworker 返回给上层，二分查找
+- sync.Pool
+
+purgePeriodically 回收空闲时间过长的 goworker
+
+### 提交任务
+
+![[Snipaste/Pasted image 20240412164045.png]]
+
+1. 方法的逻辑
+2. 尝试获得 worker
+3. 将 task 传递给 worker  
+![[Snipaste/Pasted image 20240412164342.png]]
+
+- for 一致阻塞着
+- 投递 nil 返回 —— 约定，关闭 goroutine。
+- 放回协程池
+- option 定制的 panic handler
+- Signal 回收 goworker 可以用于其他阻塞的线程任务的执行。
+
+### retriveWorker
+
+spawnWorker 产卵
+
+- -1 是特殊的表示
+- 非阻塞模式
+- 阻塞模式
+- 一直等
+
+![[Snipaste/Pasted image 20240412173003.png]]
+
+- 感觉 g 了怎么办啊
+- 被动阻塞
 
 ## GMP
 

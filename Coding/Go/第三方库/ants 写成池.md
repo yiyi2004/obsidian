@@ -39,4 +39,4 @@ broadcast
 ![[Snipaste/Pasted image 20240412105628.png]]
 
 1. private
-2. sharedList
+2. sharedList  

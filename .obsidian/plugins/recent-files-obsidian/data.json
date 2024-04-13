@@ -1,12 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+      "basename": "2022_后端开发大厂面试题",
+      "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
     },
     {
       "basename": "sync.Map",
@@ -15,6 +11,14 @@
     {
       "basename": "gin 原理",
       "path": "Coding/Go/第三方库/gin 原理.md"
+    },
+    {
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "ants 协程池",
@@ -195,10 +199,6 @@
     {
       "basename": "Redis 面试题",
       "path": "Be Yourself/简历/面试题/Redis 面试题.md"
-    },
-    {
-      "basename": "8. Redis面试题",
-      "path": "Coding/Go/Database/Redis/Redis(码神之路)/8. Redis面试题.md"
     }
   ],
   "omittedPaths": [],

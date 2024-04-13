@@ -65,17 +65,14 @@
             "id": "d94eba98b8e9c6c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Coding/Go/深入理解go/sync.Map.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md"
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
               }
             }
           },
@@ -195,7 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,12 +271,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5eb8c824d5fc534a",
+  "active": "d94eba98b8e9c6c9",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
     "Coding/Go/深入理解go/sync.Map.md",
+    "Be Yourself/简历/面试题/大厂Go工程师面试题集锦.docx",
+    "Be Yourself/简历/面试题/Go八股文大全.pdf",
     "Coding/Go/第三方库/gin 原理.md",
+    "Be Yourself/简历/简历优化/个人信息.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Coding/Go/第三方库/ants 协程池.md",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412173003.png",
     "Coding/Go/第三方库/未命名.md",
@@ -311,7 +310,6 @@
     "Course/极客时间/初级 Golang 工程师/07 点赞.md",
     "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
     "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
-    "Course/极客时间/初级 Golang 工程师/10 微服务基本理论.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
     "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
     "Be Yourself/简历/面试题/ES/Snipaste",
@@ -320,8 +318,6 @@
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/第三方库",
     "Course/极客时间/初级 Golang 工程师/问题总结",
-    "Algorithm/b",
-    "Algorithm/笔试",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

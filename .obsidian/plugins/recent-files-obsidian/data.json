@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "2022_后端开发大厂面试题(八股笔记)",
+      "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md"
+    },
+    {
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
+      "basename": "go map",
+      "path": "Be Yourself/简历/面经/go map.md"
+    },
+    {
       "basename": "2022_后端开发大厂面试题",
       "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "HTTP 标准库实现原理",
       "path": "Coding/Go/深入理解go/HTTP 标准库实现原理.md"
-    },
-    {
-      "basename": "GMP 原理",
-      "path": "Coding/Go/深入理解go/GMP 原理.md"
-    },
-    {
-      "basename": "Slice 原理",
-      "path": "Coding/Go/深入理解go/Slice 原理.md"
-    },
-    {
-      "basename": "Redis 面试题",
-      "path": "Be Yourself/简历/面试题/Redis 面试题.md"
     }
   ],
   "omittedPaths": [],

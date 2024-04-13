@@ -65,9 +65,25 @@
             "id": "d94eba98b8e9c6c9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d843752aa3991141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coding/Go/深入理解go/Go Map 原理.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -116,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf"
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md"
               }
             }
           },
@@ -192,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
+                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -273,6 +289,13 @@
   },
   "active": "d94eba98b8e9c6c9",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153945.png",
+    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153937.png",
+    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153936.png",
+    "Coding/Go/深入理解go/Go Map 原理.md",
+    "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+    "Be Yourself/简历/面经/go map.md",
+    "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Coding/Go/深入理解go/sync.Map.md",
     "Be Yourself/简历/面试题/大厂Go工程师面试题集锦.docx",
     "Be Yourself/简历/面试题/Go八股文大全.pdf",
@@ -289,8 +312,6 @@
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412162759.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412162134.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412155744.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412155618.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412155613.png",
     "Coding/Go/第三方库/gomock.md",
     "Coding/Go/第三方库/snowflake.md",
     "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
@@ -307,9 +328,6 @@
     "Be Yourself/简历/面经/Go后端面经.md",
     "Cloud Native/Prometheus/Prometheus.md",
     "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
-    "Course/极客时间/初级 Golang 工程师/07 点赞.md",
-    "Course/极客时间/初级 Golang 工程师/08 可观测性 prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/09 榜单模型与分布式任务调度之榜单模型.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
     "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
     "Be Yourself/简历/面试题/ES/Snipaste",
@@ -317,7 +335,6 @@
     "Algorithm/代码随想录",
     "Coding/Go/DevOps/DevOps.pdf",
     "Coding/Go/第三方库",
-    "Course/极客时间/初级 Golang 工程师/问题总结",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

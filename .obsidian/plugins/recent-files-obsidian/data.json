@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Golang 内存分配",
+      "path": "Coding/Go/深入理解go/Golang 内存分配.md"
+    },
+    {
+      "basename": "gin 原理",
+      "path": "Coding/Go/第三方库/gin 原理.md"
+    },
+    {
+      "basename": "Pasted image 20240414201258",
+      "path": "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201258.png"
+    },
+    {
+      "basename": "Golang GC",
+      "path": "Coding/Go/深入理解go/Golang GC.md"
+    },
+    {
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
       "basename": "2022_后端开发大厂面试题(八股笔记)",
       "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md"
     },
     {
       "basename": "记忆化搜索",
       "path": "Algorithm/记忆化搜索/记忆化搜索.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
       "basename": "go map",
@@ -23,10 +39,6 @@
     {
       "basename": "sync.Map",
       "path": "Coding/Go/深入理解go/sync.Map.md"
-    },
-    {
-      "basename": "gin 原理",
-      "path": "Coding/Go/第三方库/gin 原理.md"
     },
     {
       "basename": "个人信息",
@@ -187,18 +199,6 @@
     {
       "basename": "3-2~3-3 FOR和RBM压缩算法",
       "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-2~3-3 FOR和RBM压缩算法.jpg"
-    },
-    {
-      "basename": "3-1 倒排索引2",
-      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引2.jpg"
-    },
-    {
-      "basename": "3-1 倒排索引1",
-      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-1 倒排索引1.jpg"
-    },
-    {
-      "basename": "模糊查询和智能搜索推荐_笔记",
-      "path": "Coding/Go/中间件/Elasticsearch/11-模糊查询/11-模糊查询/笔记/模糊查询和智能搜索推荐_笔记.md"
     }
   ],
   "omittedPaths": [],

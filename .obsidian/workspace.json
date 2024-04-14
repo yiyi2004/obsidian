@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Coding/Go/深入理解go/Golang 内存分配.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Coding/Go/深入理解go/Golang 内存分配.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md"
+                "file": "Coding/Go/深入理解go/Golang 内存分配.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Coding/Go/深入理解go/Golang 内存分配.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Coding/Go/深入理解go/Golang 内存分配.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,30 +289,33 @@
   },
   "active": "d94eba98b8e9c6c9",
   "lastOpenFiles": [
-    "Algorithm/记忆化搜索/记忆化搜索.md",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414203519.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414203254.png",
+    "Coding/Go/第三方库/gin 原理.md",
+    "Coding/Go/深入理解go/Golang 内存分配.md",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201916.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201542.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201317.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201258.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414200811.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414200539.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414200309.png",
+    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414195924.png",
+    "Coding/Go/深入理解go/Golang GC.md",
+    "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+    "Algorithm/记忆化搜索/记忆化搜索.md",
     "Algorithm/记忆化搜索",
     "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153945.png",
-    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153937.png",
-    "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153936.png",
-    "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/面经/go map.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Coding/Go/深入理解go/sync.Map.md",
     "Be Yourself/简历/面试题/大厂Go工程师面试题集锦.docx",
     "Be Yourself/简历/面试题/Go八股文大全.pdf",
-    "Coding/Go/第三方库/gin 原理.md",
     "Be Yourself/简历/简历优化/个人信息.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Coding/Go/第三方库/ants 协程池.md",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412173003.png",
     "Coding/Go/第三方库/未命名.md",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412164342.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412164045.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412163323.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412162946.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412162759.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412162134.png",
     "Coding/Go/第三方库/gomock.md",
     "Coding/Go/第三方库/snowflake.md",
     "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
@@ -326,9 +329,6 @@
     "Be Yourself/简历/面经/devops 面经.md",
     "Be Yourself/简历/简历优化/个人技能.md",
     "Course/极客时间/初级 Golang 工程师/14 服务治理.md",
-    "Be Yourself/简历/面经/Go后端面经.md",
-    "Cloud Native/Prometheus/Prometheus.md",
-    "Course/极客时间/初级 Golang 工程师/13 负载均衡.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
     "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
     "Be Yourself/简历/面试题/ES/Snipaste",

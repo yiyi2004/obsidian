@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "记忆化搜索",
+      "path": "Algorithm/记忆化搜索/记忆化搜索.md"
+    },
+    {
       "basename": "2022_后端开发大厂面试题(八股笔记)",
       "path": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "模糊查询和智能搜索推荐_笔记",
       "path": "Coding/Go/中间件/Elasticsearch/11-模糊查询/11-模糊查询/笔记/模糊查询和智能搜索推荐_笔记.md"
-    },
-    {
-      "basename": "HTTP 标准库实现原理",
-      "path": "Coding/Go/深入理解go/HTTP 标准库实现原理.md"
     }
   ],
   "omittedPaths": [],

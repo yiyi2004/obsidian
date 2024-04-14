@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Algorithm/记忆化搜索/记忆化搜索.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Algorithm/记忆化搜索/记忆化搜索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md"
+                "file": "Algorithm/记忆化搜索/记忆化搜索.md"
               }
             }
           },
@@ -208,7 +208,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Algorithm/记忆化搜索/记忆化搜索.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+                "file": "Algorithm/记忆化搜索/记忆化搜索.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -289,11 +289,13 @@
   },
   "active": "d94eba98b8e9c6c9",
   "lastOpenFiles": [
+    "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
+    "Algorithm/记忆化搜索/记忆化搜索.md",
+    "Algorithm/记忆化搜索",
     "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153945.png",
     "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153937.png",
     "Be Yourself/简历/面试题/Snipaste/Pasted image 20240413153936.png",
     "Coding/Go/深入理解go/Go Map 原理.md",
-    "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
     "Be Yourself/简历/面经/go map.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题.pdf",
     "Coding/Go/深入理解go/sync.Map.md",
@@ -311,7 +313,6 @@
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412162946.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412162759.png",
     "Coding/Go/第三方库/Snipaste/Pasted image 20240412162134.png",
-    "Coding/Go/第三方库/Snipaste/Pasted image 20240412155744.png",
     "Coding/Go/第三方库/gomock.md",
     "Coding/Go/第三方库/snowflake.md",
     "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
@@ -334,7 +335,6 @@
     "Coding/Go/第三方库/Snipaste",
     "Algorithm/代码随想录",
     "Coding/Go/DevOps/DevOps.pdf",
-    "Coding/Go/第三方库",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

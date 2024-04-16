@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "DP 问题",
+      "path": "Algorithm/动态规划/DP 问题.md"
+    },
+    {
+      "basename": "背包问题",
+      "path": "Algorithm/动态规划/背包问题.md"
+    },
+    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "背包问题",
       "path": "Algorithm/代码随想录/背包问题.md"
-    },
-    {
-      "basename": "代码",
-      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/代码/代码.md"
-    },
-    {
-      "basename": "3-4~3-5 Trie以及FST原理",
-      "path": "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/图解/3-4~3-5 Trie以及FST原理.jpg"
     }
   ],
   "omittedPaths": [],

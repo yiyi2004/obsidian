@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "gin 原理",
+      "path": "Coding/Go/第三方库/gin 原理.md"
+    },
+    {
+      "basename": "Go Map 原理",
+      "path": "Coding/Go/深入理解go/Go Map 原理.md"
+    },
+    {
       "basename": "Gosphere 潜在问题",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md"
     },
@@ -13,20 +29,12 @@
       "path": "Coding/Go/深入理解go/Golang 内存分配.md"
     },
     {
-      "basename": "gin 原理",
-      "path": "Coding/Go/第三方库/gin 原理.md"
-    },
-    {
       "basename": "Pasted image 20240414201258",
       "path": "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201258.png"
     },
     {
       "basename": "Golang GC",
       "path": "Coding/Go/深入理解go/Golang GC.md"
-    },
-    {
-      "basename": "Go Map 原理",
-      "path": "Coding/Go/深入理解go/Go Map 原理.md"
     },
     {
       "basename": "2022_后端开发大厂面试题(八股笔记)",
@@ -47,14 +55,6 @@
     {
       "basename": "sync.Map",
       "path": "Coding/Go/深入理解go/sync.Map.md"
-    },
-    {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "ants 协程池",

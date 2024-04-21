@@ -56,9 +56,6 @@ Settings settings = Settings.builder()
 TransportClient client = new PreBuiltTransportClient(settings);
 ```
 
-####
-
-
 ### Java REST Client
 
 `RestClient` 是线程安全的，`RestClient` 使用 Elasticsearch 的 HTTP 服务，默认为 `9200` 端口，这一点和 `transport client` 不同。

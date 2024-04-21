@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "操作系统",
+      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "DP 问题",
+      "path": "Algorithm/动态规划/DP 问题.md"
+    },
+    {
       "basename": "ES客户端_笔记",
       "path": "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md"
     },
@@ -13,20 +25,8 @@
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md"
     },
     {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
-    },
-    {
-      "basename": "DP 问题",
-      "path": "Algorithm/动态规划/DP 问题.md"
-    },
-    {
       "basename": "背包问题",
       "path": "Algorithm/动态规划/背包问题.md"
-    },
-    {
-      "basename": "操作系统",
-      "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
     },
     {
       "basename": "gin 原理",

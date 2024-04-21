@@ -12,7 +12,7 @@
 - [[操作系统/Solaris.md|Solaris]]
 - [[操作系统/Windows 重置网络.md|Windows 重置网络]]
 - [[操作系统/动态链接库与可执行文件.md|动态链接库与可执行文件]]
-- [[操作系统/未命名.md|未命名]]
+- [[操作系统/IO 多路复用|IO 多路复用]]
 - [[计算机组成原理/DLL.md|DLL]]
 - [[计算机网络/Cookie 和 Session.md|Cookie 和 Session]]
 - [[计算机网络/QoS.md|QoS]]

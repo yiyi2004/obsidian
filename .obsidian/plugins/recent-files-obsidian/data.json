@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "Docker 八股文",
+      "path": "Cloud Native/Docker/Docker 八股文.md"
+    },
+    {
+      "basename": "Docker Notebook",
+      "path": "Cloud Native/Docker/Docker Notebook.md"
+    },
+    {
+      "basename": "Docker 安装",
+      "path": "Cloud Native/Docker/Docker 安装.md"
+    },
+    {
+      "basename": "IO 多路复用",
+      "path": "Basic/操作系统/IO 多路复用.md"
+    },
+    {
+      "basename": "动态链接库与可执行文件",
+      "path": "Basic/操作系统/动态链接库与可执行文件.md"
+    },
+    {
+      "basename": "alsa",
+      "path": "Basic/操作系统/alsa.md"
+    },
+    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "19 Feed 流设计与实现(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md"
-    },
-    {
-      "basename": "17 ElasticSearch 标签服务(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/17 ElasticSearch 标签服务(未完成).md"
-    },
-    {
-      "basename": "16 评论系统",
-      "path": "Course/极客时间/初级 Golang 工程师/16 评论系统.md"
-    },
-    {
-      "basename": "0. 周期性规划",
-      "path": "0. 周期性规划.md"
-    },
-    {
-      "basename": "笔记",
-      "path": "Coding/Go/中间件/Elasticsearch/07-分词器/07-分词器/笔记/笔记.md"
-    },
-    {
-      "basename": "ES 倒排索引",
-      "path": "Be Yourself/简历/面试题/ES/ES 倒排索引.md"
-    },
-    {
-      "basename": "README",
-      "path": "Be Yourself/简历/面试题/ES/README.md"
     }
   ],
   "omittedPaths": [],

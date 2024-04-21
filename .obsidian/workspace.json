@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Cloud Native/Docker/Docker 八股文.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Cloud Native/Docker/Docker 八股文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md"
+                "file": "Cloud Native/Docker/Docker 八股文.md"
               }
             }
           },
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Cloud Native/Docker/Docker 八股文.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Cloud Native/Docker/Docker 八股文.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,28 +276,35 @@
   },
   "active": "5eb8c824d5fc534a",
   "lastOpenFiles": [
-    "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Cloud Native/Docker/Docker Notebook.md",
+    "Cloud Native/Docker/Docker 八股文.md",
+    "Cloud Native/Docker/Docker 安装.md",
+    "Basic/操作系统/IO 多路复用.md",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203955.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203801.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203757.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203730.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203717.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203707.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203652.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203530.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421203231.png",
+    "Basic/操作系统/Snipaste/Pasted image 20240421202920.png",
+    "Basic/操作系统/Snipaste",
+    "Basic/操作系统/动态链接库与可执行文件.md",
+    "Basic/操作系统/alsa.md",
     "Be Yourself/简历/简历优化/个人信息.md",
+    "Be Yourself/简历/面试题/基础知识/操作系统.md",
     "Algorithm/动态规划/DP 问题.md",
     "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md",
     "Archived/Second Interview/计算机网络.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md",
-    "Algorithm/动态规划/Snipaste/Pasted image 20240416133215.png",
     "Algorithm/动态规划/Snipaste",
     "Algorithm/动态规划/背包问题.md",
     "Coding/Go/第三方库/gin 原理.md",
     "Coding/Go/深入理解go/Go Map 原理.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere(star).md",
     "Coding/Go/深入理解go/Golang 内存分配.md",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414203519.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414203254.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201916.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201542.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201317.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414201258.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414200811.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414200539.png",
-    "Coding/Go/深入理解go/Snipaste/Pasted image 20240414200309.png",
     "Coding/Go/深入理解go/Golang GC.md",
     "Be Yourself/简历/面试题/2022_后端开发大厂面试题(八股笔记).md",
     "Algorithm/记忆化搜索/记忆化搜索.md",
@@ -311,17 +318,10 @@
     "Coding/Go/第三方库/未命名.md",
     "Coding/Go/第三方库/gomock.md",
     "Coding/Go/第三方库/snowflake.md",
-    "Coding/Go/Gin+Vue+微服务/Gin 笔记.md",
-    "Coding/Go/第三方库/canal.md",
-    "Be Yourself/简历/简历优化/项目总结/Gin 插件库.md",
-    "Course/极客时间/初级 Golang 工程师/源码阅读/数据表.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md",
-    "Be Yourself/简历/面试Checklist.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
     "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
     "Be Yourself/简历/面试题/ES/Snipaste",
     "Coding/Go/第三方库/Snipaste",
-    "Algorithm/代码随想录",
     "AI/未命名.canvas",
     "Cyber Security/Red Team/基础设施构建/Hacker Tools/未命名.canvas",
     "未命名.canvas",

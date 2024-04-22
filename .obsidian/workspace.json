@@ -99,9 +99,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "86e0f0d8a0bebdaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Basic/操作系统/IO 多路复用.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -145,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Basic/操作系统/IO 多路复用.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md"
+                "file": "Basic/操作系统/IO 多路复用.md"
               }
             }
           },
@@ -221,7 +234,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Basic/操作系统/IO 多路复用.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -246,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "file": "Basic/操作系统/IO 多路复用.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -300,11 +313,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "03e67b0046ee3942",
+  "active": "86e0f0d8a0bebdaf",
   "lastOpenFiles": [
+    "Be Yourself/简历/简历优化/个人信息.md",
     "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md",
     "Cloud Native/MQ/Kafka/Kafka 八股文.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
     "Algorithm/动态规划/DP 问题.md",
     "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md",
     "Be Yourself/简历/面试Checklist.md",

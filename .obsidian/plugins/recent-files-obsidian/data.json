@@ -1,28 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "IO 多路复用",
-      "path": "Basic/操作系统/IO 多路复用.md"
-    },
-    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
-    },
-    {
-      "basename": "Gosphere 潜在问题",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md"
-    },
-    {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
-    },
-    {
-      "basename": "DP 问题",
-      "path": "Algorithm/动态规划/DP 问题.md"
-    },
-    {
-      "basename": "ES客户端_笔记",
-      "path": "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md"
     },
     {
       "basename": "面试Checklist",
@@ -35,6 +15,26 @@
     {
       "basename": "Docker 八股文",
       "path": "Cloud Native/Docker/Docker 八股文.md"
+    },
+    {
+      "basename": "DP 问题",
+      "path": "Algorithm/动态规划/DP 问题.md"
+    },
+    {
+      "basename": "Gosphere 潜在问题",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
+    },
+    {
+      "basename": "IO 多路复用",
+      "path": "Basic/操作系统/IO 多路复用.md"
+    },
+    {
+      "basename": "ES客户端_笔记",
+      "path": "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md"
     },
     {
       "basename": "Docker Notebook",

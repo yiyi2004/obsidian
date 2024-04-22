@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "代码模板",
+      "path": "Algorithm/代码模板.md"
+    },
+    {
+      "basename": "IO 多路复用",
+      "path": "Basic/操作系统/IO 多路复用.md"
+    },
+    {
+      "basename": "算法总结",
+      "path": "Algorithm/算法总结.md"
+    },
+    {
       "basename": "个人信息",
       "path": "Be Yourself/简历/简历优化/个人信息.md"
     },
@@ -27,10 +39,6 @@
     {
       "basename": "Kafka 八股文",
       "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
-    },
-    {
-      "basename": "IO 多路复用",
-      "path": "Basic/操作系统/IO 多路复用.md"
     },
     {
       "basename": "ES客户端_笔记",
@@ -191,14 +199,6 @@
     {
       "basename": "15 可观测性支付服务实现打赏功能实现评论服务实现(未完成)",
       "path": "Course/极客时间/初级 Golang 工程师/15 可观测性支付服务实现打赏功能实现评论服务实现(未完成).md"
-    },
-    {
-      "basename": "微服务相关知识",
-      "path": "Course/极客时间/初级 Golang 工程师/微服务相关知识.md"
-    },
-    {
-      "basename": "19 Feed 流设计与实现(未完成)",
-      "path": "Course/极客时间/初级 Golang 工程师/19 Feed 流设计与实现(未完成).md"
     }
   ],
   "omittedPaths": [],

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Docker 八股文",
-      "path": "Cloud Native/Docker/Docker 八股文.md"
+      "basename": "个人信息",
+      "path": "Be Yourself/简历/简历优化/个人信息.md"
+    },
+    {
+      "basename": "Gosphere 潜在问题",
+      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md"
+    },
+    {
+      "basename": "Kafka 八股文",
+      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
     {
       "basename": "DP 问题",
@@ -13,8 +21,16 @@
       "path": "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md"
     },
     {
+      "basename": "面试Checklist",
+      "path": "Be Yourself/简历/面试Checklist.md"
+    },
+    {
       "basename": "操作系统",
       "path": "Be Yourself/简历/面试题/基础知识/操作系统.md"
+    },
+    {
+      "basename": "Docker 八股文",
+      "path": "Cloud Native/Docker/Docker 八股文.md"
     },
     {
       "basename": "Docker Notebook",
@@ -37,16 +53,8 @@
       "path": "Basic/操作系统/alsa.md"
     },
     {
-      "basename": "个人信息",
-      "path": "Be Yourself/简历/简历优化/个人信息.md"
-    },
-    {
       "basename": "计算机网络",
       "path": "Archived/Second Interview/计算机网络.md"
-    },
-    {
-      "basename": "Gosphere 潜在问题",
-      "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md"
     },
     {
       "basename": "背包问题",
@@ -131,14 +139,6 @@
     {
       "basename": "Gosphere 多人博客系统",
       "path": "Be Yourself/简历/简历优化/项目总结/Gosphere 多人博客系统.md"
-    },
-    {
-      "basename": "面试Checklist",
-      "path": "Be Yourself/简历/面试Checklist.md"
-    },
-    {
-      "basename": "Kafka 八股文",
-      "path": "Cloud Native/MQ/Kafka/Kafka 八股文.md"
     },
     {
       "basename": "devops 面经",

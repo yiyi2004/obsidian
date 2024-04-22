@@ -62,12 +62,38 @@
             }
           },
           {
-            "id": "48504123ceb1aa16",
+            "id": "03e67b0046ee3942",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d722f16b1579edb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06f5413bf0b70e3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -75,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -119,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Docker/Docker 八股文.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cloud Native/Docker/Docker 八股文.md"
+                "file": "Be Yourself/简历/简历优化/个人信息.md"
               }
             }
           },
@@ -195,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cloud Native/Docker/Docker 八股文.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +246,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cloud Native/Docker/Docker 八股文.md",
+                "file": "Be Yourself/简历/简历优化/个人信息.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -274,12 +300,16 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5eb8c824d5fc534a",
+  "active": "03e67b0046ee3942",
   "lastOpenFiles": [
+    "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md",
+    "Cloud Native/MQ/Kafka/Kafka 八股文.md",
+    "Be Yourself/简历/简历优化/个人信息.md",
     "Algorithm/动态规划/DP 问题.md",
-    "Cloud Native/Docker/Docker 八股文.md",
     "Coding/Go/中间件/Elasticsearch/14-ES客户端/14-ES客户端/笔记/ES客户端_笔记.md",
+    "Be Yourself/简历/面试Checklist.md",
     "Be Yourself/简历/面试题/基础知识/操作系统.md",
+    "Cloud Native/Docker/Docker 八股文.md",
     "Cloud Native/Docker/Snipaste/Pasted image 20240421213744.png",
     "Cloud Native/Docker/Docker Notebook.md",
     "Cloud Native/Docker/Docker 安装.md",
@@ -296,9 +326,7 @@
     "Basic/操作系统/Snipaste",
     "Basic/操作系统/动态链接库与可执行文件.md",
     "Basic/操作系统/alsa.md",
-    "Be Yourself/简历/简历优化/个人信息.md",
     "Archived/Second Interview/计算机网络.md",
-    "Be Yourself/简历/简历优化/项目总结/Gosphere 潜在问题.md",
     "Algorithm/动态规划/Snipaste",
     "Algorithm/动态规划/背包问题.md",
     "Coding/Go/第三方库/gin 原理.md",
@@ -316,7 +344,6 @@
     "Be Yourself/简历/面试题/Go八股文大全.pdf",
     "Coding/Go/第三方库/ants 协程池.md",
     "Coding/Go/第三方库/未命名.md",
-    "Coding/Go/第三方库/gomock.md",
     "Coding/Go/中间件/Elasticsearch/03-核心概念/03-核心概念/课件/~$核心概念.pptx",
     "Coding/Go/中间件/Elasticsearch/01-简介/01-简介/课件/~$课件.pptx",
     "Be Yourself/简历/面试题/ES/Snipaste",
